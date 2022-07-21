@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/locations/town/nasty_burger.po\n"
+"X-Crowdin-File-ID: 3910\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"PO-Revision-Date: 2022-07-21 21:42\n"
+
+# TODO: Translation updated at 2022-07-19 HH:HH# game/code/locations/town/nasty_burger.rpy:531 ## translate crowdin nasty_burger_first_visit_7fbef0ff:
+msgid "[@danny f offscreen closed idle smile@] {i}*Sniiiiif*{/i}"
+msgstr ""
+
+# game/code/locations/town/nasty_burger.rpy:532 ## translate crowdin nasty_burger_first_visit_e1694914:
+msgid "[@danny f offscreen at_player rise talk_happy@] {i}Ahhh!{/i} The delicious smell of burnt meat patties and processed dairy products..."
+msgstr ""
+
+# game/code/locations/town/nasty_burger.rpy:533 ## translate crowdin nasty_burger_first_visit_d5227c21:
+msgid "[@danny f offscreen closed idle talk_happy@] ...truly, I am home once more."
+msgstr ""
+
+# game/code/locations/town/nasty_burger.rpy:534 ## translate crowdin nasty_burger_first_visit_d3c68fcd:
+msgid "[@danny f offscreen at_player idle talk_happy@] Although, it's not exactly quite the same. Place looks actually sorta... clean?"
+msgstr ""
+
+# game/code/locations/town/nasty_burger.rpy:535 ## translate crowdin nasty_burger_first_visit_9f6236a5:
+msgid "[@danny f offscreen towards sad talk_displeased@] But there's way less people than I would have thought.{p}Everyone must still be freaked out by that rat incident."
+msgstr ""
+
+# game/code/locations/town/nasty_burger.rpy:536 ## translate crowdin nasty_burger_first_visit_b6a45d58:
+msgid "[@danny f offscreen at_player rise talk_happy@] Oh well! More for the rest of us I guess."
+msgstr ""
+
