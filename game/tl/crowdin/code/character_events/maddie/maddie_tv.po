@@ -323,14 +323,14 @@ msgid "[@maddie@] Good night sweetie...~"
 msgstr "[@maddie@] Good night sweetie...~"
 
 # XXtranslate crowdin strings:XX# XX## game/code/character_events/maddie/maddie_tv.rpy:38
-msgid @+@+@[mschoice] (Do I try and get my rocks off while Mom sleeps?)"
-msgstr @+@+@[mschoice] (Do I try and get my rocks off while Mom sleeps?)"
+msgid "[mschoice] (Do I try and get my rocks off while Mom sleeps?)"
+msgstr "[mschoice] (Do I try and get my rocks off while Mom sleeps?)"
 
 # XX## game/code/character_events/maddie/maddie_tv.rpy:38
-msgid @+@+@[mschoice] Yes! Golden opportunity!"
-msgstr @+@+@[mschoice] Yes! Golden opportunity!"
+msgid "[mschoice] Yes! Golden opportunity!"
+msgstr "[mschoice] Yes! Golden opportunity!"
 
 # XX## game/code/character_events/maddie/maddie_tv.rpy:38
-msgid @+@+@[mschoice] I probably better not..."
-msgstr @+@+@[mschoice] I probably better not..."
+msgid "[mschoice] I probably better not..."
+msgstr "[mschoice] I probably better not..."
 

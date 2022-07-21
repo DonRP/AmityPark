@@ -287,8 +287,8 @@ msgid "[@danny f offscreen burger ahegao wondering bite@] (Man, s-she looks {i}r
 msgstr "[@danny f offscreen burger ahegao wondering bite@] (Man, s-she looks {i}really{/i} good! Holy smokes!)"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:431 ## translate crowdin valerie_random_nasty_burger_soda_peek_de546400:
-msgid "[@valerie@] {i}*Muttering*{/i}...think I should take the bra off too.{p}{i}Ugh{/i}, I really better not £*£*£*£show£*£*£*£ though..."
-msgstr "[@valerie@] {i}*Muttering*{/i}...think I should take the bra off too.{p}{i}Ugh{/i}, I really better not £*£*£*£show£*£*£*£ though..."
+msgid "[@valerie@] {i}*Muttering*{/i}...think I should take the bra off too.{p}{i}Ugh{/i}, I really better not \"show\" though..."
+msgstr "[@valerie@] {i}*Muttering*{/i}...think I should take the bra off too.{p}{i}Ugh{/i}, I really better not \"show\" though..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:433 ## translate crowdin valerie_random_nasty_burger_soda_peek_6521b739:
 msgid "[@danny f offscreen burger down sad displeased@] (Should I {i}still{/i} be looking...? I only wanted to see if she was alright...)"
@@ -571,14 +571,14 @@ msgid "[@danny burger at_player rise talk_happy@] Whatever. Least I didn't get y
 msgstr "[@danny burger at_player rise talk_happy@] Whatever. Least I didn't get yelled at."
 
 # XXtranslate crowdin strings:XX# XX## game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:361
-msgid @+@+@[mschoice] (Peek in the back room?)"
-msgstr @+@+@[mschoice] (Peek in the back room?)"
+msgid "[mschoice] (Peek in the back room?)"
+msgstr "[mschoice] (Peek in the back room?)"
 
 # XX## game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:361
-msgid @+@+@[mschoice] Yeah, just to make sure she's okay."
-msgstr @+@+@[mschoice] Yeah, just to make sure she's okay."
+msgid "[mschoice] Yeah, just to make sure she's okay."
+msgstr "[mschoice] Yeah, just to make sure she's okay."
 
 # XX## game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:361
-msgid @+@+@[mschoice] No, I'm sure she's fine."
-msgstr @+@+@[mschoice] No, I'm sure she's fine."
+msgid "[mschoice] No, I'm sure she's fine."
+msgstr "[mschoice] No, I'm sure she's fine."
 

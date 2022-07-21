@@ -179,8 +179,8 @@ msgid "[@danny sitting on bed down sad talk_happy@] Y-yeah... I could definitely
 msgstr "[@danny sitting on bed down sad talk_happy@] Y-yeah... I could definitely see the appeal of doing it every day, honestly..."
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:258 ## translate crowdin staying_home_blowjob_first_2fa1cef9:
-msgid "[@maddie apron standing by bed arm_down towards idle talk_happy@] {i}*Chuckles*{/i} Well, you just let me know the next time you're feeling a little £*£*£*£under the weather.£*£*£*£"
-msgstr "[@maddie apron standing by bed arm_down towards idle talk_happy@] {i}*Chuckles*{/i} Well, you just let me know the next time you're feeling a little £*£*£*£under the weather.£*£*£*£"
+msgid "[@maddie apron standing by bed arm_down towards idle talk_happy@] {i}*Chuckles*{/i} Well, you just let me know the next time you're feeling a little \"under the weather.\""
+msgstr "[@maddie apron standing by bed arm_down towards idle talk_happy@] {i}*Chuckles*{/i} Well, you just let me know the next time you're feeling a little \"under the weather.\""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:261 ## translate crowdin staying_home_blowjob_first_72e03050:
 msgid "[@maddie apron standing by bed arm_up towards rise talk_excited blush@] We'll be sure to spend another afternoon together, making sure you're getting all better again, 'kay?"

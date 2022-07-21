@@ -39,8 +39,8 @@ msgid "[@danny at_player rise talk_happy@] Maybe I should try to track down that
 msgstr "[@danny at_player rise talk_happy@] Maybe I should try to track down that ghost myself...? I really ought to do something helpful with these powers, after all..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:27 ## translate crowdin ectopuss_fishing_intro_9dd3ed52:
-msgid "[@danny rise_one towards talk_happy_2@] Say... yeah! I can clear my name, get hailed as a hero... and maybe even Paulina would want to give me an especially nice £*£*£*£reward£*£*£*£ for being such a cool dead dude..."
-msgstr "[@danny rise_one towards talk_happy_2@] Say... yeah! I can clear my name, get hailed as a hero... and maybe even Paulina would want to give me an especially nice £*£*£*£reward£*£*£*£ for being such a cool dead dude..."
+msgid "[@danny rise_one towards talk_happy_2@] Say... yeah! I can clear my name, get hailed as a hero... and maybe even Paulina would want to give me an especially nice \"reward\" for being such a cool dead dude..."
+msgstr "[@danny rise_one towards talk_happy_2@] Say... yeah! I can clear my name, get hailed as a hero... and maybe even Paulina would want to give me an especially nice \"reward\" for being such a cool dead dude..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:28 ## translate crowdin ectopuss_fishing_intro_db581c6d:
 msgid "[@danny at_player angry talk_happy@] Well that settles it! From here on out, I'm a ghost hunter!! And I'm gonna catch em' all, cause I'm..."
@@ -187,8 +187,8 @@ msgid "[@sam co towards angry talk_frown blush@] {size=+12}{i}AGH!!{/i}{/size}{p
 msgstr "[@sam co towards angry talk_frown blush@] {size=+12}{i}AGH!!{/i}{/size}{p}Jeez, Danny, you scared the crap out of me!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:148 ## translate crowdin danny_we_need_to_talk_prefight_ebf834e5:
-msgid "[@danny talk_happy sad@] Well hey, you're the one who wanted to meet in a poorly lit Park at this hour. What's the matter? Is the £*£*£*£Mistress of the Night£*£*£*£ actually afraid of the dark or something?"
-msgstr "[@danny talk_happy sad@] Well hey, you're the one who wanted to meet in a poorly lit Park at this hour. What's the matter? Is the £*£*£*£Mistress of the Night£*£*£*£ actually afraid of the dark or something?"
+msgid "[@danny talk_happy sad@] Well hey, you're the one who wanted to meet in a poorly lit Park at this hour. What's the matter? Is the \"Mistress of the Night\" actually afraid of the dark or something?"
+msgstr "[@danny talk_happy sad@] Well hey, you're the one who wanted to meet in a poorly lit Park at this hour. What's the matter? Is the \"Mistress of the Night\" actually afraid of the dark or something?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:150 ## translate crowdin danny_we_need_to_talk_prefight_7bfa088a:
 msgid "[@sam co away sad talk_frown@] No! It's not the dark, dummy! I'm just... I mean, how are you NOT freaked out?!"
@@ -287,8 +287,8 @@ msgid "[@sam co flip towards neutral talk_happy@] Wow, okay so... this is nuts..
 msgstr "[@sam co flip towards neutral talk_happy@] Wow, okay so... this is nuts... well, the reason I actually asked you here tonight was because I thought that your little accident in the Lab might've had something to do with the recent ghost appearances... but so, are you, like, actually {u}dead?{/u}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:268 ## translate crowdin danny_we_need_to_talk_afterpostfight_29fcfe86:
-msgid "[@danny flip towards_wide unhappy talk_consternation@] I don't {i}think{/i} so? I'd like to think of myself as more £*£*£*£half ghost£*£*£*£ than £*£*£*£half dead£*£*£*£.{p}Makes it somewhat easier to swallow."
-msgstr "[@danny flip towards_wide unhappy talk_consternation@] I don't {i}think{/i} so? I'd like to think of myself as more £*£*£*£half ghost£*£*£*£ than £*£*£*£half dead£*£*£*£.{p}Makes it somewhat easier to swallow."
+msgid "[@danny flip towards_wide unhappy talk_consternation@] I don't {i}think{/i} so? I'd like to think of myself as more \"half ghost\" than \"half dead\".{p}Makes it somewhat easier to swallow."
+msgstr "[@danny flip towards_wide unhappy talk_consternation@] I don't {i}think{/i} so? I'd like to think of myself as more \"half ghost\" than \"half dead\".{p}Makes it somewhat easier to swallow."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:270 ## translate crowdin danny_we_need_to_talk_afterpostfight_f5e43c0c:
 msgid "[@sam co flip towards rage talk_happy@] Woah, this is so {i}freaking{/i} rad!!"
@@ -587,8 +587,8 @@ msgid "[@danny towards_wide unhappy talk_consternation@] Oh, {i}uh{/i}, hey Jazz
 msgstr "[@danny towards_wide unhappy talk_consternation@] Oh, {i}uh{/i}, hey Jazz! I was just reading comics in my room, why? Say, what were those noises I heard...?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:739 ## translate crowdin in_hot_water_postfight_bf3d049a:
-msgid "[@jazz towel towards angry talk_displeased@] £*£*£*£What were those noises£*£*£*£?! I was screaming for help, balled up in a corner of the bathroom!! Two ghosts were actually {u}fighting{/u} over which one would get to have their way with me first!!"
-msgstr "[@jazz towel towards angry talk_displeased@] £*£*£*£What were those noises£*£*£*£?! I was screaming for help, balled up in a corner of the bathroom!! Two ghosts were actually {u}fighting{/u} over which one would get to have their way with me first!!"
+msgid "[@jazz towel towards angry talk_displeased@] \"What were those noises\"?! I was screaming for help, balled up in a corner of the bathroom!! Two ghosts were actually {u}fighting{/u} over which one would get to have their way with me first!!"
+msgstr "[@jazz towel towards angry talk_displeased@] \"What were those noises\"?! I was screaming for help, balled up in a corner of the bathroom!! Two ghosts were actually {u}fighting{/u} over which one would get to have their way with me first!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:741 ## translate crowdin in_hot_water_postfight_9042f8fd:
 msgid "[@danny towards sad talk_happy@] ...{i}riiiiight{/i}. Yeah, {i}sure{/i} there were Jazz."
@@ -915,8 +915,8 @@ msgid "[@danny closed unhappy talk_happy@] Oh, {i}uhm{/i}, hey Kate! Don't worry
 msgstr "[@danny closed unhappy talk_happy@] Oh, {i}uhm{/i}, hey Kate! Don't worry, everything's fine. Dash was trying to start some trouble, but I took care of things quick and simple."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1154 ## translate crowdin tuckerPDA_afterpostfight_114f0b25:
-msgid "[@kate towards sad talk_happy blush@] {i}Oooh{/i}, look at you, £*£*£*£Mister situation handler£*£*£*£! Well, it looks like I'll need to patch up Dash for the moment, but please, stop by my office later Danny... I'd like to properly {u}reward{/u} you for keeping the peace in my halls..."
-msgstr "[@kate towards sad talk_happy blush@] {i}Oooh{/i}, look at you, £*£*£*£Mister situation handler£*£*£*£! Well, it looks like I'll need to patch up Dash for the moment, but please, stop by my office later Danny... I'd like to properly {u}reward{/u} you for keeping the peace in my halls..."
+msgid "[@kate towards sad talk_happy blush@] {i}Oooh{/i}, look at you, \"Mister situation handler\"! Well, it looks like I'll need to patch up Dash for the moment, but please, stop by my office later Danny... I'd like to properly {u}reward{/u} you for keeping the peace in my halls..."
+msgstr "[@kate towards sad talk_happy blush@] {i}Oooh{/i}, look at you, \"Mister situation handler\"! Well, it looks like I'll need to patch up Dash for the moment, but please, stop by my office later Danny... I'd like to properly {u}reward{/u} you for keeping the peace in my halls..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1156 ## translate crowdin tuckerPDA_afterpostfight_663bb8d1:
 msgid "[@danny ahegao sad talk_amused@] {i}Uh{/i}... yeah! Sure thing, Kate!"
@@ -1095,8 +1095,8 @@ msgid "[@vlad closed unhappy talk_happy@] Oh, you mean the ghost I've {i}already
 msgstr "[@vlad closed unhappy talk_happy@] Oh, you mean the ghost I've {i}already{/i} caught?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1352 ## translate crowdin master_plan_tired_2166e95c:
-msgid "[@jack flip towards_wide sad talk_displeased@] You caught one {b}already{/b}?! Ahh, damn it all... just as we were finishing up the {b}£*£*£*£Fenton Ghost Fisher£*£*£*£{/b} too."
-msgstr "[@jack flip towards_wide sad talk_displeased@] You caught one {b}already{/b}?! Ahh, damn it all... just as we were finishing up the {b}£*£*£*£Fenton Ghost Fisher£*£*£*£{/b} too."
+msgid "[@jack flip towards_wide sad talk_displeased@] You caught one {b}already{/b}?! Ahh, damn it all... just as we were finishing up the {b}\"Fenton Ghost Fisher\"{/b} too."
+msgstr "[@jack flip towards_wide sad talk_displeased@] You caught one {b}already{/b}?! Ahh, damn it all... just as we were finishing up the {b}\"Fenton Ghost Fisher\"{/b} too."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1354 ## translate crowdin master_plan_tired_f1acc9e9:
 msgid "[@vlad closed unhappy talk_frown@] Oh, I do apologize for your frustration, Jack. You always were the one most {b}gung-ho{/b} about the real {i}'chase'{/i} of a good ghost hunt. I myself often just prefer to lay clever traps for them..."
@@ -1591,8 +1591,8 @@ msgid "[@danny@] Oh man, that was crazy! That thing was a monster, what the heck
 msgstr "[@danny@] Oh man, that was crazy! That thing was a monster, what the heck happened?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1793 ## translate crowdin e2_end_cb27415d:
-msgid "[@danny@] It must've been that £*£*£*£Orgone£*£*£*£ stuff I heard about. It supercharged it somehow..."
-msgstr "[@danny@] It must've been that £*£*£*£Orgone£*£*£*£ stuff I heard about. It supercharged it somehow..."
+msgid "[@danny@] It must've been that \"Orgone\" stuff I heard about. It supercharged it somehow..."
+msgstr "[@danny@] It must've been that \"Orgone\" stuff I heard about. It supercharged it somehow..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1795 ## translate crowdin e2_end_dd994f76:
 msgid "[@danny@] Well then, maybe I should start stocking up on some for myself..."
@@ -1619,38 +1619,38 @@ msgid@] Take care, and we hope to see you return for the next episode of Amity P
 msgstr@] Take care, and we hope to see you return for the next episode of Amity Park!"
 
 # XXtranslate crowdin strings:XX# XX## game/code/episodes/episode_2/episode2_MZ.rpy:543
-msgid @+@+@[mschoice] Barge in right away!"
-msgstr @+@+@[mschoice] Barge in right away!"
+msgid "[mschoice] Barge in right away!"
+msgstr "[mschoice] Barge in right away!"
 
 # XX## game/code/episodes/episode_2/episode2_MZ.rpy:543
-msgid @+@+@[mschoice] Just take a peek first... for recon purposes!"
-msgstr @+@+@[mschoice] Just take a peek first... for recon purposes!"
+msgid "[mschoice] Just take a peek first... for recon purposes!"
+msgstr "[mschoice] Just take a peek first... for recon purposes!"
 
 # XX## game/code/episodes/episode_2/episode2_MZ.rpy:543
-msgid @+@+@[mschoice] Back off, I'm not ready yet."
-msgstr @+@+@[mschoice] Back off, I'm not ready yet."
+msgid "[mschoice] Back off, I'm not ready yet."
+msgstr "[mschoice] Back off, I'm not ready yet."
 
 # XX## game/code/episodes/episode_2/episode2_MZ.rpy:786
-msgid @+@+@[mschoice] Use the spare key."
-msgstr @+@+@[mschoice] Use the spare key."
+msgid "[mschoice] Use the spare key."
+msgstr "[mschoice] Use the spare key."
 
 # XX## game/code/episodes/episode_2/episode2_MZ.rpy:786
-msgid @+@+@[mschoice] Phase through the door."
-msgstr @+@+@[mschoice] Phase through the door."
+msgid "[mschoice] Phase through the door."
+msgstr "[mschoice] Phase through the door."
 
 # XX## game/code/episodes/episode_2/episode2_MZ.rpy:786
-msgid @+@+@[mschoice] Leave for now."
-msgstr @+@+@[mschoice] Leave for now."
+msgid "[mschoice] Leave for now."
+msgstr "[mschoice] Leave for now."
 
 # XX## game/code/episodes/episode_2/episode2_MZ.rpy:1469
-msgid @+@+@[mschoice] What should I do?"
-msgstr @+@+@[mschoice] What should I do?"
+msgid "[mschoice] What should I do?"
+msgstr "[mschoice] What should I do?"
 
 # XX## game/code/episodes/episode_2/episode2_MZ.rpy:1469
-msgid @+@+@[mschoice] I have to stay out of this, if she catches me in my ghost form, I'll be busted! (NTR)"
-msgstr @+@+@[mschoice] I have to stay out of this, if she catches me in my ghost form, I'll be busted! (NTR)"
+msgid "[mschoice] I have to stay out of this, if she catches me in my ghost form, I'll be busted! (NTR)"
+msgstr "[mschoice] I have to stay out of this, if she catches me in my ghost form, I'll be busted! (NTR)"
 
 # XX## game/code/episodes/episode_2/episode2_MZ.rpy:1469
-msgid @+@+@[mschoice] I need to do something! That thing isn't going to have another victim on my watch! (Save Mom)"
-msgstr @+@+@[mschoice] I need to do something! That thing isn't going to have another victim on my watch! (Save Mom)"
+msgid "[mschoice] I need to do something! That thing isn't going to have another victim on my watch! (Save Mom)"
+msgstr "[mschoice] I need to do something! That thing isn't going to have another victim on my watch! (Save Mom)"
 

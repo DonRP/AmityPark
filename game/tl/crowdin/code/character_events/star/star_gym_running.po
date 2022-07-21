@@ -359,10 +359,10 @@ msgid "[@star gym towards angry distraught@] {i}...!{/i}"
 msgstr "[@star gym towards angry distraught@] {i}...!{/i}"
 
 # XXtranslate crowdin strings:XX# XX## game/code/character_events/star/star_gym_running.rpy:322
-msgid @+@+@[mschoice] I think Inviso-Bill's gonna like Paulina's more, personally."
-msgstr @+@+@[mschoice] I think Inviso-Bill's gonna like Paulina's more, personally."
+msgid "[mschoice] I think Inviso-Bill's gonna like Paulina's more, personally."
+msgstr "[mschoice] I think Inviso-Bill's gonna like Paulina's more, personally."
 
 # XX## game/code/character_events/star/star_gym_running.rpy:322
-msgid @+@+@[mschoice] Inviso-Bill's gonna flip when he sees your photo, Star."
-msgstr @+@+@[mschoice] Inviso-Bill's gonna flip when he sees your photo, Star."
+msgid "[mschoice] Inviso-Bill's gonna flip when he sees your photo, Star."
+msgstr "[mschoice] Inviso-Bill's gonna flip when he sees your photo, Star."
 

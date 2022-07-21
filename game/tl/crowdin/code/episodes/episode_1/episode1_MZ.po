@@ -11,8 +11,8 @@ msgid "[@danny towards sad@] (Oh yeah… there was... some kind've accident in t
 msgstr "[@danny towards sad@] (Oh yeah… there was... some kind've accident in the {b}Fenton Work's Lab{/b}...)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:51 ## translate crowdin intro_4fbf4b08:
-msgid "[@danny rise_one down@] ({i}Hmmm{/i}... I was... I was trying to take a look inside my parents' {b}£*£*£*£Ghost Portal£*£*£*£{/b} they built after it didn't quite work. I think I accidentally pressed a button on the side of the wall or something...)"
-msgstr "[@danny rise_one down@] ({i}Hmmm{/i}... I was... I was trying to take a look inside my parents' {b}£*£*£*£Ghost Portal£*£*£*£{/b} they built after it didn't quite work. I think I accidentally pressed a button on the side of the wall or something...)"
+msgid "[@danny rise_one down@] ({i}Hmmm{/i}... I was... I was trying to take a look inside my parents' {b}\"Ghost Portal\"{/b} they built after it didn't quite work. I think I accidentally pressed a button on the side of the wall or something...)"
+msgstr "[@danny rise_one down@] ({i}Hmmm{/i}... I was... I was trying to take a look inside my parents' {b}\"Ghost Portal\"{/b} they built after it didn't quite work. I think I accidentally pressed a button on the side of the wall or something...)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:64 ## translate crowdin intro_cb112b07:
 msgid "[@danny@] (Suddenly, there was a {u}great big flash{/u}... everything just {i}changed{/i}...{p}man, I hope my molecules weren't all rearranged...)"
@@ -123,16 +123,16 @@ msgid "[@jazz towards wondering talk_frown@] Yeesh, what was that all about? Mom
 msgstr "[@jazz towards wondering talk_frown@] Yeesh, what was that all about? Mom and Dad were freaking out to get their gear upstairs in a really big rush."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:270 ## translate crowdin intro_breakfast_b0af8077:
-msgid "[@danny towards unhappy talk_consternation@] Oh, you know how they are... any minor blip on a radar, and they think they found the missing £*£*£*£ghost link£*£*£*£ or something."
-msgstr "[@danny towards unhappy talk_consternation@] Oh, you know how they are... any minor blip on a radar, and they think they found the missing £*£*£*£ghost link£*£*£*£ or something."
+msgid "[@danny towards unhappy talk_consternation@] Oh, you know how they are... any minor blip on a radar, and they think they found the missing \"ghost link\" or something."
+msgstr "[@danny towards unhappy talk_consternation@] Oh, you know how they are... any minor blip on a radar, and they think they found the missing \"ghost link\" or something."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:273 ## translate crowdin intro_breakfast_b519ada6:
 msgid "[@jazz towards wondering talk_frown@] Danny, when do you think that you and I should have... {u}the talk{/u}?"
 msgstr "[@jazz towards wondering talk_frown@] Danny, when do you think that you and I should have... {u}the talk{/u}?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:276 ## translate crowdin intro_breakfast_52b794ed:
-msgid "[@danny at_danny blush sad_2 talk_frown_2@] £*£*£*£The talk£*£*£*£?! What?! {i}Uhm{/i}, well, I thought Mom and Dad already gave me that one... are there... are there {i}more{/i} things I should know, cause I don't wanna be unprepared for-"
-msgstr "[@danny at_danny blush sad_2 talk_frown_2@] £*£*£*£The talk£*£*£*£?! What?! {i}Uhm{/i}, well, I thought Mom and Dad already gave me that one... are there... are there {i}more{/i} things I should know, cause I don't wanna be unprepared for-"
+msgid "[@danny at_danny blush sad_2 talk_frown_2@] \"The talk\"?! What?! {i}Uhm{/i}, well, I thought Mom and Dad already gave me that one... are there... are there {i}more{/i} things I should know, cause I don't wanna be unprepared for-"
+msgstr "[@danny at_danny blush sad_2 talk_frown_2@] \"The talk\"?! What?! {i}Uhm{/i}, well, I thought Mom and Dad already gave me that one... are there... are there {i}more{/i} things I should know, cause I don't wanna be unprepared for-"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:279 ## translate crowdin intro_breakfast_6c61c89f:
 msgid "[@jazz towards wondering talk_frown@] No doofus! The talk {i}about{/i} Mom and Dad!{p}You do realize that, eventually, one of us is going to get stuck here taking care of them, and frankly, I have {i}far{/i} too many plans after I graduate school for it to be {i}my{/i} responsibility."
@@ -475,12 +475,12 @@ msgid "[@danny towards unhappy talk_consternation@] Well, my parents have this n
 msgstr "[@danny towards unhappy talk_consternation@] Well, my parents have this new Ghost Portal thingy they were working on, and basically I had-"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:868 ## translate crowdin intro_classroom_5f4248e2:
-msgid "[@sam@] £*£*£*£Ghost Portal thingy£*£*£*£?"
-msgstr "[@sam@] £*£*£*£Ghost Portal thingy£*£*£*£?"
+msgid "[@sam@] \"Ghost Portal thingy\"?"
+msgstr "[@sam@] \"Ghost Portal thingy\"?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:873 ## translate crowdin intro_classroom_53c72a26:
-msgid "[@danny towards unhappy talk_consternation@] Well yeah, it's supposed to open up to some sort of new astral realm... a kind've... £*£*£*£afterlife£*£*£*£ dimension."
-msgstr "[@danny towards unhappy talk_consternation@] Well yeah, it's supposed to open up to some sort of new astral realm... a kind've... £*£*£*£afterlife£*£*£*£ dimension."
+msgid "[@danny towards unhappy talk_consternation@] Well yeah, it's supposed to open up to some sort of new astral realm... a kind've... \"afterlife\" dimension."
+msgstr "[@danny towards unhappy talk_consternation@] Well yeah, it's supposed to open up to some sort of new astral realm... a kind've... \"afterlife\" dimension."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:878 ## translate crowdin intro_classroom_630c9586:
 msgid "[@tucker@] Wild! Does it work? Can I use it to see my great GamGam again?"
@@ -507,12 +507,12 @@ msgid "[@sam@] Actually Tucker, there's some extremely compelling evidence as to
 msgstr "[@sam@] Actually Tucker, there's some extremely compelling evidence as to the existence of the supernatural."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:908 ## translate crowdin intro_classroom_c301b348:
-msgid "[@tucker@] Oh yeah? Where'd you see that? On {i}£*£*£*£Epic Ghost Hunterz£*£*£*£{/i} or something? Come on Sam, that show is so {u}scripted{/u}! They {i}purposely{/i} pee themselves just to act scared!"
-msgstr "[@tucker@] Oh yeah? Where'd you see that? On {i}£*£*£*£Epic Ghost Hunterz£*£*£*£{/i} or something? Come on Sam, that show is so {u}scripted{/u}! They {i}purposely{/i} pee themselves just to act scared!"
+msgid "[@tucker@] Oh yeah? Where'd you see that? On {i}\"Epic Ghost Hunterz\"{/i} or something? Come on Sam, that show is so {u}scripted{/u}! They {i}purposely{/i} pee themselves just to act scared!"
+msgstr "[@tucker@] Oh yeah? Where'd you see that? On {i}\"Epic Ghost Hunterz\"{/i} or something? Come on Sam, that show is so {u}scripted{/u}! They {i}purposely{/i} pee themselves just to act scared!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:913 ## translate crowdin intro_classroom_f53b2978:
-msgid "[@sam@] No, Tucker! On my goth forum, £*£*£*£Children of the Bite£*£*£*£, somebody posted a really interesting article about {b}Vlad Masters{/b} and his research over the years. You know him, right?"
-msgstr "[@sam@] No, Tucker! On my goth forum, £*£*£*£Children of the Bite£*£*£*£, somebody posted a really interesting article about {b}Vlad Masters{/b} and his research over the years. You know him, right?"
+msgid "[@sam@] No, Tucker! On my goth forum, \"Children of the Bite\", somebody posted a really interesting article about {b}Vlad Masters{/b} and his research over the years. You know him, right?"
+msgstr "[@sam@] No, Tucker! On my goth forum, \"Children of the Bite\", somebody posted a really interesting article about {b}Vlad Masters{/b} and his research over the years. You know him, right?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:918 ## translate crowdin intro_classroom_0a3ea84f:
 msgid "[@tucker@] Come on Sam, we {i}all{/i} know about Vlad Masters. There's no need to patronize us."
@@ -667,8 +667,8 @@ msgid "[@jack@] {i}YES!!{/i}"
 msgstr "[@jack@] {i}YES!!{/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1220 ## translate crowdin intro_dinner_6f305843:
-msgid "[@newscaster 9@] ...billionaire, philanthropist, and Fortunate Magazine's £*£*£*£Man of the Year£*£*£*£ ten years running...{p}{u}Vlad Masters{/u}!"
-msgstr "[@newscaster 9@] ...billionaire, philanthropist, and Fortunate Magazine's £*£*£*£Man of the Year£*£*£*£ ten years running...{p}{u}Vlad Masters{/u}!"
+msgid "[@newscaster 9@] ...billionaire, philanthropist, and Fortunate Magazine's \"Man of the Year\" ten years running...{p}{u}Vlad Masters{/u}!"
+msgstr "[@newscaster 9@] ...billionaire, philanthropist, and Fortunate Magazine's \"Man of the Year\" ten years running...{p}{u}Vlad Masters{/u}!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1224 ## translate crowdin intro_dinner_ccd74309:
 msgid "[@jack@] Alright! I'm gonna be the Mayor's adviso... wait!{p}{u}Vladdie{/u}?!"
@@ -703,8 +703,8 @@ msgid "[@jack closed sad talk_happy@] Yeup, back at the ol' {b}University of Wis
 msgstr "[@jack closed sad talk_happy@] Yeup, back at the ol' {b}University of Wisconsin{/b}, we were quite the trio. That was, at least... until the {u}incident{/u}..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1267 ## translate crowdin intro_dinner_348ffab4:
-msgid "[@danny rise_one towards_wide talk_frown@] The £*£*£*£incident£*£*£*£...?"
-msgstr "[@danny rise_one towards_wide talk_frown@] The £*£*£*£incident£*£*£*£...?"
+msgid "[@danny rise_one towards_wide talk_frown@] The \"incident\"...?"
+msgstr "[@danny rise_one towards_wide talk_frown@] The \"incident\"...?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1274 ## translate crowdin intro_dinner_6a014828:
 msgid "[@maddie flip towards_wide_up neutral talk_distraught@] Oh never mind all that for now! Quickly Jack! We need to try to track down this octopus ghost!"
@@ -755,8 +755,8 @@ msgid "[@star closed idle talk_displeased@] {i}Ewww{/i}, nasty."
 msgstr "[@star closed idle talk_displeased@] {i}Ewww{/i}, nasty."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1380 ## translate crowdin redux_valerie_intro_4a6a919e:
-msgid "[@valerie@] ...that wouldn't really make it much of an {i}£*£*£*£octo£*£*£*£{/i}-pus then, would it? If it has a {u}hundred{/u} tentacles?"
-msgstr "[@valerie@] ...that wouldn't really make it much of an {i}£*£*£*£octo£*£*£*£{/i}-pus then, would it? If it has a {u}hundred{/u} tentacles?"
+msgid "[@valerie@] ...that wouldn't really make it much of an {i}\"octo\"{/i}-pus then, would it? If it has a {u}hundred{/u} tentacles?"
+msgstr "[@valerie@] ...that wouldn't really make it much of an {i}\"octo\"{/i}-pus then, would it? If it has a {u}hundred{/u} tentacles?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1384 ## translate crowdin redux_valerie_intro_beddc4ad:
 msgid "[@kwan towards rise talk_happy@] No, no, sure, but these ones are like, really tiny, on {i}top{/i} of the eight normal ones."
@@ -811,8 +811,8 @@ msgid "[@valerie@] {i}*Sighs*{/i} Look, I'm just saying, I come from a science b
 msgstr "[@valerie@] {i}*Sighs*{/i} Look, I'm just saying, I come from a science background with my Dad, so I just don't think we should be jumping to any conclusions about-"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1442 ## translate crowdin redux_valerie_intro_f230a8a1:
-msgid "[@star towards rise talk_displeased@] Science-{i}schmience!{/i} C'mon Val, your dad's only head of security at... what's that place called again? £*£*£*£Asinine Labs£*£*£*£, or something?"
-msgstr "[@star towards rise talk_displeased@] Science-{i}schmience!{/i} C'mon Val, your dad's only head of security at... what's that place called again? £*£*£*£Asinine Labs£*£*£*£, or something?"
+msgid "[@star towards rise talk_displeased@] Science-{i}schmience!{/i} C'mon Val, your dad's only head of security at... what's that place called again? \"Asinine Labs\", or something?"
+msgstr "[@star towards rise talk_displeased@] Science-{i}schmience!{/i} C'mon Val, your dad's only head of security at... what's that place called again? \"Asinine Labs\", or something?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1447 ## translate crowdin redux_valerie_intro_36057785:
 msgid "[@valerie@] {b}Axion Labs{/b}, thank you.{p}His work there's what's going to help put me through college!"
@@ -1071,8 +1071,8 @@ msgid "[@ishiyama speech face_front at_left rise talk_happy microphone@] So, in 
 msgstr "[@ishiyama speech face_front at_left rise talk_happy microphone@] So, in that spirit, we are requiring the following mandates for our students in accordance with Mayor Montez's new emergency decrees."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1752 ## translate crowdin redux_ishiyama_intro_cb35d298:
-msgid "[@ishiyama speech face_front at_right idle talk_displeased microphone point@] Firstly: £*£*£*£Curfew is now 6:30 PM, every night. Students must return home prior to this time for their safety!£*£*£*£"
-msgstr "[@ishiyama speech face_front at_right idle talk_displeased microphone point@] Firstly: £*£*£*£Curfew is now 6:30 PM, every night. Students must return home prior to this time for their safety!£*£*£*£"
+msgid "[@ishiyama speech face_front at_right idle talk_displeased microphone point@] Firstly: \"Curfew is now 6:30 PM, every night. Students must return home prior to this time for their safety!\""
+msgstr "[@ishiyama speech face_front at_right idle talk_displeased microphone point@] Firstly: \"Curfew is now 6:30 PM, every night. Students must return home prior to this time for their safety!\""
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1755 ## translate crowdin redux_ishiyama_intro_9be5a3f8:
 msgid "[@danny f offscreen at_player rise talk_displeased@] {i}*Whispering*{/i} Like anybody in this school's gonna listen to {i}that{/i} one."
@@ -1083,8 +1083,8 @@ msgid "[@jazz offscreen towards angry talk_displeased@] {i}Shhh!{/i} Danny, I'm 
 msgstr "[@jazz offscreen towards angry talk_displeased@] {i}Shhh!{/i} Danny, I'm trying to listen."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1760 ## translate crowdin redux_ishiyama_intro_bb3027ef:
-msgid "[@ishiyama speech face_right at_right unhappy talk_displeased microphone point@] Secondly: £*£*£*£Anyone who catches sight of a ghost is to immediately leave the vicinity and contact the city's new {b}Ghost Tip Hotline{/b}!£*£*£*£"
-msgstr "[@ishiyama speech face_right at_right unhappy talk_displeased microphone point@] Secondly: £*£*£*£Anyone who catches sight of a ghost is to immediately leave the vicinity and contact the city's new {b}Ghost Tip Hotline{/b}!£*£*£*£"
+msgid "[@ishiyama speech face_right at_right unhappy talk_displeased microphone point@] Secondly: \"Anyone who catches sight of a ghost is to immediately leave the vicinity and contact the city's new {b}Ghost Tip Hotline{/b}!\""
+msgstr "[@ishiyama speech face_right at_right unhappy talk_displeased microphone point@] Secondly: \"Anyone who catches sight of a ghost is to immediately leave the vicinity and contact the city's new {b}Ghost Tip Hotline{/b}!\""
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1763 ## translate crowdin redux_ishiyama_intro_fb2c5a69:
 msgid "[@jazz offscreen towards idle talk_happy@] {i}*Whispering*{/i} Now see, that makes sense, that's a good tip! But kinda obvious... I mean, who's gonna go chasing after ghosts on their own?"
@@ -1095,20 +1095,20 @@ msgid "[@danny f offscreen towards rise talk_displeased@] {i}*Whispering*{/i} He
 msgstr "[@danny f offscreen towards rise talk_displeased@] {i}*Whispering*{/i} Hey, what happened to being quiet?{p}Also, better question, who is that hotline possibly set up for...? What sucker would spend their time-"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1769 ## translate crowdin redux_ishiyama_intro_646aeb38:
-msgid "[@jazz offscreen towards rise talk_displeased@] {i}*Whispering*{/i} Who do you {i}think{/i} is running a £*£*£*£Ghost Tip Hotline£*£*£*£ in this town, Danny?"
-msgstr "[@jazz offscreen towards rise talk_displeased@] {i}*Whispering*{/i} Who do you {i}think{/i} is running a £*£*£*£Ghost Tip Hotline£*£*£*£ in this town, Danny?"
+msgid "[@jazz offscreen towards rise talk_displeased@] {i}*Whispering*{/i} Who do you {i}think{/i} is running a \"Ghost Tip Hotline\" in this town, Danny?"
+msgstr "[@jazz offscreen towards rise talk_displeased@] {i}*Whispering*{/i} Who do you {i}think{/i} is running a \"Ghost Tip Hotline\" in this town, Danny?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1772 ## translate crowdin redux_ishiyama_intro_9a4db4ec:
 msgid "[@danny f offscreen closed idle talk_displeased@] {i}*Sighs*{/i} Stupid question, you're right...{p}Gonna be a lot of late nights hearing the phone go off... great."
 msgstr "[@danny f offscreen closed idle talk_displeased@] {i}*Sighs*{/i} Stupid question, you're right...{p}Gonna be a lot of late nights hearing the phone go off... great."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1774 ## translate crowdin redux_ishiyama_intro_e6b77374:
-msgid "[@ishiyama speech face_right at_right rise talk_displeased microphone point@] Thirdly: £*£*£*£A designated buddy system will be implemented to help students walking to and from their homes!£*£*£*£"
-msgstr "[@ishiyama speech face_right at_right rise talk_displeased microphone point@] Thirdly: £*£*£*£A designated buddy system will be implemented to help students walking to and from their homes!£*£*£*£"
+msgid "[@ishiyama speech face_right at_right rise talk_displeased microphone point@] Thirdly: \"A designated buddy system will be implemented to help students walking to and from their homes!\""
+msgstr "[@ishiyama speech face_right at_right rise talk_displeased microphone point@] Thirdly: \"A designated buddy system will be implemented to help students walking to and from their homes!\""
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1776 ## translate crowdin redux_ishiyama_intro_6e58c263:
-msgid "[@ishiyama speech face_front at_left unhappy talk_displeased microphone point@] £*£*£*£While no particular after-school locals or other popular locations for students are being banned outright, staying home as much as possible outside of classes is highly recommended for everyone's safety!£*£*£*£"
-msgstr "[@ishiyama speech face_front at_left unhappy talk_displeased microphone point@] £*£*£*£While no particular after-school locals or other popular locations for students are being banned outright, staying home as much as possible outside of classes is highly recommended for everyone's safety!£*£*£*£"
+msgid "[@ishiyama speech face_front at_left unhappy talk_displeased microphone point@] \"While no particular after-school locals or other popular locations for students are being banned outright, staying home as much as possible outside of classes is highly recommended for everyone's safety!\""
+msgstr "[@ishiyama speech face_front at_left unhappy talk_displeased microphone point@] \"While no particular after-school locals or other popular locations for students are being banned outright, staying home as much as possible outside of classes is highly recommended for everyone's safety!\""
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1779 ## translate crowdin redux_ishiyama_intro_480d3da3:
 msgid "[@danny f offscreen at_player rise consternation@] (That's {i}definitely{/i} gonna be one people are gonna ignore. Being stuck at home all the time for who knows how long? As if!)"
@@ -1235,8 +1235,8 @@ msgid "[@ishiyama arm_behind up sad talk_happy@] Exactly! I mean, I've never had
 msgstr "[@ishiyama arm_behind up sad talk_happy@] Exactly! I mean, I've never had a task as important as this one! And safety of you students is my utmost priority!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1899 ## translate crowdin redux_ishiyama_intro_521be8eb:
-msgid "[@ishiyama arm_front towards wondering talk_happy@] So, I was hoping to see if you'd be interested in taking on a position as the school's resident £*£*£*£Ghost Monitor£*£*£*£!"
-msgstr "[@ishiyama arm_front towards wondering talk_happy@] So, I was hoping to see if you'd be interested in taking on a position as the school's resident £*£*£*£Ghost Monitor£*£*£*£!"
+msgid "[@ishiyama arm_front towards wondering talk_happy@] So, I was hoping to see if you'd be interested in taking on a position as the school's resident \"Ghost Monitor\"!"
+msgstr "[@ishiyama arm_front towards wondering talk_happy@] So, I was hoping to see if you'd be interested in taking on a position as the school's resident \"Ghost Monitor\"!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1903 ## translate crowdin redux_ishiyama_intro_7c7c4554:
 msgid "[@jazz towards rise talk_displeased@] A... Ghost... Monitor?"
@@ -1403,24 +1403,24 @@ msgid "[@newscaster@] Renowned paranormal expert and philanthropist, Vlad Master
 msgstr "[@newscaster@] Renowned paranormal expert and philanthropist, Vlad Masters, has declared that he is hot on the trail of both spectral entities."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2109 ## translate crowdin invisobill_introduction_1e1728ab:
-msgid "[@newscaster@] The humanoid ghost, of which this station has chosen to refer to as £*£*£*£Inviso-Bill£*£*£*£, remains currently at large, as does the octopus like entity, referred to as £*£*£*£Ectopus£*£*£*£. If you have any tips about the current locations of these ghouls, contact your loca-"
-msgstr "[@newscaster@] The humanoid ghost, of which this station has chosen to refer to as £*£*£*£Inviso-Bill£*£*£*£, remains currently at large, as does the octopus like entity, referred to as £*£*£*£Ectopus£*£*£*£. If you have any tips about the current locations of these ghouls, contact your loca-"
+msgid "[@newscaster@] The humanoid ghost, of which this station has chosen to refer to as \"Inviso-Bill\", remains currently at large, as does the octopus like entity, referred to as \"Ectopus\". If you have any tips about the current locations of these ghouls, contact your loca-"
+msgstr "[@newscaster@] The humanoid ghost, of which this station has chosen to refer to as \"Inviso-Bill\", remains currently at large, as does the octopus like entity, referred to as \"Ectopus\". If you have any tips about the current locations of these ghouls, contact your loca-"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2120 ## translate crowdin invisobill_introduction_13c72a24:
-msgid "[@danny towards_wide angry talk_consternation@] £*£*£*£Inviso-Bill£*£*£*£?! That's an {i}awful{/i} name!"
-msgstr "[@danny towards_wide angry talk_consternation@] £*£*£*£Inviso-Bill£*£*£*£?! That's an {i}awful{/i} name!"
+msgid "[@danny towards_wide angry talk_consternation@] \"Inviso-Bill\"?! That's an {i}awful{/i} name!"
+msgstr "[@danny towards_wide angry talk_consternation@] \"Inviso-Bill\"?! That's an {i}awful{/i} name!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2123 ## translate crowdin invisobill_introduction_37cf3c7e:
-msgid "[@jack stare angry talk_happy@] You're totally right son, £*£*£*£The Phantasmal Pervert£*£*£*£ would be {i}so{/i} much better!"
-msgstr "[@jack stare angry talk_happy@] You're totally right son, £*£*£*£The Phantasmal Pervert£*£*£*£ would be {i}so{/i} much better!"
+msgid "[@jack stare angry talk_happy@] You're totally right son, \"The Phantasmal Pervert\" would be {i}so{/i} much better!"
+msgstr "[@jack stare angry talk_happy@] You're totally right son, \"The Phantasmal Pervert\" would be {i}so{/i} much better!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2126 ## translate crowdin invisobill_introduction_a573f7d3:
 msgid "[@danny at_player_wide unhappy talk_consternation@] ...well I guess that's officially proven that it {i}could{/i} be worse..."
 msgstr "[@danny at_player_wide unhappy talk_consternation@] ...well I guess that's officially proven that it {i}could{/i} be worse..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2130 ## translate crowdin invisobill_introduction_2b0f0c47:
-msgid "[@maddie suspicious_towards aghast talk_distraught@] You know... it's awfully strange and all, but... Jack? Don't you think that this £*£*£*£Inviso-Bill£*£*£*£ character bears an awful resemblance to {u}Danny{/u}?"
-msgstr "[@maddie suspicious_towards aghast talk_distraught@] You know... it's awfully strange and all, but... Jack? Don't you think that this £*£*£*£Inviso-Bill£*£*£*£ character bears an awful resemblance to {u}Danny{/u}?"
+msgid "[@maddie suspicious_towards aghast talk_distraught@] You know... it's awfully strange and all, but... Jack? Don't you think that this \"Inviso-Bill\" character bears an awful resemblance to {u}Danny{/u}?"
+msgstr "[@maddie suspicious_towards aghast talk_distraught@] You know... it's awfully strange and all, but... Jack? Don't you think that this \"Inviso-Bill\" character bears an awful resemblance to {u}Danny{/u}?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2133 ## translate crowdin invisobill_introduction_54eaeea0:
 msgid "[@danny towards_wide talk_happy sad_2@] {u}W-what{/u}?! N-no, c'mon Mom, that loser looks {i}nothing{/i} like me! I've got black hair, his is white! My eyes are blue, his are green!! It's like night and day between us...! C-couldn't be further apart! {i}*Gulp*{/i}"

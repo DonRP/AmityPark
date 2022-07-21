@@ -79,16 +79,16 @@ msgid "[@danny boxers towards sad talk_displeased@] Oh, where are you going?"
 msgstr "[@danny boxers towards sad talk_displeased@] Oh, where are you going?"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:136 ## translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_6472ced6:
-msgid "[@desiree@] Oh, Miss McLain has challenged me to some game of her youth, something called £*£*£*£Fighters of the Streets 2£*£*£*£, I believe..."
-msgstr "[@desiree@] Oh, Miss McLain has challenged me to some game of her youth, something called £*£*£*£Fighters of the Streets 2£*£*£*£, I believe..."
+msgid "[@desiree@] Oh, Miss McLain has challenged me to some game of her youth, something called \"Fighters of the Streets 2\", I believe..."
+msgstr "[@desiree@] Oh, Miss McLain has challenged me to some game of her youth, something called \"Fighters of the Streets 2\", I believe..."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:139 ## translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_b8a9f25d:
 msgid "[@danny boxers towards rise talk_happy@] She has a retro console? Where'd she find that?"
 msgstr "[@danny boxers towards rise talk_happy@] She has a retro console? Where'd she find that?"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:143 ## translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_911edce9:
-msgid "[@desiree@] Your magic wish imbued upon your £*£*£*£Thermos£*£*£*£ provided Ember a room tailored towards her interests and stylings."
-msgstr "[@desiree@] Your magic wish imbued upon your £*£*£*£Thermos£*£*£*£ provided Ember a room tailored towards her interests and stylings."
+msgid "[@desiree@] Your magic wish imbued upon your \"Thermos\" provided Ember a room tailored towards her interests and stylings."
+msgstr "[@desiree@] Your magic wish imbued upon your \"Thermos\" provided Ember a room tailored towards her interests and stylings."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:147 ## translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_07328a3b:
 msgid "[@desiree@] I don't myself care for her sense or lack of fashion per se, but having something foreign to engage with helps with the tedium of captivity."
@@ -151,8 +151,8 @@ msgid "[@desiree@] {i}Ah ah ah!~{/i}"
 msgstr "[@desiree@] {i}Ah ah ah!~{/i}"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:244 ## translate crowdin desiree_affection_1_bedroom_night_0102d13e:
-msgid "[@desiree@] Remember that little £*£*£*£present£*£*£*£ I talked with you about earlier...?"
-msgstr "[@desiree@] Remember that little £*£*£*£present£*£*£*£ I talked with you about earlier...?"
+msgid "[@desiree@] Remember that little \"present\" I talked with you about earlier...?"
+msgstr "[@desiree@] Remember that little \"present\" I talked with you about earlier...?"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:247 ## translate crowdin desiree_affection_1_bedroom_night_5eaf874c:
 msgid "[@danny boxers towards rise talk_displeased@] Wait, this isn't the present already? What more could there be to unwrap?"
@@ -491,10 +491,10 @@ msgid "[@desiree@] Rest well... and we'll see each other in the morning... my lo
 msgstr "[@desiree@] Rest well... and we'll see each other in the morning... my love...♥"
 
 # XXtranslate crowdin strings:XX# XX## game/code/character_events/desiree/desiree_affection_scenes.rpy:484
-msgid @+@+@[mschoice] Ask for Anal (Cowgirl)"
-msgstr @+@+@[mschoice] Ask for Anal (Cowgirl)"
+msgid "[mschoice] Ask for Anal (Cowgirl)"
+msgstr "[mschoice] Ask for Anal (Cowgirl)"
 
 # XX## game/code/character_events/desiree/desiree_affection_scenes.rpy:484
-msgid @+@+@[mschoice] Ask for vaginal (Cowgirl)"
-msgstr @+@+@[mschoice] Ask for vaginal (Cowgirl)"
+msgid "[mschoice] Ask for vaginal (Cowgirl)"
+msgstr "[mschoice] Ask for vaginal (Cowgirl)"
 

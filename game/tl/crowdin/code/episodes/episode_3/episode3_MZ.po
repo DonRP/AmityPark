@@ -11,8 +11,8 @@ msgid "[@danny at_player wondering talk_distraught@] It might be the thing that 
 msgstr "[@danny at_player wondering talk_distraught@] It might be the thing that explains why he seemed to be a lot stronger..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:25 ## translate crowdin a_masterful_speech_intro_ce21c2f1:
-msgid "[@danny down angry talk_consternation@] If that's the case, I should probably get my hands on some Orgone for myself! But how am I gonna get some sorta... £*£*£*£ghost goo£*£*£*£ if I don't even know what it is or how to collect it?"
-msgstr "[@danny down angry talk_consternation@] If that's the case, I should probably get my hands on some Orgone for myself! But how am I gonna get some sorta... £*£*£*£ghost goo£*£*£*£ if I don't even know what it is or how to collect it?"
+msgid "[@danny down angry talk_consternation@] If that's the case, I should probably get my hands on some Orgone for myself! But how am I gonna get some sorta... \"ghost goo\" if I don't even know what it is or how to collect it?"
+msgstr "[@danny down angry talk_consternation@] If that's the case, I should probably get my hands on some Orgone for myself! But how am I gonna get some sorta... \"ghost goo\" if I don't even know what it is or how to collect it?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:26 ## translate crowdin a_masterful_speech_intro_acdc13f9:
 msgid "[@danny down wondering talk_consternation@] Oh well, maybe I can ask Mom or Dad about it later, but for now, I had better make my way over to school."
@@ -23,8 +23,8 @@ msgid "[@doorsound@] {i}*Knock* *Knock* *Knock*{/i}"
 msgstr "[@doorsound@] {i}*Knock* *Knock* *Knock*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:36 ## translate crowdin a_masterful_speech_intro_b39fa35e:
-msgid "[@vlad towards unhappy talk_happy@] Why hello, Daniel! A fine £*£*£*£good morning£*£*£*£ to you!"
-msgstr "[@vlad towards unhappy talk_happy@] Why hello, Daniel! A fine £*£*£*£good morning£*£*£*£ to you!"
+msgid "[@vlad towards unhappy talk_happy@] Why hello, Daniel! A fine \"good morning\" to you!"
+msgstr "[@vlad towards unhappy talk_happy@] Why hello, Daniel! A fine \"good morning\" to you!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:38 ## translate crowdin a_masterful_speech_intro_ce1c9e30:
 msgid "[@danny towards rise talk_consternation@] Oh, umm, hey Mr. Masters, sure just... let yourself in, why not?"
@@ -135,8 +135,8 @@ msgid "[@danny towards unhappy talk_consternation@] Alright, just calm down a bi
 msgstr "[@danny towards unhappy talk_consternation@] Alright, just calm down a bit, Sam."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:146 ## translate crowdin a_masterful_speech_school_ff62975c:
-msgid "[@sam talk_happy@] Danny, I want you to meet Kitty and her boyfriend, Johnny £*£*£*£Thirteen£*£*£*£. Johnny's nickname is cause he's crashed his motorcycle a buncha times! Ugh, they're just so cool!"
-msgstr "[@sam talk_happy@] Danny, I want you to meet Kitty and her boyfriend, Johnny £*£*£*£Thirteen£*£*£*£. Johnny's nickname is cause he's crashed his motorcycle a buncha times! Ugh, they're just so cool!"
+msgid "[@sam talk_happy@] Danny, I want you to meet Kitty and her boyfriend, Johnny \"Thirteen\". Johnny's nickname is cause he's crashed his motorcycle a buncha times! Ugh, they're just so cool!"
+msgstr "[@sam talk_happy@] Danny, I want you to meet Kitty and her boyfriend, Johnny \"Thirteen\". Johnny's nickname is cause he's crashed his motorcycle a buncha times! Ugh, they're just so cool!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:148 ## translate crowdin a_masterful_speech_school_4c75d4b7:
 msgid "[@johnny talk_happy@] Hey, sup, dude?"
@@ -279,8 +279,8 @@ msgid "[@danny blank_stare talk_frown sad_2@] Well at least there haven't been a
 msgstr "[@danny blank_stare talk_frown sad_2@] Well at least there haven't been any ghosts around to fight so far... maybe today won't be so bad after all?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:302 ## translate crowdin a_masterful_speech_after_class_52d38e7c:
-msgid "[@danny talk_happy rise_one at_player@] Now that I think about it… didn't Kate mention some kind of a £*£*£*£reward£*£*£*£ for dealing with ghost Dash?"
-msgstr "[@danny talk_happy rise_one at_player@] Now that I think about it… didn't Kate mention some kind of a £*£*£*£reward£*£*£*£ for dealing with ghost Dash?"
+msgid "[@danny talk_happy rise_one at_player@] Now that I think about it… didn't Kate mention some kind of a \"reward\" for dealing with ghost Dash?"
+msgstr "[@danny talk_happy rise_one at_player@] Now that I think about it… didn't Kate mention some kind of a \"reward\" for dealing with ghost Dash?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:303 ## translate crowdin a_masterful_speech_after_class_c05e78a8:
 msgid "[@danny towards talk_happy_2 wondering@] Maybe I should pay her a little visit later as well…"
@@ -427,8 +427,8 @@ msgid "[@vlad@] All the people of Amity Park will be safe under my leadership."
 msgstr "[@vlad@] All the people of Amity Park will be safe under my leadership."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:489 ## translate crowdin a_masterful_speech_speech_632c8909:
-msgid "[@vlad@] Speaking of which, I'm sure most of you have probably heard of that ghostly octopus looking fellow known as £*£*£*£Ectopus£*£*£*£, I assume?"
-msgstr "[@vlad@] Speaking of which, I'm sure most of you have probably heard of that ghostly octopus looking fellow known as £*£*£*£Ectopus£*£*£*£, I assume?"
+msgid "[@vlad@] Speaking of which, I'm sure most of you have probably heard of that ghostly octopus looking fellow known as \"Ectopus\", I assume?"
+msgstr "[@vlad@] Speaking of which, I'm sure most of you have probably heard of that ghostly octopus looking fellow known as \"Ectopus\", I assume?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:491 ## translate crowdin a_masterful_speech_speech_d8941db1:
 msgid "[@vlad@] Now you might be thinking, 'Where could he possibly be at this very moment?' 'Haunting the neighborhood my dear mother lives in?' 'Still attacking innocent civilians and causing panic in our streets?'"
@@ -651,8 +651,8 @@ msgid "[@jack@] Wow, ol' Vladdie is going to be mayor? Fantastic! Maybe he could
 msgstr "[@jack@] Wow, ol' Vladdie is going to be mayor? Fantastic! Maybe he could do something about the amount of parking tickets on the Fenton Family Ghost Assault Vehicle..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:754 ## translate crowdin a_masterful_speech_postfight_5fb00cf2:
-msgid "[@newscaster 3@] Unfortunately, before the Q&A portion began, the announcement was interrupted by the ghostly menace £*£*£*£Inviso-Bill£*£*£*£ and his new ghoulish accomplice £*£*£*£Shadow Ghost£*£*£*£."
-msgstr "[@newscaster 3@] Unfortunately, before the Q&A portion began, the announcement was interrupted by the ghostly menace £*£*£*£Inviso-Bill£*£*£*£ and his new ghoulish accomplice £*£*£*£Shadow Ghost£*£*£*£."
+msgid "[@newscaster 3@] Unfortunately, before the Q&A portion began, the announcement was interrupted by the ghostly menace \"Inviso-Bill\" and his new ghoulish accomplice \"Shadow Ghost\"."
+msgstr "[@newscaster 3@] Unfortunately, before the Q&A portion began, the announcement was interrupted by the ghostly menace \"Inviso-Bill\" and his new ghoulish accomplice \"Shadow Ghost\"."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:757 ## translate crowdin a_masterful_speech_postfight_f46f392c:
 msgid "[@jazz@] No way... yet {i}another{/i} pervert ghost?"
@@ -967,8 +967,8 @@ msgid "[@danny talk_frown_2 sad@] Awe come on, Sam, lighten up."
 msgstr "[@danny talk_frown_2 sad@] Awe come on, Sam, lighten up."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1185 ## translate crowdin hunting_a_shadow_second_choice_82c18613:
-msgid "[@sam talk_frown angry_2 towards_2@] I'm a {u}goth{/u}, Danny. We don't do £*£*£*£lighten up£*£*£*£. You're sincerely being a jerk about this, and I just don't appreciate it. So I'd like you to leave, like now."
-msgstr "[@sam talk_frown angry_2 towards_2@] I'm a {u}goth{/u}, Danny. We don't do £*£*£*£lighten up£*£*£*£. You're sincerely being a jerk about this, and I just don't appreciate it. So I'd like you to leave, like now."
+msgid "[@sam talk_frown angry_2 towards_2@] I'm a {u}goth{/u}, Danny. We don't do \"lighten up\". You're sincerely being a jerk about this, and I just don't appreciate it. So I'd like you to leave, like now."
+msgstr "[@sam talk_frown angry_2 towards_2@] I'm a {u}goth{/u}, Danny. We don't do \"lighten up\". You're sincerely being a jerk about this, and I just don't appreciate it. So I'd like you to leave, like now."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1188 ## translate crowdin hunting_a_shadow_second_choice_5e03a83d:
 msgid "[@danny talk_frown wondering towards_wide@] Alright, I'll go... but again, I'm sorry I upset you Sam."
@@ -1123,8 +1123,8 @@ msgid "[@danny talk_happy_2 neutral towards@] Oh, you know it, Ms. Manson."
 msgstr "[@danny talk_happy_2 neutral towards@] Oh, you know it, Ms. Manson."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1379 ## translate crowdin sams_plan_cocky_ending_35784a85:
-msgid "[@sam away talk_happy sad@] Hmmm… then I guess we should get started, right away, aye mister £*£*£*£Ghost Boy£*£*£*£…?"
-msgstr "[@sam away talk_happy sad@] Hmmm… then I guess we should get started, right away, aye mister £*£*£*£Ghost Boy£*£*£*£…?"
+msgid "[@sam away talk_happy sad@] Hmmm… then I guess we should get started, right away, aye mister \"Ghost Boy\"…?"
+msgstr "[@sam away talk_happy sad@] Hmmm… then I guess we should get started, right away, aye mister \"Ghost Boy\"…?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1420 ## translate crowdin sams_plan_scene_start_a147a444:
 msgid "[@sam@] I'm gonna sit on the bed and do this... it's where I always do it... wh-when I touch myself, I mean..."
@@ -1423,8 +1423,8 @@ msgid "[@danny@] Y-yeah... same here."
 msgstr "[@danny@] Y-yeah... same here."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1910 ## translate crowdin sams_plan_scene_complete_daa41222:
-msgid "[@sam talk_happy sad_2@] {i}*Ahem*{/i} Well, uh, did it work? Do you feel anything different now? Does it feel like you got any more £*£*£*£ghostly£*£*£*£?"
-msgstr "[@sam talk_happy sad_2@] {i}*Ahem*{/i} Well, uh, did it work? Do you feel anything different now? Does it feel like you got any more £*£*£*£ghostly£*£*£*£?"
+msgid "[@sam talk_happy sad_2@] {i}*Ahem*{/i} Well, uh, did it work? Do you feel anything different now? Does it feel like you got any more \"ghostly\"?"
+msgstr "[@sam talk_happy sad_2@] {i}*Ahem*{/i} Well, uh, did it work? Do you feel anything different now? Does it feel like you got any more \"ghostly\"?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1917 ## translate crowdin sams_plan_scene_complete_3904cd1d:
 msgid "[@danny talk_frown@] Well, honestly, I'm not sure. I sure hope it did though, otherwise-"
@@ -1595,8 +1595,8 @@ msgid "[@danny talk_happy@] Since we were interrupted the last time we tried, I 
 msgstr "[@danny talk_happy@] Since we were interrupted the last time we tried, I was wondering if we could finish what we started previously."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2097 ## translate crowdin reward_1_6acd6e8b:
-msgid "[@danny talk_happy@] I mean... something a little more £*£*£*£hands on£*£*£*£ might be good?"
-msgstr "[@danny talk_happy@] I mean... something a little more £*£*£*£hands on£*£*£*£ might be good?"
+msgid "[@danny talk_happy@] I mean... something a little more \"hands on\" might be good?"
+msgstr "[@danny talk_happy@] I mean... something a little more \"hands on\" might be good?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2099 ## translate crowdin reward_1_652e743f:
 msgid "[@kate talk_happy_2 closed angry@] Oh yes, I think I know what you're getting at here... no problem, handsome."
@@ -2011,8 +2011,8 @@ msgid "[@danny towards wondering talk_happy@] Oh, nothing at all. (Just that I'v
 msgstr "[@danny towards wondering talk_happy@] Oh, nothing at all. (Just that I've been saving your butt quite a bit as of late... best not let Tucker know that just yet though.)"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2603 ## translate crowdin kittys_revange_the_morning_after_the_speech_e63c67b3:
-msgid "[@tucker talk_happy neutral closed@] Man how awesome would it be to be able to have ghost powers like that £*£*£*£Inviso-Bill£*£*£*£ guy? Don't you think, Danny?"
-msgstr "[@tucker talk_happy neutral closed@] Man how awesome would it be to be able to have ghost powers like that £*£*£*£Inviso-Bill£*£*£*£ guy? Don't you think, Danny?"
+msgid "[@tucker talk_happy neutral closed@] Man how awesome would it be to be able to have ghost powers like that \"Inviso-Bill\" guy? Don't you think, Danny?"
+msgstr "[@tucker talk_happy neutral closed@] Man how awesome would it be to be able to have ghost powers like that \"Inviso-Bill\" guy? Don't you think, Danny?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2605 ## translate crowdin kittys_revange_the_morning_after_the_speech_7998ff21:
 msgid "[@danny wondering talk_frown_2@] Uhm, I mean maybe, but wouldn't you have to sorta be dead first, Tuck? And who knows if people {i}actually{/i} become ghosts just from dying in the first place?"
@@ -2231,8 +2231,8 @@ msgid "[@lancer talk_frown angry@] {b}Moby Dick!!!{/b} Oh, this is just outrageo
 msgstr "[@lancer talk_frown angry@] {b}Moby Dick!!!{/b} Oh, this is just outrageous, young lady! I am going to immediately call your parents to inform them about your behavior, Ms. Manson!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2890 ## translate crowdin kittys_revange_sam_s_reputation_4038051d:
-msgid "[@lancer talk_frown wondering towards@] Now, come with me to the principal's office, before you try to relieve any of the students of their £*£*£*£stress£*£*£*£, as you put it."
-msgstr "[@lancer talk_frown wondering towards@] Now, come with me to the principal's office, before you try to relieve any of the students of their £*£*£*£stress£*£*£*£, as you put it."
+msgid "[@lancer talk_frown wondering towards@] Now, come with me to the principal's office, before you try to relieve any of the students of their \"stress\", as you put it."
+msgstr "[@lancer talk_frown wondering towards@] Now, come with me to the principal's office, before you try to relieve any of the students of their \"stress\", as you put it."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2895 ## translate crowdin kittys_revange_sam_s_reputation_3436cd08:
 msgid "[@sam talk_happy_2 towards_kitty sad_2@] Uh oh, looks like I've been a {i}naughty{/i} girl and gotten myself into some trouble…~"
@@ -2327,8 +2327,8 @@ msgid "[@danny sad talk_frown_2 towards_wide@] What, are they grounding you or s
 msgstr "[@danny sad talk_frown_2 towards_wide@] What, are they grounding you or something?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2993 ## translate crowdin kittys_revange_the_talk_20431b26:
-msgid "[@sam towards talk_frown neutral@] No, {b}worse{/b}! They're actually forcing me to join the cheerleading squad to make me behave more like a £*£*£*£normal girl£*£*£*£ and gain back a better reputation."
-msgstr "[@sam towards talk_frown neutral@] No, {b}worse{/b}! They're actually forcing me to join the cheerleading squad to make me behave more like a £*£*£*£normal girl£*£*£*£ and gain back a better reputation."
+msgid "[@sam towards talk_frown neutral@] No, {b}worse{/b}! They're actually forcing me to join the cheerleading squad to make me behave more like a \"normal girl\" and gain back a better reputation."
+msgstr "[@sam towards talk_frown neutral@] No, {b}worse{/b}! They're actually forcing me to join the cheerleading squad to make me behave more like a \"normal girl\" and gain back a better reputation."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2996 ## translate crowdin kittys_revange_the_talk_6f543af1:
 msgid "[@danny sad_2 talk_frown_2 towards_wide@] You? In a cheerleading outfit?? (What a picture that'd be...)"
@@ -2663,8 +2663,8 @@ msgid "[@danny talk_frown@] Honestly, only you two, which seems appropriate. I k
 msgstr "[@danny talk_frown@] Honestly, only you two, which seems appropriate. I know I can trust you both, obviously."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3454 ## translate crowdin kittys_revange_postfight_4e566dcf:
-msgid "[@tucker talk_happy blank_stare sad@] Alright sweet, I already have some {u}great{/u} ideas about what you should do with those ghost powers of yours! Can you say £*£*£*£locker photoshoot£*£*£*£?"
-msgstr "[@tucker talk_happy blank_stare sad@] Alright sweet, I already have some {u}great{/u} ideas about what you should do with those ghost powers of yours! Can you say £*£*£*£locker photoshoot£*£*£*£?"
+msgid "[@tucker talk_happy blank_stare sad@] Alright sweet, I already have some {u}great{/u} ideas about what you should do with those ghost powers of yours! Can you say \"locker photoshoot\"?"
+msgstr "[@tucker talk_happy blank_stare sad@] Alright sweet, I already have some {u}great{/u} ideas about what you should do with those ghost powers of yours! Can you say \"locker photoshoot\"?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3456 ## translate crowdin kittys_revange_postfight_16f2edc4:
 msgid "[@danny talk_happy rise_one towards_wide@] Hahah, we'll just see about that, Tucker."
@@ -2675,8 +2675,8 @@ msgid "[@danny towards talk_happy wondering@] Anyway guys, even though I won, I'
 msgstr "[@danny towards talk_happy wondering@] Anyway guys, even though I won, I'm still pretty beat after that fight. Let's just go home for today. We'll all talk later, alright?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3465 ## translate crowdin kittys_revange_postfight_f70c9ebc:
-msgid "[@tucker talk_happy closed@] Sure thing, £*£*£*£Inviso-Bill£*£*£*£! Catch ya later."
-msgstr "[@tucker talk_happy closed@] Sure thing, £*£*£*£Inviso-Bill£*£*£*£! Catch ya later."
+msgid "[@tucker talk_happy closed@] Sure thing, \"Inviso-Bill\"! Catch ya later."
+msgstr "[@tucker talk_happy closed@] Sure thing, \"Inviso-Bill\"! Catch ya later."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3471 ## translate crowdin kittys_revange_postfight_abb6d1a6:
 msgid "[@sam talk_bite blush_2 sad_2@] Hey, Danny? Thanks again for today... I-I'm glad that Orgone stuff worked out, and wasn't... you know, totally pointless, or anything. Anyway... I'll talk to you later. Bye Danny."
@@ -2699,174 +2699,174 @@ msgid@] Until next time. -GZone@]
 msgstr@] Until next time. -GZone@] 
 
 # XXtranslate crowdin strings:XX# XX## game/code/episodes/episode_3/episode3_MZ.rpy:406
-msgid @+@+@[mschoice] (Hmmm... I should say something to try and cheer Sam up.)"
-msgstr @+@+@[mschoice] (Hmmm... I should say something to try and cheer Sam up.)"
+msgid "[mschoice] (Hmmm... I should say something to try and cheer Sam up.)"
+msgstr "[mschoice] (Hmmm... I should say something to try and cheer Sam up.)"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:406
-msgid @+@+@[mschoice] £*£*£*£It's pretty obvious Star's just jealous of how much smarter you are than her.£*£*£*£"
-msgstr @+@+@[mschoice] £*£*£*£It's pretty obvious Star's just jealous of how much smarter you are than her.£*£*£*£"
+msgid "[mschoice] \"It's pretty obvious Star's just jealous of how much smarter you are than her.\""
+msgstr "[mschoice] \"It's pretty obvious Star's just jealous of how much smarter you are than her.\""
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:406
-msgid @+@+@[mschoice] £*£*£*£It's hard to understand why you're not popular at all, Sam.£*£*£*£"
-msgstr @+@+@[mschoice] £*£*£*£It's hard to understand why you're not popular at all, Sam.£*£*£*£"
+msgid "[mschoice] \"It's hard to understand why you're not popular at all, Sam.\""
+msgstr "[mschoice] \"It's hard to understand why you're not popular at all, Sam.\""
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:406
-msgid @+@+@[mschoice] £*£*£*£Don't worry about her.£*£*£*£"
-msgstr @+@+@[mschoice] £*£*£*£Don't worry about her.£*£*£*£"
+msgid "[mschoice] \"Don't worry about her.\""
+msgstr "[mschoice] \"Don't worry about her.\""
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:938
-msgid @+@+@[mschoice] Hey, can I get your number, Sam?"
-msgstr @+@+@[mschoice] Hey, can I get your number, Sam?"
+msgid "[mschoice] Hey, can I get your number, Sam?"
+msgstr "[mschoice] Hey, can I get your number, Sam?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:938
-msgid @+@+@[mschoice] Here is your cheerleader outfit!"
-msgstr @+@+@[mschoice] Here is your cheerleader outfit!"
+msgid "[mschoice] Here is your cheerleader outfit!"
+msgstr "[mschoice] Here is your cheerleader outfit!"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:938
-msgid @+@+@[mschoice] Sam, I need to ask you a favor..."
-msgstr @+@+@[mschoice] Sam, I need to ask you a favor..."
+msgid "[mschoice] Sam, I need to ask you a favor..."
+msgstr "[mschoice] Sam, I need to ask you a favor..."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:938
-msgid @+@+@[mschoice] Sam, I need you to masturbate in front of me!"
-msgstr @+@+@[mschoice] Sam, I need you to masturbate in front of me!"
+msgid "[mschoice] Sam, I need you to masturbate in front of me!"
+msgstr "[mschoice] Sam, I need you to masturbate in front of me!"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:938
-msgid @+@+@[mschoice] Exit conversation."
-msgstr @+@+@[mschoice] Exit conversation."
+msgid "[mschoice] Exit conversation."
+msgstr "[mschoice] Exit conversation."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1103
-msgid @+@+@[mschoice] Mom told me about it. She did some research on Orgone in college."
-msgstr @+@+@[mschoice] Mom told me about it. She did some research on Orgone in college."
+msgid "[mschoice] Mom told me about it. She did some research on Orgone in college."
+msgstr "[mschoice] Mom told me about it. She did some research on Orgone in college."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1103
-msgid @+@+@[mschoice] What, you think I'm lying? Thanks a lot, Sam."
-msgstr @+@+@[mschoice] What, you think I'm lying? Thanks a lot, Sam."
+msgid "[mschoice] What, you think I'm lying? Thanks a lot, Sam."
+msgstr "[mschoice] What, you think I'm lying? Thanks a lot, Sam."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1103
-msgid @+@+@[mschoice] Ghost instinct, duh."
-msgstr @+@+@[mschoice] Ghost instinct, duh."
+msgid "[mschoice] Ghost instinct, duh."
+msgstr "[mschoice] Ghost instinct, duh."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1129
-msgid @+@+@[mschoice] We're really good friends, and I wouldn't want to abuse your trust."
-msgstr @+@+@[mschoice] We're really good friends, and I wouldn't want to abuse your trust."
+msgid "[mschoice] We're really good friends, and I wouldn't want to abuse your trust."
+msgstr "[mschoice] We're really good friends, and I wouldn't want to abuse your trust."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1129
-msgid @+@+@[mschoice] It means I need your help, Sam. Isn't that what friends are for?"
-msgstr @+@+@[mschoice] It means I need your help, Sam. Isn't that what friends are for?"
+msgid "[mschoice] It means I need your help, Sam. Isn't that what friends are for?"
+msgstr "[mschoice] It means I need your help, Sam. Isn't that what friends are for?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1129
-msgid @+@+@[mschoice] You're just not my type."
-msgstr @+@+@[mschoice] You're just not my type."
+msgid "[mschoice] You're just not my type."
+msgstr "[mschoice] You're just not my type."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1222
-msgid @+@+@[mschoice] There's nobody else I can trust but you."
-msgstr @+@+@[mschoice] There's nobody else I can trust but you."
+msgid "[mschoice] There's nobody else I can trust but you."
+msgstr "[mschoice] There's nobody else I can trust but you."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1222
-msgid @+@+@[mschoice] Come on Sam, if you don't help me I'll never be able to fight off the ghosts."
-msgstr @+@+@[mschoice] Come on Sam, if you don't help me I'll never be able to fight off the ghosts."
+msgid "[mschoice] Come on Sam, if you don't help me I'll never be able to fight off the ghosts."
+msgstr "[mschoice] Come on Sam, if you don't help me I'll never be able to fight off the ghosts."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1222
-msgid @+@+@[mschoice] Come on Sam, aren't you looking forward to bragging to all your goth friends about how you seduced a real ghost?"
-msgstr @+@+@[mschoice] Come on Sam, aren't you looking forward to bragging to all your goth friends about how you seduced a real ghost?"
+msgid "[mschoice] Come on Sam, aren't you looking forward to bragging to all your goth friends about how you seduced a real ghost?"
+msgstr "[mschoice] Come on Sam, aren't you looking forward to bragging to all your goth friends about how you seduced a real ghost?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1454
-msgid @+@+@[mschoice] Pull out cock?"
-msgstr @+@+@[mschoice] Pull out cock?"
+msgid "[mschoice] Pull out cock?"
+msgstr "[mschoice] Pull out cock?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1454
-msgid @+@+@[mschoice] Just watch."
-msgstr @+@+@[mschoice] Just watch."
+msgid "[mschoice] Just watch."
+msgstr "[mschoice] Just watch."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1992
-msgid @+@+@[mschoice] What do I want from Nurse Kate?"
-msgstr @+@+@[mschoice] What do I want from Nurse Kate?"
+msgid "[mschoice] What do I want from Nurse Kate?"
+msgstr "[mschoice] What do I want from Nurse Kate?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1992
-msgid @+@+@[mschoice] Ask Kate about her own life a bit."
-msgstr @+@+@[mschoice] Ask Kate about her own life a bit."
+msgid "[mschoice] Ask Kate about her own life a bit."
+msgstr "[mschoice] Ask Kate about her own life a bit."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1992
-msgid @+@+@[mschoice] Ask about the £*£*£*£reward£*£*£*£ for dealing with Dash."
-msgstr @+@+@[mschoice] Ask about the £*£*£*£reward£*£*£*£ for dealing with Dash."
+msgid "[mschoice] Ask about the \"reward\" for dealing with Dash."
+msgstr "[mschoice] Ask about the \"reward\" for dealing with Dash."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:1992
-msgid @+@+@[mschoice] Never mind."
-msgstr @+@+@[mschoice] Never mind."
+msgid "[mschoice] Never mind."
+msgstr "[mschoice] Never mind."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2000
-msgid @+@+@[mschoice] What do I wanna know about Kate's life?"
-msgstr @+@+@[mschoice] What do I wanna know about Kate's life?"
+msgid "[mschoice] What do I wanna know about Kate's life?"
+msgstr "[mschoice] What do I wanna know about Kate's life?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2000
-msgid @+@+@[mschoice] Do you like your job as a nurse?"
-msgstr @+@+@[mschoice] Do you like your job as a nurse?"
+msgid "[mschoice] Do you like your job as a nurse?"
+msgstr "[mschoice] Do you like your job as a nurse?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2000
-msgid @+@+@[mschoice] Are you married?"
-msgstr @+@+@[mschoice] Are you married?"
+msgid "[mschoice] Are you married?"
+msgstr "[mschoice] Are you married?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2000
-msgid @+@+@[mschoice] How old are you?"
-msgstr @+@+@[mschoice] How old are you?"
+msgid "[mschoice] How old are you?"
+msgstr "[mschoice] How old are you?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2000
-msgid @+@+@[mschoice] I've learned enough for now..."
-msgstr @+@+@[mschoice] I've learned enough for now..."
+msgid "[mschoice] I've learned enough for now..."
+msgstr "[mschoice] I've learned enough for now..."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2010
-msgid @+@+@[mschoice] Ask a follow up question about her jobs?"
-msgstr @+@+@[mschoice] Ask a follow up question about her jobs?"
+msgid "[mschoice] Ask a follow up question about her jobs?"
+msgstr "[mschoice] Ask a follow up question about her jobs?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2010
-msgid @+@+@[mschoice] Wait, what was your previous job?"
-msgstr @+@+@[mschoice] Wait, what was your previous job?"
+msgid "[mschoice] Wait, what was your previous job?"
+msgstr "[mschoice] Wait, what was your previous job?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2010
-msgid @+@+@[mschoice] So how long have you been working as a nurse now?"
-msgstr @+@+@[mschoice] So how long have you been working as a nurse now?"
+msgid "[mschoice] So how long have you been working as a nurse now?"
+msgstr "[mschoice] So how long have you been working as a nurse now?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2010
-msgid @+@+@[mschoice] Good to know. Anyway..."
-msgstr @+@+@[mschoice] Good to know. Anyway..."
+msgid "[mschoice] Good to know. Anyway..."
+msgstr "[mschoice] Good to know. Anyway..."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2047
-msgid @+@+@[mschoice] Ask a follow up question about her marriage?"
-msgstr @+@+@[mschoice] Ask a follow up question about her marriage?"
+msgid "[mschoice] Ask a follow up question about her marriage?"
+msgstr "[mschoice] Ask a follow up question about her marriage?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2047
-msgid @+@+@[mschoice] Was there someone you loved before?"
-msgstr @+@+@[mschoice] Was there someone you loved before?"
+msgid "[mschoice] Was there someone you loved before?"
+msgstr "[mschoice] Was there someone you loved before?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2047
-msgid @+@+@[mschoice] Do you have any children?"
-msgstr @+@+@[mschoice] Do you have any children?"
+msgid "[mschoice] Do you have any children?"
+msgstr "[mschoice] Do you have any children?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2091
-msgid @+@+@[mschoice] What do I want to do with Kate?"
-msgstr @+@+@[mschoice] What do I want to do with Kate?"
+msgid "[mschoice] What do I want to do with Kate?"
+msgstr "[mschoice] What do I want to do with Kate?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2091
-msgid @+@+@[mschoice] Handjob?"
-msgstr @+@+@[mschoice] Handjob?"
+msgid "[mschoice] Handjob?"
+msgstr "[mschoice] Handjob?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2214
-msgid @+@+@[mschoice] How should I respond to Nurse Kate's concerns?"
-msgstr @+@+@[mschoice] How should I respond to Nurse Kate's concerns?"
+msgid "[mschoice] How should I respond to Nurse Kate's concerns?"
+msgstr "[mschoice] How should I respond to Nurse Kate's concerns?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2214
-msgid @+@+@[mschoice] No, really, I would like to help you."
-msgstr @+@+@[mschoice] No, really, I would like to help you."
+msgid "[mschoice] No, really, I would like to help you."
+msgstr "[mschoice] No, really, I would like to help you."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2214
-msgid @+@+@[mschoice] In that case, I will leave you alone."
-msgstr @+@+@[mschoice] In that case, I will leave you alone."
+msgid "[mschoice] In that case, I will leave you alone."
+msgstr "[mschoice] In that case, I will leave you alone."
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2502
-msgid @+@+@[mschoice] I... uh... could you...?"
-msgstr @+@+@[mschoice] I... uh... could you...?"
+msgid "[mschoice] I... uh... could you...?"
+msgstr "[mschoice] I... uh... could you...?"
 
 # XX## game/code/episodes/episode_3/episode3_MZ.rpy:2502
-msgid @+@+@[mschoice] Let's finish what we started."
-msgstr @+@+@[mschoice] Let's finish what we started."
+msgid "[mschoice] Let's finish what we started."
+msgstr "[mschoice] Let's finish what we started."
 

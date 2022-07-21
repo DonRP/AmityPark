@@ -7,6 +7,6 @@ msgid "[@danny f offscreen at_player rise talk_displeased@] I don't have anywher
 msgstr "[@danny f offscreen at_player rise talk_displeased@] I don't have anywhere to take a bus to right now."
 
 # XXtranslate crowdin strings:XX# XX## game/code/locations/town/the_bus_stop.rpy:19
-msgid @+@+@[mschoice] (Am I sure I'm ready to do this?)"
-msgstr @+@+@[mschoice] (Am I sure I'm ready to do this?)"
+msgid "[mschoice] (Am I sure I'm ready to do this?)"
+msgstr "[mschoice] (Am I sure I'm ready to do this?)"
 

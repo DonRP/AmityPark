@@ -23,8 +23,8 @@ msgid "[@box_ghost talk_2 sad@] Thanks for shopping at Mystery Box and have a ni
 msgstr "[@box_ghost talk_2 sad@] Thanks for shopping at Mystery Box and have a nice day, friend!"
 
 # game/code/locations/mystery_shop_MZ.rpy:49 ## translate crowdin discuss_mystery_box_bb91ce6a:
-msgid "[@danny@] Why is it labeled £*£*£*£Property of Casper High?£*£*£*£"
-msgstr "[@danny@] Why is it labeled £*£*£*£Property of Casper High?£*£*£*£"
+msgid "[@danny@] Why is it labeled \"Property of Casper High?\""
+msgstr "[@danny@] Why is it labeled \"Property of Casper High?\""
 
 # game/code/locations/mystery_shop_MZ.rpy:50 ## translate crowdin discuss_mystery_box_72c246bf:
 msgid "[@box_ghost talk_frown@] Oh... that? That's nothing, don't worry about it."
@@ -79,8 +79,8 @@ msgid "[@danny@] I'm not interested, I was just looking around. See yah."
 msgstr "[@danny@] I'm not interested, I was just looking around. See yah."
 
 # game/code/locations/mystery_shop_MZ.rpy:114 ## translate crowdin not_ready_fc6fda39:
-msgid "[@box_ghost talk@] Hey there! Thank you for visiting £*£*£*£The Mystery Shop£*£*£*£ today."
-msgstr "[@box_ghost talk@] Hey there! Thank you for visiting £*£*£*£The Mystery Shop£*£*£*£ today."
+msgid "[@box_ghost talk@] Hey there! Thank you for visiting \"The Mystery Shop\" today."
+msgstr "[@box_ghost talk@] Hey there! Thank you for visiting \"The Mystery Shop\" today."
 
 # game/code/locations/mystery_shop_MZ.rpy:115 ## translate crowdin not_ready_b6452159:
 msgid "[@box_ghost talk_frown@] Unfortunately, we are currently restocking the inventory at this time with other stole- uhh, I mean, {i}purchased{/i} goods!"
@@ -95,42 +95,42 @@ msgid "[@box_ghost talk_2 neutral@] Have a nice day!"
 msgstr "[@box_ghost talk_2 neutral@] Have a nice day!"
 
 # XXtranslate crowdin strings:XX# XX## game/code/locations/mystery_shop_MZ.rpy:20
-msgid @+@+@[mschoice] Would you like to buy this Mystery Box for $[stolen_box.cost]?"
-msgstr @+@+@[mschoice] Would you like to buy this Mystery Box for $[stolen_box.cost]?"
+msgid "[mschoice] Would you like to buy this Mystery Box for $[stolen_box.cost]?"
+msgstr "[mschoice] Would you like to buy this Mystery Box for $[stolen_box.cost]?"
 
 # XX## game/code/locations/mystery_shop_MZ.rpy:20
-msgid @+@+@[mschoice] Yeah, I'd like to buy this box, please."
-msgstr @+@+@[mschoice] Yeah, I'd like to buy this box, please."
+msgid "[mschoice] Yeah, I'd like to buy this box, please."
+msgstr "[mschoice] Yeah, I'd like to buy this box, please."
 
 # XX## game/code/locations/mystery_shop_MZ.rpy:20
-msgid @+@+@[mschoice] Why is it labeled £*£*£*£Property of Casper High?£*£*£*£"
-msgstr @+@+@[mschoice] Why is it labeled £*£*£*£Property of Casper High?£*£*£*£"
+msgid "[mschoice] Why is it labeled \"Property of Casper High?\""
+msgstr "[mschoice] Why is it labeled \"Property of Casper High?\""
 
 # XX## game/code/locations/mystery_shop_MZ.rpy:20
-msgid @+@+@[mschoice] What's in it?"
-msgstr @+@+@[mschoice] What's in it?"
+msgid "[mschoice] What's in it?"
+msgstr "[mschoice] What's in it?"
 
 # XX## game/code/locations/mystery_shop_MZ.rpy:54
-msgid @+@+@[mschoice] He seems mad I asked. What should I say?"
-msgstr @+@+@[mschoice] He seems mad I asked. What should I say?"
+msgid "[mschoice] He seems mad I asked. What should I say?"
+msgstr "[mschoice] He seems mad I asked. What should I say?"
 
 # XX## game/code/locations/mystery_shop_MZ.rpy:54
-msgid @+@+@[mschoice] Well did you steal it?"
-msgstr @+@+@[mschoice] Well did you steal it?"
+msgid "[mschoice] Well did you steal it?"
+msgstr "[mschoice] Well did you steal it?"
 
 # XX## game/code/locations/mystery_shop_MZ.rpy:54
-msgid @+@+@[mschoice] Fine, pretend I never asked!"
-msgstr @+@+@[mschoice] Fine, pretend I never asked!"
+msgid "[mschoice] Fine, pretend I never asked!"
+msgstr "[mschoice] Fine, pretend I never asked!"
 
 # XX## game/code/locations/mystery_shop_MZ.rpy:61
-msgid @+@+@[mschoice] Do I have any proof that this guy stole the box?"
-msgstr @+@+@[mschoice] Do I have any proof that this guy stole the box?"
+msgid "[mschoice] Do I have any proof that this guy stole the box?"
+msgstr "[mschoice] Do I have any proof that this guy stole the box?"
 
 # XX## game/code/locations/mystery_shop_MZ.rpy:61
-msgid @+@+@[mschoice] Uhm, no, I don't really..."
-msgstr @+@+@[mschoice] Uhm, no, I don't really..."
+msgid "[mschoice] Uhm, no, I don't really..."
+msgstr "[mschoice] Uhm, no, I don't really..."
 
 # XX## game/code/locations/mystery_shop_MZ.rpy:61
-msgid @+@+@[mschoice] Yes, I have some proof right here..."
-msgstr @+@+@[mschoice] Yes, I have some proof right here..."
+msgid "[mschoice] Yes, I have some proof right here..."
+msgstr "[mschoice] Yes, I have some proof right here..."
 

@@ -23,16 +23,16 @@ msgid "[@tuckerspook@] Honestly, not much. Just developing some small software p
 msgstr "[@tuckerspook@] Honestly, not much. Just developing some small software programs."
 
 # game/code/misc/spookchat_tucker.rpy:68 ## translate crowdin tucker_chat_2_7f6f9b43:
-msgid "[@dannyspook@] Woah, that doesn't sound like £*£*£*£not much£*£*£*£ to me. What's it for?"
-msgstr "[@dannyspook@] Woah, that doesn't sound like £*£*£*£not much£*£*£*£ to me. What's it for?"
+msgid "[@dannyspook@] Woah, that doesn't sound like \"not much\" to me. What's it for?"
+msgstr "[@dannyspook@] Woah, that doesn't sound like \"not much\" to me. What's it for?"
 
 # game/code/misc/spookchat_tucker.rpy:69 ## translate crowdin tucker_chat_2_ab6d8832:
 msgid "[@tuckerspook@] Well, I won't ruin the surprise just yet, but when it's fully ready, I'll have you take a look at it."
 msgstr "[@tuckerspook@] Well, I won't ruin the surprise just yet, but when it's fully ready, I'll have you take a look at it."
 
 # game/code/misc/spookchat_tucker.rpy:70 ## translate crowdin tucker_chat_2_32c74a91:
-msgid "[@tuckerspook@] It's just been something I've been whipping up to help us £*£*£*£single bachelors£*£*£*£ out."
-msgstr "[@tuckerspook@] It's just been something I've been whipping up to help us £*£*£*£single bachelors£*£*£*£ out."
+msgid "[@tuckerspook@] It's just been something I've been whipping up to help us \"single bachelors\" out."
+msgstr "[@tuckerspook@] It's just been something I've been whipping up to help us \"single bachelors\" out."
 
 # game/code/misc/spookchat_tucker.rpy:71 ## translate crowdin tucker_chat_2_e37276d2:
 msgid "[@dannyspook@] Alright, I'll take your word on it. Sounds pretty cool already, Tuck, I'm excited to see it."
@@ -151,8 +151,8 @@ msgid "[@tuckerspook@] Tomato, {i}tomahto{/i}, dude. Honestly, I'd say she's a d
 msgstr "[@tuckerspook@] Tomato, {i}tomahto{/i}, dude. Honestly, I'd say she's a definite sleeper hit for sure. She's got all the features I'd find banging, anyway."
 
 # game/code/misc/spookchat_tucker.rpy:125 ## translate crowdin tucker_chat_2_47c4de48:
-msgid "[@tuckerspook@] But obviously, even for a perv like me, crossing that very odd £*£*£*£friendship line£*£*£*£ is a little too out there. Don't you think so?"
-msgstr "[@tuckerspook@] But obviously, even for a perv like me, crossing that very odd £*£*£*£friendship line£*£*£*£ is a little too out there. Don't you think so?"
+msgid "[@tuckerspook@] But obviously, even for a perv like me, crossing that very odd \"friendship line\" is a little too out there. Don't you think so?"
+msgstr "[@tuckerspook@] But obviously, even for a perv like me, crossing that very odd \"friendship line\" is a little too out there. Don't you think so?"
 
 # game/code/misc/spookchat_tucker.rpy:126 ## translate crowdin tucker_chat_2_d5f74762:
 msgid "[@dannyspook@] No yeah, I get that... I guess that's fair."
@@ -191,8 +191,8 @@ msgid "[@dannyspook@] Dude, Jazz? Come on man, she's my sister! You wouldn't act
 msgstr "[@dannyspook@] Dude, Jazz? Come on man, she's my sister! You wouldn't actually try and pick her up, would you?"
 
 # game/code/misc/spookchat_tucker.rpy:147 ## translate crowdin tucker_chat_2_fc740a75:
-msgid "[@tuckerspook@] Danny, at our age, as long as we've known each other, we've reasonably surpassed the £*£*£*£hands off my sister£*£*£*£ boundary."
-msgstr "[@tuckerspook@] Danny, at our age, as long as we've known each other, we've reasonably surpassed the £*£*£*£hands off my sister£*£*£*£ boundary."
+msgid "[@tuckerspook@] Danny, at our age, as long as we've known each other, we've reasonably surpassed the \"hands off my sister\" boundary."
+msgstr "[@tuckerspook@] Danny, at our age, as long as we've known each other, we've reasonably surpassed the \"hands off my sister\" boundary."
 
 # game/code/misc/spookchat_tucker.rpy:148 ## translate crowdin tucker_chat_2_22ae4623:
 msgid "[@dannyspook@] What, no way!! We haven't surpassed anything!"
@@ -263,34 +263,34 @@ msgid "[@tuckerspook@] Sure dude, whenever you wanna message! I'm gonna play som
 msgstr "[@tuckerspook@] Sure dude, whenever you wanna message! I'm gonna play some Doomed right now. Laterz."
 
 # XXtranslate crowdin strings:XX# XX## game/code/misc/spookchat_tucker.rpy:29
-msgid @+@+@[mschoice] Message Tucker."
-msgstr @+@+@[mschoice] Message Tucker."
+msgid "[mschoice] Message Tucker."
+msgstr "[mschoice] Message Tucker."
 
 # XX## game/code/misc/spookchat_tucker.rpy:51
-msgid @+@+@[mschoice] What do I wanna message Tucker about?"
-msgstr @+@+@[mschoice] What do I wanna message Tucker about?"
+msgid "[mschoice] What do I wanna message Tucker about?"
+msgstr "[mschoice] What do I wanna message Tucker about?"
 
 # XX## game/code/misc/spookchat_tucker.rpy:51
-msgid @+@+@[mschoice] {i}(Look at Paulina's picture){/i}"
-msgstr @+@+@[mschoice] {i}(Look at Paulina's picture){/i}"
+msgid "[mschoice] {i}(Look at Paulina's picture){/i}"
+msgstr "[mschoice] {i}(Look at Paulina's picture){/i}"
 
 # XX## game/code/misc/spookchat_tucker.rpy:51
-msgid @+@+@[mschoice] Whatcha working on, Tuck?"
-msgstr @+@+@[mschoice] Whatcha working on, Tuck?"
+msgid "[mschoice] Whatcha working on, Tuck?"
+msgstr "[mschoice] Whatcha working on, Tuck?"
 
 # XX## game/code/misc/spookchat_tucker.rpy:51
-msgid @+@+@[mschoice] Do ghosts worry you at all?"
-msgstr @+@+@[mschoice] Do ghosts worry you at all?"
+msgid "[mschoice] Do ghosts worry you at all?"
+msgstr "[mschoice] Do ghosts worry you at all?"
 
 # XX## game/code/misc/spookchat_tucker.rpy:51
-msgid @+@+@[mschoice] What do you think about Sam?"
-msgstr @+@+@[mschoice] What do you think about Sam?"
+msgid "[mschoice] What do you think about Sam?"
+msgstr "[mschoice] What do you think about Sam?"
 
 # XX## game/code/misc/spookchat_tucker.rpy:51
-msgid @+@+@[mschoice] One question: Paulina or Star?"
-msgstr @+@+@[mschoice] One question: Paulina or Star?"
+msgid "[mschoice] One question: Paulina or Star?"
+msgstr "[mschoice] One question: Paulina or Star?"
 
 # XX## game/code/misc/spookchat_tucker.rpy:51
-msgid @+@+@[mschoice] I'll talk to you later, Tuck."
-msgstr @+@+@[mschoice] I'll talk to you later, Tuck."
+msgid "[mschoice] I'll talk to you later, Tuck."
+msgstr "[mschoice] I'll talk to you later, Tuck."
 

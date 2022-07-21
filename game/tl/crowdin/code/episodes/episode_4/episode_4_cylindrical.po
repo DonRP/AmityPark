@@ -15,8 +15,8 @@ msgid "[@maddie@] Well, I wanted to get the darn Fenton Thermos finally working.
 msgstr "[@maddie@] Well, I wanted to get the darn Fenton Thermos finally working."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:29 ## translate crowdin cylindrical_container_scene_1_lab_24525642:
-msgid "[@danny rise_one talk_frown@] £*£*£*£Fenton Thermos?£*£*£*£ Sorta like the thing Vlad used to capture that Ectopus thing in?"
-msgstr "[@danny rise_one talk_frown@] £*£*£*£Fenton Thermos?£*£*£*£ Sorta like the thing Vlad used to capture that Ectopus thing in?"
+msgid "[@danny rise_one talk_frown@] \"Fenton Thermos?\" Sorta like the thing Vlad used to capture that Ectopus thing in?"
+msgstr "[@danny rise_one talk_frown@] \"Fenton Thermos?\" Sorta like the thing Vlad used to capture that Ectopus thing in?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:32 ## translate crowdin cylindrical_container_scene_1_lab_2dc47832:
 msgid "[@maddie@] {b}Exactly{/b} like it in fact! The thermos designs were actually originally {i}my{/i} creation when the three of us were all in college."
@@ -43,24 +43,24 @@ msgid "[@maddie@] Well, your father and I were building a working model of a min
 msgstr "[@maddie@] Well, your father and I were building a working model of a miniature electromagnetic power capacitor that could self sustain itself on Ecto-Energy alone!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:50 ## translate crowdin cylindrical_container_scene_1_lab_44cd4f84:
-msgid "[@jack@] £*£*£*£The Fenton Ecto-Battery£*£*£*£ I call it! She's a beauty of Fenton ingenuity!"
-msgstr "[@jack@] £*£*£*£The Fenton Ecto-Battery£*£*£*£ I call it! She's a beauty of Fenton ingenuity!"
+msgid "[@jack@] \"The Fenton Ecto-Battery\" I call it! She's a beauty of Fenton ingenuity!"
+msgstr "[@jack@] \"The Fenton Ecto-Battery\" I call it! She's a beauty of Fenton ingenuity!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:54 ## translate crowdin cylindrical_container_scene_1_lab_a3bf0fe0:
 msgid "[@maddie@] Yes, well, the major principal of the device would be that it could generate its own power supply by conducting tiny wave length-"
 msgstr "[@maddie@] Yes, well, the major principal of the device would be that it could generate its own power supply by conducting tiny wave length-"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:56 ## translate crowdin cylindrical_container_scene_1_lab_2a909dc0:
-msgid "[@danny rise_one talk_happy@] So, like an £*£*£*£arc reactor£*£*£*£, kinda?"
-msgstr "[@danny rise_one talk_happy@] So, like an £*£*£*£arc reactor£*£*£*£, kinda?"
+msgid "[@danny rise_one talk_happy@] So, like an \"arc reactor\", kinda?"
+msgstr "[@danny rise_one talk_happy@] So, like an \"arc reactor\", kinda?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:59 ## translate crowdin cylindrical_container_scene_1_lab_6a2928b7:
 msgid "[@maddie@] Huh? What?"
 msgstr "[@maddie@] Huh? What?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:61 ## translate crowdin cylindrical_container_scene_1_lab_252da6c3:
-msgid "[@danny talk_happy sad_2@] I mean, it just sorta sounds like an arc reactor, like in the £*£*£*£Iron Man£*£*£*£ movies. It's just a small thing that generates an infinite amount of power, basically."
-msgstr "[@danny talk_happy sad_2@] I mean, it just sorta sounds like an arc reactor, like in the £*£*£*£Iron Man£*£*£*£ movies. It's just a small thing that generates an infinite amount of power, basically."
+msgid "[@danny talk_happy sad_2@] I mean, it just sorta sounds like an arc reactor, like in the \"Iron Man\" movies. It's just a small thing that generates an infinite amount of power, basically."
+msgstr "[@danny talk_happy sad_2@] I mean, it just sorta sounds like an arc reactor, like in the \"Iron Man\" movies. It's just a small thing that generates an infinite amount of power, basically."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:64 ## translate crowdin cylindrical_container_scene_1_lab_3b8f0bd2:
 msgid "[@maddie@] Oh, I'm afraid I don't watch too many superhero movies to know that sort of thing. Too outlandish for my taste."
@@ -71,8 +71,8 @@ msgid "[@maddie@] This is {i}real{/i} science after all, Danny, not what you see
 msgstr "[@maddie@] This is {i}real{/i} science after all, Danny, not what you see in comic book movies or silly kid shows!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:69 ## translate crowdin cylindrical_container_scene_1_lab_f9562fb1:
-msgid "[@danny rise_one talk_frown towards@] ...alright, if you say so. So what's stopping you exactly, if you and dad built this £*£*£*£battery£*£*£*£ already?"
-msgstr "[@danny rise_one talk_frown towards@] ...alright, if you say so. So what's stopping you exactly, if you and dad built this £*£*£*£battery£*£*£*£ already?"
+msgid "[@danny rise_one talk_frown towards@] ...alright, if you say so. So what's stopping you exactly, if you and dad built this \"battery\" already?"
+msgstr "[@danny rise_one talk_frown towards@] ...alright, if you say so. So what's stopping you exactly, if you and dad built this \"battery\" already?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:72 ## translate crowdin cylindrical_container_scene_1_lab_c641a1a3:
 msgid "[@maddie@] Well unfortunately, I was having some trouble finding the original thermos model I used back in college. It's been twenty years since we went to Madison, after all."
@@ -91,8 +91,8 @@ msgid "[@maddie@] Most likely your father had been salvaging tiny pieces from it
 msgstr "[@maddie@] Most likely your father had been salvaging tiny pieces from it for his other inventions over the years. It was most likely used as a source of scrap."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:84 ## translate crowdin cylindrical_container_scene_1_lab_c1dac77a:
-msgid "[@jack@] Sorry gang, but this family might not have survived without those £*£*£*£Fenton Spectral-Cavity Erosion£*£*£*£ toothbrushes I invented!"
-msgstr "[@jack@] Sorry gang, but this family might not have survived without those £*£*£*£Fenton Spectral-Cavity Erosion£*£*£*£ toothbrushes I invented!"
+msgid "[@jack@] Sorry gang, but this family might not have survived without those \"Fenton Spectral-Cavity Erosion\" toothbrushes I invented!"
+msgstr "[@jack@] Sorry gang, but this family might not have survived without those \"Fenton Spectral-Cavity Erosion\" toothbrushes I invented!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:87 ## translate crowdin cylindrical_container_scene_1_lab_9c702bb8:
 msgid "[@danny at_danny sad talk_frown@] Oh yeah, I remember the Fenton toothbrushes... my gums {i}still{/i} bleed a little when I smile too much..."
@@ -175,8 +175,8 @@ msgid "[@danny@] Just like a couple of tiny screws, maybe some bolts, some wirin
 msgstr "[@danny@] Just like a couple of tiny screws, maybe some bolts, some wiring... you wouldn't happen to have anything like that, would you?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:164 ## translate crowdin cylindrical_container_scene_2_mystery_shop_f9fb19ec:
-msgid "[@box_ghost talk_2 sad_2@] Ahh, I see! You are looking for the coveted and elusive £*£*£*£Box-O-Parts£*£*£*£ deluxe package from {b}Zone-Mart{/b}!"
-msgstr "[@box_ghost talk_2 sad_2@] Ahh, I see! You are looking for the coveted and elusive £*£*£*£Box-O-Parts£*£*£*£ deluxe package from {b}Zone-Mart{/b}!"
+msgid "[@box_ghost talk_2 sad_2@] Ahh, I see! You are looking for the coveted and elusive \"Box-O-Parts\" deluxe package from {b}Zone-Mart{/b}!"
+msgstr "[@box_ghost talk_2 sad_2@] Ahh, I see! You are looking for the coveted and elusive \"Box-O-Parts\" deluxe package from {b}Zone-Mart{/b}!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:165 ## translate crowdin cylindrical_container_scene_2_mystery_shop_76c5020e:
 msgid "[@box_ghost neutral talk@] It comes with everything a young and brilliant shopper such as yourself would need to patch up any sort of invention you may be building!"
@@ -187,12 +187,12 @@ msgid "[@danny@] Uhm, well, I'm not the inventor exactly, my mom and dad are. Th
 msgstr "[@danny@] Uhm, well, I'm not the inventor exactly, my mom and dad are. They just need some random assorted pieces for a certain... {i}project{/i}, is all."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:168 ## translate crowdin cylindrical_container_scene_2_mystery_shop_8e4e1b88:
-msgid "[@box_ghost sad_2 talk@] Oh, trust me buddy, {i}anything{/i} you need for simple and or sophisticated machinery tinkering can be found in the illustrious £*£*£*£Box-O-Parts£*£*£*£!"
-msgstr "[@box_ghost sad_2 talk@] Oh, trust me buddy, {i}anything{/i} you need for simple and or sophisticated machinery tinkering can be found in the illustrious £*£*£*£Box-O-Parts£*£*£*£!"
+msgid "[@box_ghost sad_2 talk@] Oh, trust me buddy, {i}anything{/i} you need for simple and or sophisticated machinery tinkering can be found in the illustrious \"Box-O-Parts\"!"
+msgstr "[@box_ghost sad_2 talk@] Oh, trust me buddy, {i}anything{/i} you need for simple and or sophisticated machinery tinkering can be found in the illustrious \"Box-O-Parts\"!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:170 ## translate crowdin cylindrical_container_scene_2_mystery_shop_6dd292a1:
-msgid "[@danny@] Alright, you've sold me! I'll take one of the £*£*£*£Box-O-Parts£*£*£*£ please."
-msgstr "[@danny@] Alright, you've sold me! I'll take one of the £*£*£*£Box-O-Parts£*£*£*£ please."
+msgid "[@danny@] Alright, you've sold me! I'll take one of the \"Box-O-Parts\" please."
+msgstr "[@danny@] Alright, you've sold me! I'll take one of the \"Box-O-Parts\" please."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:171 ## translate crowdin cylindrical_container_scene_2_mystery_shop_c330ed44:
 msgid "[@box_ghost talk_frown sad towards_wide@] Uhm, well, that's great and all, but we uh, don't exactly have any in stock at the moment."
@@ -207,8 +207,8 @@ msgid "[@box_ghost angry_low center_2 talk_frown_2@] Because I'm a nice guy and 
 msgstr "[@box_ghost angry_low center_2 talk_frown_2@] Because I'm a nice guy and I try my best to be helpful, alright?!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:176 ## translate crowdin cylindrical_container_scene_2_mystery_shop_ea9e6f08:
-msgid "[@danny@] Alright, you're a nice guy, jeez! Fine then, I'm gonna have to find this £*£*£*£{b}Zone-Mart{/b}£*£*£*£ place on my own to get it I guess."
-msgstr "[@danny@] Alright, you're a nice guy, jeez! Fine then, I'm gonna have to find this £*£*£*£{b}Zone-Mart{/b}£*£*£*£ place on my own to get it I guess."
+msgid "[@danny@] Alright, you're a nice guy, jeez! Fine then, I'm gonna have to find this \"{b}Zone-Mart{/b}\" place on my own to get it I guess."
+msgstr "[@danny@] Alright, you're a nice guy, jeez! Fine then, I'm gonna have to find this \"{b}Zone-Mart{/b}\" place on my own to get it I guess."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:177 ## translate crowdin cylindrical_container_scene_2_mystery_shop_9dfd3886:
 msgid "[@box_ghost sad_2 talk_frown@] Dehh, no, wait! Don't go, you won't be able to find it!"
@@ -263,8 +263,8 @@ msgid "[@danny@] Okay, so I just can't get it then?"
 msgstr "[@danny@] Okay, so I just can't get it then?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:199 ## translate crowdin cylindrical_container_scene_2_mystery_shop_54845ac2:
-msgid "[@box_ghost talk sad@] Look, here's what I'll do for you: I'll order it through my £*£*£*£friend£*£*£*£ who lives in Toronto, and he'll deliver it for us."
-msgstr "[@box_ghost talk sad@] Look, here's what I'll do for you: I'll order it through my £*£*£*£friend£*£*£*£ who lives in Toronto, and he'll deliver it for us."
+msgid "[@box_ghost talk sad@] Look, here's what I'll do for you: I'll order it through my \"friend\" who lives in Toronto, and he'll deliver it for us."
+msgstr "[@box_ghost talk sad@] Look, here's what I'll do for you: I'll order it through my \"friend\" who lives in Toronto, and he'll deliver it for us."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:200 ## translate crowdin cylindrical_container_scene_2_mystery_shop_158e9895:
 msgid "[@box_ghost sad_2 talk_2@] All I'll ask is for a {b}small{/b} delivery fee, along with the price of the box! Sound fair?"
@@ -275,8 +275,8 @@ msgid "[@danny@] I mean, not really, but I don't see what other option I have, s
 msgstr "[@danny@] I mean, not really, but I don't see what other option I have, so-"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:205 ## translate crowdin cylindrical_container_scene_2_mystery_shop_01f22dc8:
-msgid "[@box_ghost talk sad@] Great! So for the £*£*£*£Box-O-Parts£*£*£*£ along with the delivery fee, it'll be about... $[box_o_parts_cost]!"
-msgstr "[@box_ghost talk sad@] Great! So for the £*£*£*£Box-O-Parts£*£*£*£ along with the delivery fee, it'll be about... $[box_o_parts_cost]!"
+msgid "[@box_ghost talk sad@] Great! So for the \"Box-O-Parts\" along with the delivery fee, it'll be about... $[box_o_parts_cost]!"
+msgstr "[@box_ghost talk sad@] Great! So for the \"Box-O-Parts\" along with the delivery fee, it'll be about... $[box_o_parts_cost]!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:222 ## translate crowdin discuss_mystery_box_quest_5e1b776b:
 msgid "[@box_ghost angry talk_frown@] Hey, postage to Canada isn't cheap, buddy!"
@@ -299,8 +299,8 @@ msgid "[@box_ghost talk_2 sad@] Alrighty dighty, buddy, the box should arrive in
 msgstr "[@box_ghost talk_2 sad@] Alrighty dighty, buddy, the box should arrive in a couple of days or so! Stop by anytime to check if it arrived!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:251 ## translate crowdin discuss_mystery_box_quest_7534da0f:
-msgid "[@danny@] Can't you just give me your friends contact number in £*£*£*£Toronto£*£*£*£?"
-msgstr "[@danny@] Can't you just give me your friends contact number in £*£*£*£Toronto£*£*£*£?"
+msgid "[@danny@] Can't you just give me your friends contact number in \"Toronto\"?"
+msgstr "[@danny@] Can't you just give me your friends contact number in \"Toronto\"?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:252 ## translate crowdin discuss_mystery_box_quest_253d74f5:
 msgid "[@box_ghost sad talk_frown@] No, 'fraid not! He doesn't like dealing with Americans."
@@ -395,8 +395,8 @@ msgid "[@danny talk_frown at_player sad@] Mom probably really wants to get it fi
 msgstr "[@danny talk_frown at_player sad@] Mom probably really wants to get it finished soon. I should head to the Mystery Shop to see if that guy's friend from Toronto delievered it yet."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:345 ## translate crowdin cylindrical_container_scene_3_bedroom_b22141f5:
-msgid "[@danny neutral talk_frown_2@] Oh, who am I kidding? That £*£*£*£Toronto£*£*£*£ story was such a load of bull. He probably just swipes parts from around town. That guy was {i}way{/i} too shady to be legit."
-msgstr "[@danny neutral talk_frown_2@] Oh, who am I kidding? That £*£*£*£Toronto£*£*£*£ story was such a load of bull. He probably just swipes parts from around town. That guy was {i}way{/i} too shady to be legit."
+msgid "[@danny neutral talk_frown_2@] Oh, who am I kidding? That \"Toronto\" story was such a load of bull. He probably just swipes parts from around town. That guy was {i}way{/i} too shady to be legit."
+msgstr "[@danny neutral talk_frown_2@] Oh, who am I kidding? That \"Toronto\" story was such a load of bull. He probably just swipes parts from around town. That guy was {i}way{/i} too shady to be legit."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:347 ## translate crowdin cylindrical_container_scene_3_bedroom_1e45c0a5:
 msgid "[@danny towards sad talk_frown@] Well, stolen or not, it's time to go and get what I paid for."
@@ -411,12 +411,12 @@ msgid "[@box_ghost talk_frown@] Huh? For what?"
 msgstr "[@box_ghost talk_frown@] Huh? For what?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:376 ## translate crowdin cylindrical_container_scene_4_mystery_shop_06c12044:
-msgid "[@danny@] ...for my package I ordered? The whole £*£*£*£Box-O-Parts£*£*£*£ thing, I paid for it a couple days ago?"
-msgstr "[@danny@] ...for my package I ordered? The whole £*£*£*£Box-O-Parts£*£*£*£ thing, I paid for it a couple days ago?"
+msgid "[@danny@] ...for my package I ordered? The whole \"Box-O-Parts\" thing, I paid for it a couple days ago?"
+msgstr "[@danny@] ...for my package I ordered? The whole \"Box-O-Parts\" thing, I paid for it a couple days ago?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:377 ## translate crowdin cylindrical_container_scene_4_mystery_shop_073224a1:
-msgid "[@box_ghost confused towards talk_frown@] £*£*£*£Box-O-Parts£*£*£*£? What are you-"
-msgstr "[@box_ghost confused towards talk_frown@] £*£*£*£Box-O-Parts£*£*£*£? What are you-"
+msgid "[@box_ghost confused towards talk_frown@] \"Box-O-Parts\"? What are you-"
+msgstr "[@box_ghost confused towards talk_frown@] \"Box-O-Parts\"? What are you-"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:378 ## translate crowdin cylindrical_container_scene_4_mystery_shop_6eb97958:
 msgid "[@box_ghost sad_2 center_1 talk_2@] Ohhh!! Oh yeah, I remember you now! That's right, the scientist boy!"
@@ -459,8 +459,8 @@ msgid "[@danny@] Uhm, because I get to give her the box of pieces she needs...?"
 msgstr "[@danny@] Uhm, because I get to give her the box of pieces she needs...?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:393 ## translate crowdin cylindrical_container_scene_4_mystery_shop_c7b2a69c:
-msgid "[@box_ghost angry talk_frown_2@] Huh? Oh, no, I'm not giving you the £*£*£*£Box-O-Parts£*£*£*£, no way!"
-msgstr "[@box_ghost angry talk_frown_2@] Huh? Oh, no, I'm not giving you the £*£*£*£Box-O-Parts£*£*£*£, no way!"
+msgid "[@box_ghost angry talk_frown_2@] Huh? Oh, no, I'm not giving you the \"Box-O-Parts\", no way!"
+msgstr "[@box_ghost angry talk_frown_2@] Huh? Oh, no, I'm not giving you the \"Box-O-Parts\", no way!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:395 ## translate crowdin cylindrical_container_scene_4_mystery_shop_23829561:
 msgid "[@danny@] What?! Why not?!"
@@ -671,16 +671,16 @@ msgid "[@box_ghost_blue talk_frown_2 sad_2@] Yes, of course! I'm sorry Ghost Boy
 msgstr "[@box_ghost_blue talk_frown_2 sad_2@] Yes, of course! I'm sorry Ghost Boy, I swear! Never again will I take the boxes and containers of living mortals!!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:522 ## translate crowdin cylindrical_container_postfight_1284d537:
-msgid "[@danny@] (Well this worked out pretty well... I got my things, and now I have my first link to this £*£*£*£Ghost Zone£*£*£*£ place.)"
-msgstr "[@danny@] (Well this worked out pretty well... I got my things, and now I have my first link to this £*£*£*£Ghost Zone£*£*£*£ place.)"
+msgid "[@danny@] (Well this worked out pretty well... I got my things, and now I have my first link to this \"Ghost Zone\" place.)"
+msgstr "[@danny@] (Well this worked out pretty well... I got my things, and now I have my first link to this \"Ghost Zone\" place.)"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:524 ## translate crowdin cylindrical_container_postfight_bfb7d29b:
 msgid "[@danny@] (Hopefully I won't regret leaving this box dork to continue working here...)"
 msgstr "[@danny@] (Hopefully I won't regret leaving this box dork to continue working here...)"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:526 ## translate crowdin cylindrical_container_postfight_311698c4:
-msgid "[@danny@] (£*£*£*£Box Ghost£*£*£*£ though... seriously? Why {b}boxes{/b} of all things?)"
-msgstr "[@danny@] (£*£*£*£Box Ghost£*£*£*£ though... seriously? Why {b}boxes{/b} of all things?)"
+msgid "[@danny@] (\"Box Ghost\" though... seriously? Why {b}boxes{/b} of all things?)"
+msgstr "[@danny@] (\"Box Ghost\" though... seriously? Why {b}boxes{/b} of all things?)"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:548 ## translate crowdin cylindrical_container_scene_5_lab_b3338bb0:
 msgid "[@danny towards_wide sad talk_happy@] Hey mom!"
@@ -863,8 +863,8 @@ msgid "[@maddie@] Husband and second-born, I proudly present to you..."
 msgstr "[@maddie@] Husband and second-born, I proudly present to you..."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:719 ## translate crowdin cylindrical_container_scene_5_lab_9d907841:
-msgid "[@maddie talk_happy towards_wide sad_2@] The £*£*£*£Fenton Thermos£*£*£*£!!"
-msgstr "[@maddie talk_happy towards_wide sad_2@] The £*£*£*£Fenton Thermos£*£*£*£!!"
+msgid "[@maddie talk_happy towards_wide sad_2@] The \"Fenton Thermos\"!!"
+msgstr "[@maddie talk_happy towards_wide sad_2@] The \"Fenton Thermos\"!!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:722 ## translate crowdin cylindrical_container_scene_5_lab_d1ff52d1:
 msgid "[@jack@] Way to go, hot stuff! She's a beaut'!"
@@ -879,8 +879,8 @@ msgid "[@maddie closed sad talk_happy blush@] Oh boys, stop it! You're making me
 msgstr "[@maddie closed sad talk_happy blush@] Oh boys, stop it! You're making me blush..."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:732 ## translate crowdin cylindrical_container_scene_5_lab_5ef4f9be:
-msgid "[@jack@] It's too bad we couldn't find a good place for a £*£*£*£Fenton Works£*£*£*£ sticker to go on it."
-msgstr "[@jack@] It's too bad we couldn't find a good place for a £*£*£*£Fenton Works£*£*£*£ sticker to go on it."
+msgid "[@jack@] It's too bad we couldn't find a good place for a \"Fenton Works\" sticker to go on it."
+msgstr "[@jack@] It's too bad we couldn't find a good place for a \"Fenton Works\" sticker to go on it."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:734 ## translate crowdin cylindrical_container_scene_5_lab_ebe943a2:
 msgid "[@maddie closed talk_happy_2 sad_2@] Hah ha, oh Jack! Not everything needs a brand label. Even if it's a brand as good as the Fenton name."
@@ -1239,8 +1239,8 @@ msgid "[@jack@] Well, I heard {b}enough{/b}, son, believe me."
 msgstr "[@jack@] Well, I heard {b}enough{/b}, son, believe me."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:975 ## translate crowdin cylindrical_container_scene_5_lab_e625d63d:
-msgid "[@jack@] I know it must be rather... {i}strange{/i} to be going through what you're experiencing right now: the uncertainty, the hot sweats, those £*£*£*£funny feelings£*£*£*£ you keep getting... am I about in the ball park?"
-msgstr "[@jack@] I know it must be rather... {i}strange{/i} to be going through what you're experiencing right now: the uncertainty, the hot sweats, those £*£*£*£funny feelings£*£*£*£ you keep getting... am I about in the ball park?"
+msgid "[@jack@] I know it must be rather... {i}strange{/i} to be going through what you're experiencing right now: the uncertainty, the hot sweats, those \"funny feelings\" you keep getting... am I about in the ball park?"
+msgstr "[@jack@] I know it must be rather... {i}strange{/i} to be going through what you're experiencing right now: the uncertainty, the hot sweats, those \"funny feelings\" you keep getting... am I about in the ball park?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:977 ## translate crowdin cylindrical_container_scene_5_lab_4dd56cb2:
 msgid "[@danny rise_one towards_wide talk_frown_2@] Well, yeah... s-so you know what I'm going through?"
@@ -1267,8 +1267,8 @@ msgid "[@danny rise_one at_danny talk_frown@] But, I mean... isn't it kinda weir
 msgstr "[@danny rise_one at_danny talk_frown@] But, I mean... isn't it kinda weird, though? Aren't you mad at me?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:993 ## translate crowdin cylindrical_container_scene_5_lab_1dd19193:
-msgid "[@jack@] Well, maybe for some other families it might be considered £*£*£*£bizarre£*£*£*£ or not quite £*£*£*£normal£*£*£*£, but for us Fentons, it's as normal as salmon swimmin' up stream!"
-msgstr "[@jack@] Well, maybe for some other families it might be considered £*£*£*£bizarre£*£*£*£ or not quite £*£*£*£normal£*£*£*£, but for us Fentons, it's as normal as salmon swimmin' up stream!"
+msgid "[@jack@] Well, maybe for some other families it might be considered \"bizarre\" or not quite \"normal\", but for us Fentons, it's as normal as salmon swimmin' up stream!"
+msgstr "[@jack@] Well, maybe for some other families it might be considered \"bizarre\" or not quite \"normal\", but for us Fentons, it's as normal as salmon swimmin' up stream!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:996 ## translate crowdin cylindrical_container_scene_5_lab_4134a25a:
 msgid "[@jack@] Also, be {b}mad{/b}?? At {i}you{/i}?! Why Danny, I couldn't be more {b}proud{/b} of the way you're feeling! Nothing strange or abnormal about it!!"
@@ -1383,8 +1383,8 @@ msgid "[@jack@] Welp, while the Fenton Thermos might've been a bust, that doesn'
 msgstr "[@jack@] Welp, while the Fenton Thermos might've been a bust, that doesn't mean the invention {i}I'm{/i} working on now will be!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:1065 ## translate crowdin cylindrical_container_scene_5_lab_1272e12a:
-msgid "[@jack@] I call it, the £*£*£*£Fenton Feline Phantasm Eliminator£*£*£*£!!"
-msgstr "[@jack@] I call it, the £*£*£*£Fenton Feline Phantasm Eliminator£*£*£*£!!"
+msgid "[@jack@] I call it, the \"Fenton Feline Phantasm Eliminator\"!!"
+msgstr "[@jack@] I call it, the \"Fenton Feline Phantasm Eliminator\"!!"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:1068 ## translate crowdin cylindrical_container_scene_5_lab_47d4db2a:
 msgid "[@jack@] ...it's a hair brush that gets out evil spirits from your cat's body."
@@ -1511,18 +1511,18 @@ msgid "[@danny towards neutral frown_2@] (Ehh, it'll come to me later.)"
 msgstr "[@danny towards neutral frown_2@] (Ehh, it'll come to me later.)"
 
 # XXtranslate crowdin strings:XX# XX## game/code/episodes/episode_4/episode_4_cylindrical.rpy:212
-msgid @+@+@[mschoice] Would you like to order the £*£*£*£Box-O-Parts£*£*£*£ through the Mystery Shop guy?"
-msgstr @+@+@[mschoice] Would you like to order the £*£*£*£Box-O-Parts£*£*£*£ through the Mystery Shop guy?"
+msgid "[mschoice] Would you like to order the \"Box-O-Parts\" through the Mystery Shop guy?"
+msgstr "[mschoice] Would you like to order the \"Box-O-Parts\" through the Mystery Shop guy?"
 
 # XX## game/code/episodes/episode_4/episode_4_cylindrical.rpy:212
-msgid @+@+@[mschoice] Sure, I don't think I'll be able to get it otherwise."
-msgstr @+@+@[mschoice] Sure, I don't think I'll be able to get it otherwise."
+msgid "[mschoice] Sure, I don't think I'll be able to get it otherwise."
+msgstr "[mschoice] Sure, I don't think I'll be able to get it otherwise."
 
 # XX## game/code/episodes/episode_4/episode_4_cylindrical.rpy:212
-msgid @+@+@[mschoice] Can't you just give me your friends contact number in £*£*£*£Toronto£*£*£*£?"
-msgstr @+@+@[mschoice] Can't you just give me your friends contact number in £*£*£*£Toronto£*£*£*£?"
+msgid "[mschoice] Can't you just give me your friends contact number in \"Toronto\"?"
+msgstr "[mschoice] Can't you just give me your friends contact number in \"Toronto\"?"
 
 # XX## game/code/episodes/episode_4/episode_4_cylindrical.rpy:212
-msgid @+@+@[mschoice] No thanks, I don't wanna buy anything right now."
-msgstr @+@+@[mschoice] No thanks, I don't wanna buy anything right now."
+msgid "[mschoice] No thanks, I don't wanna buy anything right now."
+msgstr "[mschoice] No thanks, I don't wanna buy anything right now."
 

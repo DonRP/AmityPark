@@ -43,16 +43,16 @@ msgid "[@danny talk_happy@] Hey guys!"
 msgstr "[@danny talk_happy@] Hey guys!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:61 ## translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_939c5dcb:
-msgid "[@sam_tucker@] £*£*£*£{i}Ahh, good {b}morrow{/b}, oh wandering spirit boy!{/i}£*£*£*£"
-msgstr "[@sam_tucker@] £*£*£*£{i}Ahh, good {b}morrow{/b}, oh wandering spirit boy!{/i}£*£*£*£"
+msgid "[@sam_tucker@] \"{i}Ahh, good {b}morrow{/b}, oh wandering spirit boy!{/i}\""
+msgstr "[@sam_tucker@] \"{i}Ahh, good {b}morrow{/b}, oh wandering spirit boy!{/i}\""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:64 ## translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_a4fe799b:
 msgid "[@danny towards talk_frown@] Uhm... what's with the regal doofus inflection you guys are speaking with?"
 msgstr "[@danny towards talk_frown@] Uhm... what's with the regal doofus inflection you guys are speaking with?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:67 ## translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_59a4a94a:
-msgid "[@sam talk_happy@] Well, we figured you could use some sort've £*£*£*£Gentleman Ghost£*£*£*£ type vibe to your alter ego, instead of just relying on the old £*£*£*£angsty teenager with superpowers£*£*£*£ trope."
-msgstr "[@sam talk_happy@] Well, we figured you could use some sort've £*£*£*£Gentleman Ghost£*£*£*£ type vibe to your alter ego, instead of just relying on the old £*£*£*£angsty teenager with superpowers£*£*£*£ trope."
+msgid "[@sam talk_happy@] Well, we figured you could use some sort've \"Gentleman Ghost\" type vibe to your alter ego, instead of just relying on the old \"angsty teenager with superpowers\" trope."
+msgstr "[@sam talk_happy@] Well, we figured you could use some sort've \"Gentleman Ghost\" type vibe to your alter ego, instead of just relying on the old \"angsty teenager with superpowers\" trope."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:70 ## translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_fa8cf8e6:
 msgid "[@tucker towards talk_happy sad@] Yeah, so if you happen to know how to speak with some sort've posh or British accent, you should try that out!"
@@ -67,16 +67,16 @@ msgid "[@tucker blank_stare talk_happy neutral@] It's funny talking like a stuff
 msgstr "[@tucker blank_stare talk_happy neutral@] It's funny talking like a stuffy old dead rich guy."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:78 ## translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_30b95425:
-msgid "[@tucker ahegao sad@] £*£*£*£Wouldn'st thou agreeth as well, madam Manson?£*£*£*£"
-msgstr "[@tucker ahegao sad@] £*£*£*£Wouldn'st thou agreeth as well, madam Manson?£*£*£*£"
+msgid "[@tucker ahegao sad@] \"Wouldn'st thou agreeth as well, madam Manson?\""
+msgstr "[@tucker ahegao sad@] \"Wouldn'st thou agreeth as well, madam Manson?\""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:81 ## translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_6191ec2e:
-msgid "[@sam closed talk_happy sad@] £*£*£*£Indubitably, Master Foley!!£*£*£*£"
-msgstr "[@sam closed talk_happy sad@] £*£*£*£Indubitably, Master Foley!!£*£*£*£"
+msgid "[@sam closed talk_happy sad@] \"Indubitably, Master Foley!!\""
+msgstr "[@sam closed talk_happy sad@] \"Indubitably, Master Foley!!\""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:84 ## translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_bf4cde1b:
-msgid "[@danny towards talk_happy sad@] While I certainly appreciate the creative ideas you guys are trying to put into my silly little hero persona, I really don't think £*£*£*£primp and proper£*£*£*£ suits ghost fighting."
-msgstr "[@danny towards talk_happy sad@] While I certainly appreciate the creative ideas you guys are trying to put into my silly little hero persona, I really don't think £*£*£*£primp and proper£*£*£*£ suits ghost fighting."
+msgid "[@danny towards talk_happy sad@] While I certainly appreciate the creative ideas you guys are trying to put into my silly little hero persona, I really don't think \"primp and proper\" suits ghost fighting."
+msgstr "[@danny towards talk_happy sad@] While I certainly appreciate the creative ideas you guys are trying to put into my silly little hero persona, I really don't think \"primp and proper\" suits ghost fighting."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:85 ## translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_06429d5a:
 msgid "[@danny closed talk_happy_2 wondering@] For now though, I'll stick with the angsty teenager trope."
@@ -255,8 +255,8 @@ msgid "[@danny towards talk_happy rise_one@] Come on guy let's go already!"
 msgstr "[@danny towards talk_happy rise_one@] Come on guy let's go already!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:235 ## translate crowdin A_Stroke_After_Midnight_scene_3_mall_caf5d817:
-msgid "[@danny at_player sad talk_happy@] {i}*Sigh*{/i} Ahh, the mall feels so perfectly £*£*£*£teen-ish£*£*£*£ today. It's a great place to be, just before the holidays hit."
-msgstr "[@danny at_player sad talk_happy@] {i}*Sigh*{/i} Ahh, the mall feels so perfectly £*£*£*£teen-ish£*£*£*£ today. It's a great place to be, just before the holidays hit."
+msgid "[@danny at_player sad talk_happy@] {i}*Sigh*{/i} Ahh, the mall feels so perfectly \"teen-ish\" today. It's a great place to be, just before the holidays hit."
+msgstr "[@danny at_player sad talk_happy@] {i}*Sigh*{/i} Ahh, the mall feels so perfectly \"teen-ish\" today. It's a great place to be, just before the holidays hit."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:236 ## translate crowdin A_Stroke_After_Midnight_scene_3_mall_f3269f82:
 msgid "[@danny blank_stare rise_one talk_frown_2@] Although that doesn't stop them from putting up all the decorations early... it's still {b}September{/b} after all!!"
@@ -339,8 +339,8 @@ msgid "[@sam talk_happy sad@] Same here. Probably won't wear what he's wearing b
 msgstr "[@sam talk_happy sad@] Same here. Probably won't wear what he's wearing but... I'd like an outfit as well."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:324 ## translate crowdin A_Stroke_After_Midnight_scene_4_abYss_f505c6ac:
-msgid "[@sales_lady talk_happy sad@] Okay great, well I'll have you young lady take a look into our £*£*£*£Portly£*£*£*£ girl's section on the right, and I'll take {b}you{/b} young man right over here!"
-msgstr "[@sales_lady talk_happy sad@] Okay great, well I'll have you young lady take a look into our £*£*£*£Portly£*£*£*£ girl's section on the right, and I'll take {b}you{/b} young man right over here!"
+msgid "[@sales_lady talk_happy sad@] Okay great, well I'll have you young lady take a look into our \"Portly\" girl's section on the right, and I'll take {b}you{/b} young man right over here!"
+msgstr "[@sales_lady talk_happy sad@] Okay great, well I'll have you young lady take a look into our \"Portly\" girl's section on the right, and I'll take {b}you{/b} young man right over here!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:327 ## translate crowdin A_Stroke_After_Midnight_scene_4_abYss_1aa0c441:
 msgid "[@sam talk_frown confused@] {u}Portly?!{/u}"
@@ -515,8 +515,8 @@ msgid "[@danny rise_one talk_frown@] Uhm, hey girls, look, I don't think you sho
 msgstr "[@danny rise_one talk_frown@] Uhm, hey girls, look, I don't think you should be calling a ghost you don't know anything about such mean nam-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:505 ## translate crowdin A_Stroke_After_Midnight_scene_4_abYss_cb56f68b:
-msgid "[@star talk_frown towards angry@] {i}Hmmph{/i}!! Well, well, if it isn't the £*£*£*£amazing£*£*£*£ Inviso-Bill and his..."
-msgstr "[@star talk_frown towards angry@] {i}Hmmph{/i}!! Well, well, if it isn't the £*£*£*£amazing£*£*£*£ Inviso-Bill and his..."
+msgid "[@star talk_frown towards angry@] {i}Hmmph{/i}!! Well, well, if it isn't the \"amazing\" Inviso-Bill and his..."
+msgstr "[@star talk_frown towards angry@] {i}Hmmph{/i}!! Well, well, if it isn't the \"amazing\" Inviso-Bill and his..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:508 ## translate crowdin A_Stroke_After_Midnight_scene_4_abYss_aa6450e8:
 msgid "[@star down talk_frown rise_one@] ...stupid shoes!"
@@ -603,8 +603,8 @@ msgid "[@dorathea@] You've just put all of my worry away! Oh thank you, my phant
 msgstr "[@dorathea@] You've just put all of my worry away! Oh thank you, my phantom knight!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:588 ## translate crowdin A_Stroke_After_Midnight_scene_4_abYss_f672597d:
-msgid "[@danny blank_stare rise_one talk_happy@] Uhm, yeah, you're welcome! (Dang, £*£*£*£Phantom Knight£*£*£*£? Now {i}there's{/i} a name!)"
-msgstr "[@danny blank_stare rise_one talk_happy@] Uhm, yeah, you're welcome! (Dang, £*£*£*£Phantom Knight£*£*£*£? Now {i}there's{/i} a name!)"
+msgid "[@danny blank_stare rise_one talk_happy@] Uhm, yeah, you're welcome! (Dang, \"Phantom Knight\"? Now {i}there's{/i} a name!)"
+msgstr "[@danny blank_stare rise_one talk_happy@] Uhm, yeah, you're welcome! (Dang, \"Phantom Knight\"? Now {i}there's{/i} a name!)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:591 ## translate crowdin A_Stroke_After_Midnight_scene_4_abYss_f0e3e24d:
 msgid "[@dorathea@] Oh, how it'll be so magical, dancing with you as my date and soon to be betrothed!"
@@ -615,8 +615,8 @@ msgid "[@danny closed_happy talk_happy_2@] Yeah, see, there's no reason to be so
 msgstr "[@danny closed_happy talk_happy_2@] Yeah, see, there's no reason to be so..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:595 ## translate crowdin A_Stroke_After_Midnight_scene_4_abYss_30d32d41:
-msgid "[@danny talk_frown towards_wide sad@] Wait... £*£*£*£{u}betrothed{/u}£*£*£*£? Oh, n-no, we're not getting married or anything, I'm much too young for that. I also think I have a slight fear of immediate commitment."
-msgstr "[@danny talk_frown towards_wide sad@] Wait... £*£*£*£{u}betrothed{/u}£*£*£*£? Oh, n-no, we're not getting married or anything, I'm much too young for that. I also think I have a slight fear of immediate commitment."
+msgid "[@danny talk_frown towards_wide sad@] Wait... \"{u}betrothed{/u}\"? Oh, n-no, we're not getting married or anything, I'm much too young for that. I also think I have a slight fear of immediate commitment."
+msgstr "[@danny talk_frown towards_wide sad@] Wait... \"{u}betrothed{/u}\"? Oh, n-no, we're not getting married or anything, I'm much too young for that. I also think I have a slight fear of immediate commitment."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:598 ## translate crowdin A_Stroke_After_Midnight_scene_4_abYss_d77ac838:
 msgid "[@dorathea@] Oh, but then... how would we be able to go to the ball together if you were not my engaged escort? That wouldn't be very proper royal formality, my knight..."
@@ -703,8 +703,8 @@ msgid "[@danny talk_frown up_wide_2 angry@] Alright then, prepare thyself to be 
 msgstr "[@danny talk_frown up_wide_2 angry@] Alright then, prepare thyself to be slain, foul beast!!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:688 ## translate crowdin A_Stroke_After_Midnight_scene_4_abYss_42e8bb85:
-msgid "[@danny at_danny sad smile@] (Hmmm... maybe the whole £*£*£*£Gentleman Ghost£*£*£*£ thing isn't such a bad idea!)"
-msgstr "[@danny at_danny sad smile@] (Hmmm... maybe the whole £*£*£*£Gentleman Ghost£*£*£*£ thing isn't such a bad idea!)"
+msgid "[@danny at_danny sad smile@] (Hmmm... maybe the whole \"Gentleman Ghost\" thing isn't such a bad idea!)"
+msgstr "[@danny at_danny sad smile@] (Hmmm... maybe the whole \"Gentleman Ghost\" thing isn't such a bad idea!)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:689 ## translate crowdin A_Stroke_After_Midnight_scene_4_abYss_e7e1d4a2:
 msgid "[@danny neutral frown_2 blank_stare@] (Nah, still just sounds pretty dorky...)"
@@ -819,8 +819,8 @@ msgid "[@star talk_frown angry down@] His name is Billy, you stupid possum face!
 msgstr "[@star talk_frown angry down@] His name is Billy, you stupid possum face!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:796 ## translate crowdin A_Stroke_After_Midnight_postfight_999c3f9d:
-msgid "[@paulina away talk_frown rise_one_2@] That's stupid!! What kinda name is Billy for a ghost?! Also, {i}excuuuuuse{/i} me?! £*£*£*£Possum face£*£*£*£?!"
-msgstr "[@paulina away talk_frown rise_one_2@] That's stupid!! What kinda name is Billy for a ghost?! Also, {i}excuuuuuse{/i} me?! £*£*£*£Possum face£*£*£*£?!"
+msgid "[@paulina away talk_frown rise_one_2@] That's stupid!! What kinda name is Billy for a ghost?! Also, {i}excuuuuuse{/i} me?! \"Possum face\"?!"
+msgstr "[@paulina away talk_frown rise_one_2@] That's stupid!! What kinda name is Billy for a ghost?! Also, {i}excuuuuuse{/i} me?! \"Possum face\"?!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:798 ## translate crowdin A_Stroke_After_Midnight_postfight_c2db1a78:
 msgid "[@danny towards talk_frown_2 neutral@] Ladies, ladies! Please, relax. Honestly, I didn't even know I was {b}going{/b} to the dance."
@@ -851,8 +851,8 @@ msgid "[@danny wondering talk_happy_2@] Uhm, look, I'm gonna go clear my head fo
 msgstr "[@danny wondering talk_happy_2@] Uhm, look, I'm gonna go clear my head for a bit in the, uh... {i}Ghost Zone{/i}... but I'll think about it!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:814 ## translate crowdin A_Stroke_After_Midnight_postfight_cdea7b16:
-msgid "[@paulina talk_happy rise_one towards@] £*£*£*£Ghost Zone£*£*£*£? {i}Oooooooh{/i}, mysterious..."
-msgstr "[@paulina talk_happy rise_one towards@] £*£*£*£Ghost Zone£*£*£*£? {i}Oooooooh{/i}, mysterious..."
+msgid "[@paulina talk_happy rise_one towards@] \"Ghost Zone\"? {i}Oooooooh{/i}, mysterious..."
+msgstr "[@paulina talk_happy rise_one towards@] \"Ghost Zone\"? {i}Oooooooh{/i}, mysterious..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:816 ## translate crowdin A_Stroke_After_Midnight_postfight_5b328e5f:
 msgid "[@danny at_danny rise_one talk_happy@] Yeah, I know, ghost life can be pretty cool... but again, my buddy Danny Fenton is also a {i}pretty{/i} cool guy on his own, so maybe if you asked him, he might-"
@@ -887,8 +887,8 @@ msgid "[@star talk_happy closed neutral@] He's {b}so{/b} gonna pick me."
 msgstr "[@star talk_happy closed neutral@] He's {b}so{/b} gonna pick me."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:839 ## translate crowdin A_Stroke_After_Midnight_postfight_7d61cb95:
-msgid "[@paulina angry talk_frown@] No, no, no. Let's get back to £*£*£*£possum face£*£*£*£ for a second!"
-msgstr "[@paulina angry talk_frown@] No, no, no. Let's get back to £*£*£*£possum face£*£*£*£ for a second!"
+msgid "[@paulina angry talk_frown@] No, no, no. Let's get back to \"possum face\" for a second!"
+msgstr "[@paulina angry talk_frown@] No, no, no. Let's get back to \"possum face\" for a second!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:852 ## translate crowdin A_Stroke_After_Midnight_postfight_68f0a84d:
 msgid "[@danny sad talk_frown blank_stare@] Okay, everyone's still hiding... guess I can turn back."
@@ -1159,8 +1159,8 @@ msgid "[@danny@] Gee, thanks so much, I-"
 msgstr "[@danny@] Gee, thanks so much, I-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:1048 ## translate crowdin A_Stroke_After_Midnight_buy_the_suit_de90fafd:
-msgid "[@danny@] Wait, £*£*£*£he£*£*£*£? But- why would you think- but I'm not-"
-msgstr "[@danny@] Wait, £*£*£*£he£*£*£*£? But- why would you think- but I'm not-"
+msgid "[@danny@] Wait, \"he\"? But- why would you think- but I'm not-"
+msgstr "[@danny@] Wait, \"he\"? But- why would you think- but I'm not-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:1049 ## translate crowdin A_Stroke_After_Midnight_buy_the_suit_96a21fc8:
 msgid "[@sales_lady talk_happy sad@] Thanks for shopping at AbYss! Have a nice day!"
@@ -1779,8 +1779,8 @@ msgid "[@danny talk_frown blush rise_one@] Uhm, I concur with her sentiment, {b}
 msgstr "[@danny talk_frown blush rise_one@] Uhm, I concur with her sentiment, {b}what{/b}?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:1640 ## translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_bde80249:
-msgid "[@sam sad talk_happy_2@] Yeah, we started seeing each other pretty recently. We just figured, £*£*£*£why fight it£*£*£*£? I mean, it's like you said, it was just super obvious to everyone, right?"
-msgstr "[@sam sad talk_happy_2@] Yeah, we started seeing each other pretty recently. We just figured, £*£*£*£why fight it£*£*£*£? I mean, it's like you said, it was just super obvious to everyone, right?"
+msgid "[@sam sad talk_happy_2@] Yeah, we started seeing each other pretty recently. We just figured, \"why fight it\"? I mean, it's like you said, it was just super obvious to everyone, right?"
+msgstr "[@sam sad talk_happy_2@] Yeah, we started seeing each other pretty recently. We just figured, \"why fight it\"? I mean, it's like you said, it was just super obvious to everyone, right?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:1643 ## translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_8527f728:
 msgid "[@star down_wide rise_one talk_frown@] But... so, wait, you're just... flat out dating? For real??"
@@ -1935,8 +1935,8 @@ msgid "[@danny wondering talk_happy@] Ehh, s-sure!"
 msgstr "[@danny wondering talk_happy@] Ehh, s-sure!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:1762 ## translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_de42be1b:
-msgid "[@danny rise_one talk_happy towards_wide@] Well now, look who it is! Mr. £*£*£*£I can't find a date on time£*£*£*£! From what I hear, you made out pretty well by bringing Valerie Gray along, huh?"
-msgstr "[@danny rise_one talk_happy towards_wide@] Well now, look who it is! Mr. £*£*£*£I can't find a date on time£*£*£*£! From what I hear, you made out pretty well by bringing Valerie Gray along, huh?"
+msgid "[@danny rise_one talk_happy towards_wide@] Well now, look who it is! Mr. \"I can't find a date on time\"! From what I hear, you made out pretty well by bringing Valerie Gray along, huh?"
+msgstr "[@danny rise_one talk_happy towards_wide@] Well now, look who it is! Mr. \"I can't find a date on time\"! From what I hear, you made out pretty well by bringing Valerie Gray along, huh?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:1765 ## translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_a01a0f46:
 msgid "[@sam talk_frown_2 confused@] Speaking of, where is she?"
@@ -2027,8 +2027,8 @@ msgid "[@sam at_player sad talk_bite@] You know, I still haven't had an actual d
 msgstr "[@sam at_player sad talk_bite@] You know, I still haven't had an actual drink of punch, so Imma go get some real quick."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:1832 ## translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_ea1aa9e1:
-msgid "[@tucker neutral talk_happy@] Sure thing, I'll keep your £*£*£*£boyfriend£*£*£*£ busy. Just us manly men, talking it out!"
-msgstr "[@tucker neutral talk_happy@] Sure thing, I'll keep your £*£*£*£boyfriend£*£*£*£ busy. Just us manly men, talking it out!"
+msgid "[@tucker neutral talk_happy@] Sure thing, I'll keep your \"boyfriend\" busy. Just us manly men, talking it out!"
+msgstr "[@tucker neutral talk_happy@] Sure thing, I'll keep your \"boyfriend\" busy. Just us manly men, talking it out!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:1835 ## translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_46b2542d:
 msgid "[@sam sad talk_happy_2@] Heh, thanks Tuck. I'll be back in a minute or so."
@@ -2407,8 +2407,8 @@ msgid "[@sam talk_happy drunk@] {i}Psssch!{/i} What are you, my dad suddenly?"
 msgstr "[@sam talk_happy drunk@] {i}Psssch!{/i} What are you, my dad suddenly?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2143 ## translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_face8045:
-msgid "[@sam ahegao talk_happy_3 sad_2@] £*£*£*£Blah, blah, responsibility, young lady! Blah, so act like it, blah, blah!!£*£*£*£ {i}*Snorts* *Cackles*{/i}"
-msgstr "[@sam ahegao talk_happy_3 sad_2@] £*£*£*£Blah, blah, responsibility, young lady! Blah, so act like it, blah, blah!!£*£*£*£ {i}*Snorts* *Cackles*{/i}"
+msgid "[@sam ahegao talk_happy_3 sad_2@] \"Blah, blah, responsibility, young lady! Blah, so act like it, blah, blah!!\" {i}*Snorts* *Cackles*{/i}"
+msgstr "[@sam ahegao talk_happy_3 sad_2@] \"Blah, blah, responsibility, young lady! Blah, so act like it, blah, blah!!\" {i}*Snorts* *Cackles*{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2145 ## translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_e5b2ff3a:
 msgid "[@danny towards_wide talk_frown_2@] Sam, this is serious! Did you actually pour some bourbon into the punch bowl?"
@@ -2479,8 +2479,8 @@ msgid "[@danny@] (The two of us spent the rest of the night going around to peop
 msgstr "[@danny@] (The two of us spent the rest of the night going around to people and taking their drinks away.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2184 ## translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_33894269:
-msgid "[@danny@] (A few odd stares here and there, but once I explained to them the £*£*£*£hairy situation£*£*£*£ they quickly coughed up their cup.)"
-msgstr "[@danny@] (A few odd stares here and there, but once I explained to them the £*£*£*£hairy situation£*£*£*£ they quickly coughed up their cup.)"
+msgid "[@danny@] (A few odd stares here and there, but once I explained to them the \"hairy situation\" they quickly coughed up their cup.)"
+msgstr "[@danny@] (A few odd stares here and there, but once I explained to them the \"hairy situation\" they quickly coughed up their cup.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2185 ## translate crowdin A_Stroke_After_Midnight_scene_10a_schoolhallright_9f5e1d23:
 msgid "[@danny@] (I kept throwing them away in the trash, but Sam just kept shooting the drinks back after she took them off people's hands.)"
@@ -2651,8 +2651,8 @@ msgid "[@sam talk_happy_3 angry@] Thank our inferior decorator! He's like, super
 msgstr "[@sam talk_happy_3 angry@] Thank our inferior decorator! He's like, super gay, it's so amazing..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2303 ## translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_5c5a0ef2:
-msgid "[@danny rise_one talk_happy towards@] £*£*£*£Interior£*£*£*£, Sam."
-msgstr "[@danny rise_one talk_happy towards@] £*£*£*£Interior£*£*£*£, Sam."
+msgid "[@danny rise_one talk_happy towards@] \"Interior\", Sam."
+msgstr "[@danny rise_one talk_happy towards@] \"Interior\", Sam."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2305 ## translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_d5e15e41:
 msgid "[@sam drunk_2 sad talk_frown_3@] {i}Shuuuuush{/i}... that's whuddai' said. Don't make funna' me cause I can't speak righ' now, okay?"
@@ -2959,8 +2959,8 @@ msgid "[@sam closed sad_2 talk_happy@] Danny, I have the most amazing warm tingl
 msgstr "[@sam closed sad_2 talk_happy@] Danny, I have the most amazing warm tingly feeling all over my body right now..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2485 ## translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_7842b18f:
-msgid "[@sam drunk_2 talk_happy_3@] I just want you to enjoy a nice feeling with me...~ C'mon, you're {i}technically{/i} my £*£*£*£boyfriend£*£*£*£ as well, so we might as well..."
-msgstr "[@sam drunk_2 talk_happy_3@] I just want you to enjoy a nice feeling with me...~ C'mon, you're {i}technically{/i} my £*£*£*£boyfriend£*£*£*£ as well, so we might as well..."
+msgid "[@sam drunk_2 talk_happy_3@] I just want you to enjoy a nice feeling with me...~ C'mon, you're {i}technically{/i} my \"boyfriend\" as well, so we might as well..."
+msgstr "[@sam drunk_2 talk_happy_3@] I just want you to enjoy a nice feeling with me...~ C'mon, you're {i}technically{/i} my \"boyfriend\" as well, so we might as well..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2487 ## translate crowdin A_Stroke_After_Midnight_scene_11a_stoop_61d9ac39:
 msgid "[@danny blank_stare rise_one talk_frown_2@] Uhm..."
@@ -3647,8 +3647,8 @@ msgid "[@danny sad talk_frown_2@] Hey, I'm sorry. I clearly have no idea what it
 msgstr "[@danny sad talk_frown_2@] Hey, I'm sorry. I clearly have no idea what it must feel to have been betrayed like that."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3197 ## translate crowdin ask_desiree_02_f17b758e:
-msgid "[@desiree closed talk_frown_2 neutral_2@] Of course you don't. No one could. Nobody does the whole £*£*£*£exile£*£*£*£ thing anymore to scorned lovers. I suppose that's one improvement of this millenia."
-msgstr "[@desiree closed talk_frown_2 neutral_2@] Of course you don't. No one could. Nobody does the whole £*£*£*£exile£*£*£*£ thing anymore to scorned lovers. I suppose that's one improvement of this millenia."
+msgid "[@desiree closed talk_frown_2 neutral_2@] Of course you don't. No one could. Nobody does the whole \"exile\" thing anymore to scorned lovers. I suppose that's one improvement of this millenia."
+msgstr "[@desiree closed talk_frown_2 neutral_2@] Of course you don't. No one could. Nobody does the whole \"exile\" thing anymore to scorned lovers. I suppose that's one improvement of this millenia."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3199 ## translate crowdin ask_desiree_02_d13ae04d:
 msgid "[@desiree down_2 talk_frown angry@] Still, I believe the best way to deal with my problems is to curse other fools with their own simpleton level wishes."
@@ -3751,8 +3751,8 @@ msgid "[@danny sad towards talk_frown@] So what brought you to Amity, anyway?"
 msgstr "[@danny sad towards talk_frown@] So what brought you to Amity, anyway?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3246 ## translate crowdin ask_desiree_02_aa6f807d:
-msgid "[@desiree down_2 talk_frown neutral@] It was essentially a favor I had to perform for the ghost that helped set me free. £*£*£*£Haunt the grounds£*£*£*£, cause general chaos and all that, essentially."
-msgstr "[@desiree down_2 talk_frown neutral@] It was essentially a favor I had to perform for the ghost that helped set me free. £*£*£*£Haunt the grounds£*£*£*£, cause general chaos and all that, essentially."
+msgid "[@desiree down_2 talk_frown neutral@] It was essentially a favor I had to perform for the ghost that helped set me free. \"Haunt the grounds\", cause general chaos and all that, essentially."
+msgstr "[@desiree down_2 talk_frown neutral@] It was essentially a favor I had to perform for the ghost that helped set me free. \"Haunt the grounds\", cause general chaos and all that, essentially."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3248 ## translate crowdin ask_desiree_02_2705c6f6:
 msgid "[@danny neutral talk_frown_2 towards@] Huh? Why'd they want you to do that?"
@@ -3839,8 +3839,8 @@ msgid "[@danny talk_frown_2@] What's that?"
 msgstr "[@danny talk_frown_2@] What's that?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3310 ## translate crowdin ask_desiree_02_1f058c06:
-msgid "[@desiree talk_happy towards sad@] If it would please you... and if there were a genuine opportunity to learn something new about your culture... I wouldn't {b}loathe{/b} attending this £*£*£*£Chilly Formal£*£*£*£ of yours."
-msgstr "[@desiree talk_happy towards sad@] If it would please you... and if there were a genuine opportunity to learn something new about your culture... I wouldn't {b}loathe{/b} attending this £*£*£*£Chilly Formal£*£*£*£ of yours."
+msgid "[@desiree talk_happy towards sad@] If it would please you... and if there were a genuine opportunity to learn something new about your culture... I wouldn't {b}loathe{/b} attending this \"Chilly Formal\" of yours."
+msgstr "[@desiree talk_happy towards sad@] If it would please you... and if there were a genuine opportunity to learn something new about your culture... I wouldn't {b}loathe{/b} attending this \"Chilly Formal\" of yours."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3313 ## translate crowdin ask_desiree_02_17724540:
 msgid "[@danny sad_2 talk_happy_2@] Really? Great! That's awesome! I'm glad to hear you say that."
@@ -3987,8 +3987,8 @@ msgid "[@desiree@] ..."
 msgstr "[@desiree@] ..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3453 ## translate crowdin A_Stroke_After_Midnight_scene_7b_school_front_b2e75aad:
-msgid "[@desiree talk_frown angry towards@] I'd drown you in a bath of pregnant spiders right now if I could for that £*£*£*£attempt£*£*£*£ at humor."
-msgstr "[@desiree talk_frown angry towards@] I'd drown you in a bath of pregnant spiders right now if I could for that £*£*£*£attempt£*£*£*£ at humor."
+msgid "[@desiree talk_frown angry towards@] I'd drown you in a bath of pregnant spiders right now if I could for that \"attempt\" at humor."
+msgstr "[@desiree talk_frown angry towards@] I'd drown you in a bath of pregnant spiders right now if I could for that \"attempt\" at humor."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3455 ## translate crowdin A_Stroke_After_Midnight_scene_7b_school_front_6b7f8eeb:
 msgid "[@danny at_player sad_2 talk_frown@] {i}*Ahem*{/i} Af-after you, my fair lady!"
@@ -4031,8 +4031,8 @@ msgid "[@danny towards talk_happy neutral@] {i}*Whispering*{/i} Don't worry Lanc
 msgstr "[@danny towards talk_happy neutral@] {i}*Whispering*{/i} Don't worry Lancer, {b}everyone{/b} in Amity Park is considered to be eighteen or above!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3514 ## translate crowdin A_Stroke_After_Midnight_scene_8b_schoolmainhall_e1be32c8:
-msgid "[@lancer rise_one towards talk_frown@] £*£*£*£{b}Depicted{/b}£*£*£*£? That's a strange way of phrasing it, but okay..."
-msgstr "[@lancer rise_one towards talk_frown@] £*£*£*£{b}Depicted{/b}£*£*£*£? That's a strange way of phrasing it, but okay..."
+msgid "[@lancer rise_one towards talk_frown@] \"{b}Depicted{/b}\"? That's a strange way of phrasing it, but okay..."
+msgstr "[@lancer rise_one towards talk_frown@] \"{b}Depicted{/b}\"? That's a strange way of phrasing it, but okay..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3516 ## translate crowdin A_Stroke_After_Midnight_scene_8b_schoolmainhall_2d1f5348:
 msgid "[@lancer closed talk_frown@] Anyway, are you two love birds planning to hit it off nicely this evening?"
@@ -4315,8 +4315,8 @@ msgid "[@desiree talk_frown neutral_3@] {i}Destiny{/i}?"
 msgstr "[@desiree talk_frown neutral_3@] {i}Destiny{/i}?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3804 ## translate crowdin A_Stroke_After_Midnight_scene_9b_schoolhallright_4f87f876:
-msgid "[@sam talk_happy_3 sad@] Destiny! That's so cool. My parents just stuck with freaking boring old £*£*£*£Samantha£*£*£*£."
-msgstr "[@sam talk_happy_3 sad@] Destiny! That's so cool. My parents just stuck with freaking boring old £*£*£*£Samantha£*£*£*£."
+msgid "[@sam talk_happy_3 sad@] Destiny! That's so cool. My parents just stuck with freaking boring old \"Samantha\"."
+msgstr "[@sam talk_happy_3 sad@] Destiny! That's so cool. My parents just stuck with freaking boring old \"Samantha\"."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3808 ## translate crowdin A_Stroke_After_Midnight_scene_9b_schoolhallright_154b0597:
 msgid "[@desiree talk_frown neutral_2@] I'm most sorry to hear that."
@@ -4595,8 +4595,8 @@ msgid "[@desiree talk_frown neutral_2@] {i}Psssch!{/i} Child's play. I wouldn't 
 msgstr "[@desiree talk_frown neutral_2@] {i}Psssch!{/i} Child's play. I wouldn't sully my good name for some light teenage hijinx."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4029 ## translate crowdin A_Stroke_After_Midnight_scene_9b_schoolhallright_2d7210ac:
-msgid "[@desiree talk_frown_2 neutral_3@] Also you said not to cause trouble. I'm bound by your word, Danny, {b}bound{/b}. I can't exactly £*£*£*£un-bind£*£*£*£ myself currently."
-msgstr "[@desiree talk_frown_2 neutral_3@] Also you said not to cause trouble. I'm bound by your word, Danny, {b}bound{/b}. I can't exactly £*£*£*£un-bind£*£*£*£ myself currently."
+msgid "[@desiree talk_frown_2 neutral_3@] Also you said not to cause trouble. I'm bound by your word, Danny, {b}bound{/b}. I can't exactly \"un-bind\" myself currently."
+msgstr "[@desiree talk_frown_2 neutral_3@] Also you said not to cause trouble. I'm bound by your word, Danny, {b}bound{/b}. I can't exactly \"un-bind\" myself currently."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4031 ## translate crowdin A_Stroke_After_Midnight_scene_9b_schoolhallright_3cc3593c:
 msgid "[@danny towards rise_one talk_frown@] Oh, well... I'm glad it wasn't you. Sorry about that."
@@ -5335,8 +5335,8 @@ msgid "[@danny phantom closed_sad wondering talk_frown@] Yeah, not like they use
 msgstr "[@danny phantom closed_sad wondering talk_frown@] Yeah, not like they used to at the old Googleplex."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4579 ## translate crowdin A_Stroke_After_Midnight_scene_8c_mall_cbe97ffd:
-msgid "[@paulina towards rise_one_2 talk_frown@] Huh? What do you mean? Aren't you from like that... £*£*£*£Ghost Zone£*£*£*£ thing?"
-msgstr "[@paulina towards rise_one_2 talk_frown@] Huh? What do you mean? Aren't you from like that... £*£*£*£Ghost Zone£*£*£*£ thing?"
+msgid "[@paulina towards rise_one_2 talk_frown@] Huh? What do you mean? Aren't you from like that... \"Ghost Zone\" thing?"
+msgstr "[@paulina towards rise_one_2 talk_frown@] Huh? What do you mean? Aren't you from like that... \"Ghost Zone\" thing?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4581 ## translate crowdin A_Stroke_After_Midnight_scene_8c_mall_46f40083:
 msgid "[@paulina towards idle_2 talk_frown_2@] What do you know about our movie theatres?"
@@ -5727,8 +5727,8 @@ msgid "[@paulina away rise_one bite blush_2@] ...~"
 msgstr "[@paulina away rise_one bite blush_2@] ...~"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4869 ## translate crowdin A_Stroke_After_Midnight_after_make_out_4d2292f6:
-msgid "[@paulina away idle_2 talk_happy noblush@] Well, I'm really glad I could have spent this time with you, £*£*£*£Ghost Boy£*£*£*£. It was really nice."
-msgstr "[@paulina away idle_2 talk_happy noblush@] Well, I'm really glad I could have spent this time with you, £*£*£*£Ghost Boy£*£*£*£. It was really nice."
+msgid "[@paulina away idle_2 talk_happy noblush@] Well, I'm really glad I could have spent this time with you, \"Ghost Boy\". It was really nice."
+msgstr "[@paulina away idle_2 talk_happy noblush@] Well, I'm really glad I could have spent this time with you, \"Ghost Boy\". It was really nice."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4871 ## translate crowdin A_Stroke_After_Midnight_after_make_out_9c6f82cc:
 msgid "[@danny phantom towards wondering talk_happy@] It was for me too. Thanks for choosing to spend it with me."
@@ -5899,8 +5899,8 @@ msgid "[@paulina dress towards rise_one_2 talk_bite@] You do have one, don't you
 msgstr "[@paulina dress towards rise_one_2 talk_bite@] You do have one, don't you?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4988 ## translate crowdin A_Stroke_After_Midnight_scene_9c_schoolfront_5ee94fb3:
-msgid "[@paulina dress towards neutral talk_frown_2@] Calling you £*£*£*£Ghost Boy£*£*£*£ has sorta just run it's course, ya know? Don't you think?"
-msgstr "[@paulina dress towards neutral talk_frown_2@] Calling you £*£*£*£Ghost Boy£*£*£*£ has sorta just run it's course, ya know? Don't you think?"
+msgid "[@paulina dress towards neutral talk_frown_2@] Calling you \"Ghost Boy\" has sorta just run it's course, ya know? Don't you think?"
+msgstr "[@paulina dress towards neutral talk_frown_2@] Calling you \"Ghost Boy\" has sorta just run it's course, ya know? Don't you think?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4990 ## translate crowdin A_Stroke_After_Midnight_scene_9c_schoolfront_f248f43b:
 msgid "[@danny phantom_suit up_wide neutral talk_frown_2@] Well... my name..."
@@ -5951,8 +5951,8 @@ msgid "[@paulina dress away idle_2 talk_happy@] Oh, eager to cut up some rugs, a
 msgstr "[@paulina dress away idle_2 talk_happy@] Oh, eager to cut up some rugs, aye?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5013 ## translate crowdin A_Stroke_After_Midnight_scene_9c_schoolfront_0246042b:
-msgid "[@danny phantom_suit towards neutral talk_frown@] Not necessarily eager, but I understand the phrase £*£*£*£ripping a bandaid£*£*£*£ off well enough to know I might as well get it over with."
-msgstr "[@danny phantom_suit towards neutral talk_frown@] Not necessarily eager, but I understand the phrase £*£*£*£ripping a bandaid£*£*£*£ off well enough to know I might as well get it over with."
+msgid "[@danny phantom_suit towards neutral talk_frown@] Not necessarily eager, but I understand the phrase \"ripping a bandaid\" off well enough to know I might as well get it over with."
+msgstr "[@danny phantom_suit towards neutral talk_frown@] Not necessarily eager, but I understand the phrase \"ripping a bandaid\" off well enough to know I might as well get it over with."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5015 ## translate crowdin A_Stroke_After_Midnight_scene_9c_schoolfront_03347276:
 msgid "[@danny phantom_suit towards angry talk_happy_2@] So, after you!"
@@ -6067,8 +6067,8 @@ msgid "[@lancer towards idle_ talk_happy@] Again, you two have a nice night toni
 msgstr "[@lancer towards idle_ talk_happy@] Again, you two have a nice night tonight."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5101 ## translate crowdin A_Stroke_After_Midnight_scene_10c_schoolmainhall_cdc3c826:
-msgid "[@lancer towards angry talk_frown@] Not {i}too{/i} nice a night, anyway. Our school has a £*£*£*£hands above the waste£*£*£*£ policy with regards to dances."
-msgstr "[@lancer towards angry talk_frown@] Not {i}too{/i} nice a night, anyway. Our school has a £*£*£*£hands above the waste£*£*£*£ policy with regards to dances."
+msgid "[@lancer towards angry talk_frown@] Not {i}too{/i} nice a night, anyway. Our school has a \"hands above the waste\" policy with regards to dances."
+msgstr "[@lancer towards angry talk_frown@] Not {i}too{/i} nice a night, anyway. Our school has a \"hands above the waste\" policy with regards to dances."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5104 ## translate crowdin A_Stroke_After_Midnight_scene_10c_schoolmainhall_675b0445:
 msgid "[@danny phantom_suit towards_wide neutral talk_happy@] Uhm, alright, thanks. We'll keep that in mind."
@@ -6483,8 +6483,8 @@ msgid "[@paulina dress towards angry talk_frown_2 blush_1@] Dash, lay off, he's 
 msgstr "[@paulina dress towards angry talk_frown_2 blush_1@] Dash, lay off, he's a really nice guy, I don't want you-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5450 ## translate crowdin A_Stroke_After_Midnight_scene_10c_schoolmainhall_24447de2:
-msgid "[@dash suit towards_2 rise_one talk_frown_2@] Hey, wait, you're that guy I've seen on the news lately, right? £*£*£*£Inviso-Bill£*£*£*£, or something?"
-msgstr "[@dash suit towards_2 rise_one talk_frown_2@] Hey, wait, you're that guy I've seen on the news lately, right? £*£*£*£Inviso-Bill£*£*£*£, or something?"
+msgid "[@dash suit towards_2 rise_one talk_frown_2@] Hey, wait, you're that guy I've seen on the news lately, right? \"Inviso-Bill\", or something?"
+msgstr "[@dash suit towards_2 rise_one talk_frown_2@] Hey, wait, you're that guy I've seen on the news lately, right? \"Inviso-Bill\", or something?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5453 ## translate crowdin A_Stroke_After_Midnight_scene_10c_schoolmainhall_cda49d3b:
 msgid "[@dash suit towards neutral talk_happy@] You saved Paulina from that ghost in the park! And I saw you show up at that Masters' speech to fight that shadow guy!"
@@ -7867,8 +7867,8 @@ msgid "[@danny phantom_suit at_player_wide wondering talk_frown@] Oh boy..."
 msgstr "[@danny phantom_suit at_player_wide wondering talk_frown@] Oh boy..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6389 ## translate crowdin A_Stroke_After_Midnight_scene_8d_schoolfront_bb0f8e13:
-msgid "[@danny phantom_suit at_player_wide angry frown_2@] (I really hope she's not one of those £*£*£*£fashionably late£*£*£*£ people...)"
-msgstr "[@danny phantom_suit at_player_wide angry frown_2@] (I really hope she's not one of those £*£*£*£fashionably late£*£*£*£ people...)"
+msgid "[@danny phantom_suit at_player_wide angry frown_2@] (I really hope she's not one of those \"fashionably late\" people...)"
+msgstr "[@danny phantom_suit at_player_wide angry frown_2@] (I really hope she's not one of those \"fashionably late\" people...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6390 ## translate crowdin A_Stroke_After_Midnight_scene_8d_schoolfront_41c6fe33:
 msgid "[@danny phantom_suit blank_stare_2 sad frown_2@] (That's totally in the realm of possibility though.)"
@@ -9067,34 +9067,34 @@ msgid "[@vlad@] {b}{i}Muwaha haha bwahahah ahahah!!{/i}{/b}"
 msgstr "[@vlad@] {b}{i}Muwaha haha bwahahah ahahah!!{/i}{/b}"
 
 # XXtranslate crowdin strings:XX# XX## game/code/episodes/episode_5/episode5_MZ.rpy:911
-msgid @+@+@[mschoice] Who should I take to the Casper Chill Formal?"
-msgstr @+@+@[mschoice] Who should I take to the Casper Chill Formal?"
+msgid "[mschoice] Who should I take to the Casper Chill Formal?"
+msgstr "[mschoice] Who should I take to the Casper Chill Formal?"
 
 # XX## game/code/episodes/episode_5/episode5_MZ.rpy:911
-msgid @+@+@[mschoice] Let's take Paulina!"
-msgstr @+@+@[mschoice] Let's take Paulina!"
+msgid "[mschoice] Let's take Paulina!"
+msgstr "[mschoice] Let's take Paulina!"
 
 # XX## game/code/episodes/episode_5/episode5_MZ.rpy:911
-msgid @+@+@[mschoice] Let's take Sam!"
-msgstr @+@+@[mschoice] Let's take Sam!"
+msgid "[mschoice] Let's take Sam!"
+msgstr "[mschoice] Let's take Sam!"
 
 # XX## game/code/episodes/episode_5/episode5_MZ.rpy:911
-msgid @+@+@[mschoice] Let's take Star!"
-msgstr @+@+@[mschoice] Let's take Star!"
+msgid "[mschoice] Let's take Star!"
+msgstr "[mschoice] Let's take Star!"
 
 # XX## game/code/episodes/episode_5/episode5_MZ.rpy:911
-msgid @+@+@[mschoice] Let's take Desiree!"
-msgstr @+@+@[mschoice] Let's take Desiree!"
+msgid "[mschoice] Let's take Desiree!"
+msgstr "[mschoice] Let's take Desiree!"
 
 # XX## game/code/episodes/episode_5/episode5_MZ.rpy:3155
-msgid @+@+@[mschoice] How do I ask Desiree to open up about her past?"
-msgstr @+@+@[mschoice] How do I ask Desiree to open up about her past?"
+msgid "[mschoice] How do I ask Desiree to open up about her past?"
+msgstr "[mschoice] How do I ask Desiree to open up about her past?"
 
 # XX## game/code/episodes/episode_5/episode5_MZ.rpy:3155
-msgid @+@+@[mschoice] What was life like as a harem girl?"
-msgstr @+@+@[mschoice] What was life like as a harem girl?"
+msgid "[mschoice] What was life like as a harem girl?"
+msgstr "[mschoice] What was life like as a harem girl?"
 
 # XX## game/code/episodes/episode_5/episode5_MZ.rpy:3155
-msgid @+@+@[mschoice] It must've been hard for you."
-msgstr @+@+@[mschoice] It must've been hard for you."
+msgid "[mschoice] It must've been hard for you."
+msgstr "[mschoice] It must've been hard for you."
 

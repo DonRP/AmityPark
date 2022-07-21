@@ -1,12 +1,12 @@
 ﻿# TODO: Translation updated at 2022-07-19 HH:HH# XXtranslate crowdin strings:XX# XX## game/code/base/computer.rpy:668
-msgid @+@+@[mschoice] Scene Replay"
-msgstr @+@+@[mschoice] Scene Replay"
+msgid "[mschoice] Scene Replay"
+msgstr "[mschoice] Scene Replay"
 
 # XX## game/code/base/computer.rpy:701
-msgid @+@+@[mschoice] <"
-msgstr @+@+@[mschoice] <"
+msgid "[mschoice] <"
+msgstr "[mschoice] <"
 
 # XX## game/code/base/computer.rpy:707
-msgid @+@+@[mschoice] >"
-msgstr @+@+@[mschoice] >"
+msgid "[mschoice] >"
+msgstr "[mschoice] >"
 

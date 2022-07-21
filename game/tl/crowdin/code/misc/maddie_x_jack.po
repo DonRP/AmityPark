@@ -335,14 +335,14 @@ msgid "[@danny@] (Okay, that's it, I'm outta here.)"
 msgstr "[@danny@] (Okay, that's it, I'm outta here.)"
 
 # XXtranslate crowdin strings:XX# XX## game/code/misc/maddie_x_jack.rpy:1428
-msgid @+@+@[mschoice] What the heck am I supposed to do now??"
-msgstr @+@+@[mschoice] What the heck am I supposed to do now??"
+msgid "[mschoice] What the heck am I supposed to do now??"
+msgstr "[mschoice] What the heck am I supposed to do now??"
 
 # XX## game/code/misc/maddie_x_jack.rpy:1428
-msgid @+@+@[mschoice] Take a closer look..."
-msgstr @+@+@[mschoice] Take a closer look..."
+msgid "[mschoice] Take a closer look..."
+msgstr "[mschoice] Take a closer look..."
 
 # XX## game/code/misc/maddie_x_jack.rpy:1428
-msgid @+@+@[mschoice] Observe from a distance."
-msgstr @+@+@[mschoice] Observe from a distance."
+msgid "[mschoice] Observe from a distance."
+msgstr "[mschoice] Observe from a distance."
 

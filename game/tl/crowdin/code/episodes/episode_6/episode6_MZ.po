@@ -179,8 +179,8 @@ msgid "[@danny towards unhappy talk_distraught blush@] Aww jeez, n-no, Mom, it's
 msgstr "[@danny towards unhappy talk_distraught blush@] Aww jeez, n-no, Mom, it's not an awful idea, I just mean that..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:200 ## translate crowdin The_Great_Out_Doors_scene_1_kitchen_375eb668:
-msgid "[@danny at_player wondering frown -blush@] (Damn it! How the hell am I going to talk my way out of this one? {i}£*£*£*£Oooh, sorry Mom, gotta protect the town from far too horny spirits!!£*£*£*£{/i})"
-msgstr "[@danny at_player wondering frown -blush@] (Damn it! How the hell am I going to talk my way out of this one? {i}£*£*£*£Oooh, sorry Mom, gotta protect the town from far too horny spirits!!£*£*£*£{/i})"
+msgid "[@danny at_player wondering frown -blush@] (Damn it! How the hell am I going to talk my way out of this one? {i}\"Oooh, sorry Mom, gotta protect the town from far too horny spirits!!\"{/i})"
+msgstr "[@danny at_player wondering frown -blush@] (Damn it! How the hell am I going to talk my way out of this one? {i}\"Oooh, sorry Mom, gotta protect the town from far too horny spirits!!\"{/i})"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:204 ## translate crowdin The_Great_Out_Doors_scene_1_kitchen_f8b97c62:
 msgid "[@danny down sad talk_frown@] It's just really short notice is all I meant, ya' know?"
@@ -231,8 +231,8 @@ msgid "[@jack towards sad talk_displeased@] There's nothing cringey or weird abo
 msgstr "[@jack towards sad talk_displeased@] There's nothing cringey or weird about a mother simply loving her son!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:248 ## translate crowdin The_Great_Out_Doors_scene_1_kitchen_070c5d7a:
-msgid "[@danny at_player rise displeased blush@] (Well, I imagine it can get weird if you overdo the whole £*£*£*£loving£*£*£*£ part... but maybe that's just my thinking...)"
-msgstr "[@danny at_player rise displeased blush@] (Well, I imagine it can get weird if you overdo the whole £*£*£*£loving£*£*£*£ part... but maybe that's just my thinking...)"
+msgid "[@danny at_player rise displeased blush@] (Well, I imagine it can get weird if you overdo the whole \"loving\" part... but maybe that's just my thinking...)"
+msgstr "[@danny at_player rise displeased blush@] (Well, I imagine it can get weird if you overdo the whole \"loving\" part... but maybe that's just my thinking...)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:252 ## translate crowdin The_Great_Out_Doors_scene_1_kitchen_3c60e1a2:
 msgid "[@jack closed wondering talk_happy@] In fact, it's being weird that makes being a Fenton a Fenton, you know that! It's the weird elements of life that brings people together, like your mother and I!"
@@ -555,8 +555,8 @@ msgid "[@danny towards rise talk_distraught@] Ehhh, I'm sorta hit or miss on thi
 msgstr "[@danny towards rise talk_distraught@] Ehhh, I'm sorta hit or miss on this whole trip, honestly."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:689 ## translate crowdin The_Great_Out_Doors_scene_4_livingroom_Saturday_3381c4eb:
-msgid "[@jazz towards sad talk_frown@] Hey, at least you're going somewhere. I'm doomed to £*£*£*£special family alone time£*£*£*£ with Dad..."
-msgstr "[@jazz towards sad talk_frown@] Hey, at least you're going somewhere. I'm doomed to £*£*£*£special family alone time£*£*£*£ with Dad..."
+msgid "[@jazz towards sad talk_frown@] Hey, at least you're going somewhere. I'm doomed to \"special family alone time\" with Dad..."
+msgstr "[@jazz towards sad talk_frown@] Hey, at least you're going somewhere. I'm doomed to \"special family alone time\" with Dad..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:692 ## translate crowdin The_Great_Out_Doors_scene_4_livingroom_Saturday_6daf4d8f:
 msgid "[@danny towards sad talk_happy@] Hey, I'm sure we'll both find ways to try and make parental smothering at least bearable."
@@ -567,8 +567,8 @@ msgid "[@jazz towards sad talk_frown@] Yeah, let's hope so... what's even the na
 msgstr "[@jazz towards sad talk_frown@] Yeah, let's hope so... what's even the name of this organization?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:697 ## translate crowdin The_Great_Out_Doors_scene_4_livingroom_Saturday_afeb0c1f:
-msgid "[@danny towards wondering talk_distraught@] Said on the invite Mom showed me... £*£*£*£The Dalv group£*£*£*£ or something."
-msgstr "[@danny towards wondering talk_distraught@] Said on the invite Mom showed me... £*£*£*£The Dalv group£*£*£*£ or something."
+msgid "[@danny towards wondering talk_distraught@] Said on the invite Mom showed me... \"The Dalv group\" or something."
+msgstr "[@danny towards wondering talk_distraught@] Said on the invite Mom showed me... \"The Dalv group\" or something."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:700 ## translate crowdin The_Great_Out_Doors_scene_4_livingroom_Saturday_cb1a351e:
 msgid "[@jazz towards sad talk_frown@] Never heard of em'. Are they legitimate?"
@@ -619,8 +619,8 @@ msgid "[@jack stare angry talk_happy@] Scrumptious home cooked meals provides us
 msgstr "[@jack stare angry talk_happy@] Scrumptious home cooked meals provides us the energy we need to battle ghosts!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:768 ## translate crowdin The_Great_Out_Doors_scene_4_livingroom_Saturday_03e1f6e4:
-msgid "[@jazz towards idle talk_happy@] Hey, somebody cooks that pizza, right? That's enough for me to consider it a £*£*£*£supplemental£*£*£*£ meal..."
-msgstr "[@jazz towards idle talk_happy@] Hey, somebody cooks that pizza, right? That's enough for me to consider it a £*£*£*£supplemental£*£*£*£ meal..."
+msgid "[@jazz towards idle talk_happy@] Hey, somebody cooks that pizza, right? That's enough for me to consider it a \"supplemental\" meal..."
+msgstr "[@jazz towards idle talk_happy@] Hey, somebody cooks that pizza, right? That's enough for me to consider it a \"supplemental\" meal..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:776 ## translate crowdin The_Great_Out_Doors_scene_4_livingroom_Saturday_a5e8f66f:
 msgid "[@carsound@] {i}*Honk* *Honk*{/i}"
@@ -835,8 +835,8 @@ msgid "[@maddie towards sad talk_displeased@] Danny {b}PLEASE{/b}! There's no ti
 msgstr "[@maddie towards sad talk_displeased@] Danny {b}PLEASE{/b}! There's no time! Take my hand!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1036 ## translate crowdin The_Great_Out_Doors_parachute_found_f3b1c38d:
-msgid "[@pilot@] Thank you for flying £*£*£*£Air Evil Plot!£*£*£*£"
-msgstr "[@pilot@] Thank you for flying £*£*£*£Air Evil Plot!£*£*£*£"
+msgid "[@pilot@] Thank you for flying \"Air Evil Plot!\""
+msgstr "[@pilot@] Thank you for flying \"Air Evil Plot!\""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1038 ## translate crowdin The_Great_Out_Doors_parachute_found_e03a123c:
 msgid "[@pilot@] Enjoy your trip! {i}Ahaah hahahah!{/i}"
@@ -1183,8 +1183,8 @@ msgid "[@maddie towards confused talk_displeased@] Danny, can we talk privately 
 msgstr "[@maddie towards confused talk_displeased@] Danny, can we talk privately for a moment, please?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1516 ## translate crowdin The_Great_Out_Doors_scene_8a_2_25532de6:
-msgid "[@delvo defeated stare rise talk_frown2@] Uhm, m'lady... what does this £*£*£*£dissect£*£*£*£ refer to, exactly?"
-msgstr "[@delvo defeated stare rise talk_frown2@] Uhm, m'lady... what does this £*£*£*£dissect£*£*£*£ refer to, exactly?"
+msgid "[@delvo defeated stare rise talk_frown2@] Uhm, m'lady... what does this \"dissect\" refer to, exactly?"
+msgstr "[@delvo defeated stare rise talk_frown2@] Uhm, m'lady... what does this \"dissect\" refer to, exactly?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1520 ## translate crowdin The_Great_Out_Doors_scene_8a_2_f68d2e73:
 msgid "[@maddie towards amused talk_amused@] Oh nothing to worry about, you spooky ol' romantic, you!"
@@ -1327,8 +1327,8 @@ msgid "[@maddie towards unhappy talk_displeased@] I'm afraid there's nothing we 
 msgstr "[@maddie towards unhappy talk_displeased@] I'm afraid there's nothing we can do."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1723 ## translate crowdin The_Great_Out_Doors_scene_talk_about_a684a3a5:
-msgid "[@danny towards sad talk_frown@] Don't you like, keep a... £*£*£*£Fenton Cell Phone£*£*£*£ on yourself at all times, or something?"
-msgstr "[@danny towards sad talk_frown@] Don't you like, keep a... £*£*£*£Fenton Cell Phone£*£*£*£ on yourself at all times, or something?"
+msgid "[@danny towards sad talk_frown@] Don't you like, keep a... \"Fenton Cell Phone\" on yourself at all times, or something?"
+msgstr "[@danny towards sad talk_frown@] Don't you like, keep a... \"Fenton Cell Phone\" on yourself at all times, or something?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1726 ## translate crowdin The_Great_Out_Doors_scene_talk_about_7d742c7d:
 msgid "[@maddie towards amused talk_amused@] Cell phone? Oh Danny, please... you can't fight ghosts with a {u}cell phone.{/u} C'mon, don't be ridiculous..."
@@ -1415,8 +1415,8 @@ msgid "[@maddie towards rise talk_frown@] Doesn't it seem a little... {i}off{/i}
 msgstr "[@maddie towards rise talk_frown@] Doesn't it seem a little... {i}off{/i} to you?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1897 ## translate crowdin The_Great_Out_Doors_Scene_9_North_of_forest_fe82af51:
-msgid "[@danny towards rise talk_frown@] Like what? Like £*£*£*£potentially haunted by a centuries old ghost£*£*£*£ type of off? Or like £*£*£*£mountain lion living with her baby cubs£*£*£*£ type of off?"
-msgstr "[@danny towards rise talk_frown@] Like what? Like £*£*£*£potentially haunted by a centuries old ghost£*£*£*£ type of off? Or like £*£*£*£mountain lion living with her baby cubs£*£*£*£ type of off?"
+msgid "[@danny towards rise talk_frown@] Like what? Like \"potentially haunted by a centuries old ghost\" type of off? Or like \"mountain lion living with her baby cubs\" type of off?"
+msgstr "[@danny towards rise talk_frown@] Like what? Like \"potentially haunted by a centuries old ghost\" type of off? Or like \"mountain lion living with her baby cubs\" type of off?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1900 ## translate crowdin The_Great_Out_Doors_Scene_9_North_of_forest_b54c800c:
 msgid "[@maddie towards confused talk_displeased@] There's just something in the air... it seems thicker here."
@@ -1999,8 +1999,8 @@ msgid "[@danny towards_wide rise talk_frown@] You uh... you've just got bread ly
 msgstr "[@danny towards_wide rise talk_frown@] You uh... you've just got bread lying around, or... do you know how to cook bread in the wilderness? Does that make it... {i}haunted{/i} bread?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2770 ## translate crowdin The_Great_Out_Doors_scene_12_Forest_East_034bc255:
-msgid "[@delvo towards rise talk_happy@] No, no, not quite haunted! More like, £*£*£*£enchanted£*£*£*£."
-msgstr "[@delvo towards rise talk_happy@] No, no, not quite haunted! More like, £*£*£*£enchanted£*£*£*£."
+msgid "[@delvo towards rise talk_happy@] No, no, not quite haunted! More like, \"enchanted\"."
+msgstr "[@delvo towards rise talk_happy@] No, no, not quite haunted! More like, \"enchanted\"."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2773 ## translate crowdin The_Great_Out_Doors_scene_12_Forest_East_68a9048c:
 msgid "[@danny blank_stare rise talk_frown@] ...{i}righttttt{/i}."
@@ -3203,16 +3203,16 @@ msgid "[@danny at_player neutral talk_happy@] Maybe me and Mom could use it late
 msgstr "[@danny at_player neutral talk_happy@] Maybe me and Mom could use it later if we have time."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4114 ## translate crowdin The_Great_Out_Doors_visit_the_docks_90ba01ac:
-msgid "[@danny towards talk_distraught@] Wait, {i}£*£*£*£S.S. Madeline£*£*£*£{/i}? That must be a coincidence, right?"
-msgstr "[@danny towards talk_distraught@] Wait, {i}£*£*£*£S.S. Madeline£*£*£*£{/i}? That must be a coincidence, right?"
+msgid "[@danny towards talk_distraught@] Wait, {i}\"S.S. Madeline\"{/i}? That must be a coincidence, right?"
+msgstr "[@danny towards talk_distraught@] Wait, {i}\"S.S. Madeline\"{/i}? That must be a coincidence, right?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4143 ## translate crowdin The_Great_Out_Doors_visit_the_entrance_hall_ec916a60:
 msgid "[@danny at_player wondering talk_pleased@] I have to admit, Vlad's house is actually really nice... a pad this cool has got it's perks..."
 msgstr "[@danny at_player wondering talk_pleased@] I have to admit, Vlad's house is actually really nice... a pad this cool has got it's perks..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4145 ## translate crowdin The_Great_Out_Doors_visit_the_entrance_hall_2fc99ff6:
-msgid "[@danny at_player rise talk_frown@] Can't quite shake the looming £*£*£*£overcompensation£*£*£*£ vibes though..."
-msgstr "[@danny at_player rise talk_frown@] Can't quite shake the looming £*£*£*£overcompensation£*£*£*£ vibes though..."
+msgid "[@danny at_player rise talk_frown@] Can't quite shake the looming \"overcompensation\" vibes though..."
+msgstr "[@danny at_player rise talk_frown@] Can't quite shake the looming \"overcompensation\" vibes though..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4170 ## translate crowdin The_Great_Out_Doors_visit_guest_room_maddie_c7c03e30:
 msgid "[@danny at_player wondering talk_pleased@] This must be where Mom is sleeping. Looks cozy enough."
@@ -3259,8 +3259,8 @@ msgid "[@danny towards rise talk_pleased@] It is, especially given the haunted f
 msgstr "[@danny towards rise talk_pleased@] It is, especially given the haunted forest next door."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4288 ## translate crowdin The_Great_Out_Doors_after_looking_around_74def95d:
-msgid "[@maddie towards confused talk_displeased@] Danny, ghosts are everywhere, and they always have been. There's nothing £*£*£*£haunted£*£*£*£ about this forest. It's just where two of any number of ghosts could be living."
-msgstr "[@maddie towards confused talk_displeased@] Danny, ghosts are everywhere, and they always have been. There's nothing £*£*£*£haunted£*£*£*£ about this forest. It's just where two of any number of ghosts could be living."
+msgid "[@maddie towards confused talk_displeased@] Danny, ghosts are everywhere, and they always have been. There's nothing \"haunted\" about this forest. It's just where two of any number of ghosts could be living."
+msgstr "[@maddie towards confused talk_displeased@] Danny, ghosts are everywhere, and they always have been. There's nothing \"haunted\" about this forest. It's just where two of any number of ghosts could be living."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4291 ## translate crowdin The_Great_Out_Doors_after_looking_around_dfca5529:
 msgid "[@danny towards unhappy talk_distraught@] Mom, in your profession... don't you think you should try helping out ghosts like Sir Delvo more often? Rather than just capture them and trying to rip them apart?"
@@ -4215,16 +4215,16 @@ msgid "[@vlad towards neutral talk_frown@] Oh yes, yes, quite a good man..."
 msgstr "[@vlad towards neutral talk_frown@] Oh yes, yes, quite a good man..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5207 ## translate crowdin The_Great_Out_Doors_scene_19b_3127e111:
-msgid "[@vlad towards angry talk_frown@] Even though he stole you- I mean, {i}*Ahem*{/i} even though he used to play so many unnecessary £*£*£*£pranks£*£*£*£ on me during our college years."
-msgstr "[@vlad towards angry talk_frown@] Even though he stole you- I mean, {i}*Ahem*{/i} even though he used to play so many unnecessary £*£*£*£pranks£*£*£*£ on me during our college years."
+msgid "[@vlad towards angry talk_frown@] Even though he stole you- I mean, {i}*Ahem*{/i} even though he used to play so many unnecessary \"pranks\" on me during our college years."
+msgstr "[@vlad towards angry talk_frown@] Even though he stole you- I mean, {i}*Ahem*{/i} even though he used to play so many unnecessary \"pranks\" on me during our college years."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5210 ## translate crowdin The_Great_Out_Doors_scene_19b_40ffc714:
 msgid "[@maddie towards amused talk_amused blush@] Oh Vlad, they were pretty funny."
 msgstr "[@maddie towards amused talk_amused blush@] Oh Vlad, they were pretty funny."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5213 ## translate crowdin The_Great_Out_Doors_scene_19b_d530139b:
-msgid "[@vlad raging neutral talk_frown@] Yes... quite £*£*£*£funny£*£*£*£ indeed, of course they were."
-msgstr "[@vlad raging neutral talk_frown@] Yes... quite £*£*£*£funny£*£*£*£ indeed, of course they were."
+msgid "[@vlad raging neutral talk_frown@] Yes... quite \"funny\" indeed, of course they were."
+msgstr "[@vlad raging neutral talk_frown@] Yes... quite \"funny\" indeed, of course they were."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5216 ## translate crowdin The_Great_Out_Doors_scene_19b_4e563c02:
 msgid "[@maddie towards sad talk_frown blush@] Well, I dunno Vlad, I'm still really tipsy, maybe I should rest for an hour or two to sober up before we try hunting ghosts?"
@@ -4651,8 +4651,8 @@ msgid "[@danny towards rise talk_frown@] Oh, I thought I heard you guys leave ou
 msgstr "[@danny towards rise talk_frown@] Oh, I thought I heard you guys leave outside the door and figured I'd try to follow along as best I could... are you alright?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5942 ## translate crowdin The_Great_Out_Doors_scene_21b_25c53b52:
-msgid "[@maddie towards wondering talk_amused@] Oh, you won't believe it, Danny, we were attacked and that £*£*£*£Inviso-Bill£*£*£*£ saved me!"
-msgstr "[@maddie towards wondering talk_amused@] Oh, you won't believe it, Danny, we were attacked and that £*£*£*£Inviso-Bill£*£*£*£ saved me!"
+msgid "[@maddie towards wondering talk_amused@] Oh, you won't believe it, Danny, we were attacked and that \"Inviso-Bill\" saved me!"
+msgstr "[@maddie towards wondering talk_amused@] Oh, you won't believe it, Danny, we were attacked and that \"Inviso-Bill\" saved me!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5945 ## translate crowdin The_Great_Out_Doors_scene_21b_a8d27f25:
 msgid "[@danny at_player neutral talk_pleased@] Heh, woah, that's unbelievable... who'd have figured! What a guy, that there ghost boy!"
@@ -5403,8 +5403,8 @@ msgid "[@danny@] This ass is mine Mom!"
 msgstr "[@danny@] This ass is mine Mom!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6901 ## translate crowdin The_Great_Out_Doors_h_scene_doggy_7afc7802:
-msgid "[@danny@] (I really hope I've got this whole {i}£*£*£*£dominant£*£*£*£{/i} thing down... Mom seems to like. To be honest, it's a little weird talking to girls that way! But oh well!)"
-msgstr "[@danny@] (I really hope I've got this whole {i}£*£*£*£dominant£*£*£*£{/i} thing down... Mom seems to like. To be honest, it's a little weird talking to girls that way! But oh well!)"
+msgid "[@danny@] (I really hope I've got this whole {i}\"dominant\"{/i} thing down... Mom seems to like. To be honest, it's a little weird talking to girls that way! But oh well!)"
+msgstr "[@danny@] (I really hope I've got this whole {i}\"dominant\"{/i} thing down... Mom seems to like. To be honest, it's a little weird talking to girls that way! But oh well!)"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6904 ## translate crowdin The_Great_Out_Doors_h_scene_doggy_6a067283:
 msgid "[@maddie@] (It's so hot when he talks like that, and he's so determined to make me cum!)"
@@ -5575,102 +5575,102 @@ msgid "[@devTells@] Congrats, you've unlocked a second main menu background! \nY
 msgstr "[@devTells@] Congrats, you've unlocked a second main menu background! \nYou can switch between backgrounds manually in the left-down corner in the main menu now."
 
 # XXtranslate crowdin strings:XX# XX## game/code/episodes/episode_6/episode6_MZ.rpy:439
-msgid @+@+@[mschoice] Do I wanna give Maddie a hug?"
-msgstr @+@+@[mschoice] Do I wanna give Maddie a hug?"
+msgid "[mschoice] Do I wanna give Maddie a hug?"
+msgstr "[mschoice] Do I wanna give Maddie a hug?"
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:439
-msgid @+@+@[mschoice] No thank you, actually."
-msgstr @+@+@[mschoice] No thank you, actually."
+msgid "[mschoice] No thank you, actually."
+msgstr "[mschoice] No thank you, actually."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:1158
-msgid @+@+@[mschoice] What {i}should{/i} we do next?"
-msgstr @+@+@[mschoice] What {i}should{/i} we do next?"
+msgid "[mschoice] What {i}should{/i} we do next?"
+msgstr "[mschoice] What {i}should{/i} we do next?"
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:1158
-msgid @+@+@[mschoice] Point out the strange looking tree."
-msgstr @+@+@[mschoice] Point out the strange looking tree."
+msgid "[mschoice] Point out the strange looking tree."
+msgstr "[mschoice] Point out the strange looking tree."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:1158
-msgid @+@+@[mschoice] Stop and talk for a moment"
-msgstr @+@+@[mschoice] Stop and talk for a moment"
+msgid "[mschoice] Stop and talk for a moment"
+msgstr "[mschoice] Stop and talk for a moment"
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:1158
-msgid @+@+@[mschoice] Just keep moving."
-msgstr @+@+@[mschoice] Just keep moving."
+msgid "[mschoice] Just keep moving."
+msgstr "[mschoice] Just keep moving."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:1692
-msgid @+@+@[mschoice] What do I wanna ask Mom about?"
-msgstr @+@+@[mschoice] What do I wanna ask Mom about?"
+msgid "[mschoice] What do I wanna ask Mom about?"
+msgstr "[mschoice] What do I wanna ask Mom about?"
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:1692
-msgid @+@+@[mschoice] See any landmarks when we landed?"
-msgstr @+@+@[mschoice] See any landmarks when we landed?"
+msgid "[mschoice] See any landmarks when we landed?"
+msgstr "[mschoice] See any landmarks when we landed?"
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:1692
-msgid @+@+@[mschoice] Ask how Maddie's doing."
-msgstr @+@+@[mschoice] Ask how Maddie's doing."
+msgid "[mschoice] Ask how Maddie's doing."
+msgstr "[mschoice] Ask how Maddie's doing."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:1692
-msgid @+@+@[mschoice] Try to call Dad."
-msgstr @+@+@[mschoice] Try to call Dad."
+msgid "[mschoice] Try to call Dad."
+msgstr "[mschoice] Try to call Dad."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:1692
-msgid @+@+@[mschoice] Nothing, I'm good."
-msgstr @+@+@[mschoice] Nothing, I'm good."
+msgid "[mschoice] Nothing, I'm good."
+msgstr "[mschoice] Nothing, I'm good."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:2823
-msgid @+@+@[mschoice] Give her the bread?"
-msgstr @+@+@[mschoice] Give her the bread?"
+msgid "[mschoice] Give her the bread?"
+msgstr "[mschoice] Give her the bread?"
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:2823
-msgid @+@+@[mschoice] Yes."
-msgstr @+@+@[mschoice] Yes."
+msgid "[mschoice] Yes."
+msgstr "[mschoice] Yes."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:2823
-msgid @+@+@[mschoice] No."
-msgstr @+@+@[mschoice] No."
+msgid "[mschoice] No."
+msgstr "[mschoice] No."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:3224
-msgid @+@+@[mschoice] Cum down throat."
-msgstr @+@+@[mschoice] Cum down throat."
+msgid "[mschoice] Cum down throat."
+msgstr "[mschoice] Cum down throat."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:3224
-msgid @+@+@[mschoice] Cover Maddie in cum."
-msgstr @+@+@[mschoice] Cover Maddie in cum."
+msgid "[mschoice] Cover Maddie in cum."
+msgstr "[mschoice] Cover Maddie in cum."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:3893
-msgid @+@+@[mschoice] She's probably a little too £*£*£*£tired£*£*£*£ to talk, I'm afraid...~"
-msgstr @+@+@[mschoice] She's probably a little too £*£*£*£tired£*£*£*£ to talk, I'm afraid...~"
+msgid "[mschoice] She's probably a little too \"tired\" to talk, I'm afraid...~"
+msgstr "[mschoice] She's probably a little too \"tired\" to talk, I'm afraid...~"
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:3893
-msgid @+@+@[mschoice] Vlad, relax, you're being a little too on the nose there..."
-msgstr @+@+@[mschoice] Vlad, relax, you're being a little too on the nose there..."
+msgid "[mschoice] Vlad, relax, you're being a little too on the nose there..."
+msgstr "[mschoice] Vlad, relax, you're being a little too on the nose there..."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:3893
-msgid @+@+@[mschoice] Yeah, I guess so."
-msgstr @+@+@[mschoice] Yeah, I guess so."
+msgid "[mschoice] Yeah, I guess so."
+msgstr "[mschoice] Yeah, I guess so."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:4311
-msgid @+@+@[mschoice] Mention the cave incidents..."
-msgstr @+@+@[mschoice] Mention the cave incidents..."
+msgid "[mschoice] Mention the cave incidents..."
+msgstr "[mschoice] Mention the cave incidents..."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:4311
-msgid @+@+@[mschoice] Concern about family."
-msgstr @+@+@[mschoice] Concern about family."
+msgid "[mschoice] Concern about family."
+msgstr "[mschoice] Concern about family."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:4311
-msgid @+@+@[mschoice] Problems with Vlad?"
-msgstr @+@+@[mschoice] Problems with Vlad?"
+msgid "[mschoice] Problems with Vlad?"
+msgstr "[mschoice] Problems with Vlad?"
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:4311
-msgid @+@+@[mschoice] Nothing, I'm good Mom."
-msgstr @+@+@[mschoice] Nothing, I'm good Mom."
+msgid "[mschoice] Nothing, I'm good Mom."
+msgstr "[mschoice] Nothing, I'm good Mom."
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:4479
-msgid @+@+@[mschoice] No, {i}she{/i} is going to lie down now!"
-msgstr @+@+@[mschoice] No, {i}she{/i} is going to lie down now!"
+msgid "[mschoice] No, {i}she{/i} is going to lie down now!"
+msgstr "[mschoice] No, {i}she{/i} is going to lie down now!"
 
 # XX## game/code/episodes/episode_6/episode6_MZ.rpy:4479
-msgid @+@+@[mschoice] Uhmm... I guess it's not too bad an idea..."
-msgstr @+@+@[mschoice] Uhmm... I guess it's not too bad an idea..."
+msgid "[mschoice] Uhmm... I guess it's not too bad an idea..."
+msgstr "[mschoice] Uhmm... I guess it's not too bad an idea..."
 

@@ -55,22 +55,22 @@ msgid "[@epa@] Lake Monster unavailable currently."
 msgstr "[@epa@] Lake Monster unavailable currently."
 
 # XXtranslate crowdin strings:XX# XX## game/code/battleoverhaul/battlesetup.rpy:19
-msgid @+@+@[mschoice] Choose which route you will take"
-msgstr @+@+@[mschoice] Choose which route you will take"
+msgid "[mschoice] Choose which route you will take"
+msgstr "[mschoice] Choose which route you will take"
 
 # XX## game/code/battleoverhaul/battlesetup.rpy:19
-msgid @+@+@[mschoice] Maddie"
-msgstr @+@+@[mschoice] Maddie"
+msgid "[mschoice] Maddie"
+msgstr "[mschoice] Maddie"
 
 # XX## game/code/battleoverhaul/battlesetup.rpy:19
-msgid @+@+@[mschoice] Star"
-msgstr @+@+@[mschoice] Star"
+msgid "[mschoice] Star"
+msgstr "[mschoice] Star"
 
 # XX## game/code/battleoverhaul/battlesetup.rpy:19
-msgid @+@+@[mschoice] Paulina"
-msgstr @+@+@[mschoice] Paulina"
+msgid "[mschoice] Paulina"
+msgstr "[mschoice] Paulina"
 
 # XX## game/code/battleoverhaul/battlesetup.rpy:19
-msgid @+@+@[mschoice] Kate"
-msgstr @+@+@[mschoice] Kate"
+msgid "[mschoice] Kate"
+msgstr "[mschoice] Kate"
 

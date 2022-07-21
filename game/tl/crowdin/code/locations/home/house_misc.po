@@ -95,18 +95,18 @@ msgid "[@danny@] I can't go to bed now!"
 msgstr "[@danny@] I can't go to bed now!"
 
 # XXtranslate crowdin strings:XX# XX## game/code/locations/home/house_misc.rpy:289
-msgid @+@+@[mschoice] Sleep until morning."
-msgstr @+@+@[mschoice] Sleep until morning."
+msgid "[mschoice] Sleep until morning."
+msgstr "[mschoice] Sleep until morning."
 
 # XX## game/code/locations/home/house_misc.rpy:289
-msgid @+@+@[mschoice] Skip until it's time for the dance."
-msgstr @+@+@[mschoice] Skip until it's time for the dance."
+msgid "[mschoice] Skip until it's time for the dance."
+msgstr "[mschoice] Skip until it's time for the dance."
 
 # XX## game/code/locations/home/house_misc.rpy:289
-msgid @+@+@[mschoice] It's time for the dance!"
-msgstr @+@+@[mschoice] It's time for the dance!"
+msgid "[mschoice] It's time for the dance!"
+msgstr "[mschoice] It's time for the dance!"
 
 # XX## game/code/locations/home/house_misc.rpy:324
-msgid @+@+@[mschoice] Skip until Saturday."
-msgstr @+@+@[mschoice] Skip until Saturday."
+msgid "[mschoice] Skip until Saturday."
+msgstr "[mschoice] Skip until Saturday."
 

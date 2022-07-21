@@ -39,14 +39,14 @@ msgid "[@danny p offscreen at_player rise talk_frown@] All that training paid of
 msgstr "[@danny p offscreen at_player rise talk_frown@] All that training paid off, but I didn't learn anything from that fight."
 
 # game/code/battleoverhaul/renpy/9999-battle-label.rpy:300 ## translate crowdin functionlabel_TrainingMachineBroke_40607a69:
-msgid "[@simulatorAi@] Attention! The £*£*£*£Fenton Battery£*£*£*£ level has reached a critical low! \nFurther Simulation can not be initiated. \nPlease, wait until the Fenton Battery has fully recharged."
-msgstr "[@simulatorAi@] Attention! The £*£*£*£Fenton Battery£*£*£*£ level has reached a critical low! \nFurther Simulation can not be initiated. \nPlease, wait until the Fenton Battery has fully recharged."
+msgid "[@simulatorAi@] Attention! The \"Fenton Battery\" level has reached a critical low! \nFurther Simulation can not be initiated. \nPlease, wait until the Fenton Battery has fully recharged."
+msgstr "[@simulatorAi@] Attention! The \"Fenton Battery\" level has reached a critical low! \nFurther Simulation can not be initiated. \nPlease, wait until the Fenton Battery has fully recharged."
 
 # XXtranslate crowdin strings:XX# XX## game/code/battleoverhaul/renpy/9999-battle-label.rpy:123
-msgid @+@+@[mschoice] Turn on Super Danny for battle and retry."
-msgstr @+@+@[mschoice] Turn on Super Danny for battle and retry."
+msgid "[mschoice] Turn on Super Danny for battle and retry."
+msgstr "[mschoice] Turn on Super Danny for battle and retry."
 
 # XX## game/code/battleoverhaul/renpy/9999-battle-label.rpy:123
-msgid @+@+@[mschoice] Retry"
-msgstr @+@+@[mschoice] Retry"
+msgid "[mschoice] Retry"
+msgstr "[mschoice] Retry"
 

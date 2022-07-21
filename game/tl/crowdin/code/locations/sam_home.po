@@ -39,14 +39,14 @@ msgid "[@sam talk_happy sad@] Yeah, sure, pop by anytime! Thanks for stopping in
 msgstr "[@sam talk_happy sad@] Yeah, sure, pop by anytime! Thanks for stopping in."
 
 # XXtranslate crowdin strings:XX# XX## game/code/locations/sam_home.rpy:21
-msgid @+@+@[mschoice] Hmm... what should I talk about with Sam?"
-msgstr @+@+@[mschoice] Hmm... what should I talk about with Sam?"
+msgid "[mschoice] Hmm... what should I talk about with Sam?"
+msgstr "[mschoice] Hmm... what should I talk about with Sam?"
 
 # XX## game/code/locations/sam_home.rpy:21
-msgid @+@+@[mschoice] Ask Sam to the Casper Chill Formal."
-msgstr @+@+@[mschoice] Ask Sam to the Casper Chill Formal."
+msgid "[mschoice] Ask Sam to the Casper Chill Formal."
+msgstr "[mschoice] Ask Sam to the Casper Chill Formal."
 
 # XX## game/code/locations/sam_home.rpy:21
-msgid @+@+@[mschoice] End the conversation."
-msgstr @+@+@[mschoice] End the conversation."
+msgid "[mschoice] End the conversation."
+msgstr "[mschoice] End the conversation."
 

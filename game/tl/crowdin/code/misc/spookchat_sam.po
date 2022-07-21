@@ -175,42 +175,42 @@ msgid "[@nvl clear
 msgstr "[@nvl clear
 
 # game/code/misc/spookchat_sam.rpy:153 ## translate crowdin sam_chat_2_f48e4f6c:
-msgid "[@dannyspook@] I'll talk to you later, Sam. Peace out, lord of £*£*£*£dorkness£*£*£*£. Lol"
-msgstr "[@dannyspook@] I'll talk to you later, Sam. Peace out, lord of £*£*£*£dorkness£*£*£*£. Lol"
+msgid "[@dannyspook@] I'll talk to you later, Sam. Peace out, lord of \"dorkness\". Lol"
+msgstr "[@dannyspook@] I'll talk to you later, Sam. Peace out, lord of \"dorkness\". Lol"
 
 # game/code/misc/spookchat_sam.rpy:154 ## translate crowdin sam_chat_2_6aebcdb4:
 msgid "[@samspook@] Yeah, I'll see around school. Take care, Ghost nerd. :)@] 
 msgstr "[@samspook@] Yeah, I'll see around school. Take care, Ghost nerd. :)@] 
 
 # XXtranslate crowdin strings:XX# XX## game/code/misc/spookchat_sam.rpy:26
-msgid @+@+@[mschoice] Message Sam."
-msgstr @+@+@[mschoice] Message Sam."
+msgid "[mschoice] Message Sam."
+msgstr "[mschoice] Message Sam."
 
 # XX## game/code/misc/spookchat_sam.rpy:46
-msgid @+@+@[mschoice] What do I wanna message Sam about?"
-msgstr @+@+@[mschoice] What do I wanna message Sam about?"
+msgid "[mschoice] What do I wanna message Sam about?"
+msgstr "[mschoice] What do I wanna message Sam about?"
 
 # XX## game/code/misc/spookchat_sam.rpy:46
-msgid @+@+@[mschoice] {i}(Look at Sam's picture){/i}"
-msgstr @+@+@[mschoice] {i}(Look at Sam's picture){/i}"
+msgid "[mschoice] {i}(Look at Sam's picture){/i}"
+msgstr "[mschoice] {i}(Look at Sam's picture){/i}"
 
 # XX## game/code/misc/spookchat_sam.rpy:46
-msgid @+@+@[mschoice] Anything new with you?"
-msgstr @+@+@[mschoice] Anything new with you?"
+msgid "[mschoice] Anything new with you?"
+msgstr "[mschoice] Anything new with you?"
 
 # XX## game/code/misc/spookchat_sam.rpy:46
-msgid @+@+@[mschoice] What do you think of my parents?"
-msgstr @+@+@[mschoice] What do you think of my parents?"
+msgid "[mschoice] What do you think of my parents?"
+msgstr "[mschoice] What do you think of my parents?"
 
 # XX## game/code/misc/spookchat_sam.rpy:46
-msgid @+@+@[mschoice] How're your folks doing?"
-msgstr @+@+@[mschoice] How're your folks doing?"
+msgid "[mschoice] How're your folks doing?"
+msgstr "[mschoice] How're your folks doing?"
 
 # XX## game/code/misc/spookchat_sam.rpy:46
-msgid @+@+@[mschoice] Do you worry about the ghost attacks at all?"
-msgstr @+@+@[mschoice] Do you worry about the ghost attacks at all?"
+msgid "[mschoice] Do you worry about the ghost attacks at all?"
+msgstr "[mschoice] Do you worry about the ghost attacks at all?"
 
 # XX## game/code/misc/spookchat_sam.rpy:46
-msgid @+@+@[mschoice] I'll talk to you later, Sam.@] 
-msgstr @+@+@[mschoice] I'll talk to you later, Sam.@] 
+msgid "[mschoice] I'll talk to you later, Sam.@] 
+msgstr "[mschoice] I'll talk to you later, Sam.@] 
 

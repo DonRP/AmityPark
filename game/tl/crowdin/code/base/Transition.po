@@ -39,10 +39,10 @@ msgid@] {color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/co
 msgstr@] {color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
 
 # XXtranslate crowdin strings:XX# XX## game/code/base/Transition.rpy:278
-msgid @+@+@[mschoice] Yes"
-msgstr @+@+@[mschoice] Yes"
+msgid "[mschoice] Yes"
+msgstr "[mschoice] Yes"
 
 # XX## game/code/base/Transition.rpy:278
-msgid @+@+@[mschoice] No"
-msgstr @+@+@[mschoice] No"
+msgid "[mschoice] No"
+msgstr "[mschoice] No"
 

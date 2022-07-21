@@ -7,8 +7,8 @@ msgid "[@sam talk_frown@] Oh boy, here comes {i}Miss Pretty{/i} again..."
 msgstr "[@sam talk_frown@] Oh boy, here comes {i}Miss Pretty{/i} again..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:55 ## translate crowdin park_quest_start_87c31bb8:
-msgid "[@tucker flip arms_straps towards wondering talk_happy@] Come on Sam, even {i}you{/i} gotta admit: Paulina is a total {i}hawtie!{/i}{p}With a capital £*£*£*£W£*£*£*£!"
-msgstr "[@tucker flip arms_straps towards wondering talk_happy@] Come on Sam, even {i}you{/i} gotta admit: Paulina is a total {i}hawtie!{/i}{p}With a capital £*£*£*£W£*£*£*£!"
+msgid "[@tucker flip arms_straps towards wondering talk_happy@] Come on Sam, even {i}you{/i} gotta admit: Paulina is a total {i}hawtie!{/i}{p}With a capital \"W\"!"
+msgstr "[@tucker flip arms_straps towards wondering talk_happy@] Come on Sam, even {i}you{/i} gotta admit: Paulina is a total {i}hawtie!{/i}{p}With a capital \"W\"!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:59 ## translate crowdin park_quest_start_e95377ff:
 msgid "[@danny@] She's not just hot... she's like a fallen angel bathed head to toe in an orange, heavenly glow of light..."
@@ -31,8 +31,8 @@ msgid "[@danny@] (Uh oh... not these two going at each other again...)"
 msgstr "[@danny@] (Uh oh... not these two going at each other again...)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:83 ## translate crowdin park_quest_start_c1be0ea6:
-msgid "[@paulina@] Well, I guess that makes sense, you know? I guess not all of us are lucky enough to have at least {u}some{/u} looks to get by on! Guess I won't ever know what it's like to be a £*£*£*£Gothy Goblin£*£*£*£ like you!"
-msgstr "[@paulina@] Well, I guess that makes sense, you know? I guess not all of us are lucky enough to have at least {u}some{/u} looks to get by on! Guess I won't ever know what it's like to be a £*£*£*£Gothy Goblin£*£*£*£ like you!"
+msgid "[@paulina@] Well, I guess that makes sense, you know? I guess not all of us are lucky enough to have at least {u}some{/u} looks to get by on! Guess I won't ever know what it's like to be a \"Gothy Goblin\" like you!"
+msgstr "[@paulina@] Well, I guess that makes sense, you know? I guess not all of us are lucky enough to have at least {u}some{/u} looks to get by on! Guess I won't ever know what it's like to be a \"Gothy Goblin\" like you!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:87 ## translate crowdin park_quest_start_a279a37f:
 msgid "[@sam@] Why you smug, perky little sack of-!"
@@ -615,10 +615,10 @@ msgid "[@danny@] ({i}Ooof{/i}... guess my ghost strength doesn't carry over to m
 msgstr "[@danny@] ({i}Ooof{/i}... guess my ghost strength doesn't carry over to my human form...)"
 
 # XXtranslate crowdin strings:XX# XX## game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:609
-msgid @+@+@[mschoice] Save her immediately!"
-msgstr @+@+@[mschoice] Save her immediately!"
+msgid "[mschoice] Save her immediately!"
+msgstr "[mschoice] Save her immediately!"
 
 # XX## game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:609
-msgid @+@+@[mschoice] Wait to see what happens..."
-msgstr @+@+@[mschoice] Wait to see what happens..."
+msgid "[mschoice] Wait to see what happens..."
+msgstr "[mschoice] Wait to see what happens..."
 

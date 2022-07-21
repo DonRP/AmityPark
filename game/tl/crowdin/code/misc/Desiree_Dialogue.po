@@ -115,8 +115,8 @@ msgid "[@danny talk_happy_2 rise_one@] How are you doing Desiree?"
 msgstr "[@danny talk_happy_2 rise_one@] How are you doing Desiree?"
 
 # game/code/misc/Desiree_Dialogue.rpy:922 ## translate crowdin ask_desiree_how_she_doing_bc418971:
-msgid "[@desiree sad_2 talk_frown@] How am I £*£*£*£doing£*£*£*£, you ask? Do you want me to be completely truthful, master?"
-msgstr "[@desiree sad_2 talk_frown@] How am I £*£*£*£doing£*£*£*£, you ask? Do you want me to be completely truthful, master?"
+msgid "[@desiree sad_2 talk_frown@] How am I \"doing\", you ask? Do you want me to be completely truthful, master?"
+msgstr "[@desiree sad_2 talk_frown@] How am I \"doing\", you ask? Do you want me to be completely truthful, master?"
 
 # game/code/misc/Desiree_Dialogue.rpy:924 ## translate crowdin ask_desiree_how_she_doing_c4ef2397:
 msgid "[@danny closed talk_happy sad@] Well, I mean yeah, of course, I'd appreciate you being as open and hones-"
@@ -175,8 +175,8 @@ msgid "[@desiree closed talk_frown_2 sad_3@] Yes, but that's it, really, the {u}
 msgstr "[@desiree closed talk_frown_2 sad_3@] Yes, but that's it, really, the {u}only{/u} thing I don't mind about this endeavor you're putting me through!"
 
 # game/code/misc/Desiree_Dialogue.rpy:952 ## translate crowdin ask_desiree_how_she_doing_0b5deaa2:
-msgid "[@desiree cute at_player sad@] (I'm also putting it lightly when I say £*£*£*£not half bad£*£*£*£...)"
-msgstr "[@desiree cute at_player sad@] (I'm also putting it lightly when I say £*£*£*£not half bad£*£*£*£...)"
+msgid "[@desiree cute at_player sad@] (I'm also putting it lightly when I say \"not half bad\"...)"
+msgstr "[@desiree cute at_player sad@] (I'm also putting it lightly when I say \"not half bad\"...)"
 
 # game/code/misc/Desiree_Dialogue.rpy:954 ## translate crowdin ask_desiree_how_she_doing_09771a59:
 msgid "[@danny talk_frown_2 -blush sad@] Well, hey, I'll try my best to make things even better for you here, I promise."
@@ -219,8 +219,8 @@ msgid "[@desiree closed talk_happy_2 sad@] The Ghost Zone is a haven for monster
 msgstr "[@desiree closed talk_happy_2 sad@] The Ghost Zone is a haven for monsters, and I prefer to stay out of it whenever possible. The human world is so much more fun!"
 
 # game/code/misc/Desiree_Dialogue.rpy:1066 ## translate crowdin ask_desiree_ghost_zone_0b3e66bf:
-msgid "[@danny neutral talk_frown_2 towards@] Cursing people with magic wishes is not £*£*£*£fun£*£*£*£, Desiree."
-msgstr "[@danny neutral talk_frown_2 towards@] Cursing people with magic wishes is not £*£*£*£fun£*£*£*£, Desiree."
+msgid "[@danny neutral talk_frown_2 towards@] Cursing people with magic wishes is not \"fun\", Desiree."
+msgstr "[@danny neutral talk_frown_2 towards@] Cursing people with magic wishes is not \"fun\", Desiree."
 
 # game/code/misc/Desiree_Dialogue.rpy:1068 ## translate crowdin ask_desiree_ghost_zone_6a89e48a:
 msgid "[@desiree angry talk_frown_2 towards_2@] Oh, what do {i}you{/i} know?"
@@ -251,12 +251,12 @@ msgid "[@danny towards_wide sad talk_frown_2@] Anything you can tell me about th
 msgstr "[@danny towards_wide sad talk_frown_2@] Anything you can tell me about that Ectopus guy? The one who looks like a green octopus?"
 
 # game/code/misc/Desiree_Dialogue.rpy:1463 ## translate crowdin ask_about_ghosts_about_ectopuss_6798fc62:
-msgid "[@desiree talk_frown_2 sad_2@] Well first of all, contrary to what you might think, there's really not {i}one{/i} £*£*£*£Ectopus£*£*£*£ as you've been calling them. They're actually a dime a dozen type of spirit within the Ghost Zone."
-msgstr "[@desiree talk_frown_2 sad_2@] Well first of all, contrary to what you might think, there's really not {i}one{/i} £*£*£*£Ectopus£*£*£*£ as you've been calling them. They're actually a dime a dozen type of spirit within the Ghost Zone."
+msgid "[@desiree talk_frown_2 sad_2@] Well first of all, contrary to what you might think, there's really not {i}one{/i} \"Ectopus\" as you've been calling them. They're actually a dime a dozen type of spirit within the Ghost Zone."
+msgstr "[@desiree talk_frown_2 sad_2@] Well first of all, contrary to what you might think, there's really not {i}one{/i} \"Ectopus\" as you've been calling them. They're actually a dime a dozen type of spirit within the Ghost Zone."
 
 # game/code/misc/Desiree_Dialogue.rpy:1465 ## translate crowdin ask_about_ghosts_about_ectopuss_d55d19ad:
-msgid "[@desiree towards_2 neutral_2 talk_frown@] Sort've just worthless, conjured up dregs of the human spirit still mopily haunting the earth. They're relatively useless besides being lackies for slightly more notable ghosts. The definition of £*£*£*£disposable£*£*£*£, essentially."
-msgstr "[@desiree towards_2 neutral_2 talk_frown@] Sort've just worthless, conjured up dregs of the human spirit still mopily haunting the earth. They're relatively useless besides being lackies for slightly more notable ghosts. The definition of £*£*£*£disposable£*£*£*£, essentially."
+msgid "[@desiree towards_2 neutral_2 talk_frown@] Sort've just worthless, conjured up dregs of the human spirit still mopily haunting the earth. They're relatively useless besides being lackies for slightly more notable ghosts. The definition of \"disposable\", essentially."
+msgstr "[@desiree towards_2 neutral_2 talk_frown@] Sort've just worthless, conjured up dregs of the human spirit still mopily haunting the earth. They're relatively useless besides being lackies for slightly more notable ghosts. The definition of \"disposable\", essentially."
 
 # game/code/misc/Desiree_Dialogue.rpy:1467 ## translate crowdin ask_about_ghosts_about_ectopuss_181b5162:
 msgid "[@desiree closed neutral_3 talk_frown_2@] I myself would {i}never{/i} use such lowly creatures for my own bidding. I have a reputation to uphold!"
@@ -271,8 +271,8 @@ msgid "[@danny towards_wide sad talk_frown_2@] Anything you can tell me about Jo
 msgstr "[@danny towards_wide sad talk_frown_2@] Anything you can tell me about Johnny and Kitty? The crazy girlfriend and the trench coat wearing creep?"
 
 # game/code/misc/Desiree_Dialogue.rpy:1568 ## translate crowdin ask_about_ghosts_about_johnny_kitty_7a50eec6:
-msgid "[@desiree towards_2 talk_frown_2 neutral_2@] Ahh yes, Johnny £*£*£*£Thirteen£*£*£*£ I believe, along with his unlucky shadow... a living embodiment of his own bad luck that does his bidding for him."
-msgstr "[@desiree towards_2 talk_frown_2 neutral_2@] Ahh yes, Johnny £*£*£*£Thirteen£*£*£*£ I believe, along with his unlucky shadow... a living embodiment of his own bad luck that does his bidding for him."
+msgid "[@desiree towards_2 talk_frown_2 neutral_2@] Ahh yes, Johnny \"Thirteen\" I believe, along with his unlucky shadow... a living embodiment of his own bad luck that does his bidding for him."
+msgstr "[@desiree towards_2 talk_frown_2 neutral_2@] Ahh yes, Johnny \"Thirteen\" I believe, along with his unlucky shadow... a living embodiment of his own bad luck that does his bidding for him."
 
 # game/code/misc/Desiree_Dialogue.rpy:1570 ## translate crowdin ask_about_ghosts_about_johnny_kitty_1e797c8f:
 msgid "[@desiree talk_frown towards sad_2@] From what I understand, he and Kitty were a pair of love strung children that got into some sort've accident involving his two wheeled vehicle many years ago..."

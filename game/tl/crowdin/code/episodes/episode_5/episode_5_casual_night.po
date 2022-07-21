@@ -27,8 +27,8 @@ msgid "[@maddie towards_wide_up sad_2 talk_frown@] No, no, not at all. The news 
 msgstr "[@maddie towards_wide_up sad_2 talk_frown@] No, no, not at all. The news usually just depresses me unless it's ghost related. And things have been pretty quiet lately..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:35 ## translate crowdin A_Casual_Night_In_scene_1_livingroom_32a12032:
-msgid "[@maddie closed talk_happy sad@] There was actually some report on the other day about a reported £*£*£*£ghost genie£*£*£*£ and £*£*£*£nerdy ghost goblin£*£*£*£ sighting at the mall, but that's so ridiculous to be investigated legitimately. I certainly got a chuckle out of it..."
-msgstr "[@maddie closed talk_happy sad@] There was actually some report on the other day about a reported £*£*£*£ghost genie£*£*£*£ and £*£*£*£nerdy ghost goblin£*£*£*£ sighting at the mall, but that's so ridiculous to be investigated legitimately. I certainly got a chuckle out of it..."
+msgid "[@maddie closed talk_happy sad@] There was actually some report on the other day about a reported \"ghost genie\" and \"nerdy ghost goblin\" sighting at the mall, but that's so ridiculous to be investigated legitimately. I certainly got a chuckle out of it..."
+msgstr "[@maddie closed talk_happy sad@] There was actually some report on the other day about a reported \"ghost genie\" and \"nerdy ghost goblin\" sighting at the mall, but that's so ridiculous to be investigated legitimately. I certainly got a chuckle out of it..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:37 ## translate crowdin A_Casual_Night_In_scene_1_livingroom_206b9d16:
 msgid "[@maddie idle_ towards talk_frown@] I'm simply trying to find the remote so I can switch over to the DVD section of the cable input."
@@ -51,8 +51,8 @@ msgid "[@danny sad_2 talk_happy@] You just need to take more breaks mom! Being a
 msgstr "[@danny sad_2 talk_happy@] You just need to take more breaks mom! Being as busy and as inventive as you and Dad are, I'm sure it gets exhausting."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:47 ## translate crowdin A_Casual_Night_In_scene_1_livingroom_99eeb010:
-msgid "[@maddie towards_wide talk_happy wondering@] Yeah, it's good to just take a break every once and awhile, right? Today has just felt like a £*£*£*£casual night in£*£*£*£ type of vibe, you know?"
-msgstr "[@maddie towards_wide talk_happy wondering@] Yeah, it's good to just take a break every once and awhile, right? Today has just felt like a £*£*£*£casual night in£*£*£*£ type of vibe, you know?"
+msgid "[@maddie towards_wide talk_happy wondering@] Yeah, it's good to just take a break every once and awhile, right? Today has just felt like a \"casual night in\" type of vibe, you know?"
+msgstr "[@maddie towards_wide talk_happy wondering@] Yeah, it's good to just take a break every once and awhile, right? Today has just felt like a \"casual night in\" type of vibe, you know?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:49 ## translate crowdin A_Casual_Night_In_scene_1_livingroom_2c6d76f1:
 msgid "[@maddie away_wide rise_one_3 talk_frown@] But with this darn remote missing, I can't even pop in a nice period piece or rom com to watch..."
@@ -703,8 +703,8 @@ msgid "[@maddie wondering talk_happy@] Great sweetie! Oh, this should be so much
 msgstr "[@maddie wondering talk_happy@] Great sweetie! Oh, this should be so much fun. I picked out one I haven't seen in a long time."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:558 ## translate crowdin A_Casual_Night_In_scene_6_livingroom_64da055e:
-msgid "[@maddie talk_happy_2 towards_2 rise_one@] Have you ever seen £*£*£*£Forget Paris£*£*£*£?"
-msgstr "[@maddie talk_happy_2 towards_2 rise_one@] Have you ever seen £*£*£*£Forget Paris£*£*£*£?"
+msgid "[@maddie talk_happy_2 towards_2 rise_one@] Have you ever seen \"Forget Paris\"?"
+msgstr "[@maddie talk_happy_2 towards_2 rise_one@] Have you ever seen \"Forget Paris\"?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:560 ## translate crowdin A_Casual_Night_In_scene_6_livingroom_c62cfc09:
 msgid "[@danny blank_stare rise_one talk_frown@] No, I don't think so..."
@@ -935,8 +935,8 @@ msgid "[@danny rise_one talk_happy@] You know, we've sorta joked around about it
 msgstr "[@danny rise_one talk_happy@] You know, we've sorta joked around about it a couple times, actually..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:700 ## translate crowdin supportive_mom_chat_21e279c3:
-msgid "[@maddie towards_2 talk_happy rise_one@] Playing the whole £*£*£*£Will they, Won't they?£*£*£*£ game together?"
-msgstr "[@maddie towards_2 talk_happy rise_one@] Playing the whole £*£*£*£Will they, Won't they?£*£*£*£ game together?"
+msgid "[@maddie towards_2 talk_happy rise_one@] Playing the whole \"Will they, Won't they?\" game together?"
+msgstr "[@maddie towards_2 talk_happy rise_one@] Playing the whole \"Will they, Won't they?\" game together?"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:702 ## translate crowdin supportive_mom_chat_1cb543ad:
 msgid "[@danny talk_frown down sad@] Uhh, yeah, I suppose so... mainly just a joke, for the most part..."
@@ -1519,8 +1519,8 @@ msgid "[@clockwork@] (Gentleman, I must say, in the entire span of existence I'v
 msgstr "[@clockwork@] (Gentleman, I must say, in the entire span of existence I've experienced both forwards and backwards, you two are truly a pair of the most {i}twisted{/i} individuals I've ever come across.)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1116 ## translate crowdin A_Casual_Night_In_maddie_shower_scene_6448a3c0:
-msgid "[@gzone_@] (No, no, I like to 'zhink of uz' as just... making Danny'z life more, uhh... how do you say... £*£*£*£interesting£*£*£*£?)"
-msgstr "[@gzone_@] (No, no, I like to 'zhink of uz' as just... making Danny'z life more, uhh... how do you say... £*£*£*£interesting£*£*£*£?)"
+msgid "[@gzone_@] (No, no, I like to 'zhink of uz' as just... making Danny'z life more, uhh... how do you say... \"interesting\"?)"
+msgstr "[@gzone_@] (No, no, I like to 'zhink of uz' as just... making Danny'z life more, uhh... how do you say... \"interesting\"?)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1117 ## translate crowdin A_Casual_Night_In_maddie_shower_scene_2eea3f24:
 msgid "[@morahzamora@] (I just find it funny making him wanna bone his mom internally. {i}*Chuckles*{/i})"
@@ -1531,30 +1531,30 @@ msgid "[@clockwork@] ({i}*Sigh*{/i}... the poor bastard indeed...)"
 msgstr "[@clockwork@] ({i}*Sigh*{/i}... the poor bastard indeed...)"
 
 # XXtranslate crowdin strings:XX# XX## game/code/episodes/episode_5/episode_5_casual_night.rpy:652
-msgid @+@+@[mschoice] Who do you think you like, kiddo?"
-msgstr @+@+@[mschoice] Who do you think you like, kiddo?"
+msgid "[mschoice] Who do you think you like, kiddo?"
+msgstr "[mschoice] Who do you think you like, kiddo?"
 
 # XX## game/code/episodes/episode_5/episode_5_casual_night.rpy:652
-msgid @+@+@[mschoice] Honestly, I've always liked Paulina."
-msgstr @+@+@[mschoice] Honestly, I've always liked Paulina."
+msgid "[mschoice] Honestly, I've always liked Paulina."
+msgstr "[mschoice] Honestly, I've always liked Paulina."
 
 # XX## game/code/episodes/episode_5/episode_5_casual_night.rpy:652
-msgid @+@+@[mschoice] Sam's definitely an interesting choice..."
-msgstr @+@+@[mschoice] Sam's definitely an interesting choice..."
+msgid "[mschoice] Sam's definitely an interesting choice..."
+msgstr "[mschoice] Sam's definitely an interesting choice..."
 
 # XX## game/code/episodes/episode_5/episode_5_casual_night.rpy:652
-msgid @+@+@[mschoice] I'd prefer someone like you, Mom."
-msgstr @+@+@[mschoice] I'd prefer someone like you, Mom."
+msgid "[mschoice] I'd prefer someone like you, Mom."
+msgstr "[mschoice] I'd prefer someone like you, Mom."
 
 # XX## game/code/episodes/episode_5/episode_5_casual_night.rpy:801
-msgid @+@+@[mschoice] Do you hug your mom knowing she's currently cream pied?"
-msgstr @+@+@[mschoice] Do you hug your mom knowing she's currently cream pied?"
+msgid "[mschoice] Do you hug your mom knowing she's currently cream pied?"
+msgstr "[mschoice] Do you hug your mom knowing she's currently cream pied?"
 
 # XX## game/code/episodes/episode_5/episode_5_casual_night.rpy:801
-msgid @+@+@[mschoice] Honestly, I'd prefer not to..."
-msgstr @+@+@[mschoice] Honestly, I'd prefer not to..."
+msgid "[mschoice] Honestly, I'd prefer not to..."
+msgstr "[mschoice] Honestly, I'd prefer not to..."
 
 # XX## game/code/episodes/episode_5/episode_5_casual_night.rpy:801
-msgid @+@+@[mschoice] Bring it in, Mom!"
-msgstr @+@+@[mschoice] Bring it in, Mom!"
+msgid "[mschoice] Bring it in, Mom!"
+msgstr "[mschoice] Bring it in, Mom!"
 

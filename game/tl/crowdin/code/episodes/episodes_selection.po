@@ -1,36 +1,36 @@
 ﻿# TODO: Translation updated at 2022-07-19 HH:HH# XXtranslate crowdin strings:XX# XX## game/code/episodes/episodes_selection.rpy:202
-msgid @+@+@[mschoice] Paulina was in trouble! What did I do?!"
-msgstr @+@+@[mschoice] Paulina was in trouble! What did I do?!"
+msgid "[mschoice] Paulina was in trouble! What did I do?!"
+msgstr "[mschoice] Paulina was in trouble! What did I do?!"
 
 # XX## game/code/episodes/episodes_selection.rpy:202
-msgid @+@+@[mschoice] Saved her immediately!"
-msgstr @+@+@[mschoice] Saved her immediately!"
+msgid "[mschoice] Saved her immediately!"
+msgstr "[mschoice] Saved her immediately!"
 
 # XX## game/code/episodes/episodes_selection.rpy:202
-msgid @+@+@[mschoice] Waited to see what happens..."
-msgstr @+@+@[mschoice] Waited to see what happens..."
+msgid "[mschoice] Waited to see what happens..."
+msgstr "[mschoice] Waited to see what happens..."
 
 # XX## game/code/episodes/episodes_selection.rpy:245
-msgid @+@+@[mschoice] Did I save Maddie from Ectopuss in the basement?"
-msgstr @+@+@[mschoice] Did I save Maddie from Ectopuss in the basement?"
+msgid "[mschoice] Did I save Maddie from Ectopuss in the basement?"
+msgstr "[mschoice] Did I save Maddie from Ectopuss in the basement?"
 
 # XX## game/code/episodes/episodes_selection.rpy:330
-msgid @+@+@[mschoice] Did I prank Sam at Star's request?"
-msgstr @+@+@[mschoice] Did I prank Sam at Star's request?"
+msgid "[mschoice] Did I prank Sam at Star's request?"
+msgstr "[mschoice] Did I prank Sam at Star's request?"
 
 # XX## game/code/episodes/episodes_selection.rpy:366
-msgid @+@+@[mschoice] Who did I take to the school dance?"
-msgstr @+@+@[mschoice] Who did I take to the school dance?"
+msgid "[mschoice] Who did I take to the school dance?"
+msgstr "[mschoice] Who did I take to the school dance?"
 
 # XX## game/code/episodes/episodes_selection.rpy:366
-msgid @+@+@[mschoice] Sam"
-msgstr @+@+@[mschoice] Sam"
+msgid "[mschoice] Sam"
+msgstr "[mschoice] Sam"
 
 # XX## game/code/episodes/episodes_selection.rpy:406
-msgid @+@+@[mschoice] Did I get romantically involved with Maddie?"
-msgstr @+@+@[mschoice] Did I get romantically involved with Maddie?"
+msgid "[mschoice] Did I get romantically involved with Maddie?"
+msgstr "[mschoice] Did I get romantically involved with Maddie?"
 
 # XX## game/code/episodes/episodes_selection.rpy:440
-msgid @+@+@[mschoice] Who did I get my second orgone charge from?"
-msgstr @+@+@[mschoice] Who did I get my second orgone charge from?"
+msgid "[mschoice] Who did I get my second orgone charge from?"
+msgstr "[mschoice] Who did I get my second orgone charge from?"
 

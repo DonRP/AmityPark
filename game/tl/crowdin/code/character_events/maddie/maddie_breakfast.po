@@ -43,8 +43,8 @@ msgid "[@maddie special nightgown towards sad talk_happy@] I completely agree. A
 msgstr "[@maddie special nightgown towards sad talk_happy@] I completely agree. Are you {i}sure{/i} I can't whip something up for you...?"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:115 ## translate crowdin maddie_kitchen_monday_breakfast_f14c87ee:
-msgid "[@danny at_player rise grin@] (Do I have mom serve me... £*£*£*£breakfast?£*£*£*£)"
-msgstr "[@danny at_player rise grin@] (Do I have mom serve me... £*£*£*£breakfast?£*£*£*£)"
+msgid "[@danny at_player rise grin@] (Do I have mom serve me... \"breakfast?\")"
+msgstr "[@danny at_player rise grin@] (Do I have mom serve me... \"breakfast?\")"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:130 ## translate crowdin maddie_kitchen_monday_breakfast_treat_161d1914:
 msgid "[@danny closed talk_happy@] Sure, I guess that's fine."
@@ -171,18 +171,18 @@ msgid "[@maddie special nightgown towards sad talk_happy@] Have a good day at sc
 msgstr "[@maddie special nightgown towards sad talk_happy@] Have a good day at school then, sweetie!"
 
 # XXtranslate crowdin strings:XX# XX## game/code/character_events/maddie/maddie_breakfast.rpy:119
-msgid @+@+@[mschoice] I'm starved! Let's dig in!"
-msgstr @+@+@[mschoice] I'm starved! Let's dig in!"
+msgid "[mschoice] I'm starved! Let's dig in!"
+msgstr "[mschoice] I'm starved! Let's dig in!"
 
 # XX## game/code/character_events/maddie/maddie_breakfast.rpy:119
-msgid @+@+@[mschoice] I'm good, really."
-msgstr @+@+@[mschoice] I'm good, really."
+msgid "[mschoice] I'm good, really."
+msgstr "[mschoice] I'm good, really."
 
 # XX## game/code/character_events/maddie/maddie_breakfast.rpy:249
-msgid @+@+@[mschoice]  Stay Home."
-msgstr @+@+@[mschoice]  Stay Home."
+msgid "[mschoice]  Stay Home."
+msgstr "[mschoice]  Stay Home."
 
 # XX## game/code/character_events/maddie/maddie_breakfast.rpy:249
-msgid @+@+@[mschoice] I really need to get to School."
-msgstr @+@+@[mschoice] I really need to get to School."
+msgid "[mschoice] I really need to get to School."
+msgstr "[mschoice] I really need to get to School."
 

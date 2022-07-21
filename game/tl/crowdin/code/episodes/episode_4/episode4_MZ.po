@@ -11,8 +11,8 @@ msgid "[@danny wondering talk_frown@] Huh? Do what?"
 msgstr "[@danny wondering talk_frown@] Huh? Do what?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:27 ## translate crowdin Wish_you_the_Best_scene_1_Hallway_4e57f7ee:
-msgid "[@tucker talk_happy neutral@] I mean, you were able to come in here {i}every{/i} single day since the accident, and have the strength to not just blurt out, £*£*£*£Hey everyone, Ghost Boy coming through, watch out!£*£*£*£"
-msgstr "[@tucker talk_happy neutral@] I mean, you were able to come in here {i}every{/i} single day since the accident, and have the strength to not just blurt out, £*£*£*£Hey everyone, Ghost Boy coming through, watch out!£*£*£*£"
+msgid "[@tucker talk_happy neutral@] I mean, you were able to come in here {i}every{/i} single day since the accident, and have the strength to not just blurt out, \"Hey everyone, Ghost Boy coming through, watch out!\""
+msgstr "[@tucker talk_happy neutral@] I mean, you were able to come in here {i}every{/i} single day since the accident, and have the strength to not just blurt out, \"Hey everyone, Ghost Boy coming through, watch out!\""
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:29 ## translate crowdin Wish_you_the_Best_scene_1_Hallway_1fbd87a0:
 msgid "[@danny talk_frown_2 sad@] No way, I couldn't have done that. I'd prefer not to be dissected alive by my mom and dad."
@@ -47,8 +47,8 @@ msgid "[@danny talk_frown wondering@] No, Tucker, it was wrong of me to have sta
 msgstr "[@danny talk_frown wondering@] No, Tucker, it was wrong of me to have stared at her when she was exposed! I should have stepped in earlier..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:46 ## translate crowdin Wish_you_the_Best_scene_1_Hallway_d2e5921e:
-msgid "[@tucker talk_happy towards neutral@] Hey, come on Danny, don't be so down on yourself! Paulina's fine now! You were new to the whole £*£*£*£hero£*£*£*£ thing at the time, right? People make mistakes!"
-msgstr "[@tucker talk_happy towards neutral@] Hey, come on Danny, don't be so down on yourself! Paulina's fine now! You were new to the whole £*£*£*£hero£*£*£*£ thing at the time, right? People make mistakes!"
+msgid "[@tucker talk_happy towards neutral@] Hey, come on Danny, don't be so down on yourself! Paulina's fine now! You were new to the whole \"hero\" thing at the time, right? People make mistakes!"
+msgstr "[@tucker talk_happy towards neutral@] Hey, come on Danny, don't be so down on yourself! Paulina's fine now! You were new to the whole \"hero\" thing at the time, right? People make mistakes!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:48 ## translate crowdin Wish_you_the_Best_scene_1_Hallway_887dda8d:
 msgid "[@danny rise_one talk_frown@] I mean, I guess but-"
@@ -103,24 +103,24 @@ msgid "[@danny talk_frown_2@] Har har, very funny, Foley."
 msgstr "[@danny talk_frown_2@] Har har, very funny, Foley."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:77 ## translate crowdin Wish_you_the_Best_scene_1_Hallway_027ebb70:
-msgid "[@tucker talk_happy angry@] Dude, I'm telling you, Paulina would be all over you the moment you sprung the fact that you're £*£*£*£Inviso-Bill£*£*£*£!"
-msgstr "[@tucker talk_happy angry@] Dude, I'm telling you, Paulina would be all over you the moment you sprung the fact that you're £*£*£*£Inviso-Bill£*£*£*£!"
+msgid "[@tucker talk_happy angry@] Dude, I'm telling you, Paulina would be all over you the moment you sprung the fact that you're \"Inviso-Bill\"!"
+msgstr "[@tucker talk_happy angry@] Dude, I'm telling you, Paulina would be all over you the moment you sprung the fact that you're \"Inviso-Bill\"!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:80 ## translate crowdin Wish_you_the_Best_scene_1_Hallway_3ca18209:
 msgid "[@danny talk_frown_2 wondering@] Tucker, I can't just go around telling people my secret identity willy nilly. It'd be dangerous, not only for myself, but also for my friends and family!"
 msgstr "[@danny talk_frown_2 wondering@] Tucker, I can't just go around telling people my secret identity willy nilly. It'd be dangerous, not only for myself, but also for my friends and family!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:82 ## translate crowdin Wish_you_the_Best_scene_1_Hallway_572bbf22:
-msgid "[@danny neutral talk_frown@] ...also, I {i}really{/i} gotta find a publicist to help get rid of the whole £*£*£*£Inviso-Bill£*£*£*£ name. I'm gonna end up haunting whoever came up with that at Channel 4."
-msgstr "[@danny neutral talk_frown@] ...also, I {i}really{/i} gotta find a publicist to help get rid of the whole £*£*£*£Inviso-Bill£*£*£*£ name. I'm gonna end up haunting whoever came up with that at Channel 4."
+msgid "[@danny neutral talk_frown@] ...also, I {i}really{/i} gotta find a publicist to help get rid of the whole \"Inviso-Bill\" name. I'm gonna end up haunting whoever came up with that at Channel 4."
+msgstr "[@danny neutral talk_frown@] ...also, I {i}really{/i} gotta find a publicist to help get rid of the whole \"Inviso-Bill\" name. I'm gonna end up haunting whoever came up with that at Channel 4."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:84 ## translate crowdin Wish_you_the_Best_scene_1_Hallway_17ad73d8:
 msgid "[@tucker talk_happy neutral@] Ehh, don't let that get you down too much. Do you have a better name at the moment?"
 msgstr "[@tucker talk_happy neutral@] Ehh, don't let that get you down too much. Do you have a better name at the moment?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:86 ## translate crowdin Wish_you_the_Best_scene_1_Hallway_47aaebe3:
-msgid "[@danny talk_frown@] Not at the moment, no. People sometimes just call me £*£*£*£Ghost Boy£*£*£*£, but that doesn't exactly sound all too heroic for hunting other ghosts. That sounds like an old comic from the 40's."
-msgstr "[@danny talk_frown@] Not at the moment, no. People sometimes just call me £*£*£*£Ghost Boy£*£*£*£, but that doesn't exactly sound all too heroic for hunting other ghosts. That sounds like an old comic from the 40's."
+msgid "[@danny talk_frown@] Not at the moment, no. People sometimes just call me \"Ghost Boy\", but that doesn't exactly sound all too heroic for hunting other ghosts. That sounds like an old comic from the 40's."
+msgstr "[@danny talk_frown@] Not at the moment, no. People sometimes just call me \"Ghost Boy\", but that doesn't exactly sound all too heroic for hunting other ghosts. That sounds like an old comic from the 40's."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:88 ## translate crowdin Wish_you_the_Best_scene_1_Hallway_bc5f7b44:
 msgid "[@tucker talk_frown@] Well, a good hero name should be something dashing, and yet also able to strike fear in the hearts of your enemies. Something with a unique twist..."
@@ -131,8 +131,8 @@ msgid "[@tucker away frown neutral@] Hmmm..."
 msgstr "[@tucker away frown neutral@] Hmmm..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:91 ## translate crowdin Wish_you_the_Best_scene_1_Hallway_3f755c10:
-msgid "[@tucker closed sad talk_happy@] I got it! How about, £*£*£*£Human Spirit£*£*£*£? Or how about, £*£*£*£The Amity Apparition£*£*£*£?! Oh, or even, £*£*£*£The Ghost Deporter£*£*£*£!!"
-msgstr "[@tucker closed sad talk_happy@] I got it! How about, £*£*£*£Human Spirit£*£*£*£? Or how about, £*£*£*£The Amity Apparition£*£*£*£?! Oh, or even, £*£*£*£The Ghost Deporter£*£*£*£!!"
+msgid "[@tucker closed sad talk_happy@] I got it! How about, \"Human Spirit\"? Or how about, \"The Amity Apparition\"?! Oh, or even, \"The Ghost Deporter\"!!"
+msgstr "[@tucker closed sad talk_happy@] I got it! How about, \"Human Spirit\"? Or how about, \"The Amity Apparition\"?! Oh, or even, \"The Ghost Deporter\"!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:93 ## translate crowdin Wish_you_the_Best_scene_1_Hallway_3beedeac:
 msgid "[@danny talk_happy wondering@] Ha hah!! Good stuff, but I don't think it'll stick. Don't worry, I'll come up with something myself sooner or-"
@@ -387,8 +387,8 @@ msgid "[@tucker@] Ugh... man, this bites."
 msgstr "[@tucker@] Ugh... man, this bites."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:386 ## translate crowdin Wish_you_the_Best_classroom_6f0891b3:
-msgid "[@sam@] Also, if you're trying to talk about the £*£*£*£unexplored£*£*£*£, I don't think {i}those{/i} two sperm banks fall under the proper criteria."
-msgstr "[@sam@] Also, if you're trying to talk about the £*£*£*£unexplored£*£*£*£, I don't think {i}those{/i} two sperm banks fall under the proper criteria."
+msgid "[@sam@] Also, if you're trying to talk about the \"unexplored\", I don't think {i}those{/i} two sperm banks fall under the proper criteria."
+msgstr "[@sam@] Also, if you're trying to talk about the \"unexplored\", I don't think {i}those{/i} two sperm banks fall under the proper criteria."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:391 ## translate crowdin Wish_you_the_Best_classroom_e4915b77:
 msgid "[@danny@] Wait, really? But I thought that Paulina was-"
@@ -523,8 +523,8 @@ msgid "[@danny talk_happy closed sad_2@] ...{i}yet{/i}, anyway."
 msgstr "[@danny talk_happy closed sad_2@] ...{i}yet{/i}, anyway."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:555 ## translate crowdin Wish_you_the_Best_scene_3_stadium_ffbb04b1:
-msgid "[@tucker talk_frown towards wondering@] Man, I wouldn't worry about that whole £*£*£*£secret identity£*£*£*£ thing!"
-msgstr "[@tucker talk_frown towards wondering@] Man, I wouldn't worry about that whole £*£*£*£secret identity£*£*£*£ thing!"
+msgid "[@tucker talk_frown towards wondering@] Man, I wouldn't worry about that whole \"secret identity\" thing!"
+msgstr "[@tucker talk_frown towards wondering@] Man, I wouldn't worry about that whole \"secret identity\" thing!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:556 ## translate crowdin Wish_you_the_Best_scene_3_stadium_e2ed02e7:
 msgid "[@tucker closed neutral@] Plenty of superheros don't even make their identities a secret!"
@@ -551,8 +551,8 @@ msgid "[@tucker away@] I'm talking locker room shenanigans, changing failed test
 msgstr "[@tucker away@] I'm talking locker room shenanigans, changing failed test scores, and all the body possession I could handle!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:568 ## translate crowdin Wish_you_the_Best_scene_3_stadium_d6d0d519:
-msgid "[@tucker towards wondering talk_happy@] I'm thinking that a certain Ms. Sanchez might be a bit more inclined to send a good man by the name of Danny Fenton a couple of {b}primo{/b} booty pics if I had the chance to £*£*£*£Take a walk in her shoes£*£*£*£... {i}Heh Heh he{/i}..."
-msgstr "[@tucker towards wondering talk_happy@] I'm thinking that a certain Ms. Sanchez might be a bit more inclined to send a good man by the name of Danny Fenton a couple of {b}primo{/b} booty pics if I had the chance to £*£*£*£Take a walk in her shoes£*£*£*£... {i}Heh Heh he{/i}..."
+msgid "[@tucker towards wondering talk_happy@] I'm thinking that a certain Ms. Sanchez might be a bit more inclined to send a good man by the name of Danny Fenton a couple of {b}primo{/b} booty pics if I had the chance to \"Take a walk in her shoes\"... {i}Heh Heh he{/i}..."
+msgstr "[@tucker towards wondering talk_happy@] I'm thinking that a certain Ms. Sanchez might be a bit more inclined to send a good man by the name of Danny Fenton a couple of {b}primo{/b} booty pics if I had the chance to \"Take a walk in her shoes\"... {i}Heh Heh he{/i}..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:570 ## translate crowdin Wish_you_the_Best_scene_3_stadium_2dc352e4:
 msgid "[@danny talk_happy blush_2@] Oh my God, Tucker, you're twisted! Hah hahh!"
@@ -571,8 +571,8 @@ msgid "[@tucker away talk_happy@] Nah, yeah, I understand why you {i}wouldn't{/i
 msgstr "[@tucker away talk_happy@] Nah, yeah, I understand why you {i}wouldn't{/i} wanna do that."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:577 ## translate crowdin Wish_you_the_Best_scene_3_stadium_80ec24bd:
-msgid "[@tucker towards angry@] See, that's what I think makes you a real hero Danny. The whole £*£*£*£knowing right from wrong£*£*£*£ aspect of your personality. You're the perfect person to defend Amity from ghastly ghouls."
-msgstr "[@tucker towards angry@] See, that's what I think makes you a real hero Danny. The whole £*£*£*£knowing right from wrong£*£*£*£ aspect of your personality. You're the perfect person to defend Amity from ghastly ghouls."
+msgid "[@tucker towards angry@] See, that's what I think makes you a real hero Danny. The whole \"knowing right from wrong\" aspect of your personality. You're the perfect person to defend Amity from ghastly ghouls."
+msgstr "[@tucker towards angry@] See, that's what I think makes you a real hero Danny. The whole \"knowing right from wrong\" aspect of your personality. You're the perfect person to defend Amity from ghastly ghouls."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:579 ## translate crowdin Wish_you_the_Best_scene_3_stadium_89e64808:
 msgid "[@danny rise_one -blush talk_happy@] Thanks Tuck. I appreciate your superhero blessing."
@@ -607,8 +607,8 @@ msgid "[@tucker wondering towards_wide@] I'm exhausted!"
 msgstr "[@tucker wondering towards_wide@] I'm exhausted!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:613 ## translate crowdin Wish_you_the_Best_scene_3_stadium_150e4996:
-msgid "[@danny wondering talk_frown@] Let's just be glad a lot of the other booths dropped out last minute. With this £*£*£*£Madam Babazita's£*£*£*£ booth finished, we're officially done, so I'm happy. We just need to wait for her to actually get here to claim her spot."
-msgstr "[@danny wondering talk_frown@] Let's just be glad a lot of the other booths dropped out last minute. With this £*£*£*£Madam Babazita's£*£*£*£ booth finished, we're officially done, so I'm happy. We just need to wait for her to actually get here to claim her spot."
+msgid "[@danny wondering talk_frown@] Let's just be glad a lot of the other booths dropped out last minute. With this \"Madam Babazita's\" booth finished, we're officially done, so I'm happy. We just need to wait for her to actually get here to claim her spot."
+msgstr "[@danny wondering talk_frown@] Let's just be glad a lot of the other booths dropped out last minute. With this \"Madam Babazita's\" booth finished, we're officially done, so I'm happy. We just need to wait for her to actually get here to claim her spot."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:615 ## translate crowdin Wish_you_the_Best_scene_3_stadium_cf932a0b:
 msgid "[@tucker talk_frown neutral@] I'll be {b}happy{/b} when one of these merchants sells me a back brace!"
@@ -647,12 +647,12 @@ msgid "[@tucker towards sad talk_happy@] Also, that doesn't make it any less tru
 msgstr "[@tucker towards sad talk_happy@] Also, that doesn't make it any less true. If ghosts really are escaping into Amity Park, then {b}you're{/b} gonna be the one to stop them. You'll do {i}great{/i} things with your powers, I just know it!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:632 ## translate crowdin Wish_you_the_Best_scene_3_stadium_6461c8ce:
-msgid "[@danny at_player talk_frown_2@] I mean, sure, I wouldn't normally {i}mind{/i} the whole £*£*£*£getting superpowers£*£*£*£ thing, obviously. But at the end of the day, I {b}still{/b} have to finish my algebra homework {i}and{/i} do all my chores as well!"
-msgstr "[@danny at_player talk_frown_2@] I mean, sure, I wouldn't normally {i}mind{/i} the whole £*£*£*£getting superpowers£*£*£*£ thing, obviously. But at the end of the day, I {b}still{/b} have to finish my algebra homework {i}and{/i} do all my chores as well!"
+msgid "[@danny at_player talk_frown_2@] I mean, sure, I wouldn't normally {i}mind{/i} the whole \"getting superpowers\" thing, obviously. But at the end of the day, I {b}still{/b} have to finish my algebra homework {i}and{/i} do all my chores as well!"
+msgstr "[@danny at_player talk_frown_2@] I mean, sure, I wouldn't normally {i}mind{/i} the whole \"getting superpowers\" thing, obviously. But at the end of the day, I {b}still{/b} have to finish my algebra homework {i}and{/i} do all my chores as well!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:634 ## translate crowdin Wish_you_the_Best_scene_3_stadium_33f4f657:
-msgid "[@danny towards talk_frown@] Getting ghost powers would've been a lot better if I already had one of those £*£*£*£billionaire playboy£*£*£*£ alter egos superheros tend to have."
-msgstr "[@danny towards talk_frown@] Getting ghost powers would've been a lot better if I already had one of those £*£*£*£billionaire playboy£*£*£*£ alter egos superheros tend to have."
+msgid "[@danny towards talk_frown@] Getting ghost powers would've been a lot better if I already had one of those \"billionaire playboy\" alter egos superheros tend to have."
+msgstr "[@danny towards talk_frown@] Getting ghost powers would've been a lot better if I already had one of those \"billionaire playboy\" alter egos superheros tend to have."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:639 ## translate crowdin Wish_you_the_Best_scene_3_stadium_dc7a53a4:
 msgid "[@tucker talk_happy sad@] {i}Hah{/i}! A billionaire with ghost powers? Yeah right! That's total make believe dude, only in comics and kids shows. Can you imagine someone like Vlad Masters floating through walls?"
@@ -827,8 +827,8 @@ msgid "[@danny talk_frown at_danny angry@] Tucker! Shush!"
 msgstr "[@danny talk_frown at_danny angry@] Tucker! Shush!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:799 ## translate crowdin Wish_you_the_Best_scene_3_stadium_af78dca5:
-msgid "[@babazita neutral_2 talk_happy@] The sultan adored her, and promised to grant her every desire. He even bestowed upon the orphaned girl a name... £*£*£*£Desiree£*£*£*£."
-msgstr "[@babazita neutral_2 talk_happy@] The sultan adored her, and promised to grant her every desire. He even bestowed upon the orphaned girl a name... £*£*£*£Desiree£*£*£*£."
+msgid "[@babazita neutral_2 talk_happy@] The sultan adored her, and promised to grant her every desire. He even bestowed upon the orphaned girl a name... \"Desiree\"."
+msgstr "[@babazita neutral_2 talk_happy@] The sultan adored her, and promised to grant her every desire. He even bestowed upon the orphaned girl a name... \"Desiree\"."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:803 ## translate crowdin Wish_you_the_Best_scene_3_stadium_59c87044:
 msgid "[@babazita talk_happy neutral closed@] They were, for a time at least, truly in love..."
@@ -867,8 +867,8 @@ msgid "[@babazita towards talk_frown@] Da, 'tis terrible..."
 msgstr "[@babazita towards talk_frown@] Da, 'tis terrible..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:827 ## translate crowdin Wish_you_the_Best_scene_3_stadium_f5fcf73b:
-msgid "[@tucker towards talk_frown neutral@] Alriiiighty then, back to reality for a moment, can you tell us just what this really {i}scary{/i} £*£*£*£Goosebumps£*£*£*£ tale has to do with this cheap bong my friend is holding?"
-msgstr "[@tucker towards talk_frown neutral@] Alriiiighty then, back to reality for a moment, can you tell us just what this really {i}scary{/i} £*£*£*£Goosebumps£*£*£*£ tale has to do with this cheap bong my friend is holding?"
+msgid "[@tucker towards talk_frown neutral@] Alriiiighty then, back to reality for a moment, can you tell us just what this really {i}scary{/i} \"Goosebumps\" tale has to do with this cheap bong my friend is holding?"
+msgstr "[@tucker towards talk_frown neutral@] Alriiiighty then, back to reality for a moment, can you tell us just what this really {i}scary{/i} \"Goosebumps\" tale has to do with this cheap bong my friend is holding?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:830 ## translate crowdin Wish_you_the_Best_scene_3_stadium_93c4f320:
 msgid "[@babazita towards wondering_2 talk_happy@] Ahh, da, of course. She's in there."
@@ -983,8 +983,8 @@ msgid "[@danny talk_frown_2 rise_one@] Hey Tuck wait up!"
 msgstr "[@danny talk_frown_2 rise_one@] Hey Tuck wait up!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:995 ## translate crowdin Wish_you_the_Best_give_the_lamp_to_tucker_f6cf214a:
-msgid "[@tucker talk_frown angry@] Ugh, man, can you {i}believe{/i} that absolute con artist? Trying to sell me her £*£*£*£Party City£*£*£*£ hot garbage? Only an {b}idiot{/b} would buy her stuff, right Danny?"
-msgstr "[@tucker talk_frown angry@] Ugh, man, can you {i}believe{/i} that absolute con artist? Trying to sell me her £*£*£*£Party City£*£*£*£ hot garbage? Only an {b}idiot{/b} would buy her stuff, right Danny?"
+msgid "[@tucker talk_frown angry@] Ugh, man, can you {i}believe{/i} that absolute con artist? Trying to sell me her \"Party City\" hot garbage? Only an {b}idiot{/b} would buy her stuff, right Danny?"
+msgstr "[@tucker talk_frown angry@] Ugh, man, can you {i}believe{/i} that absolute con artist? Trying to sell me her \"Party City\" hot garbage? Only an {b}idiot{/b} would buy her stuff, right Danny?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:997 ## translate crowdin Wish_you_the_Best_give_the_lamp_to_tucker_44321046:
 msgid "[@danny at_danny talk_frown rise_one blush@] Uhmm..."
@@ -1187,8 +1187,8 @@ msgid "[@tucker ahegao talk_happy angry@] {b}Tucker Phantom{/b}!!"
 msgstr "[@tucker ahegao talk_happy angry@] {b}Tucker Phantom{/b}!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1165 ## translate crowdin Wish_you_the_Best_give_the_lamp_to_tucker_9d1363f7:
-msgid "[@danny neutral talk_frown@] ...£*£*£*£Tucker Phantom£*£*£*£? Really? That's so..."
-msgstr "[@danny neutral talk_frown@] ...£*£*£*£Tucker Phantom£*£*£*£? Really? That's so..."
+msgid "[@danny neutral talk_frown@] ...\"Tucker Phantom\"? Really? That's so..."
+msgstr "[@danny neutral talk_frown@] ...\"Tucker Phantom\"? Really? That's so..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1167 ## translate crowdin Wish_you_the_Best_give_the_lamp_to_tucker_7616c3b3:
 msgid "[@danny at_danny talk_frown_2 rise_one@] ...not bad, actually. (Man, how come {i}I{/i} can't come up with a name like that?)"
@@ -1199,8 +1199,8 @@ msgid "[@danny towards talk_frown_2 sad@] Alright, well... I guess it's not all 
 msgstr "[@danny towards talk_frown_2 sad@] Alright, well... I guess it's not all terrible. I just don't know about a ghost who grants wishes all willy nilly..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1175 ## translate crowdin Wish_you_the_Best_give_the_lamp_to_tucker_1d502bc3:
-msgid "[@danny sad_2 talk_frown@] I mean, remember what Babazita said? Desiree's wishes always ended in terrible results, right? I believe the word £*£*£*£fatal£*£*£*£ was used?"
-msgstr "[@danny sad_2 talk_frown@] I mean, remember what Babazita said? Desiree's wishes always ended in terrible results, right? I believe the word £*£*£*£fatal£*£*£*£ was used?"
+msgid "[@danny sad_2 talk_frown@] I mean, remember what Babazita said? Desiree's wishes always ended in terrible results, right? I believe the word \"fatal\" was used?"
+msgstr "[@danny sad_2 talk_frown@] I mean, remember what Babazita said? Desiree's wishes always ended in terrible results, right? I believe the word \"fatal\" was used?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1178 ## translate crowdin Wish_you_the_Best_give_the_lamp_to_tucker_206e4388:
 msgid "[@tucker talk_happy sad ahegao@] {i}Pshhh{/i} Fake news! That old fake gypsy was spewing nonsense about my lovely friend Desiree. Clearly, not all ghosts are bad, right Des? Oh, I feel so bad, we've been leaving you out of the conversation so far. I'm Tucker by the way."
@@ -1287,16 +1287,16 @@ msgid "[@danny talk_frown sad@] What? Why the bathrooms?"
 msgstr "[@danny talk_frown sad@] What? Why the bathrooms?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1288 ## translate crowdin Wish_you_the_Best_scene_4_boys_bathroom_797eb45b:
-msgid "[@desiree closed talk_happy sad_3@] Master Tucker wanted to obtain as much £*£*£*£dirt£*£*£*£ upon those he deemed his enemies. A wise tactic indeed."
-msgstr "[@desiree closed talk_happy sad_3@] Master Tucker wanted to obtain as much £*£*£*£dirt£*£*£*£ upon those he deemed his enemies. A wise tactic indeed."
+msgid "[@desiree closed talk_happy sad_3@] Master Tucker wanted to obtain as much \"dirt\" upon those he deemed his enemies. A wise tactic indeed."
+msgstr "[@desiree closed talk_happy sad_3@] Master Tucker wanted to obtain as much \"dirt\" upon those he deemed his enemies. A wise tactic indeed."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1291 ## translate crowdin Wish_you_the_Best_scene_4_boys_bathroom_26a4282c:
 msgid "[@tucker away talk_happy sad@] Why thank you, Des. I thought the exact same thing myself."
 msgstr "[@tucker away talk_happy sad@] Why thank you, Des. I thought the exact same thing myself."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1294 ## translate crowdin Wish_you_the_Best_scene_4_boys_bathroom_ec7e0bd3:
-msgid "[@danny talk_frown_2 towards rise_one@] £*£*£*£Enemies£*£*£*£? £*£*£*£Dirt£*£*£*£? Tucker what have you been doing lately?"
-msgstr "[@danny talk_frown_2 towards rise_one@] £*£*£*£Enemies£*£*£*£? £*£*£*£Dirt£*£*£*£? Tucker what have you been doing lately?"
+msgid "[@danny talk_frown_2 towards rise_one@] \"Enemies\"? \"Dirt\"? Tucker what have you been doing lately?"
+msgstr "[@danny talk_frown_2 towards rise_one@] \"Enemies\"? \"Dirt\"? Tucker what have you been doing lately?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1297 ## translate crowdin Wish_you_the_Best_scene_4_boys_bathroom_e847320d:
 msgid "[@tucker angry talk_happy@] Well, first of all, I've been getting a couple years worth of nerd retribution back. Bullies don't stand a chance against me!"
@@ -1451,8 +1451,8 @@ msgid "[@desiree towards_2_wide angry talk_frown_2@] No one may tell my Master w
 msgstr "[@desiree towards_2_wide angry talk_frown_2@] No one may tell my Master what to do! He is the king of his own domain!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1414 ## translate crowdin Wish_you_the_Best_scene_4_boys_bathroom_8a4fa977:
-msgid "[@danny towards_wide talk_frown@] Look, butt out of this, Gumby, he's my friend {b}more{/b} than he is your £*£*£*£Master£*£*£*£."
-msgstr "[@danny towards_wide talk_frown@] Look, butt out of this, Gumby, he's my friend {b}more{/b} than he is your £*£*£*£Master£*£*£*£."
+msgid "[@danny towards_wide talk_frown@] Look, butt out of this, Gumby, he's my friend {b}more{/b} than he is your \"Master\"."
+msgstr "[@danny towards_wide talk_frown@] Look, butt out of this, Gumby, he's my friend {b}more{/b} than he is your \"Master\"."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1417 ## translate crowdin Wish_you_the_Best_scene_4_boys_bathroom_9150cbde:
 msgid "[@tucker talk_frown towards_wide@] Hey, don't tell my harem girl what to do!"
@@ -1547,8 +1547,8 @@ msgid "[@danny closed talk_frown@] I'm going ghost!!"
 msgstr "[@danny closed talk_frown@] I'm going ghost!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1490 ## translate crowdin Wish_you_the_Best_scene_4_boys_bathroom_7c160d36:
-msgid "[@desiree sad_2 towards_2_wide frown@] (Wait... the £*£*£*£Ghost Child£*£*£*£ is real?! I didn't believe the rumors... {u}another{/u} ghost-human hybrid? After all these years, it happened {u}again{/u }...?)"
-msgstr "[@desiree sad_2 towards_2_wide frown@] (Wait... the £*£*£*£Ghost Child£*£*£*£ is real?! I didn't believe the rumors... {u}another{/u} ghost-human hybrid? After all these years, it happened {u}again{/u }...?)"
+msgid "[@desiree sad_2 towards_2_wide frown@] (Wait... the \"Ghost Child\" is real?! I didn't believe the rumors... {u}another{/u} ghost-human hybrid? After all these years, it happened {u}again{/u }...?)"
+msgstr "[@desiree sad_2 towards_2_wide frown@] (Wait... the \"Ghost Child\" is real?! I didn't believe the rumors... {u}another{/u} ghost-human hybrid? After all these years, it happened {u}again{/u }...?)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1492 ## translate crowdin Wish_you_the_Best_scene_4_boys_bathroom_0ae0de73:
 msgid "[@danny towards talk_frown@] Last chance to back out, Tucker!"
@@ -1595,8 +1595,8 @@ msgid "[@danny towards_wide talk_frown angry@] Because, you're messing with peop
 msgstr "[@danny towards_wide talk_frown angry@] Because, you're messing with people and it's wrong! You also may be stronger than me, but you can't really fight worth a damn! And that's coming from me!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1548 ## translate crowdin Wish_you_the_Best_postfight_0406991f:
-msgid "[@tucker ahegao talk_frown@] Oh, say's you, Mr. £*£*£*£High and Mighty Ghost Boy£*£*£*£! Always have to play the hero, don't you?"
-msgstr "[@tucker ahegao talk_frown@] Oh, say's you, Mr. £*£*£*£High and Mighty Ghost Boy£*£*£*£! Always have to play the hero, don't you?"
+msgid "[@tucker ahegao talk_frown@] Oh, say's you, Mr. \"High and Mighty Ghost Boy\"! Always have to play the hero, don't you?"
+msgstr "[@tucker ahegao talk_frown@] Oh, say's you, Mr. \"High and Mighty Ghost Boy\"! Always have to play the hero, don't you?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1550 ## translate crowdin Wish_you_the_Best_postfight_3031a2e4:
 msgid "[@desiree towards_wide talk_frown angry@] He doesn't deserve your companionship, Master! His cruelty and jealousy knows no bounds!!"
@@ -1635,8 +1635,8 @@ msgid "[@danny towards_wide talk_happy angry@] Yeah, well keep wishing, cause th
 msgstr "[@danny towards_wide talk_happy angry@] Yeah, well keep wishing, cause that's {b}not{/b} happening!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1576 ## translate crowdin Wish_you_the_Best_postfight_6c00d1f7:
-msgid "[@tucker wondering talk_frown@] Wait, did you just say £*£*£*£keep wishing£*£*£*£?"
-msgstr "[@tucker wondering talk_frown@] Wait, did you just say £*£*£*£keep wishing£*£*£*£?"
+msgid "[@tucker wondering talk_frown@] Wait, did you just say \"keep wishing\"?"
+msgstr "[@tucker wondering talk_frown@] Wait, did you just say \"keep wishing\"?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1580 ## translate crowdin Wish_you_the_Best_postfight_d0c13832:
 msgid "[@danny at_player_wide talk_frown sad_2@] Oh... uhm... that was... I was just saying..."
@@ -2143,8 +2143,8 @@ msgid "[@kate talk_happy_2 rise_one@] Uh huh, well just remember what I said Dan
 msgstr "[@kate talk_happy_2 rise_one@] Uh huh, well just remember what I said Danny... I've scratched your back a couple of times now already..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2002 ## translate crowdin Wish_you_the_Best_after_titjob_kate_d104e741:
-msgid "[@danny wondering towards talk_happy_2@] Don't worry, I'll be sure to £*£*£*£scratch£*£*£*£ yours, when you're up to it. I'll talk to you later, Kate."
-msgstr "[@danny wondering towards talk_happy_2@] Don't worry, I'll be sure to £*£*£*£scratch£*£*£*£ yours, when you're up to it. I'll talk to you later, Kate."
+msgid "[@danny wondering towards talk_happy_2@] Don't worry, I'll be sure to \"scratch\" yours, when you're up to it. I'll talk to you later, Kate."
+msgstr "[@danny wondering towards talk_happy_2@] Don't worry, I'll be sure to \"scratch\" yours, when you're up to it. I'll talk to you later, Kate."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2004 ## translate crowdin Wish_you_the_Best_after_titjob_kate_cd73d786:
 msgid "[@kate neutral talk_happy_2@] Hmmm, good to know... see ya around kiddo."
@@ -2183,8 +2183,8 @@ msgid "[@stranger@] ...cause whoever's doing it is preventing us from running aw
 msgstr "[@stranger@] ...cause whoever's doing it is preventing us from running away from the green ghost guy who keeps taking upskirt pics of the girls here!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2056 ## translate crowdin Wish_you_the_Best_scene_7_mall_81d34956:
-msgid "[@danny at_player neutral talk_frown@] Okay, well that's just what you'd call £*£*£*£ironic timing£*£*£*£."
-msgstr "[@danny at_player neutral talk_frown@] Okay, well that's just what you'd call £*£*£*£ironic timing£*£*£*£."
+msgid "[@danny at_player neutral talk_frown@] Okay, well that's just what you'd call \"ironic timing\"."
+msgstr "[@danny at_player neutral talk_frown@] Okay, well that's just what you'd call \"ironic timing\"."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2057 ## translate crowdin Wish_you_the_Best_scene_7_mall_d7e5ca1f:
 msgid "[@danny frown_grin towards@] (There, I see him!)"
@@ -2375,8 +2375,8 @@ msgid "[@desiree towards_wide angry talk_happy_2@] ...granting me all the power 
 msgstr "[@desiree towards_wide angry talk_happy_2@] ...granting me all the power I'll need to continue my reign of vengeance upon wicked men forever!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2261 ## translate crowdin Wish_you_the_Best_postfight_3_3c731949:
-msgid "[@danny angry talk_frown_2@] Hey, £*£*£*£I Dream of Crazy£*£*£*£! Tucker may be a pervert, but he's a pervert with a heart of gold! He's not evil like you!"
-msgstr "[@danny angry talk_frown_2@] Hey, £*£*£*£I Dream of Crazy£*£*£*£! Tucker may be a pervert, but he's a pervert with a heart of gold! He's not evil like you!"
+msgid "[@danny angry talk_frown_2@] Hey, \"I Dream of Crazy\"! Tucker may be a pervert, but he's a pervert with a heart of gold! He's not evil like you!"
+msgstr "[@danny angry talk_frown_2@] Hey, \"I Dream of Crazy\"! Tucker may be a pervert, but he's a pervert with a heart of gold! He's not evil like you!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2263 ## translate crowdin Wish_you_the_Best_postfight_3_cb33ea75:
 msgid "[@danny talk_frown sad@] Now change him back!"
@@ -2559,8 +2559,8 @@ msgid "[@danny rise_one towards_wide talk_happy@] You see? Now that sounds like 
 msgstr "[@danny rise_one towards_wide talk_happy@] You see? Now that sounds like a rather mature, kind-hearted thing to do. You're a good person, Tucker! I know you'd make a fine superhero."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2448 ## translate crowdin Wish_you_the_Best_postfight_4_dd61d2ff:
-msgid "[@danny talk_happy_2 towards wondering@] Just make sure you don't go try to gain anymore nasty £*£*£*£bootleg£*£*£*£ ghost powers from evil genies."
-msgstr "[@danny talk_happy_2 towards wondering@] Just make sure you don't go try to gain anymore nasty £*£*£*£bootleg£*£*£*£ ghost powers from evil genies."
+msgid "[@danny talk_happy_2 towards wondering@] Just make sure you don't go try to gain anymore nasty \"bootleg\" ghost powers from evil genies."
+msgstr "[@danny talk_happy_2 towards wondering@] Just make sure you don't go try to gain anymore nasty \"bootleg\" ghost powers from evil genies."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2452 ## translate crowdin Wish_you_the_Best_postfight_4_a142d898:
 msgid "[@tucker talk_frown sad@] Hmmm... I'll have to do one big mass file deletion to get rid of it all."
@@ -2603,8 +2603,8 @@ msgid "[@danny towards_wide sad_2 talk_frown@] {i}Whaaaaat{/i}!! I mean, you alr
 msgstr "[@danny towards_wide sad_2 talk_frown@] {i}Whaaaaat{/i}!! I mean, you already showed it to me, and what's done is done, so..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2472 ## translate crowdin Wish_you_the_Best_postfight_4_4858ddba:
-msgid "[@tucker towards sad talk_frown@] But we just went over the whole £*£*£*£what makes a hero a hero£*£*£*£ speech and everything! How could you?!"
-msgstr "[@tucker towards sad talk_frown@] But we just went over the whole £*£*£*£what makes a hero a hero£*£*£*£ speech and everything! How could you?!"
+msgid "[@tucker towards sad talk_frown@] But we just went over the whole \"what makes a hero a hero\" speech and everything! How could you?!"
+msgstr "[@tucker towards sad talk_frown@] But we just went over the whole \"what makes a hero a hero\" speech and everything! How could you?!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2474 ## translate crowdin Wish_you_the_Best_postfight_4_509a3209:
 msgid "[@danny at_danny talk_frown_2 wondering@] Yeah, I know, but I mean, c'mon, at this stage it's practically a victimless crime here! I mean, when you really think about it-"
@@ -2639,8 +2639,8 @@ msgid "[@danny talk_frown sad@] Well, with my parents' Ghost Portal busted, I ca
 msgstr "[@danny talk_frown sad@] Well, with my parents' Ghost Portal busted, I can't exactly send her back to the Ghost Zone."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2495 ## translate crowdin Wish_you_the_Best_postfight_4_a4ed21b6:
-msgid "[@tucker neutral towards_wide talk_frown@] £*£*£*£Ghost Zone£*£*£*£? What's that?"
-msgstr "[@tucker neutral towards_wide talk_frown@] £*£*£*£Ghost Zone£*£*£*£? What's that?"
+msgid "[@tucker neutral towards_wide talk_frown@] \"Ghost Zone\"? What's that?"
+msgstr "[@tucker neutral towards_wide talk_frown@] \"Ghost Zone\"? What's that?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2497 ## translate crowdin Wish_you_the_Best_postfight_4_bc25226e:
 msgid "[@danny towards_wide sad talk_happy@] Oh yeah, I never got a chance to explain to you about it! Well it's a long story anyway, I'll tell you and Sam about it sometime, promise."
@@ -2835,8 +2835,8 @@ msgid "[@danny talk_frown neutral at_danny@] The thing is, I'm going to be battl
 msgstr "[@danny talk_frown neutral at_danny@] The thing is, I'm going to be battling ghosts from here on out. Ghosts just like you, probably even worse, honestly."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2644 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_dc2e420c:
-msgid "[@danny towards rise_one talk_frown_2@] If I'm going to keep doing that, I need to have some sort of idea of what I'm up against. Having you as a sort of... £*£*£*£ghost consultant£*£*£*£, would really give me an edge."
-msgstr "[@danny towards rise_one talk_frown_2@] If I'm going to keep doing that, I need to have some sort of idea of what I'm up against. Having you as a sort of... £*£*£*£ghost consultant£*£*£*£, would really give me an edge."
+msgid "[@danny towards rise_one talk_frown_2@] If I'm going to keep doing that, I need to have some sort of idea of what I'm up against. Having you as a sort of... \"ghost consultant\", would really give me an edge."
+msgstr "[@danny towards rise_one talk_frown_2@] If I'm going to keep doing that, I need to have some sort of idea of what I'm up against. Having you as a sort of... \"ghost consultant\", would really give me an edge."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2646 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_9bcc488f:
 msgid "[@desiree towards_wide neutral talk_frown_2@] And so you just expect {b}me{/b} to go along with your idiotic crusade to capture other ghosts? How absurd. Why on earth would I do that?!"
@@ -2887,8 +2887,8 @@ msgid "[@danny towards talk_happy@] Right, so, the proposal? I think I'm making 
 msgstr "[@danny towards talk_happy@] Right, so, the proposal? I think I'm making a fair offer here, Des."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2670 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_ce5b0a23:
-msgid "[@desiree angry talk_frown_2@] Really, Ghost Child, just how dimwitted {i}are{/i} you? You really believe I would just £*£*£*£let bygones be bygones£*£*£*£ after today?"
-msgstr "[@desiree angry talk_frown_2@] Really, Ghost Child, just how dimwitted {i}are{/i} you? You really believe I would just £*£*£*£let bygones be bygones£*£*£*£ after today?"
+msgid "[@desiree angry talk_frown_2@] Really, Ghost Child, just how dimwitted {i}are{/i} you? You really believe I would just \"let bygones be bygones\" after today?"
+msgstr "[@desiree angry talk_frown_2@] Really, Ghost Child, just how dimwitted {i}are{/i} you? You really believe I would just \"let bygones be bygones\" after today?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2672 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_27418d54:
 msgid "[@desiree closed talk_frown@] You're an even bigger fool than I once thought. Which was a lot already. I would rather be banished to the Ghost Zone for ten thousand years then to be shackled by {i}any{/i} man ever again."
@@ -2939,8 +2939,8 @@ msgid "[@danny talk_frown rise_one towards@] Well yeah, along with my sister, Ja
 msgstr "[@danny talk_frown rise_one towards@] Well yeah, along with my sister, Jasmine."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2707 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_bfdd1288:
-msgid "[@desiree neutral talk_happy@] I suppose they aren't exactly aware of your little £*£*£*£secret£*£*£*£ then, I imagine?"
-msgstr "[@desiree neutral talk_happy@] I suppose they aren't exactly aware of your little £*£*£*£secret£*£*£*£ then, I imagine?"
+msgid "[@desiree neutral talk_happy@] I suppose they aren't exactly aware of your little \"secret\" then, I imagine?"
+msgstr "[@desiree neutral talk_happy@] I suppose they aren't exactly aware of your little \"secret\" then, I imagine?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2709 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_e0ee9574:
 msgid "[@danny wondering talk_frown towards_wide@] No they aren't... wait, why are you ask-"
@@ -3043,8 +3043,8 @@ msgid "[@desiree towards talk_frown sad_3@] Some ghosts were never really former
 msgstr "[@desiree towards talk_frown sad_3@] Some ghosts were never really former people at all like myself, merely manifestations of concepts or desires through the hearts and minds of humans, like {b}living{/b} ideas... or {i}undead{/i}, if you prefer."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2771 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_bd464328:
-msgid "[@danny blank_stare talk_frown_2@] Oh great, it's like £*£*£*£American Gods£*£*£*£, where {b}nothing{/b} makes sense."
-msgstr "[@danny blank_stare talk_frown_2@] Oh great, it's like £*£*£*£American Gods£*£*£*£, where {b}nothing{/b} makes sense."
+msgid "[@danny blank_stare talk_frown_2@] Oh great, it's like \"American Gods\", where {b}nothing{/b} makes sense."
+msgstr "[@danny blank_stare talk_frown_2@] Oh great, it's like \"American Gods\", where {b}nothing{/b} makes sense."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2773 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_30c4a474:
 msgid "[@desiree closed talk_frown@] Not all are like that, however, as some ghosts have their roots bound to magic, through either spells or curses. One child I remember meeting in the Ghost Zone could turn herself into a dragon through the power of her amulet."
@@ -3071,8 +3071,8 @@ msgid "[@danny rise_one talk_frown@] So, what about, you know, life after death,
 msgstr "[@danny rise_one talk_frown@] So, what about, you know, life after death, and all that? Is the Ghost Zone really what awaits every person after they die? Sounds kinda bleak and dreary, honestly."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2785 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_88d1ce7f:
-msgid "[@desiree talk_frown neutral@] Master Danny, you should try to remember that the Ghost Zone is not in any proper sense a true £*£*£*£afterlife£*£*£*£ as you might picture it to be."
-msgstr "[@desiree talk_frown neutral@] Master Danny, you should try to remember that the Ghost Zone is not in any proper sense a true £*£*£*£afterlife£*£*£*£ as you might picture it to be."
+msgid "[@desiree talk_frown neutral@] Master Danny, you should try to remember that the Ghost Zone is not in any proper sense a true \"afterlife\" as you might picture it to be."
+msgstr "[@desiree talk_frown neutral@] Master Danny, you should try to remember that the Ghost Zone is not in any proper sense a true \"afterlife\" as you might picture it to be."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2787 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_66e76225:
 msgid "[@desiree talk_frown closed@] More so, the Ghost Zone is a sort of domain by which spirits that manage to remanifest themselves abide within. Remanifestations are often through feelings of sorrow, hatred, lust, stubborness, pity, jealousy, and even romance... but mostly sorrow."
@@ -3159,8 +3159,8 @@ msgid "[@danny@] There, I did it! Alright, I've grown a tail!!"
 msgstr "[@danny@] There, I did it! Alright, I've grown a tail!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2861 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_79a26879:
-msgid "[@danny@] ...this is still a pretty weird feeling, honestly. More of that same £*£*£*£Jell-O£*£*£*£ vibe again..."
-msgstr "[@danny@] ...this is still a pretty weird feeling, honestly. More of that same £*£*£*£Jell-O£*£*£*£ vibe again..."
+msgid "[@danny@] ...this is still a pretty weird feeling, honestly. More of that same \"Jell-O\" vibe again..."
+msgstr "[@danny@] ...this is still a pretty weird feeling, honestly. More of that same \"Jell-O\" vibe again..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2870 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_27f1cba6:
 msgid "[@desiree towards sad_2 talk_bite_2@] You'll get used to it, don't worry. The tail form is a good way to develop your flying prowess and learn to maintain your body's solidity."
@@ -3195,8 +3195,8 @@ msgid "[@danny frown_grin_3 at_player_wide@] (Woah... {b}slave{/b}? I didn't thi
 msgstr "[@danny frown_grin_3 at_player_wide@] (Woah... {b}slave{/b}? I didn't think that... I really hadn't thought of her like that...)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2886 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_792f6849:
-msgid "[@danny at_danny frown_2@] (I mean, what else was I {i}supposed{/i} to do? She left me no choice with the whole £*£*£*£blowing my secret£*£*£*£ maneuver.)"
-msgstr "[@danny at_danny frown_2@] (I mean, what else was I {i}supposed{/i} to do? She left me no choice with the whole £*£*£*£blowing my secret£*£*£*£ maneuver.)"
+msgid "[@danny at_danny frown_2@] (I mean, what else was I {i}supposed{/i} to do? She left me no choice with the whole \"blowing my secret\" maneuver.)"
+msgstr "[@danny at_danny frown_2@] (I mean, what else was I {i}supposed{/i} to do? She left me no choice with the whole \"blowing my secret\" maneuver.)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2888 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_d203167f:
 msgid "[@danny towards frown_3 neutral@] (I know she tried to kill Tucker {i}and{/i} me, but... I kind of feel bad for her.)"
@@ -3219,8 +3219,8 @@ msgid "[@danny grin_happy@] (With a nice pair of tits, to boot. {i}Heh{/i}.)"
 msgstr "[@danny grin_happy@] (With a nice pair of tits, to boot. {i}Heh{/i}.)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2905 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_af879b98:
-msgid "[@danny@] (Oh, it's wrong to think like that, but it was pretty much the {b}first{/b} thing I noticed about her after I got over the whole £*£*£*£ghost-genie£*£*£*£ part... she's just got a {i}gorgeous{/i} set is all!)"
-msgstr "[@danny@] (Oh, it's wrong to think like that, but it was pretty much the {b}first{/b} thing I noticed about her after I got over the whole £*£*£*£ghost-genie£*£*£*£ part... she's just got a {i}gorgeous{/i} set is all!)"
+msgid "[@danny@] (Oh, it's wrong to think like that, but it was pretty much the {b}first{/b} thing I noticed about her after I got over the whole \"ghost-genie\" part... she's just got a {i}gorgeous{/i} set is all!)"
+msgstr "[@danny@] (Oh, it's wrong to think like that, but it was pretty much the {b}first{/b} thing I noticed about her after I got over the whole \"ghost-genie\" part... she's just got a {i}gorgeous{/i} set is all!)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2908 ## translate crowdin Wish_you_the_Best_scene_8_bedroom_10078aa6:
 msgid "[@danny@] (Ehh, I shouldn't think too much like that though, she's not some sort of a sex slave. More like... advice slave! Wait, is that still bad...?)"
@@ -3303,8 +3303,8 @@ msgid "[@danny@] Besides that though even, I mean... you just know how to proper
 msgstr "[@danny@] Besides that though even, I mean... you just know how to properly service a guy..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2995 ## translate crowdin Wish_you_the_Best_after_blowjob_759199c1:
-msgid "[@desiree@] It's easier to do when the £*£*£*£guy£*£*£*£ you're dealing with also happens to be your sworn Master by a strong magical bond, and you don't have much say otherwise."
-msgstr "[@desiree@] It's easier to do when the £*£*£*£guy£*£*£*£ you're dealing with also happens to be your sworn Master by a strong magical bond, and you don't have much say otherwise."
+msgid "[@desiree@] It's easier to do when the \"guy\" you're dealing with also happens to be your sworn Master by a strong magical bond, and you don't have much say otherwise."
+msgstr "[@desiree@] It's easier to do when the \"guy\" you're dealing with also happens to be your sworn Master by a strong magical bond, and you don't have much say otherwise."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2997 ## translate crowdin Wish_you_the_Best_after_blowjob_778991b0:
 msgid "[@danny@] Well hey, you offered it, and boy am I glad you did... {i}*Sigh*{/i}"
@@ -3539,10 +3539,10 @@ msgid "[@danny at_player sad talk_happy_2@] Ehh, I'm sure it'll all work out wit
 msgstr "[@danny at_player sad talk_happy_2@] Ehh, I'm sure it'll all work out with no {b}real{/b} consequences... right?"
 
 # XXtranslate crowdin strings:XX# XX## game/code/episodes/episode_4/episode4_MZ.rpy:906
-msgid @+@+@[mschoice] What do I wanna do at Babazita's booth?"
-msgstr @+@+@[mschoice] What do I wanna do at Babazita's booth?"
+msgid "[mschoice] What do I wanna do at Babazita's booth?"
+msgstr "[mschoice] What do I wanna do at Babazita's booth?"
 
 # XX## game/code/episodes/episode_4/episode4_MZ.rpy:906
-msgid @+@+@[mschoice] Buy the lamp! ($5)"
-msgstr @+@+@[mschoice] Buy the lamp! ($5)"
+msgid "[mschoice] Buy the lamp! ($5)"
+msgstr "[mschoice] Buy the lamp! ($5)"
 

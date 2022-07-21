@@ -15,8 +15,8 @@ msgid "[@danny at_player rise talk_distraught@] The... the what? What are you ta
 msgstr "[@danny at_player rise talk_distraught@] The... the what? What are you talking about, and who are you?"
 
 # game/code/battleoverhaul/newbattle.rpy:38 ## translate crowdin newbattletutorial_5e74f432:
-msgid "[@epa@] Who I am isn't important Danny, what's {i}important{/i} is that I've been hearing the cries about your fighting techniques being £*£*£*£Overly Buggy£*£*£*£ and just £*£*£*£Too Dang Hard£*£*£*£ at times.{p}Well hopefully, all that will change starting today!"
-msgstr "[@epa@] Who I am isn't important Danny, what's {i}important{/i} is that I've been hearing the cries about your fighting techniques being £*£*£*£Overly Buggy£*£*£*£ and just £*£*£*£Too Dang Hard£*£*£*£ at times.{p}Well hopefully, all that will change starting today!"
+msgid "[@epa@] Who I am isn't important Danny, what's {i}important{/i} is that I've been hearing the cries about your fighting techniques being \"Overly Buggy\" and just \"Too Dang Hard\" at times.{p}Well hopefully, all that will change starting today!"
+msgstr "[@epa@] Who I am isn't important Danny, what's {i}important{/i} is that I've been hearing the cries about your fighting techniques being \"Overly Buggy\" and just \"Too Dang Hard\" at times.{p}Well hopefully, all that will change starting today!"
 
 # game/code/battleoverhaul/newbattle.rpy:40 ## translate crowdin newbattletutorial_8fbd33fc:
 msgid "[@danny down angry talk_displeased@] {i}*Grumble*{/i} Well sheesh, I thought I was doing a pretty good job all on my own. {i}*Grumble*{/i}"
@@ -31,8 +31,8 @@ msgid "[@epa@] Danny, you need to learn to stop blocking attacks and just learn 
 msgstr "[@epa@] Danny, you need to learn to stop blocking attacks and just learn to use {b}Intangibility{/b} like any other ghost!"
 
 # game/code/battleoverhaul/newbattle.rpy:48 ## translate crowdin newbattletutorial_d3c72019:
-msgid "[@danny at_player rise talk_displeased@] What? £*£*£*£Intangible£*£*£*£? But doesn't that cost ecto-power to do? Also, wasn't it called £*£*£*£Invisibility£*£*£*£ before?"
-msgstr "[@danny at_player rise talk_displeased@] What? £*£*£*£Intangible£*£*£*£? But doesn't that cost ecto-power to do? Also, wasn't it called £*£*£*£Invisibility£*£*£*£ before?"
+msgid "[@danny at_player rise talk_displeased@] What? \"Intangible\"? But doesn't that cost ecto-power to do? Also, wasn't it called \"Invisibility\" before?"
+msgstr "[@danny at_player rise talk_displeased@] What? \"Intangible\"? But doesn't that cost ecto-power to do? Also, wasn't it called \"Invisibility\" before?"
 
 # game/code/battleoverhaul/newbattle.rpy:51 ## translate crowdin newbattletutorial_7ab24936:
 msgid "[@epa@] We're changing a few things around! Trust me, I've seen you go perving around your house by peaking your head and hands through walls... so just do that in combat too!{p}It costs {u}nothing{/u} at all to use now!"
@@ -67,16 +67,16 @@ msgid "[@danny at_player wondering talk_displeased@] That does sound pretty good
 msgstr "[@danny at_player wondering talk_displeased@] That does sound pretty good, but will it take a lot of ecto power to use?"
 
 # game/code/battleoverhaul/newbattle.rpy:71 ## translate crowdin newbattletutorial_a78c25de:
-msgid "[@epa@] Only about as much as it took to go £*£*£*£Invisible£*£*£*£ before!"
-msgstr "[@epa@] Only about as much as it took to go £*£*£*£Invisible£*£*£*£ before!"
+msgid "[@epa@] Only about as much as it took to go \"Invisible\" before!"
+msgstr "[@epa@] Only about as much as it took to go \"Invisible\" before!"
 
 # game/code/battleoverhaul/newbattle.rpy:73 ## translate crowdin newbattletutorial_8bbdfb85:
 msgid "[@danny closed wondering talk_happy@] Alright! Now you're talking!"
 msgstr "[@danny closed wondering talk_happy@] Alright! Now you're talking!"
 
 # game/code/battleoverhaul/newbattle.rpy:76 ## translate crowdin newbattletutorial_c0fbf315:
-msgid "[@epa@] So with £*£*£*£Zone Out£*£*£*£, Danny can recover {u}25%%{/u} of his health and reduce incoming damage by {u}50%%{/u} for 2 turns."
-msgstr "[@epa@] So with £*£*£*£Zone Out£*£*£*£, Danny can recover {u}25%%{/u} of his health and reduce incoming damage by {u}50%%{/u} for 2 turns."
+msgid "[@epa@] So with \"Zone Out\", Danny can recover {u}25%%{/u} of his health and reduce incoming damage by {u}50%%{/u} for 2 turns."
+msgstr "[@epa@] So with \"Zone Out\", Danny can recover {u}25%%{/u} of his health and reduce incoming damage by {u}50%%{/u} for 2 turns."
 
 # game/code/battleoverhaul/newbattle.rpy:79 ## translate crowdin newbattletutorial_b4d3f717:
 msgid "[@epa@] Beware though, as other ghosts know how to use this tactic as well and gain an additional benefit of increasing their power to briefly deliver some devastating damage."
@@ -111,8 +111,8 @@ msgid "[@epa@] Now every time you gain enough experience to increase your curren
 msgstr "[@epa@] Now every time you gain enough experience to increase your current {b}Level{/b} you will automatically become stronger, increasing your Maximum Health, Maximum Ecto-Power, Maximum Strength, and Maximum Orgone Capacity."
 
 # game/code/battleoverhaul/newbattle.rpy:99 ## translate crowdin newbattletutorial_b6fefe5d:
-msgid "[@danny at_player rise talk_happy@] £*£*£*£Orgone Capacity?£*£*£*£"
-msgstr "[@danny at_player rise talk_happy@] £*£*£*£Orgone Capacity?£*£*£*£"
+msgid "[@danny at_player rise talk_happy@] \"Orgone Capacity?\""
+msgstr "[@danny at_player rise talk_happy@] \"Orgone Capacity?\""
 
 # game/code/battleoverhaul/newbattle.rpy:102 ## translate crowdin newbattletutorial_2f243495:
 msgid "[@epa@] I'll come back to that in a minute Danny, just be patient."
@@ -295,62 +295,62 @@ msgid "[@epa@] Spread Ray does more damage than the original Ghost Ray, but it's
 msgstr "[@epa@] Spread Ray does more damage than the original Ghost Ray, but it's main benefit is that it deals damage to all targets on screen. The original target of Spread Ray receives the full damage while every other enemy receives a smaller portion."
 
 # XXtranslate crowdin strings:XX# XX## game/code/battleoverhaul/newbattle.rpy:8
-msgid @+@+@[mschoice] No, just throw me into it and let me try it out blind!"
-msgstr @+@+@[mschoice] No, just throw me into it and let me try it out blind!"
+msgid "[mschoice] No, just throw me into it and let me try it out blind!"
+msgstr "[mschoice] No, just throw me into it and let me try it out blind!"
 
 # XX## game/code/battleoverhaul/newbattle.rpy:8
-msgid @+@+@[mschoice] No thank you, just level me up so I can get to Episode 7 Part 2 quick."
-msgstr @+@+@[mschoice] No thank you, just level me up so I can get to Episode 7 Part 2 quick."
+msgid "[mschoice] No thank you, just level me up so I can get to Episode 7 Part 2 quick."
+msgstr "[mschoice] No thank you, just level me up so I can get to Episode 7 Part 2 quick."
 
 # XX## game/code/battleoverhaul/newbattle.rpy:8
-msgid @+@+@[mschoice] Yeah, I wanna know what's going on and how things work!"
-msgstr @+@+@[mschoice] Yeah, I wanna know what's going on and how things work!"
+msgid "[mschoice] Yeah, I wanna know what's going on and how things work!"
+msgstr "[mschoice] Yeah, I wanna know what's going on and how things work!"
 
 # XX## game/code/battleoverhaul/newbattle.rpy:279
-msgid @+@+@[mschoice] Yes, let me change up my power choices."
-msgstr @+@+@[mschoice] Yes, let me change up my power choices."
+msgid "[mschoice] Yes, let me change up my power choices."
+msgstr "[mschoice] Yes, let me change up my power choices."
 
 # XX## game/code/battleoverhaul/newbattle.rpy:279
-msgid @+@+@[mschoice] No, just let me retry the fights."
-msgstr @+@+@[mschoice] No, just let me retry the fights."
+msgid "[mschoice] No, just let me retry the fights."
+msgstr "[mschoice] No, just let me retry the fights."
 
 # XX## game/code/battleoverhaul/newbattle.rpy:279
-msgid @+@+@[mschoice] No, I'm ready for Episode 7 Part 2."
-msgstr @+@+@[mschoice] No, I'm ready for Episode 7 Part 2."
+msgid "[mschoice] No, I'm ready for Episode 7 Part 2."
+msgstr "[mschoice] No, I'm ready for Episode 7 Part 2."
 
 # XX## game/code/battleoverhaul/newbattle.rpy:316
-msgid @+@+@[mschoice] Health Boost"
-msgstr @+@+@[mschoice] Health Boost"
+msgid "[mschoice] Health Boost"
+msgstr "[mschoice] Health Boost"
 
 # XX## game/code/battleoverhaul/newbattle.rpy:316
-msgid @+@+@[mschoice] Ecto Boost"
-msgstr @+@+@[mschoice] Ecto Boost"
+msgid "[mschoice] Ecto Boost"
+msgstr "[mschoice] Ecto Boost"
 
 # XX## game/code/battleoverhaul/newbattle.rpy:332
-msgid @+@+@[mschoice] Lingering Strike"
-msgstr @+@+@[mschoice] Lingering Strike"
+msgid "[mschoice] Lingering Strike"
+msgstr "[mschoice] Lingering Strike"
 
 # XX## game/code/battleoverhaul/newbattle.rpy:332
-msgid @+@+@[mschoice] Ecto Strike"
-msgstr @+@+@[mschoice] Ecto Strike"
+msgid "[mschoice] Ecto Strike"
+msgstr "[mschoice] Ecto Strike"
 
 # XX## game/code/battleoverhaul/newbattle.rpy:355
-msgid @+@+@[mschoice] Unnatural Regeneration"
-msgstr @+@+@[mschoice] Unnatural Regeneration"
+msgid "[mschoice] Unnatural Regeneration"
+msgstr "[mschoice] Unnatural Regeneration"
 
 # XX## game/code/battleoverhaul/newbattle.rpy:355
-msgid @+@+@[mschoice] Ghost Boost"
-msgstr @+@+@[mschoice] Ghost Boost"
+msgid "[mschoice] Ghost Boost"
+msgstr "[mschoice] Ghost Boost"
 
 # XX## game/code/battleoverhaul/newbattle.rpy:378
-msgid @+@+@[mschoice] Focused Ray"
-msgstr @+@+@[mschoice] Focused Ray"
+msgid "[mschoice] Focused Ray"
+msgstr "[mschoice] Focused Ray"
 
 # XX## game/code/battleoverhaul/newbattle.rpy:378
-msgid @+@+@[mschoice] Spread Ray"
-msgstr @+@+@[mschoice] Spread Ray"
+msgid "[mschoice] Spread Ray"
+msgstr "[mschoice] Spread Ray"
 
 # XX## game/code/battleoverhaul/newbattle.rpy:401
-msgid @+@+@[mschoice] Reset your passives and power choices?"
-msgstr @+@+@[mschoice] Reset your passives and power choices?"
+msgid "[mschoice] Reset your passives and power choices?"
+msgstr "[mschoice] Reset your passives and power choices?"
 

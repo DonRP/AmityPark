@@ -119,8 +119,8 @@ msgid "[@paulinaspook@] I'm still not talking to him. He's better just being ano
 msgstr "[@paulinaspook@] I'm still not talking to him. He's better just being another one of my lackeys like Kwan and Dash. Lol" (multiple=2)
 
 # game/code/misc/spookchat_paulina.rpy:125 ## translate crowdin paulina_chat_2_c9cd5d62:
-msgid "[@danny@] (Hmmm... I'll have to find some way to get her to take more interest in £*£*£*£Danny Fenton£*£*£*£ some more, instead of just £*£*£*£Inviso-Bill£*£*£*£.)" (multiple=2)
-msgstr "[@danny@] (Hmmm... I'll have to find some way to get her to take more interest in £*£*£*£Danny Fenton£*£*£*£ some more, instead of just £*£*£*£Inviso-Bill£*£*£*£.)" (multiple=2)
+msgid "[@danny@] (Hmmm... I'll have to find some way to get her to take more interest in \"Danny Fenton\" some more, instead of just \"Inviso-Bill\".)" (multiple=2)
+msgstr "[@danny@] (Hmmm... I'll have to find some way to get her to take more interest in \"Danny Fenton\" some more, instead of just \"Inviso-Bill\".)" (multiple=2)
 
 # game/code/misc/spookchat_paulina.rpy:138 ## translate crowdin paulina_chat_2_76b2fe88_3:
 msgid "[@nvl clear
@@ -139,34 +139,34 @@ msgid "[@paulinaspook@] Ceeya later, Ghost Boy. ;D@]
 msgstr "[@paulinaspook@] Ceeya later, Ghost Boy. ;D@] 
 
 # XXtranslate crowdin strings:XX# XX## game/code/misc/spookchat_paulina.rpy:22
-msgid @+@+@[mschoice] Message Paulina."
-msgstr @+@+@[mschoice] Message Paulina."
+msgid "[mschoice] Message Paulina."
+msgstr "[mschoice] Message Paulina."
 
 # XX## game/code/misc/spookchat_paulina.rpy:22
-msgid @+@+@[mschoice] Go back."
-msgstr @+@+@[mschoice] Go back."
+msgid "[mschoice] Go back."
+msgstr "[mschoice] Go back."
 
 # XX## game/code/misc/spookchat_paulina.rpy:43
-msgid @+@+@[mschoice] What do I wanna message Paulina about?"
-msgstr @+@+@[mschoice] What do I wanna message Paulina about?"
+msgid "[mschoice] What do I wanna message Paulina about?"
+msgstr "[mschoice] What do I wanna message Paulina about?"
 
 # XX## game/code/misc/spookchat_paulina.rpy:43
-msgid @+@+@[mschoice] Do you wanna hang out sometime? (Dance route)"
-msgstr @+@+@[mschoice] Do you wanna hang out sometime? (Dance route)"
+msgid "[mschoice] Do you wanna hang out sometime? (Dance route)"
+msgstr "[mschoice] Do you wanna hang out sometime? (Dance route)"
 
 # XX## game/code/misc/spookchat_paulina.rpy:43
-msgid @+@+@[mschoice] Do you wanna hang out sometime?"
-msgstr @+@+@[mschoice] Do you wanna hang out sometime?"
+msgid "[mschoice] Do you wanna hang out sometime?"
+msgstr "[mschoice] Do you wanna hang out sometime?"
 
 # XX## game/code/misc/spookchat_paulina.rpy:43
-msgid @+@+@[mschoice] {i}(Look at Paulina's pictures){/i}"
-msgstr @+@+@[mschoice] {i}(Look at Paulina's pictures){/i}"
+msgid "[mschoice] {i}(Look at Paulina's pictures){/i}"
+msgstr "[mschoice] {i}(Look at Paulina's pictures){/i}"
 
 # XX## game/code/misc/spookchat_paulina.rpy:43
-msgid @+@+@[mschoice] Danny Fenton's a pretty cool guy, right?@] 
-msgstr @+@+@[mschoice] Danny Fenton's a pretty cool guy, right?@] 
+msgid "[mschoice] Danny Fenton's a pretty cool guy, right?@] 
+msgstr "[mschoice] Danny Fenton's a pretty cool guy, right?@] 
 
 # XX## game/code/misc/spookchat_paulina.rpy:43
-msgid @+@+@[mschoice] I'll talk to you later, Paulina."
-msgstr @+@+@[mschoice] I'll talk to you later, Paulina."
+msgid "[mschoice] I'll talk to you later, Paulina."
+msgstr "[mschoice] I'll talk to you later, Paulina."
 

@@ -95,8 +95,8 @@ msgid "[@danny talk_happy_2 neutral@] It's thanks to you two that I can even man
 msgstr "[@danny talk_happy_2 neutral@] It's thanks to you two that I can even manage through all the crazy stuff that's been going on lately."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:71 ## translate crowdin twinkle_twinkle_little_star_scene_1_hallway_d6ce0072:
-msgid "[@sam confused talk_bite@] Well we're your friends, Danny! No amount of £*£*£*£phantom pervert power£*£*£*£ you have going on inside you could ever change that, dude."
-msgstr "[@sam confused talk_bite@] Well we're your friends, Danny! No amount of £*£*£*£phantom pervert power£*£*£*£ you have going on inside you could ever change that, dude."
+msgid "[@sam confused talk_bite@] Well we're your friends, Danny! No amount of \"phantom pervert power\" you have going on inside you could ever change that, dude."
+msgstr "[@sam confused talk_bite@] Well we're your friends, Danny! No amount of \"phantom pervert power\" you have going on inside you could ever change that, dude."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:73 ## translate crowdin twinkle_twinkle_little_star_scene_1_hallway_ec14444d:
 msgid "[@danny talk_happy sad_2@] That seriously means a lot to me, Sam. With people like you in my life, no ghost stands a chance against us."
@@ -143,8 +143,8 @@ msgid "[@danny talk_happy_2 sad@] Honestly, it's thanks to help from you two tha
 msgstr "[@danny talk_happy_2 sad@] Honestly, it's thanks to help from you two that's made it even possible to manage through all the crazy stuff that's been going on lately."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:97 ## translate crowdin twinkle_twinkle_little_star_scene_1_hallway_d6ce0072_1:
-msgid "[@sam confused talk_bite@] Well we're your friends, Danny! No amount of £*£*£*£phantom pervert power£*£*£*£ you have going on inside you could ever change that, dude."
-msgstr "[@sam confused talk_bite@] Well we're your friends, Danny! No amount of £*£*£*£phantom pervert power£*£*£*£ you have going on inside you could ever change that, dude."
+msgid "[@sam confused talk_bite@] Well we're your friends, Danny! No amount of \"phantom pervert power\" you have going on inside you could ever change that, dude."
+msgstr "[@sam confused talk_bite@] Well we're your friends, Danny! No amount of \"phantom pervert power\" you have going on inside you could ever change that, dude."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:99 ## translate crowdin twinkle_twinkle_little_star_scene_1_hallway_ec14444d_1:
 msgid "[@danny talk_happy sad_2@] That seriously means a lot to me, Sam. With people like you in my life, no ghost stands a chance against us."
@@ -167,8 +167,8 @@ msgid "[@danny -blush_2 talk_happy_2 sad@] It's thanks to you two that I can eve
 msgstr "[@danny -blush_2 talk_happy_2 sad@] It's thanks to you two that I can even manage through all the crazy stuff that's been going on lately."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:115 ## translate crowdin twinkle_twinkle_little_star_scene_1_hallway_d6ce0072_2:
-msgid "[@sam confused talk_bite@] Well we're your friends, Danny! No amount of £*£*£*£phantom pervert power£*£*£*£ you have going on inside you could ever change that, dude."
-msgstr "[@sam confused talk_bite@] Well we're your friends, Danny! No amount of £*£*£*£phantom pervert power£*£*£*£ you have going on inside you could ever change that, dude."
+msgid "[@sam confused talk_bite@] Well we're your friends, Danny! No amount of \"phantom pervert power\" you have going on inside you could ever change that, dude."
+msgstr "[@sam confused talk_bite@] Well we're your friends, Danny! No amount of \"phantom pervert power\" you have going on inside you could ever change that, dude."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:117 ## translate crowdin twinkle_twinkle_little_star_scene_1_hallway_6d0ecbc0:
 msgid "[@danny wondering frown_2@] (I worry about Tucker though... how is he going to deal with his new powers?)"
@@ -247,8 +247,8 @@ msgid "[@danny angry talk_frown@] Then what are you bugging us for?"
 msgstr "[@danny angry talk_frown@] Then what are you bugging us for?"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:176 ## translate crowdin twinkle_twinkle_little_star_scene_1_hallway_42dbfba9:
-msgid "[@star neutral talk_frown@] I was just going to {b}say{/b}, I heard that Danny actually knows that £*£*£*£Inviso-Bill£*£*£*£ guy."
-msgstr "[@star neutral talk_frown@] I was just going to {b}say{/b}, I heard that Danny actually knows that £*£*£*£Inviso-Bill£*£*£*£ guy."
+msgid "[@star neutral talk_frown@] I was just going to {b}say{/b}, I heard that Danny actually knows that \"Inviso-Bill\" guy."
+msgstr "[@star neutral talk_frown@] I was just going to {b}say{/b}, I heard that Danny actually knows that \"Inviso-Bill\" guy."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:179 ## translate crowdin twinkle_twinkle_little_star_scene_1_hallway_effb5b9a:
 msgid "[@danny at_danny sad_2 talk_frown@] Uhmm..."
@@ -351,8 +351,8 @@ msgid "[@danny rise_one towards talk_frown@] Yeah? So what?"
 msgstr "[@danny rise_one towards talk_frown@] Yeah? So what?"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:252 ## translate crowdin twinkle_twinkle_little_star_scene_1_hallway_dae0137c:
-msgid "[@sam confused talk_frown@] What do you mean £*£*£*£so what£*£*£*£?!"
-msgstr "[@sam confused talk_frown@] What do you mean £*£*£*£so what£*£*£*£?!"
+msgid "[@sam confused talk_frown@] What do you mean \"so what\"?!"
+msgstr "[@sam confused talk_frown@] What do you mean \"so what\"?!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:254 ## translate crowdin twinkle_twinkle_little_star_scene_1_hallway_80995ea6:
 msgid "[@sam sad talk_frown_2@] Someone as shallow as Star doesn't deserve to hang out with someone as cool as your ghost self! She's a total bitch and only ever makes fun of us!"
@@ -379,8 +379,8 @@ msgid "[@danny closed talk_happy_2 rise_one@] What better way than to start hang
 msgstr "[@danny closed talk_happy_2 rise_one@] What better way than to start hanging out with the popular kids?"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:266 ## translate crowdin twinkle_twinkle_little_star_scene_1_hallway_431b03ee:
-msgid "[@sam confused talk_frown@] Why not just fight more ghosts and let your actions speak for themselves, not who your £*£*£*£friends£*£*£*£ are?"
-msgstr "[@sam confused talk_frown@] Why not just fight more ghosts and let your actions speak for themselves, not who your £*£*£*£friends£*£*£*£ are?"
+msgid "[@sam confused talk_frown@] Why not just fight more ghosts and let your actions speak for themselves, not who your \"friends\" are?"
+msgstr "[@sam confused talk_frown@] Why not just fight more ghosts and let your actions speak for themselves, not who your \"friends\" are?"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:268 ## translate crowdin twinkle_twinkle_little_star_scene_1_hallway_d88b04d4:
 msgid "[@danny rise_one talk_happy@] ...uhm... cause... Star is pretty, too?"
@@ -483,8 +483,8 @@ msgid "[@danny@] (That's the girl's bathroom, I can't go in there. Not without g
 msgstr "[@danny@] (That's the girl's bathroom, I can't go in there. Not without getting slapped with a suspension.)"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:351 ## translate crowdin twinkle_twinkle_little_star_scene_2_hallway_a382eefd:
-msgid "[@danny@] (Star said she hangs out in the girl's bathroom in the {b}afternoon{/b}, not now. I don't wanna worsen my reputation as some £*£*£*£ghost pervert£*£*£*£.)"
-msgstr "[@danny@] (Star said she hangs out in the girl's bathroom in the {b}afternoon{/b}, not now. I don't wanna worsen my reputation as some £*£*£*£ghost pervert£*£*£*£.)"
+msgid "[@danny@] (Star said she hangs out in the girl's bathroom in the {b}afternoon{/b}, not now. I don't wanna worsen my reputation as some \"ghost pervert\".)"
+msgstr "[@danny@] (Star said she hangs out in the girl's bathroom in the {b}afternoon{/b}, not now. I don't wanna worsen my reputation as some \"ghost pervert\".)"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:370 ## translate crowdin twinkle_twinkle_little_star_scene_2_hallway_f38c98c7:
 msgid "[@danny sad_2 frown_grin@] (Okay, so Star said she wants to meet Inviso-Bill? Then here I come.)"
@@ -611,8 +611,8 @@ msgid "[@danny at_player_wide smile@] (Normally I'd be mad at Tucker, but that w
 msgstr "[@danny at_player_wide smile@] (Normally I'd be mad at Tucker, but that was {b}definitely{/b} worth it considering she just ended up blaming us anyway.)"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:456 ## translate crowdin twinkle_twinkle_little_star_scene_2_hallway_2614f72d:
-msgid "[@danny closed_sad wondering talk_frown@] Well, I just fight ghosts, I don't really know much about getting pictures off your human £*£*£*£In-Ter-Net£*£*£*£."
-msgstr "[@danny closed_sad wondering talk_frown@] Well, I just fight ghosts, I don't really know much about getting pictures off your human £*£*£*£In-Ter-Net£*£*£*£."
+msgid "[@danny closed_sad wondering talk_frown@] Well, I just fight ghosts, I don't really know much about getting pictures off your human \"In-Ter-Net\"."
+msgstr "[@danny closed_sad wondering talk_frown@] Well, I just fight ghosts, I don't really know much about getting pictures off your human \"In-Ter-Net\"."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:458 ## translate crowdin twinkle_twinkle_little_star_scene_2_hallway_dbee6020:
 msgid "[@danny sad_2 towards frown_2@] (God, I hope she buys this.)"
@@ -807,8 +807,8 @@ msgid "[@danny sad frown@] (Okay... I'm at Sam's locker... I need to figure out 
 msgstr "[@danny sad frown@] (Okay... I'm at Sam's locker... I need to figure out what to do about this prank thing...)"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:600 ## translate crowdin twinkle_twinkle_little_star_scene_3_hallway_5d71fefd:
-msgid "[@danny at_danny bite@] (On one hand, if I go through with it, I'll be humiliating my best friend in front of Star's £*£*£*£in crowd£*£*£*£.)"
-msgstr "[@danny at_danny bite@] (On one hand, if I go through with it, I'll be humiliating my best friend in front of Star's £*£*£*£in crowd£*£*£*£.)"
+msgid "[@danny at_danny bite@] (On one hand, if I go through with it, I'll be humiliating my best friend in front of Star's \"in crowd\".)"
+msgstr "[@danny at_danny bite@] (On one hand, if I go through with it, I'll be humiliating my best friend in front of Star's \"in crowd\".)"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:601 ## translate crowdin twinkle_twinkle_little_star_scene_3_hallway_d9f776f8:
 msgid "[@danny frown_2 rise_one@] (Sam's been messed around enough by some dick-head ghosts lately... she doesn't deserve that sort of humiliation.)"
@@ -963,8 +963,8 @@ msgid "[@danny grin_happy angry@] (...literally.)"
 msgstr "[@danny grin_happy angry@] (...literally.)"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:731 ## translate crowdin twinkle_twinkle_little_star_prank_the_prankster_818c4f6e:
-msgid "[@danny sad smile@] (I should text her to let her know that everything is £*£*£*£in place£*£*£*£)."
-msgstr "[@danny sad smile@] (I should text her to let her know that everything is £*£*£*£in place£*£*£*£)."
+msgid "[@danny sad smile@] (I should text her to let her know that everything is \"in place\")."
+msgstr "[@danny sad smile@] (I should text her to let her know that everything is \"in place\")."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:748 ## translate crowdin twinkle_twinkle_little_star_prank_the_prankster_76b2fe88:
 msgid "[@nvl clear
@@ -1023,8 +1023,8 @@ msgid "[@sam sad talk_frown@] Wh-what? Why?!"
 msgstr "[@sam sad talk_frown@] Wh-what? Why?!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:810 ## translate crowdin twinkle_twinkle_little_star_scene_4_hallway_8725d422:
-msgid "[@lancer idle_ talk_frown@] Well, one of your fellow students came to me with concerns that you might have stored some sort of £*£*£*£unusual weapon£*£*£*£ inside your locker."
-msgstr "[@lancer idle_ talk_frown@] Well, one of your fellow students came to me with concerns that you might have stored some sort of £*£*£*£unusual weapon£*£*£*£ inside your locker."
+msgid "[@lancer idle_ talk_frown@] Well, one of your fellow students came to me with concerns that you might have stored some sort of \"unusual weapon\" inside your locker."
+msgstr "[@lancer idle_ talk_frown@] Well, one of your fellow students came to me with concerns that you might have stored some sort of \"unusual weapon\" inside your locker."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:812 ## translate crowdin twinkle_twinkle_little_star_scene_4_hallway_c4636e38:
 msgid "[@sam sad_2 talk_frown@] A weapon?! Are you kidding me?"
@@ -1071,8 +1071,8 @@ msgid "[@lancer talk_happy closed wondering@] Now, don't you worry Ms. Astray, y
 msgstr "[@lancer talk_happy closed wondering@] Now, don't you worry Ms. Astray, you did the right thing coming to me."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:840 ## translate crowdin twinkle_twinkle_little_star_scene_4_hallway_aad7fa77:
-msgid "[@lancer towards sad@] I certainly {i}understand{/i} Ms. Manson's insistence on retaining what she views as her £*£*£*£personal privacy£*£*£*£."
-msgstr "[@lancer towards sad@] I certainly {i}understand{/i} Ms. Manson's insistence on retaining what she views as her £*£*£*£personal privacy£*£*£*£."
+msgid "[@lancer towards sad@] I certainly {i}understand{/i} Ms. Manson's insistence on retaining what she views as her \"personal privacy\"."
+msgstr "[@lancer towards sad@] I certainly {i}understand{/i} Ms. Manson's insistence on retaining what she views as her \"personal privacy\"."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:843 ## translate crowdin twinkle_twinkle_little_star_scene_4_hallway_55a13601:
 msgid "[@lancer talk_frown@] However, I'm afraid I'm going to have to overrule that privacy in favor of protecting the other students' right to proper peace of mind."
@@ -1279,8 +1279,8 @@ msgid "[@sam sad talk_frown@] Wh-what? Why?!"
 msgstr "[@sam sad talk_frown@] Wh-what? Why?!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1038 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_8725d422:
-msgid "[@lancer idle_ talk_frown@] Well, one of your fellow students came to me with concerns that you might have stored some sort of £*£*£*£unusual weapon£*£*£*£ inside your locker."
-msgstr "[@lancer idle_ talk_frown@] Well, one of your fellow students came to me with concerns that you might have stored some sort of £*£*£*£unusual weapon£*£*£*£ inside your locker."
+msgid "[@lancer idle_ talk_frown@] Well, one of your fellow students came to me with concerns that you might have stored some sort of \"unusual weapon\" inside your locker."
+msgstr "[@lancer idle_ talk_frown@] Well, one of your fellow students came to me with concerns that you might have stored some sort of \"unusual weapon\" inside your locker."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1040 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_c4636e38:
 msgid "[@sam sad_2 talk_frown@] A weapon?! Are you kidding me?"
@@ -1327,8 +1327,8 @@ msgid "[@lancer talk_happy closed wondering@] Now, don't you worry Ms. Astray, y
 msgstr "[@lancer talk_happy closed wondering@] Now, don't you worry Ms. Astray, you did the right thing coming to me."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1068 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_aad7fa77:
-msgid "[@lancer towards sad@] I certainly {i}understand{/i} Ms. Manson's insistence on retaining what she views as her £*£*£*£personal privacy£*£*£*£."
-msgstr "[@lancer towards sad@] I certainly {i}understand{/i} Ms. Manson's insistence on retaining what she views as her £*£*£*£personal privacy£*£*£*£."
+msgid "[@lancer towards sad@] I certainly {i}understand{/i} Ms. Manson's insistence on retaining what she views as her \"personal privacy\"."
+msgstr "[@lancer towards sad@] I certainly {i}understand{/i} Ms. Manson's insistence on retaining what she views as her \"personal privacy\"."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1071 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_afd7095b:
 msgid "[@lancer talk_frown@] However, I'm afraid I'm going to have to overrule that privacy in favor of protecting the other students right to proper peace of mind."
@@ -1479,8 +1479,8 @@ msgid "[@student4@] This isn't anything special, her naked photos are {i}already
 msgstr "[@student4@] This isn't anything special, her naked photos are {i}already{/i} online, guys."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1202 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_a46ba2c6:
-msgid "[@student1@] Wow, wait, Star has {b}naked{/b} photos online?! Bro, in the infamous words of Ice-T, £*£*£*£Imma need the link£*£*£*£."
-msgstr "[@student1@] Wow, wait, Star has {b}naked{/b} photos online?! Bro, in the infamous words of Ice-T, £*£*£*£Imma need the link£*£*£*£."
+msgid "[@student1@] Wow, wait, Star has {b}naked{/b} photos online?! Bro, in the infamous words of Ice-T, \"Imma need the link\"."
+msgstr "[@student1@] Wow, wait, Star has {b}naked{/b} photos online?! Bro, in the infamous words of Ice-T, \"Imma need the link\"."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1206 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_9d97d8eb:
 msgid "[@star talk_frown neutral_2 confused_wide@] Oh my God, this is {u}NOT{/u} happening!!"
@@ -1495,8 +1495,8 @@ msgid "[@star neutral talk_frown@] B-b-but-"
 msgstr "[@star neutral talk_frown@] B-b-but-"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1213 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_258f928f:
-msgid "[@lancer towards_wide angry talk_frown@] No butts!! I've dealt with one too many £*£*£*£{i}butts{/i}£*£*£*£ for the day already. To my office. {u}Now{/u}!!"
-msgstr "[@lancer towards_wide angry talk_frown@] No butts!! I've dealt with one too many £*£*£*£{i}butts{/i}£*£*£*£ for the day already. To my office. {u}Now{/u}!!"
+msgid "[@lancer towards_wide angry talk_frown@] No butts!! I've dealt with one too many \"{i}butts{/i}\" for the day already. To my office. {u}Now{/u}!!"
+msgstr "[@lancer towards_wide angry talk_frown@] No butts!! I've dealt with one too many \"{i}butts{/i}\" for the day already. To my office. {u}Now{/u}!!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1217 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_d4fe3928:
 msgid "[@sam confused talk_happy@] I guess you better get going, right? Try not to trip over your pants there, Star-Power.~"
@@ -1531,8 +1531,8 @@ msgid "[@sam towards_wide talk_happy sad@] Dude, Danny!! You're not going to bel
 msgstr "[@sam towards_wide talk_happy sad@] Dude, Danny!! You're not going to believe this! It was so freaking weird!!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1239 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_d14ac89b:
-msgid "[@sam closed neutral talk_frown_2@] So Lancer comes all up on me and was going like, {i}*Ahem*{/i} £*£*£*£Ehm, {i}excuse{/i} Ms. Manson, but I'm afraid I'll need to invesitage your locker space£*£*£*£ cause he said that Star said-"
-msgstr "[@sam closed neutral talk_frown_2@] So Lancer comes all up on me and was going like, {i}*Ahem*{/i} £*£*£*£Ehm, {i}excuse{/i} Ms. Manson, but I'm afraid I'll need to invesitage your locker space£*£*£*£ cause he said that Star said-"
+msgid "[@sam closed neutral talk_frown_2@] So Lancer comes all up on me and was going like, {i}*Ahem*{/i} \"Ehm, {i}excuse{/i} Ms. Manson, but I'm afraid I'll need to invesitage your locker space\" cause he said that Star said-"
+msgstr "[@sam closed neutral talk_frown_2@] So Lancer comes all up on me and was going like, {i}*Ahem*{/i} \"Ehm, {i}excuse{/i} Ms. Manson, but I'm afraid I'll need to invesitage your locker space\" cause he said that Star said-"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1241 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_87276529:
 msgid "[@danny rise_one talk_happy@] Something about a weapon in your locker, I heard?"
@@ -1547,8 +1547,8 @@ msgid "[@danny talk_happy sad_2@] Uh huh... interesting, interesting..."
 msgstr "[@danny talk_happy sad_2@] Uh huh... interesting, interesting..."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1247 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_f53a8b5f:
-msgid "[@sam center_wide angry talk_happy@] So then, Lancer was all over Star like £*£*£*£Why'd you waste my precious time on this, you perky boobs with teeth?£*£*£*£, and then, out of {b}nowhere{/b} her-"
-msgstr "[@sam center_wide angry talk_happy@] So then, Lancer was all over Star like £*£*£*£Why'd you waste my precious time on this, you perky boobs with teeth?£*£*£*£, and then, out of {b}nowhere{/b} her-"
+msgid "[@sam center_wide angry talk_happy@] So then, Lancer was all over Star like \"Why'd you waste my precious time on this, you perky boobs with teeth?\", and then, out of {b}nowhere{/b} her-"
+msgstr "[@sam center_wide angry talk_happy@] So then, Lancer was all over Star like \"Why'd you waste my precious time on this, you perky boobs with teeth?\", and then, out of {b}nowhere{/b} her-"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1249 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_42888238:
 msgid "[@sam center confused talk_frown@] ...pants... mysteriously came off..."
@@ -1587,8 +1587,8 @@ msgid "[@sam towards confused talk_frown@] What?! Why would you- I mean, why wou
 msgstr "[@sam towards confused talk_frown@] What?! Why would you- I mean, why would {i}he{/i} want to do that? What possible motive did {i}she{/i} even have?!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1266 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_5922c5d4:
-msgid "[@danny sad talk_frown_2@] Just so people would have something other to talk about than the naked photos of her online. She said that if Inviso-Bill helped out that there'd be some sort of £*£*£*£reward£*£*£*£ in it for him."
-msgstr "[@danny sad talk_frown_2@] Just so people would have something other to talk about than the naked photos of her online. She said that if Inviso-Bill helped out that there'd be some sort of £*£*£*£reward£*£*£*£ in it for him."
+msgid "[@danny sad talk_frown_2@] Just so people would have something other to talk about than the naked photos of her online. She said that if Inviso-Bill helped out that there'd be some sort of \"reward\" in it for him."
+msgstr "[@danny sad talk_frown_2@] Just so people would have something other to talk about than the naked photos of her online. She said that if Inviso-Bill helped out that there'd be some sort of \"reward\" in it for him."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1268 ## translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_4bddf178:
 msgid "[@sam confused talk_frown@] What? What kind of a rew-"
@@ -2023,8 +2023,8 @@ msgid "[@danny sad talk_happy_2 towards_wide@] Yeah, sorry about that... you jus
 msgstr "[@danny sad talk_happy_2 towards_wide@] Yeah, sorry about that... you just did {i}such{/i} a nice job."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1591 ## translate crowdin twinkle_twinkle_little_star_after_star_bj_51387f94:
-msgid "[@star sad closed talk_happy_2@] {i}*Chuckles*{/i} Well, I don't know much about ghosts, but if there's one thing I'm good at £*£*£*£exorcising£*£*£*£, it's jizz from boys' balls!"
-msgstr "[@star sad closed talk_happy_2@] {i}*Chuckles*{/i} Well, I don't know much about ghosts, but if there's one thing I'm good at £*£*£*£exorcising£*£*£*£, it's jizz from boys' balls!"
+msgid "[@star sad closed talk_happy_2@] {i}*Chuckles*{/i} Well, I don't know much about ghosts, but if there's one thing I'm good at \"exorcising\", it's jizz from boys' balls!"
+msgstr "[@star sad closed talk_happy_2@] {i}*Chuckles*{/i} Well, I don't know much about ghosts, but if there's one thing I'm good at \"exorcising\", it's jizz from boys' balls!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1593 ## translate crowdin twinkle_twinkle_little_star_after_star_bj_c5aa57aa:
 msgid "[@danny rise_one at_player_wide talk_frown_2@] Uhhm... okay... cool? (What the {b}fuck{/b}?! This chick is weird.)"
@@ -2127,8 +2127,8 @@ msgid "[@danny sad_2 closed talk_happy_2@] It was so hilarious to see the look o
 msgstr "[@danny sad_2 closed talk_happy_2@] It was so hilarious to see the look on Star's face when her pants dropped, hah ha..."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1680 ## translate crowdin twinkle_twinkle_little_star_scene_6_bedroom_bb35f73a:
-msgid "[@danny sad towards talk_frown@] {i}*Sigh*{/i} Too bad I didn't really £*£*£*£get£*£*£*£ anything out of it."
-msgstr "[@danny sad towards talk_frown@] {i}*Sigh*{/i} Too bad I didn't really £*£*£*£get£*£*£*£ anything out of it."
+msgid "[@danny sad towards talk_frown@] {i}*Sigh*{/i} Too bad I didn't really \"get\" anything out of it."
+msgstr "[@danny sad towards talk_frown@] {i}*Sigh*{/i} Too bad I didn't really \"get\" anything out of it."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1681 ## translate crowdin twinkle_twinkle_little_star_scene_6_bedroom_916ea36d:
 msgid "[@danny at_player wondering talk_happy@] I mean, {b}besides{/b} just helping out Sam like that, of course. She seemed to enjoy watching Star get pantsed, after all."
@@ -2275,26 +2275,26 @@ msgid "[@danny sad at_player talk_happy@] Man... Sam's the best..."
 msgstr "[@danny sad at_player talk_happy@] Man... Sam's the best..."
 
 # XXtranslate crowdin strings:XX# XX## game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:610
-msgid @+@+@[mschoice] What should I do about this prank situation?"
-msgstr @+@+@[mschoice] What should I do about this prank situation?"
+msgid "[mschoice] What should I do about this prank situation?"
+msgstr "[mschoice] What should I do about this prank situation?"
 
 # XX## game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:610
-msgid @+@+@[mschoice] Plant the sex toy in Sam's locker."
-msgstr @+@+@[mschoice] Plant the sex toy in Sam's locker."
+msgid "[mschoice] Plant the sex toy in Sam's locker."
+msgstr "[mschoice] Plant the sex toy in Sam's locker."
 
 # XX## game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:610
-msgid @+@+@[mschoice] Turn the prank around on Star."
-msgstr @+@+@[mschoice] Turn the prank around on Star."
+msgid "[mschoice] Turn the prank around on Star."
+msgstr "[mschoice] Turn the prank around on Star."
 
 # XX## game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:637
-msgid @+@+@[mschoice] Last chance: Should I go through with this prank?"
-msgstr @+@+@[mschoice] Last chance: Should I go through with this prank?"
+msgid "[mschoice] Last chance: Should I go through with this prank?"
+msgstr "[mschoice] Last chance: Should I go through with this prank?"
 
 # XX## game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:637
-msgid @+@+@[mschoice] Yes, dammit, I'm horny! Star has a nice treat to give us!"
-msgstr @+@+@[mschoice] Yes, dammit, I'm horny! Star has a nice treat to give us!"
+msgid "[mschoice] Yes, dammit, I'm horny! Star has a nice treat to give us!"
+msgstr "[mschoice] Yes, dammit, I'm horny! Star has a nice treat to give us!"
 
 # XX## game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:637
-msgid @+@+@[mschoice] No, Sam really doesn't deserve this. Lets turn it around on Star."
-msgstr @+@+@[mschoice] No, Sam really doesn't deserve this. Lets turn it around on Star."
+msgid "[mschoice] No, Sam really doesn't deserve this. Lets turn it around on Star."
+msgstr "[mschoice] No, Sam really doesn't deserve this. Lets turn it around on Star."
 

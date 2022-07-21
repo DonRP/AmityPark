@@ -23,14 +23,14 @@ msgid "[@danny sad talk_happy_2@] Oh no thank you, I'm good. See you around."
 msgstr "[@danny sad talk_happy_2@] Oh no thank you, I'm good. See you around."
 
 # XXtranslate crowdin strings:XX# XX## game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
-msgid @+@+@[mschoice] What do I want at Nasty Burger?"
-msgstr @+@+@[mschoice] What do I want at Nasty Burger?"
+msgid "[mschoice] What do I want at Nasty Burger?"
+msgstr "[mschoice] What do I want at Nasty Burger?"
 
 # XX## game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
-msgid @+@+@[mschoice] Work for a portion of the day."
-msgstr @+@+@[mschoice] Work for a portion of the day."
+msgid "[mschoice] Work for a portion of the day."
+msgstr "[mschoice] Work for a portion of the day."
 
 # XX## game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
-msgid @+@+@[mschoice] Just leave."
-msgstr @+@+@[mschoice] Just leave."
+msgid "[mschoice] Just leave."
+msgstr "[mschoice] Just leave."
 

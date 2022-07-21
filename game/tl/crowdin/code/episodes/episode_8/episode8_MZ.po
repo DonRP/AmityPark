@@ -47,8 +47,8 @@ msgid "[@danny towards rise talk_happy@] What was it?"
 msgstr "[@danny towards rise talk_happy@] What was it?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:105 ## translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_1c03f792:
-msgid "[@sam co towards unhappy talk_displeased@] Ishiyama had Lancer stopped in the hall, and they were both talking about looking forward to some £*£*£*£real changes£*£*£*£ in the school soon."
-msgstr "[@sam co towards unhappy talk_displeased@] Ishiyama had Lancer stopped in the hall, and they were both talking about looking forward to some £*£*£*£real changes£*£*£*£ in the school soon."
+msgid "[@sam co towards unhappy talk_displeased@] Ishiyama had Lancer stopped in the hall, and they were both talking about looking forward to some \"real changes\" in the school soon."
+msgstr "[@sam co towards unhappy talk_displeased@] Ishiyama had Lancer stopped in the hall, and they were both talking about looking forward to some \"real changes\" in the school soon."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:109 ## translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_5dd5d277:
 msgid "[@danny towards neutral talk_displeased@] Well that seems vague. What could one new teacher possibly add to-"
@@ -191,8 +191,8 @@ msgid "[@tucker closed wondering talk_happy@] You know, the more I think about i
 msgstr "[@tucker closed wondering talk_happy@] You know, the more I think about it... I certainly have been feeling particularly depressed recently..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:269 ## translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_bb8853a8:
-msgid "[@tucker towards angry talk_happy@] And I think some special £*£*£*£one on one£*£*£*£ counseling from Miss Spectra's the only thing that'll cure me!"
-msgstr "[@tucker towards angry talk_happy@] And I think some special £*£*£*£one on one£*£*£*£ counseling from Miss Spectra's the only thing that'll cure me!"
+msgid "[@tucker towards angry talk_happy@] And I think some special \"one on one\" counseling from Miss Spectra's the only thing that'll cure me!"
+msgstr "[@tucker towards angry talk_happy@] And I think some special \"one on one\" counseling from Miss Spectra's the only thing that'll cure me!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:273 ## translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_d6a21f78:
 msgid "[@sam co towards rise talk_consternation@] Tucker, you know mental health resources are for people who really do need some help and guidance, right?"
@@ -603,8 +603,8 @@ msgid "[@jazz away rise talk_consternation@] ...{i}uhh{/i}... dinner and a movie
 msgstr "[@jazz away rise talk_consternation@] ...{i}uhh{/i}... dinner and a movie? Really?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:803 ## translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_c7ee6813:
-msgid "[@danny towards rise talk_displeased@] That sounds kinda... like a £*£*£*£date£*£*£*£, and given that we're-"
-msgstr "[@danny towards rise talk_displeased@] That sounds kinda... like a £*£*£*£date£*£*£*£, and given that we're-"
+msgid "[@danny towards rise talk_displeased@] That sounds kinda... like a \"date\", and given that we're-"
+msgstr "[@danny towards rise talk_displeased@] That sounds kinda... like a \"date\", and given that we're-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:807 ## translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_58400161:
 msgid "[@penelope towards confused talk_displeased@] Oh nonsense! What, siblings can't take the time to simply spend some quality time together?"
@@ -719,8 +719,8 @@ msgid "[@bertrand arms_down towards talk@] Of course ma'am. If say, things do no
 msgstr "[@bertrand arms_down towards talk@] Of course ma'am. If say, things do not immediately progress the way we had planned, should I perhaps-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:930 ## translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_0ff4e802:
-msgid "[@penelope arms_up towards2 rise talk_happy@] If the opportunity arises, then yes, feel free to give them a little £*£*£*£encouragement£*£*£*£ to open themselves up to each other..."
-msgstr "[@penelope arms_up towards2 rise talk_happy@] If the opportunity arises, then yes, feel free to give them a little £*£*£*£encouragement£*£*£*£ to open themselves up to each other..."
+msgid "[@penelope arms_up towards2 rise talk_happy@] If the opportunity arises, then yes, feel free to give them a little \"encouragement\" to open themselves up to each other..."
+msgstr "[@penelope arms_up towards2 rise talk_happy@] If the opportunity arises, then yes, feel free to give them a little \"encouragement\" to open themselves up to each other..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:933 ## translate crowdin Episode_8_stage_40_school_outside_office_spectra_therapy_828f9628:
 msgid "[@bertrand arms_up towards talk@] You can count on me, ma'am..."
@@ -791,8 +791,8 @@ msgid "[@jazz towards rise talk_displeased@] What?{p}{nw}"
 msgstr "[@jazz towards rise talk_displeased@] What?{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1035 ## translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_fe8ff7bd:
-msgid "[@extend@] £*£*£*£The Haunting of Black Tower 3: The Ghost's Revenge...£*£*£*£"
-msgstr "[@extend@] £*£*£*£The Haunting of Black Tower 3: The Ghost's Revenge...£*£*£*£"
+msgid "[@extend@] \"The Haunting of Black Tower 3: The Ghost's Revenge...\""
+msgstr "[@extend@] \"The Haunting of Black Tower 3: The Ghost's Revenge...\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1038 ## translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_196dc9f4:
 msgid "[@jazz towards neutral consternation@] . . ."
@@ -811,8 +811,8 @@ msgid "[@danny towards sad talk_happy@] I'm sure it will be, but that also makes
 msgstr "[@danny towards sad talk_happy@] I'm sure it will be, but that also makes it kinda funny to go see, no?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1050 ## translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_109fe189:
-msgid "[@jazz towards angry talk_consternation@] But I haven't even seen £*£*£*£Black Tower£*£*£*£ 1 or 2!!"
-msgstr "[@jazz towards angry talk_consternation@] But I haven't even seen £*£*£*£Black Tower£*£*£*£ 1 or 2!!"
+msgid "[@jazz towards angry talk_consternation@] But I haven't even seen \"Black Tower\" 1 or 2!!"
+msgstr "[@jazz towards angry talk_consternation@] But I haven't even seen \"Black Tower\" 1 or 2!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1053 ## translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_1601772f:
 msgid "[@danny towards sad talk_displeased@] Jazz, c'mon, it's at least something to pass the time!"
@@ -835,8 +835,8 @@ msgid "[@jazz towards neutral talk_displeased@] {i}Tsch{/i}, we'll see..."
 msgstr "[@jazz towards neutral talk_displeased@] {i}Tsch{/i}, we'll see..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1079 ## translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_793abf00:
-msgid "[@danny towards idle talk_happy@] Two tickets to see £*£*£*£Black Tower 3£*£*£*£, please."
-msgstr "[@danny towards idle talk_happy@] Two tickets to see £*£*£*£Black Tower 3£*£*£*£, please."
+msgid "[@danny towards idle talk_happy@] Two tickets to see \"Black Tower 3\", please."
+msgstr "[@danny towards idle talk_happy@] Two tickets to see \"Black Tower 3\", please."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1084 ## translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_0dbdd401:
 msgid@] Employee A?"@] Of course sir, enjoy the movie..."
@@ -991,8 +991,8 @@ msgid "[@jazz@] Danny, I'm-"
 msgstr "[@jazz@] Danny, I'm-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1327 ## translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_90715054:
-msgid@] £*£*£*£Jazz On Screen£*£*£*£"@] {i}Heeey{/i} there, big boy...~"
-msgstr@] £*£*£*£Jazz On Screen£*£*£*£"@] {i}Heeey{/i} there, big boy...~"
+msgid@] \"Jazz On Screen\""@] {i}Heeey{/i} there, big boy...~"
+msgstr@] \"Jazz On Screen\""@] {i}Heeey{/i} there, big boy...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1330 ## translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_9948de1e:
 msgid "[@danny@] H-huh? Jazz?!"
@@ -1003,36 +1003,36 @@ msgid "[@danny@] But you were just- how did you...??"
 msgstr "[@danny@] But you were just- how did you...??"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1350 ## translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_7de5484d:
-msgid@] £*£*£*£Jazz On Screen£*£*£*£"@] Oh, don't you worry about {i}that{/i} little me, she's not ready for all this yet."
-msgstr@] £*£*£*£Jazz On Screen£*£*£*£"@] Oh, don't you worry about {i}that{/i} little me, she's not ready for all this yet."
+msgid@] \"Jazz On Screen\""@] Oh, don't you worry about {i}that{/i} little me, she's not ready for all this yet."
+msgstr@] \"Jazz On Screen\""@] Oh, don't you worry about {i}that{/i} little me, she's not ready for all this yet."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1353 ## translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_a9a6dc7a:
-msgid@] £*£*£*£Jazz On Screen£*£*£*£"@] I just want {i}allll{/i} your attention to myself."
-msgstr@] £*£*£*£Jazz On Screen£*£*£*£"@] I just want {i}allll{/i} your attention to myself."
+msgid@] \"Jazz On Screen\""@] I just want {i}allll{/i} your attention to myself."
+msgstr@] \"Jazz On Screen\""@] I just want {i}allll{/i} your attention to myself."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1357 ## translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_1874c1bc:
 msgid "[@danny@] J-Jazz... what's going on? How are you-"
 msgstr "[@danny@] J-Jazz... what's going on? How are you-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1361 ## translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_1018dd43:
-msgid@] £*£*£*£Jazz On Screen£*£*£*£"@] {i}Shhhh{/i}, don't you worry... I just want you to enjoy the show, okay baby brother?"
-msgstr@] £*£*£*£Jazz On Screen£*£*£*£"@] {i}Shhhh{/i}, don't you worry... I just want you to enjoy the show, okay baby brother?"
+msgid@] \"Jazz On Screen\""@] {i}Shhhh{/i}, don't you worry... I just want you to enjoy the show, okay baby brother?"
+msgstr@] \"Jazz On Screen\""@] {i}Shhhh{/i}, don't you worry... I just want you to enjoy the show, okay baby brother?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1367 ## translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_eb358dde:
 msgid "[@danny@] {i}...!{i}"
 msgstr "[@danny@] {i}...!{i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1384 ## translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_edcdf53a:
-msgid@] £*£*£*£Jazz On Screen£*£*£*£"@] Do you like games Danny? {i}I{i} certainly do...~"
-msgstr@] £*£*£*£Jazz On Screen£*£*£*£"@] Do you like games Danny? {i}I{i} certainly do...~"
+msgid@] \"Jazz On Screen\""@] Do you like games Danny? {i}I{i} certainly do...~"
+msgstr@] \"Jazz On Screen\""@] Do you like games Danny? {i}I{i} certainly do...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1389 ## translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_5e191f07:
 msgid "[@danny@] Ga-games...? Y-yeah, I'm... I like games..."
 msgstr "[@danny@] Ga-games...? Y-yeah, I'm... I like games..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1395 ## translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_b9e3fa5f:
-msgid@] £*£*£*£Jazz On Screen£*£*£*£"@] Then please... come {i}play{/i} with me Danny... I need you to play with me... play with every inch of my-"
-msgstr@] £*£*£*£Jazz On Screen£*£*£*£"@] Then please... come {i}play{/i} with me Danny... I need you to play with me... play with every inch of my-"
+msgid@] \"Jazz On Screen\""@] Then please... come {i}play{/i} with me Danny... I need you to play with me... play with every inch of my-"
+msgstr@] \"Jazz On Screen\""@] Then please... come {i}play{/i} with me Danny... I need you to play with me... play with every inch of my-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1412 ## translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_5dc4c70e:
 msgid "[@jazz@] Danny!!"
@@ -1147,8 +1147,8 @@ msgid "[@jazz towards angry talk_distraught@] What the heck are you talking abou
 msgstr "[@jazz towards angry talk_distraught@] What the heck are you talking about?! I'm talking about the spliced footage that came in later!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1608 ## translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_c5a2d7e7:
-msgid@] Employee B"@] £*£*£*£Spliced footage?£*£*£*£ Sorry, don't know what you're talking about, ma'am."
-msgstr@] Employee B"@] £*£*£*£Spliced footage?£*£*£*£ Sorry, don't know what you're talking about, ma'am."
+msgid@] Employee B"@] \"Spliced footage?\" Sorry, don't know what you're talking about, ma'am."
+msgstr@] Employee B"@] \"Spliced footage?\" Sorry, don't know what you're talking about, ma'am."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1611 ## translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_b7f83fb1:
 msgid "[@jazz standard_arms_behind towards rise talk_consternation blush@] {i}Urghh!!{/i} Look, there was this whole freaking weird scene where..."
@@ -1203,8 +1203,8 @@ msgid@] Employee B"@] Oh!{p}And if you're looking for some quality movie reviews
 msgstr@] Employee B"@] Oh!{p}And if you're looking for some quality movie reviews, check me out on Letterboxd for my sweet reviews!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1661 ## translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_9902152e:
-msgid@] Employee B"@] You can find me under £*£*£*£@The_Movie_Dewd£*£*£*£!{p}I do real in-depth reviews on the latest films!"
-msgstr@] Employee B"@] You can find me under £*£*£*£@The_Movie_Dewd£*£*£*£!{p}I do real in-depth reviews on the latest films!"
+msgid@] Employee B"@] You can find me under \"@The_Movie_Dewd\"!{p}I do real in-depth reviews on the latest films!"
+msgstr@] Employee B"@] You can find me under \"@The_Movie_Dewd\"!{p}I do real in-depth reviews on the latest films!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1664 ## translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_def4dc98:
 msgid@] Employee B"@] I'm sorta a cinephile like that, y'know? {i}*Snorts*{/i}"
@@ -1271,16 +1271,16 @@ msgid "[@jazz down sad talk_distraught blush@] {i}Uhhhh{/i}.... y-y'know! It was
 msgstr "[@jazz down sad talk_distraught blush@] {i}Uhhhh{/i}.... y-y'know! It was just like..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1751 ## translate crowdin Episode_8_stage_80_mall_after_movie_1f621c78:
-msgid@] £*£*£*£Dream Danny£*£*£*£"@] Oh, Jazz... how much I have longed for this moment."
-msgstr@] £*£*£*£Dream Danny£*£*£*£"@] Oh, Jazz... how much I have longed for this moment."
+msgid@] \"Dream Danny\""@] Oh, Jazz... how much I have longed for this moment."
+msgstr@] \"Dream Danny\""@] Oh, Jazz... how much I have longed for this moment."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1754 ## translate crowdin Episode_8_stage_80_mall_after_movie_3c40eeac:
-msgid@] £*£*£*£Dream Danny£*£*£*£"@] Together, here, with you, it's simply more than I could ever ask for..."
-msgstr@] £*£*£*£Dream Danny£*£*£*£"@] Together, here, with you, it's simply more than I could ever ask for..."
+msgid@] \"Dream Danny\""@] Together, here, with you, it's simply more than I could ever ask for..."
+msgstr@] \"Dream Danny\""@] Together, here, with you, it's simply more than I could ever ask for..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1763 ## translate crowdin Episode_8_stage_80_mall_after_movie_1fbe7794:
-msgid@] £*£*£*£Dream Danny£*£*£*£"@] Say... I'm feeling a bit dirty after running laps on the track today... how about you and I both head into the shower and-"
-msgstr@] £*£*£*£Dream Danny£*£*£*£"@] Say... I'm feeling a bit dirty after running laps on the track today... how about you and I both head into the shower and-"
+msgid@] \"Dream Danny\""@] Say... I'm feeling a bit dirty after running laps on the track today... how about you and I both head into the shower and-"
+msgstr@] \"Dream Danny\""@] Say... I'm feeling a bit dirty after running laps on the track today... how about you and I both head into the shower and-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1776 ## translate crowdin Episode_8_stage_80_mall_after_movie_4dbd3ee7:
 msgid "[@jazz down neutral talk_displeased blush@] {i}Uhhhh!!{/i}{p}{nw}"
@@ -1495,8 +1495,8 @@ msgid "[@bootrand arms_down towards talk@] Much obliged, thank you... now then..
 msgstr "[@bootrand arms_down towards talk@] Much obliged, thank you... now then..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1984 ## translate crowdin Episode_8_stage_90_mall_bootrand_appears_2e18a914:
-msgid "[@bootrand arms_up glare talk@] {i}Welll{/i}, £*£*£*£Gross Boy£*£*£*£, I certainly hope you enjoyed just a {i}taste{/i} of the moral corruption we intend to provide this town!"
-msgstr "[@bootrand arms_up glare talk@] {i}Welll{/i}, £*£*£*£Gross Boy£*£*£*£, I certainly hope you enjoyed just a {i}taste{/i} of the moral corruption we intend to provide this town!"
+msgid "[@bootrand arms_up glare talk@] {i}Welll{/i}, \"Gross Boy\", I certainly hope you enjoyed just a {i}taste{/i} of the moral corruption we intend to provide this town!"
+msgstr "[@bootrand arms_up glare talk@] {i}Welll{/i}, \"Gross Boy\", I certainly hope you enjoyed just a {i}taste{/i} of the moral corruption we intend to provide this town!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1987 ## translate crowdin Episode_8_stage_90_mall_bootrand_appears_87654239:
 msgid "[@bootrand arms_up glare talk@] Soon all the young minds in Amity Park will have nothing but degenerate thoughts crammed into their thoughts!!"
@@ -1871,8 +1871,8 @@ msgid "[@ember ghost towards rise talk_consternation@] {i}Pfft{/i}, whatever. Yo
 msgstr "[@ember ghost towards rise talk_consternation@] {i}Pfft{/i}, whatever. You're the one blue balling yourself. Peace out, doofus."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2498 ## translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_6670ea2e:
-msgid "[@desiree@] Miss Ember! Wait! We must warn Master of the impending £*£*£*£presence£*£*£*£ we both felt!"
-msgstr "[@desiree@] Miss Ember! Wait! We must warn Master of the impending £*£*£*£presence£*£*£*£ we both felt!"
+msgid "[@desiree@] Miss Ember! Wait! We must warn Master of the impending \"presence\" we both felt!"
+msgstr "[@desiree@] Miss Ember! Wait! We must warn Master of the impending \"presence\" we both felt!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2502 ## translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_ac327a7b:
 msgid "[@ember ghost away confused talk_displeased@] Heh? What are you-"
@@ -1995,12 +1995,12 @@ msgid "[@danny towards unhappy talk_happy@] Oh, {i}uhh{/i}, I mean yeah. You're 
 msgstr "[@danny towards unhappy talk_happy@] Oh, {i}uhh{/i}, I mean yeah. You're free to do whatever."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2635 ## translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_30f0786a:
-msgid "[@ember ghost towards angry talk_consternation@] {i}*Psffh* Riiight{/i}, £*£*£*£free£*£*£*£."
-msgstr "[@ember ghost towards angry talk_consternation@] {i}*Psffh* Riiight{/i}, £*£*£*£free£*£*£*£."
+msgid "[@ember ghost towards angry talk_consternation@] {i}*Psffh* Riiight{/i}, \"free\"."
+msgstr "[@ember ghost towards angry talk_consternation@] {i}*Psffh* Riiight{/i}, \"free\"."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2639 ## translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_dd0d64f8:
-msgid "[@ember ghost away rise talk_displeased@] Desiree, you up for some more £*£*£*£Orange is the New Black?£*£*£*£"
-msgstr "[@ember ghost away rise talk_displeased@] Desiree, you up for some more £*£*£*£Orange is the New Black?£*£*£*£"
+msgid "[@ember ghost away rise talk_displeased@] Desiree, you up for some more \"Orange is the New Black?\""
+msgstr "[@ember ghost away rise talk_displeased@] Desiree, you up for some more \"Orange is the New Black?\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2644 ## translate crowdin Episode_8_stage_120_home_bedroom_night_suspicious_activity_ba1cca33:
 msgid "[@desiree@] Oh, {i}am{/i} I ever! I truly never knew how delightful these talking boxes were until you properly introduced me to them, Miss Ember!"
@@ -2047,8 +2047,8 @@ msgid "[@danny at_player rise distraught@] (Oh great, again? Now I have to deal 
 msgstr "[@danny at_player rise distraught@] (Oh great, again? Now I have to deal with whatever {i}this{/i} is about...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2706 ## translate crowdin Episode_8_stage_130_school_mainhall_strange_morning_f45656e5:
-msgid "[@danny towards neutral displeased@] (I'm supposed to be patrolling the school and monitoring for weird activity, not talking about my £*£*£*£feelings£*£*£*£ or-)"
-msgstr "[@danny towards neutral displeased@] (I'm supposed to be patrolling the school and monitoring for weird activity, not talking about my £*£*£*£feelings£*£*£*£ or-)"
+msgid "[@danny towards neutral displeased@] (I'm supposed to be patrolling the school and monitoring for weird activity, not talking about my \"feelings\" or-)"
+msgstr "[@danny towards neutral displeased@] (I'm supposed to be patrolling the school and monitoring for weird activity, not talking about my \"feelings\" or-)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2709 ## translate crowdin Episode_8_stage_130_school_mainhall_strange_morning_818880e1:
 msgid "[@danny towards rise talk_displeased@] ...{i}Sam?{/i}"
@@ -2095,8 +2095,8 @@ msgid "[@sam wild towards confused talk_excited@] I think she's really getting t
 msgstr "[@sam wild towards confused talk_excited@] I think she's really getting to the bottom of all our problems..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2755 ## translate crowdin Episode_8_stage_130_school_mainhall_strange_morning_d08af14e:
-msgid "[@sam wild towards idle talk_lick@] ...she just says we've gotta grab our issues by the £*£*£*£root£*£*£*£, and pull, y'know...~?"
-msgstr "[@sam wild towards idle talk_lick@] ...she just says we've gotta grab our issues by the £*£*£*£root£*£*£*£, and pull, y'know...~?"
+msgid "[@sam wild towards idle talk_lick@] ...she just says we've gotta grab our issues by the \"root\", and pull, y'know...~?"
+msgstr "[@sam wild towards idle talk_lick@] ...she just says we've gotta grab our issues by the \"root\", and pull, y'know...~?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2758 ## translate crowdin Episode_8_stage_130_school_mainhall_strange_morning_58eede19:
 msgid "[@danny towards unhappy talk_displeased@] J-jeez Sam!"
@@ -2255,8 +2255,8 @@ msgid "[@extend@] ....{i}something useful.{/i}"
 msgstr "[@extend@] ....{i}something useful.{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2952 ## translate crowdin Episode_8_stage_140_school_outside_penelope_office_looking_for_answers_05a5a425:
-msgid "[@star towards confused talk_consternation@] I'm not, like, the £*£*£*£smartest£*£*£*£ girl around, but this all just kinda... far fetched, I don't know..."
-msgstr "[@star towards confused talk_consternation@] I'm not, like, the £*£*£*£smartest£*£*£*£ girl around, but this all just kinda... far fetched, I don't know..."
+msgid "[@star towards confused talk_consternation@] I'm not, like, the \"smartest\" girl around, but this all just kinda... far fetched, I don't know..."
+msgstr "[@star towards confused talk_consternation@] I'm not, like, the \"smartest\" girl around, but this all just kinda... far fetched, I don't know..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2956 ## translate crowdin Episode_8_stage_140_school_outside_penelope_office_looking_for_answers_4dab22e9:
 msgid "[@penelope arms_up towards neutral talk_displeased@] Nonsense! Believe me, it'll all make sense soon enough! You'll be thanking me in no time, I just know it!"
@@ -2347,8 +2347,8 @@ msgid "[@penelope@] {i}Ah{/i}, here we are! Finally!"
 msgstr "[@penelope@] {i}Ah{/i}, here we are! Finally!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3057 ## translate crowdin Episode_8_stage_150_school_penelope_office_gift_advice_0986e53b:
-msgid "[@penelope@] £*£*£*£Daniel Fenton, Casper High Student, Age-£*£*£*£"
-msgstr "[@penelope@] £*£*£*£Daniel Fenton, Casper High Student, Age-£*£*£*£"
+msgid "[@penelope@] \"Daniel Fenton, Casper High Student, Age-\""
+msgstr "[@penelope@] \"Daniel Fenton, Casper High Student, Age-\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3074 ## translate crowdin Episode_8_stage_150_school_penelope_office_gift_advice_00685fe6:
 msgid "[@penelope rise talk_happy@] We haven't even started our session here today yet..."
@@ -2407,8 +2407,8 @@ msgid "[@danny towards neutral talk_consternation@] To say the least, yeah."
 msgstr "[@danny towards neutral talk_consternation@] To say the least, yeah."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3119 ## translate crowdin Episode_8_stage_150_school_penelope_office_gift_advice_ce19fce2:
-msgid "[@penelope arms_up towards rise talk_displeased@] But you see, these £*£*£*£awkward£*£*£*£ encounters are just the very barriers you've set up between each other, and we need to work to {i}tear{/i} them down!"
-msgstr "[@penelope arms_up towards rise talk_displeased@] But you see, these £*£*£*£awkward£*£*£*£ encounters are just the very barriers you've set up between each other, and we need to work to {i}tear{/i} them down!"
+msgid "[@penelope arms_up towards rise talk_displeased@] But you see, these \"awkward\" encounters are just the very barriers you've set up between each other, and we need to work to {i}tear{/i} them down!"
+msgstr "[@penelope arms_up towards rise talk_displeased@] But you see, these \"awkward\" encounters are just the very barriers you've set up between each other, and we need to work to {i}tear{/i} them down!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3122 ## translate crowdin Episode_8_stage_150_school_penelope_office_gift_advice_588ab82b:
 msgid "[@penelope arms_up towards neutral talk_displeased@] So much of your relationship with each other is solely based on the fact that you two are siblings, rather than the mutual bond of tenderness and genuine companionship!"
@@ -2427,8 +2427,8 @@ msgid "[@penelope arms_up towards angry talk_displeased@] Stop seeing her {i}mer
 msgstr "[@penelope arms_up towards angry talk_displeased@] Stop seeing her {i}merely{/i} as the sister you love dearly, but for the mature woman that she is!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3134 ## translate crowdin Episode_8_stage_150_school_penelope_office_gift_advice_8c105fc7:
-msgid "[@danny towards rise talk_consternation@] ...you want me to view Jazz £*£*£*£as a woman£*£*£*£? What do you mean?"
-msgstr "[@danny towards rise talk_consternation@] ...you want me to view Jazz £*£*£*£as a woman£*£*£*£? What do you mean?"
+msgid "[@danny towards rise talk_consternation@] ...you want me to view Jazz \"as a woman\"? What do you mean?"
+msgstr "[@danny towards rise talk_consternation@] ...you want me to view Jazz \"as a woman\"? What do you mean?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3137 ## translate crowdin Episode_8_stage_150_school_penelope_office_gift_advice_b0c6caae:
 msgid "[@penelope arms_down towards confused talk_displeased@] I'm just saying that these more stringent labels and barriers you've put up between each other have made you disconnect from each other, clearly."
@@ -2467,8 +2467,8 @@ msgid "[@penelope arms_down towards rise talk_amused@] You two buy each other so
 msgstr "[@penelope arms_down towards rise talk_amused@] You two buy each other some {b}enlightened gifts{/b}."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3164 ## translate crowdin Episode_8_stage_150_school_penelope_office_gift_advice_1fc083b5:
-msgid "[@danny towards rise talk_consternation@] £*£*£*£Enlightened£*£*£*£ gifts? What does that mean? Like, Shampoo sponsored by the Dalai Lama or something?"
-msgstr "[@danny towards rise talk_consternation@] £*£*£*£Enlightened£*£*£*£ gifts? What does that mean? Like, Shampoo sponsored by the Dalai Lama or something?"
+msgid "[@danny towards rise talk_consternation@] \"Enlightened\" gifts? What does that mean? Like, Shampoo sponsored by the Dalai Lama or something?"
+msgstr "[@danny towards rise talk_consternation@] \"Enlightened\" gifts? What does that mean? Like, Shampoo sponsored by the Dalai Lama or something?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3167 ## translate crowdin Episode_8_stage_150_school_penelope_office_gift_advice_c1a9149c:
 msgid "[@penelope arms_up towards confused talk_displeased@] These would be things that neither one of you in a million years would have thought of giving each other previously."
@@ -2763,8 +2763,8 @@ msgid "[@danny towards_wide unhappy talk_consternation blush@] Jazz... what. W-w
 msgstr "[@danny towards_wide unhappy talk_consternation blush@] Jazz... what. W-what are th- {i}uhh{/i}, w-why are you giving me your-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3483 ## translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_154f53b6:
-msgid "[@jazz towards_wide sad talk_consternation blush@] Miss Spectra recommended I give you something you could use £*£*£*£practically£*£*£*£ that you couldn't just buy, so-"
-msgstr "[@jazz towards_wide sad talk_consternation blush@] Miss Spectra recommended I give you something you could use £*£*£*£practically£*£*£*£ that you couldn't just buy, so-"
+msgid "[@jazz towards_wide sad talk_consternation blush@] Miss Spectra recommended I give you something you could use \"practically\" that you couldn't just buy, so-"
+msgstr "[@jazz towards_wide sad talk_consternation blush@] Miss Spectra recommended I give you something you could use \"practically\" that you couldn't just buy, so-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3486 ## translate crowdin Episode_8_stage_170_home_hallway_giving_the_gift_154af20c:
 msgid "[@jazz closed sad distraught blush@] (I can't believe I actually listened to her advice, this is so freaking embarrassing.)"
@@ -2811,8 +2811,8 @@ msgid "[@jazz at_player confused displeased@] (I can't believe I actually gave t
 msgstr "[@jazz at_player confused displeased@] (I can't believe I actually gave that doofus my panties!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3550 ## translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_b5339bf5:
-msgid "[@jazz standard_arms_behind down sad distraught@] (I mean, this just feels like it's going too far, even if it's supposed to £*£*£*£bring us together more£*£*£*£!)"
-msgstr "[@jazz standard_arms_behind down sad distraught@] (I mean, this just feels like it's going too far, even if it's supposed to £*£*£*£bring us together more£*£*£*£!)"
+msgid "[@jazz standard_arms_behind down sad distraught@] (I mean, this just feels like it's going too far, even if it's supposed to \"bring us together more\"!)"
+msgstr "[@jazz standard_arms_behind down sad distraught@] (I mean, this just feels like it's going too far, even if it's supposed to \"bring us together more\"!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3552 ## translate crowdin Episode_8_stage_175_home_jazz_room_sleep_jazz_enchanted_df5027e5:
 msgid "[@jazz towards sad consternation@] (We can have a more {i}normal{/i} brother-sister relationship, can't we...?)"
@@ -3143,8 +3143,8 @@ msgid "[@sam top_slutty bottom_slutty bands_2 nostockings hair_slutty towards un
 msgstr "[@sam top_slutty bottom_slutty bands_2 nostockings hair_slutty towards unhappy talk_consternation@] {i}Awww{/i}, looks like we gotta get to class now..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4007 ## translate crowdin Episode_8_stage_195_school_hallway_morning_wild_school_3a9f095b:
-msgid "[@sam top_slutty bottom_slutty bands_2 nostockings hair_slutty towards rise talk_bite blush@] Darn... I was really hoping we could £*£*£*£play£*£*£*£ together a bit before first period...~"
-msgstr "[@sam top_slutty bottom_slutty bands_2 nostockings hair_slutty towards rise talk_bite blush@] Darn... I was really hoping we could £*£*£*£play£*£*£*£ together a bit before first period...~"
+msgid "[@sam top_slutty bottom_slutty bands_2 nostockings hair_slutty towards rise talk_bite blush@] Darn... I was really hoping we could \"play\" together a bit before first period...~"
+msgstr "[@sam top_slutty bottom_slutty bands_2 nostockings hair_slutty towards rise talk_bite blush@] Darn... I was really hoping we could \"play\" together a bit before first period...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4011 ## translate crowdin Episode_8_stage_195_school_hallway_morning_wild_school_9aa8e7cf:
 msgid "[@danny towards_wide sad talk_amused blush@] Y-yeah, maybe later Sam..."
@@ -3239,8 +3239,8 @@ msgid "[@danny f offscreen at_player sad distraught@] (Oh no, not another attack
 msgstr "[@danny f offscreen at_player sad distraught@] (Oh no, not another attack from-)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4105 ## translate crowdin Episode_8_stage_200_school_classroom_morning_classroom_chaos_636d9cbf:
-msgid "[@lancer towards rise talk_displeased@] {i}Excuse{/i} me, young man, but have you ever heard of £*£*£*£knocking£*£*£*£ before?!"
-msgstr "[@lancer towards rise talk_displeased@] {i}Excuse{/i} me, young man, but have you ever heard of £*£*£*£knocking£*£*£*£ before?!"
+msgid "[@lancer towards rise talk_displeased@] {i}Excuse{/i} me, young man, but have you ever heard of \"knocking\" before?!"
+msgstr "[@lancer towards rise talk_displeased@] {i}Excuse{/i} me, young man, but have you ever heard of \"knocking\" before?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4108 ## translate crowdin Episode_8_stage_200_school_classroom_morning_classroom_chaos_ef3ef1bf:
 msgid "[@bootrand arms_up towards talk@] I... {i}uhhh{/i}, w-what?"
@@ -3499,8 +3499,8 @@ msgid "[@danny phantom arms_normal towards rise talk_displeased@] Huh?"
 msgstr "[@danny phantom arms_normal towards rise talk_displeased@] Huh?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4390 ## translate crowdin Episode_8_stage_205_school_mainhall_morning_pursue_ghost_eafceb0a:
-msgid "[@bootrand arms_up towards talk@] £*£*£*£Oh Miss {i}Speeeectraaaa!!{/i}£*£*£*£"
-msgstr "[@bootrand arms_up towards talk@] £*£*£*£Oh Miss {i}Speeeectraaaa!!{/i}£*£*£*£"
+msgid "[@bootrand arms_up towards talk@] \"Oh Miss {i}Speeeectraaaa!!{/i}\""
+msgstr "[@bootrand arms_up towards talk@] \"Oh Miss {i}Speeeectraaaa!!{/i}\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4394 ## translate crowdin Episode_8_stage_205_school_mainhall_morning_pursue_ghost_c4d220d3:
 msgid "[@penelope@] Yes? Yes, can I help you? I'm sorry, did we schedule an appointment?{p}{nw}"
@@ -3531,8 +3531,8 @@ msgid "[@danny phantom arms_normal towards angry talk_distraught@] Get away from
 msgstr "[@danny phantom arms_normal towards angry talk_distraught@] Get away from her, sicko!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4459 ## translate crowdin Episode_8_stage_210_school_penelope_office_ghost_attack_609e94df:
-msgid "[@bootrand arms_up glare talk@] Oh, would you rather we fight over who gets first £*£*£*£go£*£*£*£ with her? Hey, fine with me, I like making sport of it!"
-msgstr "[@bootrand arms_up glare talk@] Oh, would you rather we fight over who gets first £*£*£*£go£*£*£*£ with her? Hey, fine with me, I like making sport of it!"
+msgid "[@bootrand arms_up glare talk@] Oh, would you rather we fight over who gets first \"go\" with her? Hey, fine with me, I like making sport of it!"
+msgstr "[@bootrand arms_up glare talk@] Oh, would you rather we fight over who gets first \"go\" with her? Hey, fine with me, I like making sport of it!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4463 ## translate crowdin Episode_8_stage_210_school_penelope_office_ghost_attack_75c036b9:
 msgid "[@danny phantom arms_normal towards_wide angry talk_distraught@] {i}Shut your mouth, creep!!{/i}"
@@ -3575,16 +3575,16 @@ msgid "[@danny phantom arms_normal towards angry talk_distraught@] Get back here
 msgstr "[@danny phantom arms_normal towards angry talk_distraught@] Get back here you! What's your plan? Who are you working for?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4552 ## translate crowdin Episode_8_stage_210_school_penelope_office_ghost_attack_4e3332cb:
-msgid "[@penelope arms_up towards confused talk_distraught@] W-wait... £*£*£*£D-Danny£*£*£*£? As in... Danny... {i}Fenton{/i}?"
-msgstr "[@penelope arms_up towards confused talk_distraught@] W-wait... £*£*£*£D-Danny£*£*£*£? As in... Danny... {i}Fenton{/i}?"
+msgid "[@penelope arms_up towards confused talk_distraught@] W-wait... \"D-Danny\"? As in... Danny... {i}Fenton{/i}?"
+msgstr "[@penelope arms_up towards confused talk_distraught@] W-wait... \"D-Danny\"? As in... Danny... {i}Fenton{/i}?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4555 ## translate crowdin Episode_8_stage_210_school_penelope_office_ghost_attack_4887bcfe:
 msgid "[@danny phantom arms_normal at_self unhappy talk_distraught@] I-"
 msgstr "[@danny phantom arms_normal at_self unhappy talk_distraught@] I-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4558 ## translate crowdin Episode_8_stage_210_school_penelope_office_ghost_attack_a96ad105:
-msgid "[@danny phantom arms_normal closed_sad unhappy talk_distraught@] N-no! Of course not! I'm not- I mean... who's that, I-I'm £*£*£*£Inviso-Bill£*£*£*£ not... l-look, it's not what-"
-msgstr "[@danny phantom arms_normal closed_sad unhappy talk_distraught@] N-no! Of course not! I'm not- I mean... who's that, I-I'm £*£*£*£Inviso-Bill£*£*£*£ not... l-look, it's not what-"
+msgid "[@danny phantom arms_normal closed_sad unhappy talk_distraught@] N-no! Of course not! I'm not- I mean... who's that, I-I'm \"Inviso-Bill\" not... l-look, it's not what-"
+msgstr "[@danny phantom arms_normal closed_sad unhappy talk_distraught@] N-no! Of course not! I'm not- I mean... who's that, I-I'm \"Inviso-Bill\" not... l-look, it's not what-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4561 ## translate crowdin Episode_8_stage_210_school_penelope_office_ghost_attack_1b1da06d:
 msgid "[@penelope arms_up towards idle talk_amused@] {i}Well{/i}, this is {i}certainly{/i} a surprise!"
@@ -3731,8 +3731,8 @@ msgid "[@penelope arms_up towards rise talk_displeased@] I think what you need r
 msgstr "[@penelope arms_up towards rise talk_displeased@] I think what you need right now, is to do some internal thinking, in your comfort zone, and simply try and get some relax."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4699 ## translate crowdin Episode_8_stage_215_school_penelope_office_penelope_plots_50f6b770:
-msgid "[@danny towards angry talk_distraught@] £*£*£*£Relax£*£*£*£? How?! How the heck am I supposed to relax with everything going on, with everybody around me?!"
-msgstr "[@danny towards angry talk_distraught@] £*£*£*£Relax£*£*£*£? How?! How the heck am I supposed to relax with everything going on, with everybody around me?!"
+msgid "[@danny towards angry talk_distraught@] \"Relax\"? How?! How the heck am I supposed to relax with everything going on, with everybody around me?!"
+msgstr "[@danny towards angry talk_distraught@] \"Relax\"? How?! How the heck am I supposed to relax with everything going on, with everybody around me?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4702 ## translate crowdin Episode_8_stage_215_school_penelope_office_penelope_plots_2e3da6a9:
 msgid "[@penelope arms_down towards sad talk_distraught@] See, don't you hear that? So much tension and anger! It's not healthy, not for a hero like yourself, not in the slightest..."
@@ -3899,16 +3899,16 @@ msgid "[@danny at_player rise talk_happy@] ...maybe Miss Spectra's right, if I c
 msgstr "[@danny at_player rise talk_happy@] ...maybe Miss Spectra's right, if I can just play some computer games, chill out in bed, and just relax a little, I'll at least be able to focus my plans better."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4854 ## translate crowdin Episode_8_stage_220_home_bedroom_friend_request_2c593883:
-msgid "[@danny towards wondering talk_happy@] So, what should I boot up tonight? Maybe some £*£*£*£Ground Bricker£*£*£*£, I could do for some light gaming, something peaceful and soothing."
-msgstr "[@danny towards wondering talk_happy@] So, what should I boot up tonight? Maybe some £*£*£*£Ground Bricker£*£*£*£, I could do for some light gaming, something peaceful and soothing."
+msgid "[@danny towards wondering talk_happy@] So, what should I boot up tonight? Maybe some \"Ground Bricker\", I could do for some light gaming, something peaceful and soothing."
+msgstr "[@danny towards wondering talk_happy@] So, what should I boot up tonight? Maybe some \"Ground Bricker\", I could do for some light gaming, something peaceful and soothing."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4860 ## translate crowdin Episode_8_stage_220_home_bedroom_friend_request_1aca64e5:
 msgid "[@danny f offscreen towards idle smile@] (Now let's see, do I have to reinstall Ground Bricker again, or do I still have-)"
 msgstr "[@danny f offscreen towards idle smile@] (Now let's see, do I have to reinstall Ground Bricker again, or do I still have-)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4863 ## translate crowdin Episode_8_stage_220_home_bedroom_friend_request_93e35b72:
-msgid "[@danny f offscreen towards rise displeased@] (Huh? £*£*£*£Jennifer wants to be my friend?£*£*£*£ Well who the heck is Jennifer Fairbrook?)"
-msgstr "[@danny f offscreen towards rise displeased@] (Huh? £*£*£*£Jennifer wants to be my friend?£*£*£*£ Well who the heck is Jennifer Fairbrook?)"
+msgid "[@danny f offscreen towards rise displeased@] (Huh? \"Jennifer wants to be my friend?\" Well who the heck is Jennifer Fairbrook?)"
+msgstr "[@danny f offscreen towards rise displeased@] (Huh? \"Jennifer wants to be my friend?\" Well who the heck is Jennifer Fairbrook?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4864 ## translate crowdin Episode_8_stage_220_home_bedroom_friend_request_4bc4255d:
 msgid "[@danny f offscreen towards idle displeased@] (Let's see here...)"
@@ -4687,8 +4687,8 @@ msgid "[@desiree@] Goodness... this place... the power being gathered... it trul
 msgstr "[@desiree@] Goodness... this place... the power being gathered... it truly is overwhelming!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6422 ## translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_9159b003:
-msgid "[@ember@] You could say... {i}£*£*£*£it's over 9000!!£*£*£*£{/i}"
-msgstr "[@ember@] You could say... {i}£*£*£*£it's over 9000!!£*£*£*£{/i}"
+msgid "[@ember@] You could say... {i}\"it's over 9000!!\"{/i}"
+msgstr "[@ember@] You could say... {i}\"it's over 9000!!\"{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6426 ## translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_64fc1e3e:
 msgid "[@desiree@] N-no, I could not reasonably define the strength of her aura in numbers, I'm afraid..."
@@ -4771,8 +4771,8 @@ msgid "[@ember@] What the {i}fuck{/i} did you just call me?! Listen up you old b
 msgstr "[@ember@] What the {i}fuck{/i} did you just call me?! Listen up you old bag! I'm about to put a size 11 dent in your face!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6523 ## translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_599b4bd2:
-msgid "[@desiree@] £*£*£*£Ancient whore£*£*£*£...? Who do you think you're talking to, you parasite?!"
-msgstr "[@desiree@] £*£*£*£Ancient whore£*£*£*£...? Who do you think you're talking to, you parasite?!"
+msgid "[@desiree@] \"Ancient whore\"...? Who do you think you're talking to, you parasite?!"
+msgstr "[@desiree@] \"Ancient whore\"...? Who do you think you're talking to, you parasite?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6528 ## translate crowdin Episode_8_stage_250_school_second_floor_hallway_battle_1_d6a19079:
 msgid "[@spectra@] Well, looks like I've riled up the masses in just the right way... and I'm certainly eager to test out this new form already!"
@@ -5267,8 +5267,8 @@ msgid "[@danny@] W-well... what I'd really like is to try and help you is all."
 msgstr "[@danny@] W-well... what I'd really like is to try and help you is all."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7342 ## translate crowdin Episode_8_stage_270_bedroom_morning_back_home_b354b3e0:
-msgid "[@spectra@] ...£*£*£*£Help me?£*£*£*£"
-msgstr "[@spectra@] ...£*£*£*£Help me?£*£*£*£"
+msgid "[@spectra@] ...\"Help me?\""
+msgstr "[@spectra@] ...\"Help me?\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7346 ## translate crowdin Episode_8_stage_270_bedroom_morning_back_home_d7882acc:
 msgid "[@spectra@] {i}You{/i}... want to... help.{p}{nw}"
@@ -5291,8 +5291,8 @@ msgid "[@danny@] C'mon now, just listen! I obviously can't just let you back out
 msgstr "[@danny@] C'mon now, just listen! I obviously can't just let you back out and wreaking havoc across the town can I?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7366 ## translate crowdin Episode_8_stage_270_bedroom_morning_back_home_788a0a38:
-msgid "[@spectra@] Well I'm certainly not interested in any kind of £*£*£*£help£*£*£*£ that {i}you{/i} could possibly offer me!"
-msgstr "[@spectra@] Well I'm certainly not interested in any kind of £*£*£*£help£*£*£*£ that {i}you{/i} could possibly offer me!"
+msgid "[@spectra@] Well I'm certainly not interested in any kind of \"help\" that {i}you{/i} could possibly offer me!"
+msgstr "[@spectra@] Well I'm certainly not interested in any kind of \"help\" that {i}you{/i} could possibly offer me!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7370 ## translate crowdin Episode_8_stage_270_bedroom_morning_back_home_a17b2da3:
 msgid "[@danny@] Look, it's either we try and work out whatever's made you like this, or... I'll have no choice than to send you back to the Ghost Zone!"
@@ -5335,8 +5335,8 @@ msgid "[@ember@] {i}Not that this loud mouthed kook ever gave us a chance to clo
 msgstr "[@ember@] {i}Not that this loud mouthed kook ever gave us a chance to close our eyes with all her screaming!!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7436 ## translate crowdin Episode_8_stage_270_bedroom_morning_back_home_2ed5a7a5:
-msgid "[@spectra@] £*£*£*£Oh no, poor me, I'm just a pair of poor, stockholm syndrome riddled drama queens!! We couldn't rest our wittle green and blue heads to nappy!!£*£*£*£"
-msgstr "[@spectra@] £*£*£*£Oh no, poor me, I'm just a pair of poor, stockholm syndrome riddled drama queens!! We couldn't rest our wittle green and blue heads to nappy!!£*£*£*£"
+msgid "[@spectra@] \"Oh no, poor me, I'm just a pair of poor, stockholm syndrome riddled drama queens!! We couldn't rest our wittle green and blue heads to nappy!!\""
+msgstr "[@spectra@] \"Oh no, poor me, I'm just a pair of poor, stockholm syndrome riddled drama queens!! We couldn't rest our wittle green and blue heads to nappy!!\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7441 ## translate crowdin Episode_8_stage_270_bedroom_morning_back_home_11eae0c2:
 msgid "[@spectra@] Just because you two creeps have lost your minds to this little short pervert's sick fantasy camp! Doesn't mean I have to!!"
@@ -5435,8 +5435,8 @@ msgid "[@spectra@] ...a coffee."
 msgstr "[@spectra@] ...a coffee."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7569 ## translate crowdin Episode_8_stage_270_bedroom_morning_back_home_5808e5f7:
-msgid "[@danny@] Yeah, usually I just find something personal to do with the, {i}uh{/i}, the new £*£*£*£recruits£*£*£*£ I have in the Fenton Thermos, so a coffee would-"
-msgstr "[@danny@] Yeah, usually I just find something personal to do with the, {i}uh{/i}, the new £*£*£*£recruits£*£*£*£ I have in the Fenton Thermos, so a coffee would-"
+msgid "[@danny@] Yeah, usually I just find something personal to do with the, {i}uh{/i}, the new \"recruits\" I have in the Fenton Thermos, so a coffee would-"
+msgstr "[@danny@] Yeah, usually I just find something personal to do with the, {i}uh{/i}, the new \"recruits\" I have in the Fenton Thermos, so a coffee would-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7573 ## translate crowdin Episode_8_stage_270_bedroom_morning_back_home_4dc355d4:
 msgid "[@spectra@] No, no, as I said, just send me back to the Ghost Zone."
@@ -5447,8 +5447,8 @@ msgid "[@danny@] W-what? Really? You're not even going to try to work this out w
 msgstr "[@danny@] W-what? Really? You're not even going to try to work this out with me?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7581 ## translate crowdin Episode_8_stage_270_bedroom_morning_back_home_0f080e5e:
-msgid "[@spectra@] And why would I? What might I possibly gain from letting you try your best to £*£*£*£reform£*£*£*£ me like some sort of flea-ridden puppy?!"
-msgstr "[@spectra@] And why would I? What might I possibly gain from letting you try your best to £*£*£*£reform£*£*£*£ me like some sort of flea-ridden puppy?!"
+msgid "[@spectra@] And why would I? What might I possibly gain from letting you try your best to \"reform\" me like some sort of flea-ridden puppy?!"
+msgstr "[@spectra@] And why would I? What might I possibly gain from letting you try your best to \"reform\" me like some sort of flea-ridden puppy?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7585 ## translate crowdin Episode_8_stage_270_bedroom_morning_back_home_ca5bdfbf:
 msgid "[@spectra@] I am who I am, plain and simple. There's no changing that, and you're kidding yourself if you really think you can truly change those other two..."
@@ -5555,8 +5555,8 @@ msgid "[@star talk_frown rise_one@] Gee, you look familiar..."
 msgstr "[@star talk_frown rise_one@] Gee, you look familiar..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7757 ## translate crowdin Episode_8_stage_280_mall_day_the_new_one_6461de4b:
-msgid "[@penelope@] Oh, you girls say you're looking for that kid Bill, right? As in, £*£*£*£Inviso-Bill?£*£*£*£"
-msgstr "[@penelope@] Oh, you girls say you're looking for that kid Bill, right? As in, £*£*£*£Inviso-Bill?£*£*£*£"
+msgid "[@penelope@] Oh, you girls say you're looking for that kid Bill, right? As in, \"Inviso-Bill?\""
+msgstr "[@penelope@] Oh, you girls say you're looking for that kid Bill, right? As in, \"Inviso-Bill?\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7763 ## translate crowdin Episode_8_stage_280_mall_day_the_new_one_e5588b23:
 msgid "[@danny@] (Oh.){p}{nw}"
@@ -5739,16 +5739,16 @@ msgid "[@danny@] ...and wait, I'm sorry, how come they can't remember you?"
 msgstr "[@danny@] ...and wait, I'm sorry, how come they can't remember you?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8028 ## translate crowdin Episode_8_stage_280_mall_day_the_new_one_aec27a05:
-msgid "[@danny@] I mean, Desiree and Ember don't really look the same in their £*£*£*£human form£*£*£*£, so it {i}sorta{/i} makes sense I guess, but..."
-msgstr "[@danny@] I mean, Desiree and Ember don't really look the same in their £*£*£*£human form£*£*£*£, so it {i}sorta{/i} makes sense I guess, but..."
+msgid "[@danny@] I mean, Desiree and Ember don't really look the same in their \"human form\", so it {i}sorta{/i} makes sense I guess, but..."
+msgstr "[@danny@] I mean, Desiree and Ember don't really look the same in their \"human form\", so it {i}sorta{/i} makes sense I guess, but..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8038 ## translate crowdin Episode_8_stage_280_mall_day_the_new_one_eb5e94f6:
 msgid "[@penelope@] Well, aside from them being a pair of slutty ditzes..."
 msgstr "[@penelope@] Well, aside from them being a pair of slutty ditzes..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8042 ## translate crowdin Episode_8_stage_280_mall_day_the_new_one_9f637015:
-msgid "[@penelope@] ...after I was captured, my £*£*£*£influence£*£*£*£ over most of the students and faculty seems to have collapsed. Shit."
-msgstr "[@penelope@] ...after I was captured, my £*£*£*£influence£*£*£*£ over most of the students and faculty seems to have collapsed. Shit."
+msgid "[@penelope@] ...after I was captured, my \"influence\" over most of the students and faculty seems to have collapsed. Shit."
+msgstr "[@penelope@] ...after I was captured, my \"influence\" over most of the students and faculty seems to have collapsed. Shit."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8046 ## translate crowdin Episode_8_stage_280_mall_day_the_new_one_d5423c73:
 msgid "[@penelope@] Anything that involved me is no doubt more than a hazy memory to them now, or maybe just a very strange dream."
@@ -5807,8 +5807,8 @@ msgid "[@danny@] Sorta gonna be awkward, just... sitting here in silence if-"
 msgstr "[@danny@] Sorta gonna be awkward, just... sitting here in silence if-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8127 ## translate crowdin Episode_8_stage_290_food_court_again_109183a2:
-msgid "[@penelope@] That's fine with me. There's nothing to talk about, I'm your prisoner and this whole £*£*£*£rehabilitation£*£*£*£ is a delusional charade of yours."
-msgstr "[@penelope@] That's fine with me. There's nothing to talk about, I'm your prisoner and this whole £*£*£*£rehabilitation£*£*£*£ is a delusional charade of yours."
+msgid "[@penelope@] That's fine with me. There's nothing to talk about, I'm your prisoner and this whole \"rehabilitation\" is a delusional charade of yours."
+msgstr "[@penelope@] That's fine with me. There's nothing to talk about, I'm your prisoner and this whole \"rehabilitation\" is a delusional charade of yours."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8131 ## translate crowdin Episode_8_stage_290_food_court_again_736f94b6:
 msgid "[@danny@] I'm trying to help you."
@@ -5911,8 +5911,8 @@ msgid "[@danny@] If there's any burden of responsibility with these powers, it's
 msgstr "[@danny@] If there's any burden of responsibility with these powers, it's that I sometimes have to make some hard choices to do what's right for others. Even {i}if{/i} it makes me less righteous."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8231 ## translate crowdin Episode_8_stage_290_food_court_again_e454e6f2:
-msgid "[@danny@] And besides, anything that's happened as a result of my hope to turn their £*£*£*£wayward soul£*£*£*£ to good has just been coincidental."
-msgstr "[@danny@] And besides, anything that's happened as a result of my hope to turn their £*£*£*£wayward soul£*£*£*£ to good has just been coincidental."
+msgid "[@danny@] And besides, anything that's happened as a result of my hope to turn their \"wayward soul\" to good has just been coincidental."
+msgstr "[@danny@] And besides, anything that's happened as a result of my hope to turn their \"wayward soul\" to good has just been coincidental."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8235 ## translate crowdin Episode_8_stage_290_food_court_again_998ad282:
 msgid "[@penelope@] ...how {i}very{/i} convenient."
@@ -5955,8 +5955,8 @@ msgid "[@extend@] I was nursing men back to life on the front before your parent
 msgstr "[@extend@] I was nursing men back to life on the front before your parents were even-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8275 ## translate crowdin Episode_8_stage_290_food_court_again_3881f879:
-msgid "[@danny@] Wait, wait, wait... what? £*£*£*£The front?£*£*£*£ You were in... a war?"
-msgstr "[@danny@] Wait, wait, wait... what? £*£*£*£The front?£*£*£*£ You were in... a war?"
+msgid "[@danny@] Wait, wait, wait... what? \"The front?\" You were in... a war?"
+msgstr "[@danny@] Wait, wait, wait... what? \"The front?\" You were in... a war?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8279 ## translate crowdin Episode_8_stage_290_food_court_again_2ddb573a:
 msgid "[@penelope@] I..."
@@ -6123,8 +6123,8 @@ msgid "[@danny@] {i}Please{/i} tell me you got on better with the girls..."
 msgstr "[@danny@] {i}Please{/i} tell me you got on better with the girls..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8553 ## translate crowdin Episode_8_stage_310_bedroom_morning_check_in_93e98fd6:
-msgid "[@penelope@] If you count having to silently wait in protest, keeping my objections myself and not talking to them as £*£*£*£getting on£*£*£*£ then yes, we got on nicely."
-msgstr "[@penelope@] If you count having to silently wait in protest, keeping my objections myself and not talking to them as £*£*£*£getting on£*£*£*£ then yes, we got on nicely."
+msgid "[@penelope@] If you count having to silently wait in protest, keeping my objections myself and not talking to them as \"getting on\" then yes, we got on nicely."
+msgstr "[@penelope@] If you count having to silently wait in protest, keeping my objections myself and not talking to them as \"getting on\" then yes, we got on nicely."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8557 ## translate crowdin Episode_8_stage_310_bedroom_morning_check_in_600b5112:
 msgid "[@danny@] Well... at least everyone got some rest, so-"
@@ -6143,8 +6143,8 @@ msgid "[@danny@] But I let them do that because I trust them."
 msgstr "[@danny@] But I let them do that because I trust them."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8573 ## translate crowdin Episode_8_stage_310_bedroom_morning_check_in_b9dd397f:
-msgid "[@penelope@] £*£*£*£Trust them£*£*£*£ huh? Enough to widen their cage a bit, but not enough to truly let them free to their own devices."
-msgstr "[@penelope@] £*£*£*£Trust them£*£*£*£ huh? Enough to widen their cage a bit, but not enough to truly let them free to their own devices."
+msgid "[@penelope@] \"Trust them\" huh? Enough to widen their cage a bit, but not enough to truly let them free to their own devices."
+msgstr "[@penelope@] \"Trust them\" huh? Enough to widen their cage a bit, but not enough to truly let them free to their own devices."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8577 ## translate crowdin Episode_8_stage_310_bedroom_morning_check_in_f50f1526:
 msgid "[@danny@] Did you really bring this up just to argue with me?"
@@ -6199,8 +6199,8 @@ msgid "[@penelope@] {i}Bahh!{/i} So much unwarranted worry with you? Are you goi
 msgstr "[@penelope@] {i}Bahh!{/i} So much unwarranted worry with you? Are you going to let me have the same rights as Desiree and Ember or not?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8629 ## translate crowdin Episode_8_stage_310_bedroom_morning_check_in_d9351e47:
-msgid "[@danny@] £*£*£*£Unwarranted...?£*£*£*£"
-msgstr "[@danny@] £*£*£*£Unwarranted...?£*£*£*£"
+msgid "[@danny@] \"Unwarranted...?\""
+msgstr "[@danny@] \"Unwarranted...?\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8633 ## translate crowdin Episode_8_stage_310_bedroom_morning_check_in_459ee095:
 msgid "[@penelope@] . . ."
@@ -6219,8 +6219,8 @@ msgid "[@danny@] But you're on a {u}tight{/u} leash, you do ANYTHING I don't lik
 msgstr "[@danny@] But you're on a {u}tight{/u} leash, you do ANYTHING I don't like and you have to face some of those unwarranted enemies, understood?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8649 ## translate crowdin Episode_8_stage_310_bedroom_morning_check_in_0409c565:
-msgid "[@penelope@] £*£*£*£Oh, why thank you, my oh-so wise and benevolent one!£*£*£*£"
-msgstr "[@penelope@] £*£*£*£Oh, why thank you, my oh-so wise and benevolent one!£*£*£*£"
+msgid "[@penelope@] \"Oh, why thank you, my oh-so wise and benevolent one!\""
+msgstr "[@penelope@] \"Oh, why thank you, my oh-so wise and benevolent one!\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8663 ## translate crowdin Episode_8_stage_310_bedroom_morning_check_in_ac44eb35:
 msgid "[@danny@] Remember, stay cloaked if someone else is around!{p}{nw}"
@@ -6563,8 +6563,8 @@ msgid "[@danny@] Oh, Jazz! I {i}uh{/i}, I was looking for you!"
 msgstr "[@danny@] Oh, Jazz! I {i}uh{/i}, I was looking for you!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9249 ## translate crowdin Episode_8_stage_335_livingroom_morning_search_fb8c7318:
-msgid "[@jazz@] What? Then, why'd you call me £*£*£*£Penelope?£*£*£*£"
-msgstr "[@jazz@] What? Then, why'd you call me £*£*£*£Penelope?£*£*£*£"
+msgid "[@jazz@] What? Then, why'd you call me \"Penelope?\""
+msgstr "[@jazz@] What? Then, why'd you call me \"Penelope?\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9253 ## translate crowdin Episode_8_stage_335_livingroom_morning_search_a4f0ba4e:
 msgid "[@danny@] I... didn't say that, did I...?"
@@ -6651,8 +6651,8 @@ msgid "[@extend danny danny f offscreen closed idle smile@] {i}*Sniff* *Sniff*{/
 msgstr "[@extend danny danny f offscreen closed idle smile@] {i}*Sniff* *Sniff*{/i} (Hey, smells pretty good...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9389 ## translate crowdin Episode_8_stage_343_mystery_shop_afternoon_gift_selected_831fc216:
-msgid "[@danny f offscreen towards idle smile@] (£*£*£*£Gourmet Amity Coffee Beans: Plucked locally!£*£*£*£){p}{nw}"
-msgstr "[@danny f offscreen towards idle smile@] (£*£*£*£Gourmet Amity Coffee Beans: Plucked locally!£*£*£*£){p}{nw}"
+msgid "[@danny f offscreen towards idle smile@] (\"Gourmet Amity Coffee Beans: Plucked locally!\"){p}{nw}"
+msgstr "[@danny f offscreen towards idle smile@] (\"Gourmet Amity Coffee Beans: Plucked locally!\"){p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9391 ## translate crowdin Episode_8_stage_343_mystery_shop_afternoon_gift_selected_3c6bd673:
 msgid "[@extend danny f offscreen at_player rise consternation@] (...Amity has coffee plants growing around here...?)"
@@ -6751,8 +6751,8 @@ msgid "[@danny@] I just wanted to give you something to help cheer you up!"
 msgstr "[@danny@] I just wanted to give you something to help cheer you up!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9550 ## translate crowdin Episode_8_stage_350_bedroom_night_gift_a3958f29:
-msgid "[@penelope@] I don't need £*£*£*£cheering up£*£*£*£, what I need is to be left alone. Completely!"
-msgstr "[@penelope@] I don't need £*£*£*£cheering up£*£*£*£, what I need is to be left alone. Completely!"
+msgid "[@penelope@] I don't need \"cheering up\", what I need is to be left alone. Completely!"
+msgstr "[@penelope@] I don't need \"cheering up\", what I need is to be left alone. Completely!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9554 ## translate crowdin Episode_8_stage_350_bedroom_night_gift_fc7b1b2f:
 msgid "[@danny@] You really want that? Do you actually think that'd make you happier?"
@@ -6859,8 +6859,8 @@ msgid "[@danny f offscreen towards rise_one displeased@] Alrighty..."
 msgstr "[@danny f offscreen towards rise_one displeased@] Alrighty..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9686 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_57113b26:
-msgid "[@extend@] let's search for... £*£*£*£Penelope£*£*£*£... {p}£*£*£*£Spectra£*£*£*£..."
-msgstr "[@extend@] let's search for... £*£*£*£Penelope£*£*£*£... {p}£*£*£*£Spectra£*£*£*£..."
+msgid "[@extend@] let's search for... \"Penelope\"... {p}\"Spectra\"..."
+msgstr "[@extend@] let's search for... \"Penelope\"... {p}\"Spectra\"..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9690 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_f4f05cc3:
 msgid "[@extend@] ...and see what we get."
@@ -6879,8 +6879,8 @@ msgid "[@danny f offscreen at_player sad displeased@] (Wait, she mentioned nursi
 msgstr "[@danny f offscreen at_player sad displeased@] (Wait, she mentioned nursing people back to health during a war right? So...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9702 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_15f23a49:
-msgid "[@danny f offscreen towards rise_one displeased@] (£*£*£*£World£*£*£*£... £*£*£*£War II£*£*£*£... £*£*£*£Nurse£*£*£*£...£*£*£*£Penelope£*£*£*£?)"
-msgstr "[@danny f offscreen towards rise_one displeased@] (£*£*£*£World£*£*£*£... £*£*£*£War II£*£*£*£... £*£*£*£Nurse£*£*£*£...£*£*£*£Penelope£*£*£*£?)"
+msgid "[@danny f offscreen towards rise_one displeased@] (\"World\"... \"War II\"... \"Nurse\"...\"Penelope\"?)"
+msgstr "[@danny f offscreen towards rise_one displeased@] (\"World\"... \"War II\"... \"Nurse\"...\"Penelope\"?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9706 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_e4c612d0:
 msgid "[@danny f offscreen towards neutral smile@] (Good, okay, there's a couple name results here...)"
@@ -6891,72 +6891,72 @@ msgid "[@danny f offscreen towards wondering grin@] (Wait! {i}That's her!{/i} I 
 msgstr "[@danny f offscreen towards wondering grin@] (Wait! {i}That's her!{/i} I think I actually found her!)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9712 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_57a01a7b:
-msgid "[@danny f offscreen towards wondering smile@] (Okay so her real name is... £*£*£*£Penelope Garcia-Davis£*£*£*£...){p}{nw}"
-msgstr "[@danny f offscreen towards wondering smile@] (Okay so her real name is... £*£*£*£Penelope Garcia-Davis£*£*£*£...){p}{nw}"
+msgid "[@danny f offscreen towards wondering smile@] (Okay so her real name is... \"Penelope Garcia-Davis\"...){p}{nw}"
+msgstr "[@danny f offscreen towards wondering smile@] (Okay so her real name is... \"Penelope Garcia-Davis\"...){p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9714 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_61e6ad22:
-msgid "[@extend danny f offscreen towards_wide rise displeased@] (Wait... {i}£*£*£*£child actress?£*£*£*£{/i})"
-msgstr "[@extend danny f offscreen towards_wide rise displeased@] (Wait... {i}£*£*£*£child actress?£*£*£*£{/i})"
+msgid "[@extend danny f offscreen towards_wide rise displeased@] (Wait... {i}\"child actress?\"{/i})"
+msgstr "[@extend danny f offscreen towards_wide rise displeased@] (Wait... {i}\"child actress?\"{/i})"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9716 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_07575682:
 msgid "[@danny f offscreen at_player rise_one displeased@] (No way, this can't be the same... seriously?)"
 msgstr "[@danny f offscreen at_player rise_one displeased@] (No way, this can't be the same... seriously?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9718 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_b92ecc64:
-msgid "[@danny f offscreen towards wondering displeased@] (£*£*£*£Penelope Garcia Davis, born 1923 in a farmland area near the outskirts of Amity Park, was a child actress during the silent film era.£*£*£*£"
-msgstr "[@danny f offscreen towards wondering displeased@] (£*£*£*£Penelope Garcia Davis, born 1923 in a farmland area near the outskirts of Amity Park, was a child actress during the silent film era.£*£*£*£"
+msgid "[@danny f offscreen towards wondering displeased@] (\"Penelope Garcia Davis, born 1923 in a farmland area near the outskirts of Amity Park, was a child actress during the silent film era.\""
+msgstr "[@danny f offscreen towards wondering displeased@] (\"Penelope Garcia Davis, born 1923 in a farmland area near the outskirts of Amity Park, was a child actress during the silent film era.\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9720 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_abb6ba75:
-msgid "[@danny f offscreen towards rise_one displeased@] (£*£*£*£Penelope began her debut on the silver screen alongside her one-year older sister, Angela Garcia-Davis...£*£*£*£)"
-msgstr "[@danny f offscreen towards rise_one displeased@] (£*£*£*£Penelope began her debut on the silver screen alongside her one-year older sister, Angela Garcia-Davis...£*£*£*£)"
+msgid "[@danny f offscreen towards rise_one displeased@] (\"Penelope began her debut on the silver screen alongside her one-year older sister, Angela Garcia-Davis...\")"
+msgstr "[@danny f offscreen towards rise_one displeased@] (\"Penelope began her debut on the silver screen alongside her one-year older sister, Angela Garcia-Davis...\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9722 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_b760ae6a:
-msgid "[@danny f offscreen towards rise_one displeased@] (£*£*£*£...as feature players in 1927's first horror kiddie movie, {i}Children of Spookums Place{/i}.£*£*£*£)"
-msgstr "[@danny f offscreen towards rise_one displeased@] (£*£*£*£...as feature players in 1927's first horror kiddie movie, {i}Children of Spookums Place{/i}.£*£*£*£)"
+msgid "[@danny f offscreen towards rise_one displeased@] (\"...as feature players in 1927's first horror kiddie movie, {i}Children of Spookums Place{/i}.\")"
+msgstr "[@danny f offscreen towards rise_one displeased@] (\"...as feature players in 1927's first horror kiddie movie, {i}Children of Spookums Place{/i}.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9724 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_5aa921c8:
 msgid "[@danny f offscreen towards rise_one displeased@] ({i}Yeeeesh{/i}, and people say my generations movies have cheesy bad names...)"
 msgstr "[@danny f offscreen towards rise_one displeased@] ({i}Yeeeesh{/i}, and people say my generations movies have cheesy bad names...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9726 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_0390233f:
-msgid "[@danny f offscreen towards rise_one displeased@] (£*£*£*£While critics received both sisters fairly warmly as pioneering {i}scream queen{/i} starlets...£*£*£*£)"
-msgstr "[@danny f offscreen towards rise_one displeased@] (£*£*£*£While critics received both sisters fairly warmly as pioneering {i}scream queen{/i} starlets...£*£*£*£)"
+msgid "[@danny f offscreen towards rise_one displeased@] (\"While critics received both sisters fairly warmly as pioneering {i}scream queen{/i} starlets...\")"
+msgstr "[@danny f offscreen towards rise_one displeased@] (\"While critics received both sisters fairly warmly as pioneering {i}scream queen{/i} starlets...\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9728 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_7cdad462:
-msgid "[@danny f offscreen towards rise_one displeased@] (£*£*£*£The seemingly overnight boom of 'talkies' ended up splitting the duo's popularity in favor, as Angela continued to receive prominent roles for her singing abilities...£*£*£*£)"
-msgstr "[@danny f offscreen towards rise_one displeased@] (£*£*£*£The seemingly overnight boom of 'talkies' ended up splitting the duo's popularity in favor, as Angela continued to receive prominent roles for her singing abilities...£*£*£*£)"
+msgid "[@danny f offscreen towards rise_one displeased@] (\"The seemingly overnight boom of 'talkies' ended up splitting the duo's popularity in favor, as Angela continued to receive prominent roles for her singing abilities...\")"
+msgstr "[@danny f offscreen towards rise_one displeased@] (\"The seemingly overnight boom of 'talkies' ended up splitting the duo's popularity in favor, as Angela continued to receive prominent roles for her singing abilities...\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9730 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_702c2e79:
-msgid "[@danny f offscreen towards wondering displeased@] (£*£*£*£...Penelope's more biting vocal range seemingly turned off most audiences, stunting her chances for earning picture deals.£*£*£*£)"
-msgstr "[@danny f offscreen towards wondering displeased@] (£*£*£*£...Penelope's more biting vocal range seemingly turned off most audiences, stunting her chances for earning picture deals.£*£*£*£)"
+msgid "[@danny f offscreen towards wondering displeased@] (\"...Penelope's more biting vocal range seemingly turned off most audiences, stunting her chances for earning picture deals.\")"
+msgstr "[@danny f offscreen towards wondering displeased@] (\"...Penelope's more biting vocal range seemingly turned off most audiences, stunting her chances for earning picture deals.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9732 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_eda0e8f3:
 msgid "[@danny f offscreen at_player sad displeased@] (So people didn't like her voice, and she couldn't get any work? Seems like a crappy deal... poor kid.)"
 msgstr "[@danny f offscreen at_player sad displeased@] (So people didn't like her voice, and she couldn't get any work? Seems like a crappy deal... poor kid.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9734 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_0ad3f813:
-msgid "[@danny f offscreen towards rise_one displeased@] (£*£*£*£Following an unsuccessful solo career, Penelope went on to study medicine and take up nursing in the Pacific Coast in 1943.£*£*£*£)"
-msgstr "[@danny f offscreen towards rise_one displeased@] (£*£*£*£Following an unsuccessful solo career, Penelope went on to study medicine and take up nursing in the Pacific Coast in 1943.£*£*£*£)"
+msgid "[@danny f offscreen towards rise_one displeased@] (\"Following an unsuccessful solo career, Penelope went on to study medicine and take up nursing in the Pacific Coast in 1943.\")"
+msgstr "[@danny f offscreen towards rise_one displeased@] (\"Following an unsuccessful solo career, Penelope went on to study medicine and take up nursing in the Pacific Coast in 1943.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9736 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_7cb667d7:
-msgid "[@danny f offscreen towards wondering displeased@] (£*£*£*£In 1948, Penelope continued to help her rehabilitation efforts as a Chief Nursing Officer at {i}North Mercy Hospital{/i}, in her neighboring hometown of Amity Park.£*£*£*£)"
-msgstr "[@danny f offscreen towards wondering displeased@] (£*£*£*£In 1948, Penelope continued to help her rehabilitation efforts as a Chief Nursing Officer at {i}North Mercy Hospital{/i}, in her neighboring hometown of Amity Park.£*£*£*£)"
+msgid "[@danny f offscreen towards wondering displeased@] (\"In 1948, Penelope continued to help her rehabilitation efforts as a Chief Nursing Officer at {i}North Mercy Hospital{/i}, in her neighboring hometown of Amity Park.\")"
+msgstr "[@danny f offscreen towards wondering displeased@] (\"In 1948, Penelope continued to help her rehabilitation efforts as a Chief Nursing Officer at {i}North Mercy Hospital{/i}, in her neighboring hometown of Amity Park.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9738 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_e2f0150b:
-msgid "[@danny f offscreen towards wondering displeased@] (£*£*£*£Work specialized in memory care, mental defects and cognitive trauma became her main field of work during the time of her station as CNO.£*£*£*£)"
-msgstr "[@danny f offscreen towards wondering displeased@] (£*£*£*£Work specialized in memory care, mental defects and cognitive trauma became her main field of work during the time of her station as CNO.£*£*£*£)"
+msgid "[@danny f offscreen towards wondering displeased@] (\"Work specialized in memory care, mental defects and cognitive trauma became her main field of work during the time of her station as CNO.\")"
+msgstr "[@danny f offscreen towards wondering displeased@] (\"Work specialized in memory care, mental defects and cognitive trauma became her main field of work during the time of her station as CNO.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9740 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_b7b5925a:
-msgid "[@danny f offscreen towards wondering displeased@] (£*£*£*£Sadly, Penelope Garcia Davis vanished in 1963, shortly following several publications of her controversial procedures regarding mental rehabilitation.£*£*£*£)"
-msgstr "[@danny f offscreen towards wondering displeased@] (£*£*£*£Sadly, Penelope Garcia Davis vanished in 1963, shortly following several publications of her controversial procedures regarding mental rehabilitation.£*£*£*£)"
+msgid "[@danny f offscreen towards wondering displeased@] (\"Sadly, Penelope Garcia Davis vanished in 1963, shortly following several publications of her controversial procedures regarding mental rehabilitation.\")"
+msgstr "[@danny f offscreen towards wondering displeased@] (\"Sadly, Penelope Garcia Davis vanished in 1963, shortly following several publications of her controversial procedures regarding mental rehabilitation.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9742 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_b1c55bb2:
-msgid "[@danny f offscreen towards neutral displeased@] (£*£*£*£Her family held a ceremony for her, with Angela Garcia-Davis speaking on behalf of her baby sister.£*£*£*£)"
-msgstr "[@danny f offscreen towards neutral displeased@] (£*£*£*£Her family held a ceremony for her, with Angela Garcia-Davis speaking on behalf of her baby sister.£*£*£*£)"
+msgid "[@danny f offscreen towards neutral displeased@] (\"Her family held a ceremony for her, with Angela Garcia-Davis speaking on behalf of her baby sister.\")"
+msgstr "[@danny f offscreen towards neutral displeased@] (\"Her family held a ceremony for her, with Angela Garcia-Davis speaking on behalf of her baby sister.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9744 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_6ed25250:
-msgid "[@danny f offscreen towards wondering displeased@] £*£*£*£...she was 40 at the time of her disappearance... presumed dead.£*£*£*£)"
-msgstr "[@danny f offscreen towards wondering displeased@] £*£*£*£...she was 40 at the time of her disappearance... presumed dead.£*£*£*£)"
+msgid "[@danny f offscreen towards wondering displeased@] \"...she was 40 at the time of her disappearance... presumed dead.\")"
+msgstr "[@danny f offscreen towards wondering displeased@] \"...she was 40 at the time of her disappearance... presumed dead.\")"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9746 ## translate crowdin Episode_8_stage_360_bedroom_morning_search_3e61567e:
 msgid "[@danny f offscreen towards_wide rise_one displeased@] ({u}Vanished?{/u} Who the heck vanishes, unless... I mean... could she have been {i}murdered?{/i})"
@@ -7123,8 +7123,8 @@ msgid "[@penelope@] ...my sister was a spiteful thing."
 msgstr "[@penelope@] ...my sister was a spiteful thing."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9998 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_f5e29596:
-msgid "[@penelope@] The £*£*£*£Davis Twins£*£*£*£ we were called, {i}ha!{/i} We were a whole year apart, but it had a good ring to it, I guess..."
-msgstr "[@penelope@] The £*£*£*£Davis Twins£*£*£*£ we were called, {i}ha!{/i} We were a whole year apart, but it had a good ring to it, I guess..."
+msgid "[@penelope@] The \"Davis Twins\" we were called, {i}ha!{/i} We were a whole year apart, but it had a good ring to it, I guess..."
+msgstr "[@penelope@] The \"Davis Twins\" we were called, {i}ha!{/i} We were a whole year apart, but it had a good ring to it, I guess..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10002 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_8ab914c6:
 msgid "[@penelope@] They loved when we would both slap our little cheeks together and scream out... of course you couldn't hear us, but our faces sold the idea..."
@@ -7143,8 +7143,8 @@ msgid "[@penelope@] Daddy didn't exactly care about anything that was going on, 
 msgstr "[@penelope@] Daddy didn't exactly care about anything that was going on, he never really had time for either of us."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10018 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_719bcd91:
-msgid "[@penelope@] As long as his little £*£*£*£Movie Stars£*£*£*£ kept raking in the cash for him... he was fine to keep me from trying to live a normal life."
-msgstr "[@penelope@] As long as his little £*£*£*£Movie Stars£*£*£*£ kept raking in the cash for him... he was fine to keep me from trying to live a normal life."
+msgid "[@penelope@] As long as his little \"Movie Stars\" kept raking in the cash for him... he was fine to keep me from trying to live a normal life."
+msgstr "[@penelope@] As long as his little \"Movie Stars\" kept raking in the cash for him... he was fine to keep me from trying to live a normal life."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10022 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_23d6d36c:
 msgid "[@penelope@] Until of course, I stopped putting bodies in seats week to week... that's when I had to start figuring out things for myself."
@@ -7255,8 +7255,8 @@ msgid "[@danny@] ...?"
 msgstr "[@danny@] ...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10138 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_cab5af6c:
-msgid "[@penelope@] I'd have done anything for money and fame back then... anything to finally have a chance to say to my sister, £*£*£*£Look at me now! {i}I'm{/i} finally the big shot!£*£*£*£"
-msgstr "[@penelope@] I'd have done anything for money and fame back then... anything to finally have a chance to say to my sister, £*£*£*£Look at me now! {i}I'm{/i} finally the big shot!£*£*£*£"
+msgid "[@penelope@] I'd have done anything for money and fame back then... anything to finally have a chance to say to my sister, \"Look at me now! {i}I'm{/i} finally the big shot!\""
+msgstr "[@penelope@] I'd have done anything for money and fame back then... anything to finally have a chance to say to my sister, \"Look at me now! {i}I'm{/i} finally the big shot!\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10142 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_3bf59f07:
 msgid "[@penelope@] {i}Ha!{/i} What a joke..."
@@ -7271,8 +7271,8 @@ msgid "[@penelope@] Well, I started out as a simple nurse, moving my way up the 
 msgstr "[@penelope@] Well, I started out as a simple nurse, moving my way up the staffing ladder, throwing anyone who got in my way under the bus."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10154 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_468dede4:
-msgid "[@penelope@] Eventually I became Chief Nurse Officer... and pretty quickly the press took a liking to the £*£*£*£ex-actress turned head nurse£*£*£*£ deal I had going on."
-msgstr "[@penelope@] Eventually I became Chief Nurse Officer... and pretty quickly the press took a liking to the £*£*£*£ex-actress turned head nurse£*£*£*£ deal I had going on."
+msgid "[@penelope@] Eventually I became Chief Nurse Officer... and pretty quickly the press took a liking to the \"ex-actress turned head nurse\" deal I had going on."
+msgstr "[@penelope@] Eventually I became Chief Nurse Officer... and pretty quickly the press took a liking to the \"ex-actress turned head nurse\" deal I had going on."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10158 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_8392ba8e:
 msgid "[@penelope@] I ate it up. Soaked up every minute of exposure I could possibly get for myself.{p}{nw}"
@@ -7359,8 +7359,8 @@ msgid "[@danny@] {i}*Sigh*{/i}..."
 msgstr "[@danny@] {i}*Sigh*{/i}..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10242 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_dc57c888:
-msgid "[@penelope@] ...one of the most controversial medical practices of the mid twentieth century was called the £*£*£*£ice pick lobotomy,£*£*£*£ have you heard of it?"
-msgstr "[@penelope@] ...one of the most controversial medical practices of the mid twentieth century was called the £*£*£*£ice pick lobotomy,£*£*£*£ have you heard of it?"
+msgid "[@penelope@] ...one of the most controversial medical practices of the mid twentieth century was called the \"ice pick lobotomy,\" have you heard of it?"
+msgstr "[@penelope@] ...one of the most controversial medical practices of the mid twentieth century was called the \"ice pick lobotomy,\" have you heard of it?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10246 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_08184b9a:
 msgid "[@danny@] {i}Umm{/i}, not really?"
@@ -7483,8 +7483,8 @@ msgid "[@penelope@] Look, let's just... not."
 msgstr "[@penelope@] Look, let's just... not."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10366 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_aa41f966:
-msgid "[@penelope@] I don't want to hear anything about how I couldn't have known better, or that deep down, I'm really a £*£*£*£good£*£*£*£ person."
-msgstr "[@penelope@] I don't want to hear anything about how I couldn't have known better, or that deep down, I'm really a £*£*£*£good£*£*£*£ person."
+msgid "[@penelope@] I don't want to hear anything about how I couldn't have known better, or that deep down, I'm really a \"good\" person."
+msgstr "[@penelope@] I don't want to hear anything about how I couldn't have known better, or that deep down, I'm really a \"good\" person."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10370 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d57e43bd_3:
 msgid "[@danny@] . . ."
@@ -7495,8 +7495,8 @@ msgid "[@penelope@] Listen to me Danny."
 msgstr "[@penelope@] Listen to me Danny."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10378 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_b4199da2:
-msgid "[@penelope@] You CANNOT possibly £*£*£*£save£*£*£*£ everyone.{p}{nw}"
-msgstr "[@penelope@] You CANNOT possibly £*£*£*£save£*£*£*£ everyone.{p}{nw}"
+msgid "[@penelope@] You CANNOT possibly \"save\" everyone.{p}{nw}"
+msgstr "[@penelope@] You CANNOT possibly \"save\" everyone.{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10382 ## translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_b6e5cf6b:
 msgid "[@extend@] Not everyone has a redeeming arc. Some people?"
@@ -7759,8 +7759,8 @@ msgid "[@extend@] Local news clippings though? Now {i}that's{/i} something you c
 msgstr "[@extend@] Local news clippings though? Now {i}that's{/i} something you can always rely on!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10774 ## translate crowdin Episode_8_stage_380_bedroom_morning_doing_research_52426ca6:
-msgid "[@danny f offscreen towards wondering displeased@] (Okay, let's see here... £*£*£*£Angela... Garcia...Davis£*£*£*£.)"
-msgstr "[@danny f offscreen towards wondering displeased@] (Okay, let's see here... £*£*£*£Angela... Garcia...Davis£*£*£*£.)"
+msgid "[@danny f offscreen towards wondering displeased@] (Okay, let's see here... \"Angela... Garcia...Davis\".)"
+msgstr "[@danny f offscreen towards wondering displeased@] (Okay, let's see here... \"Angela... Garcia...Davis\".)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10778 ## translate crowdin Episode_8_stage_380_bedroom_morning_doing_research_05bf1b50:
 msgid "[@danny f offscreen at_player wondering smile@] (...perfect plenty of stuff here!){p}{nw}"
@@ -7855,8 +7855,8 @@ msgid "[@penelope@] . . ."
 msgstr "[@penelope@] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11210 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_0da31f93:
-msgid "[@penelope@] £*£*£*£...Granddaughter?£*£*£*£{p}{nw}"
-msgstr "[@penelope@] £*£*£*£...Granddaughter?£*£*£*£{p}{nw}"
+msgid "[@penelope@] \"...Granddaughter?\"{p}{nw}"
+msgstr "[@penelope@] \"...Granddaughter?\"{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11214 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_e6dca760:
 msgid "[@extend@] {i}Huh{/i}... that's... odd to think about..."
@@ -7867,32 +7867,32 @@ msgid "[@penelope@] Wait, w-why did you-"
 msgstr "[@penelope@] Wait, w-why did you-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11227 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_e1420d92:
-msgid "[@danny@] £*£*£*£My dearest Pen-Pen...£*£*£*£"
-msgstr "[@danny@] £*£*£*£My dearest Pen-Pen...£*£*£*£"
+msgid "[@danny@] \"My dearest Pen-Pen...\""
+msgstr "[@danny@] \"My dearest Pen-Pen...\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11231 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_287bdaef:
 msgid "[@penelope@] {i}...!{/i}"
 msgstr "[@penelope@] {i}...!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11234 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_1a56947d:
-msgid "[@danny@] £*£*£*£I've been meaning to write to you for a good while now.£*£*£*£"
-msgstr "[@danny@] £*£*£*£I've been meaning to write to you for a good while now.£*£*£*£"
+msgid "[@danny@] \"I've been meaning to write to you for a good while now.\""
+msgstr "[@danny@] \"I've been meaning to write to you for a good while now.\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11237 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_9773bf4d:
-msgid "[@danny@] £*£*£*£While I know it's true we did not end things on good terms, I want you to know I miss you terribly.£*£*£*£"
-msgstr "[@danny@] £*£*£*£While I know it's true we did not end things on good terms, I want you to know I miss you terribly.£*£*£*£"
+msgid "[@danny@] \"While I know it's true we did not end things on good terms, I want you to know I miss you terribly.\""
+msgstr "[@danny@] \"While I know it's true we did not end things on good terms, I want you to know I miss you terribly.\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11241 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_991518a2:
 msgid "[@penelope@] I-I... what is-"
 msgstr "[@penelope@] I-I... what is-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11245 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_ae242d0e:
-msgid "[@danny@] £*£*£*£I want you to know that I tried writing to you while you were over seas, but perhaps the letters were lost along the way...£*£*£*£"
-msgstr "[@danny@] £*£*£*£I want you to know that I tried writing to you while you were over seas, but perhaps the letters were lost along the way...£*£*£*£"
+msgid "[@danny@] \"I want you to know that I tried writing to you while you were over seas, but perhaps the letters were lost along the way...\""
+msgstr "[@danny@] \"I want you to know that I tried writing to you while you were over seas, but perhaps the letters were lost along the way...\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11249 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_e6a42801:
-msgid "[@danny@] £*£*£*£...though perhaps, as I have often thought, you simply chose not to reply. I would understand if that was the case.£*£*£*£"
-msgstr "[@danny@] £*£*£*£...though perhaps, as I have often thought, you simply chose not to reply. I would understand if that was the case.£*£*£*£"
+msgid "[@danny@] \"...though perhaps, as I have often thought, you simply chose not to reply. I would understand if that was the case.\""
+msgstr "[@danny@] \"...though perhaps, as I have often thought, you simply chose not to reply. I would understand if that was the case.\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11253 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_0b0cbd14:
 msgid "[@penelope@] She... I never thought she would have... the letters..."
@@ -7907,44 +7907,44 @@ msgid "[@danny@] . . ."
 msgstr "[@danny@] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11267 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_1b10f6a6:
-msgid "[@danny@] £*£*£*£...I've seen you on the news and heard your radio appearances. I am so glad the world is treating you properly in the field of medicinal aid!£*£*£*£"
-msgstr "[@danny@] £*£*£*£...I've seen you on the news and heard your radio appearances. I am so glad the world is treating you properly in the field of medicinal aid!£*£*£*£"
+msgid "[@danny@] \"...I've seen you on the news and heard your radio appearances. I am so glad the world is treating you properly in the field of medicinal aid!\""
+msgstr "[@danny@] \"...I've seen you on the news and heard your radio appearances. I am so glad the world is treating you properly in the field of medicinal aid!\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11271 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_5cf0a749:
-msgid "[@danny@] £*£*£*£I tried looking for you at father's funeral, but I know you chose not to appear.£*£*£*£"
-msgstr "[@danny@] £*£*£*£I tried looking for you at father's funeral, but I know you chose not to appear.£*£*£*£"
+msgid "[@danny@] \"I tried looking for you at father's funeral, but I know you chose not to appear.\""
+msgstr "[@danny@] \"I tried looking for you at father's funeral, but I know you chose not to appear.\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11275 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_acb7c384:
-msgid "[@danny@] £*£*£*£In all frankness, I cannot blame you for that. Father was wrong to pit us against each other as rivals.£*£*£*£"
-msgstr "[@danny@] £*£*£*£In all frankness, I cannot blame you for that. Father was wrong to pit us against each other as rivals.£*£*£*£"
+msgid "[@danny@] \"In all frankness, I cannot blame you for that. Father was wrong to pit us against each other as rivals.\""
+msgstr "[@danny@] \"In all frankness, I cannot blame you for that. Father was wrong to pit us against each other as rivals.\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11278 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_2706f5de:
-msgid "[@danny@] £*£*£*£And I was worse for falling for his tricks to blame each other, same as you.£*£*£*£"
-msgstr "[@danny@] £*£*£*£And I was worse for falling for his tricks to blame each other, same as you.£*£*£*£"
+msgid "[@danny@] \"And I was worse for falling for his tricks to blame each other, same as you.\""
+msgstr "[@danny@] \"And I was worse for falling for his tricks to blame each other, same as you.\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11282 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_020fecae:
-msgid "[@danny@] £*£*£*£He took our childhoods away from us, but you will ALWAYS be my sister. You are blood one does not wish to do without.£*£*£*£"
-msgstr "[@danny@] £*£*£*£He took our childhoods away from us, but you will ALWAYS be my sister. You are blood one does not wish to do without.£*£*£*£"
+msgid "[@danny@] \"He took our childhoods away from us, but you will ALWAYS be my sister. You are blood one does not wish to do without.\""
+msgstr "[@danny@] \"He took our childhoods away from us, but you will ALWAYS be my sister. You are blood one does not wish to do without.\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11286 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_e617ac09:
-msgid "[@danny@] £*£*£*£I am truly sorry it has taken this long to try once more to reach out like this.£*£*£*£"
-msgstr "[@danny@] £*£*£*£I am truly sorry it has taken this long to try once more to reach out like this.£*£*£*£"
+msgid "[@danny@] \"I am truly sorry it has taken this long to try once more to reach out like this.\""
+msgstr "[@danny@] \"I am truly sorry it has taken this long to try once more to reach out like this.\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11289 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_aae096ed:
-msgid "[@danny@] £*£*£*£Attached is my current number. I am only a phone call away, and I deeply wish that we may speak to one another again very soon.£*£*£*£"
-msgstr "[@danny@] £*£*£*£Attached is my current number. I am only a phone call away, and I deeply wish that we may speak to one another again very soon.£*£*£*£"
+msgid "[@danny@] \"Attached is my current number. I am only a phone call away, and I deeply wish that we may speak to one another again very soon.\""
+msgstr "[@danny@] \"Attached is my current number. I am only a phone call away, and I deeply wish that we may speak to one another again very soon.\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11293 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_55737776:
-msgid "[@danny@] £*£*£*£I don't think I could live the rest of my life without setting this straight between us. Truly.£*£*£*£"
-msgstr "[@danny@] £*£*£*£I don't think I could live the rest of my life without setting this straight between us. Truly.£*£*£*£"
+msgid "[@danny@] \"I don't think I could live the rest of my life without setting this straight between us. Truly.\""
+msgstr "[@danny@] \"I don't think I could live the rest of my life without setting this straight between us. Truly.\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11296 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_4cfdee0a:
-msgid "[@danny@] £*£*£*£Please get in touch...£*£*£*£{p}{nw}"
-msgstr "[@danny@] £*£*£*£Please get in touch...£*£*£*£{p}{nw}"
+msgid "[@danny@] \"Please get in touch...\"{p}{nw}"
+msgstr "[@danny@] \"Please get in touch...\"{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11299 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_54dbc366:
-msgid "[@extend@] £*£*£*£-Angie. xoxo£*£*£*£"
-msgstr "[@extend@] £*£*£*£-Angie. xoxo£*£*£*£"
+msgid "[@extend@] \"-Angie. xoxo\""
+msgstr "[@extend@] \"-Angie. xoxo\""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11303 ## translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_87983a2a:
 msgid "[@penelope@] ...she... she really loved me."
@@ -8575,16 +8575,16 @@ msgid "[@penelope@] {i}Ah!{/i} Now that's it! What good little fucktoy!"
 msgstr "[@penelope@] {i}Ah!{/i} Now that's it! What good little fucktoy!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12039 ## translate crowdin Episode_8_stage_420_penelope_domination_73f09099:
-msgid "[@danny@] Penel- I mean, £*£*£*£Mistress£*£*£*£, could you please-"
-msgstr "[@danny@] Penel- I mean, £*£*£*£Mistress£*£*£*£, could you please-"
+msgid "[@danny@] Penel- I mean, \"Mistress\", could you please-"
+msgstr "[@danny@] Penel- I mean, \"Mistress\", could you please-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12043 ## translate crowdin Episode_8_stage_420_penelope_domination_44c94256:
 msgid "[@penelope@] Quiet worm! Don't... don't speak 'til... I tell you-{i}aahh!{/i} ...to!~"
 msgstr "[@penelope@] Quiet worm! Don't... don't speak 'til... I tell you-{i}aahh!{/i} ...to!~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12050 ## translate crowdin Episode_8_stage_420_penelope_domination_0793cc70:
-msgid "[@penelope@] Just stay put and keep your big... {p}F-fat...! c-cock! {i}hard{/i} for your £*£*£*£Mistress£*£*£*£."
-msgstr "[@penelope@] Just stay put and keep your big... {p}F-fat...! c-cock! {i}hard{/i} for your £*£*£*£Mistress£*£*£*£."
+msgid "[@penelope@] Just stay put and keep your big... {p}F-fat...! c-cock! {i}hard{/i} for your \"Mistress\"."
+msgstr "[@penelope@] Just stay put and keep your big... {p}F-fat...! c-cock! {i}hard{/i} for your \"Mistress\"."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12058 ## translate crowdin Episode_8_stage_420_penelope_domination_755cb36e:
 msgid "[@penelope@] {i}Mmm!{/i} F-fuck...~"
@@ -8631,8 +8631,8 @@ msgid "[@penelope@] {i}Ahhh!~ Yes~{/i}{p}{nw}"
 msgstr "[@penelope@] {i}Ahhh!~ Yes~{/i}{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12110 ## translate crowdin Episode_8_stage_420_penelope_domination_688ea4b1:
-msgid "[@extend@] I'm going to cum! Don't you dare cum before your £*£*£*£Mistress£*£*£*£ does!!"
-msgstr "[@extend@] I'm going to cum! Don't you dare cum before your £*£*£*£Mistress£*£*£*£ does!!"
+msgid "[@extend@] I'm going to cum! Don't you dare cum before your \"Mistress\" does!!"
+msgstr "[@extend@] I'm going to cum! Don't you dare cum before your \"Mistress\" does!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12117 ## translate crowdin Episode_8_stage_420_penelope_domination_562b4315:
 msgid "[@danny@] (..Can't. Hold. On. Any... longer!!)"
@@ -8651,8 +8651,8 @@ msgid "[@penelope@] {i}Mmmmmph!!{/i} Goodness..."
 msgstr "[@penelope@] {i}Mmmmmph!!{/i} Goodness..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12133 ## translate crowdin Episode_8_stage_420_penelope_domination_cb08cfe3:
-msgid "[@penelope@] I suppose this will have to be another of our £*£*£*£off-the-book£*£*£*£ therapy sessions, huh, Danny?"
-msgstr "[@penelope@] I suppose this will have to be another of our £*£*£*£off-the-book£*£*£*£ therapy sessions, huh, Danny?"
+msgid "[@penelope@] I suppose this will have to be another of our \"off-the-book\" therapy sessions, huh, Danny?"
+msgstr "[@penelope@] I suppose this will have to be another of our \"off-the-book\" therapy sessions, huh, Danny?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12141 ## translate crowdin Episode_8_stage_420_penelope_domination_756a0bfa:
 msgid "[@penelope@] Anyway, I had my fun, until next time."
@@ -8723,8 +8723,8 @@ msgid "[@ember@] What's the matter Desiree? Never been hogtied before?"
 msgstr "[@ember@] What's the matter Desiree? Never been hogtied before?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12232 ## translate crowdin Episode_8_stage_425_caught_in_the_act_888eb598:
-msgid "[@desiree@] As odd as it may sound, the time I come from did not feel the need to make sexual encounters as £*£*£*£theatric£*£*£*£ as this..."
-msgstr "[@desiree@] As odd as it may sound, the time I come from did not feel the need to make sexual encounters as £*£*£*£theatric£*£*£*£ as this..."
+msgid "[@desiree@] As odd as it may sound, the time I come from did not feel the need to make sexual encounters as \"theatric\" as this..."
+msgstr "[@desiree@] As odd as it may sound, the time I come from did not feel the need to make sexual encounters as \"theatric\" as this..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12243 ## translate crowdin Episode_8_stage_425_caught_in_the_act_b303374e:
 msgid "[@desiree@] ...but it is an interesting notion...~"
@@ -9811,8 +9811,8 @@ msgid "[@ember@] Yeah, look, we- {i}*Yawn*{/i} ...we wanted to talk to you about
 msgstr "[@ember@] Yeah, look, we- {i}*Yawn*{/i} ...we wanted to talk to you about that, so listen..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13473 ## translate crowdin Episode_8_stage_480_after_threesome_6ecdd0d1:
-msgid "[@desiree@] Yes... since our dear Penelope has joined the... group... it has certainly become a tad crowded in the £*£*£*£Fenton Thermos£*£*£*£ Master."
-msgstr "[@desiree@] Yes... since our dear Penelope has joined the... group... it has certainly become a tad crowded in the £*£*£*£Fenton Thermos£*£*£*£ Master."
+msgid "[@desiree@] Yes... since our dear Penelope has joined the... group... it has certainly become a tad crowded in the \"Fenton Thermos\" Master."
+msgstr "[@desiree@] Yes... since our dear Penelope has joined the... group... it has certainly become a tad crowded in the \"Fenton Thermos\" Master."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13479 ## translate crowdin Episode_8_stage_480_after_threesome_d42a80a9:
 msgid "[@danny@] What? But I thought that... didn't we originally make a wish so that you could have more room inside?"
@@ -9843,12 +9843,12 @@ msgid "[@danny@] Is it really that bad?"
 msgstr "[@danny@] Is it really that bad?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13520 ## translate crowdin Episode_8_stage_480_after_threesome_86149d0c:
-msgid "[@penelope@] Frankly? Desiree I believe used the phrase £*£*£*£a tad crowded£*£*£*£ to describe how things are..."
-msgstr "[@penelope@] Frankly? Desiree I believe used the phrase £*£*£*£a tad crowded£*£*£*£ to describe how things are..."
+msgid "[@penelope@] Frankly? Desiree I believe used the phrase \"a tad crowded\" to describe how things are..."
+msgstr "[@penelope@] Frankly? Desiree I believe used the phrase \"a tad crowded\" to describe how things are..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13526 ## translate crowdin Episode_8_stage_480_after_threesome_b1102a35:
-msgid "[@penelope@] ...but £*£*£*£unbearably compact and cramped£*£*£*£ could be another."
-msgstr "[@penelope@] ...but £*£*£*£unbearably compact and cramped£*£*£*£ could be another."
+msgid "[@penelope@] ...but \"unbearably compact and cramped\" could be another."
+msgstr "[@penelope@] ...but \"unbearably compact and cramped\" could be another."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13532 ## translate crowdin Episode_8_stage_480_after_threesome_36ef7edf:
 msgid "[@danny@] Seriously?"
@@ -9967,8 +9967,8 @@ msgid "[@danny@] . . ."
 msgstr "[@danny@] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13695 ## translate crowdin Episode_8_stage_480_after_threesome_1748948c:
-msgid "[@danny@] £*£*£*£Ta-ta for now£*£*£*£? Really? What a weird way to end things..."
-msgstr "[@danny@] £*£*£*£Ta-ta for now£*£*£*£? Really? What a weird way to end things..."
+msgid "[@danny@] \"Ta-ta for now\"? Really? What a weird way to end things..."
+msgstr "[@danny@] \"Ta-ta for now\"? Really? What a weird way to end things..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13725 ## translate crowdin episode_8_afterward_cd9cb06a:
 msgid@] Thanks for playing the most recent version of Amity Park."
@@ -9983,6 +9983,6 @@ msgid@] Until next time. -GZone@]
 msgstr@] Until next time. -GZone@] 
 
 # XXtranslate crowdin strings:XX# XX## game/code/episodes/episode_8/episode8_MZ.rpy:9406
-msgid @+@+@[mschoice] Buy the coffee beans for ($200) ?"
-msgstr @+@+@[mschoice] Buy the coffee beans for ($200) ?"
+msgid "[mschoice] Buy the coffee beans for ($200) ?"
+msgstr "[mschoice] Buy the coffee beans for ($200) ?"
 

@@ -15,10 +15,10 @@ msgid "[@danny f offscreen at_player wondering distraught@] I better leave Ember
 msgstr "[@danny f offscreen at_player wondering distraught@] I better leave Ember alone for now."
 
 # XXtranslate crowdin strings:XX# XX## game/code/base/controls.rpy:182
-msgid @+@+@[mschoice] Desiree"
-msgstr @+@+@[mschoice] Desiree"
+msgid "[mschoice] Desiree"
+msgstr "[mschoice] Desiree"
 
 # XX## game/code/base/controls.rpy:182
-msgid @+@+@[mschoice] Ember"
-msgstr @+@+@[mschoice] Ember"
+msgid "[mschoice] Ember"
+msgstr "[mschoice] Ember"
 

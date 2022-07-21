@@ -35,8 +35,8 @@ msgid "[@jack towards sad talk_displeased@] The thick, twisted fingers of fate h
 msgstr "[@jack towards sad talk_displeased@] The thick, twisted fingers of fate happened, Danny, that's what! One minute you're about to bust open a brand new scientific discovery with your bestest pal, and the next thing you know he's in the hospital for years recuperating."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:53 ## translate crowdin jack_convo_vlad_fc837fe9:
-msgid "[@jack closed wondering talk_happy@] Then the next minute after that, his £*£*£*£special girl£*£*£*£ comes running to you for comfort in her time of need..."
-msgstr "[@jack closed wondering talk_happy@] Then the next minute after that, his £*£*£*£special girl£*£*£*£ comes running to you for comfort in her time of need..."
+msgid "[@jack closed wondering talk_happy@] Then the next minute after that, his \"special girl\" comes running to you for comfort in her time of need..."
+msgstr "[@jack closed wondering talk_happy@] Then the next minute after that, his \"special girl\" comes running to you for comfort in her time of need..."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:55 ## translate crowdin jack_convo_vlad_b8ca78ae:
 msgid "[@danny towards rise talk_consternation@] {i}Uhm{/i}, wait, what was that about Mom?"
@@ -71,8 +71,8 @@ msgid "[@danny towards rise talk_consternation@] Like, do they have any special 
 msgstr "[@danny towards rise talk_consternation@] Like, do they have any special powers or anything?"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:76 ## translate crowdin jack_convo_powers_b42be11e:
-msgid "[@jack towards_wide sad talk_happy@] Oh, plenty! Now it depends on the particular ghost of course, but most ghosts can usually fly, turn invisible, and phase their molecules through solid objects. The more £*£*£*£traditional£*£*£*£ idea of a phantom or spectre can do it all, with relative ease."
-msgstr "[@jack towards_wide sad talk_happy@] Oh, plenty! Now it depends on the particular ghost of course, but most ghosts can usually fly, turn invisible, and phase their molecules through solid objects. The more £*£*£*£traditional£*£*£*£ idea of a phantom or spectre can do it all, with relative ease."
+msgid "[@jack towards_wide sad talk_happy@] Oh, plenty! Now it depends on the particular ghost of course, but most ghosts can usually fly, turn invisible, and phase their molecules through solid objects. The more \"traditional\" idea of a phantom or spectre can do it all, with relative ease."
+msgstr "[@jack towards_wide sad talk_happy@] Oh, plenty! Now it depends on the particular ghost of course, but most ghosts can usually fly, turn invisible, and phase their molecules through solid objects. The more \"traditional\" idea of a phantom or spectre can do it all, with relative ease."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:77 ## translate crowdin jack_convo_powers_92a7997d:
 msgid "[@jack towards_wide sad talk_displeased@] But you have to remember that ghosts as we know them aren't {i}exactly{/i} the common depiction of a person's spirit after death. You have to think of them more as their own species, perhaps from a different dimension entirely. Say, why do you ask?"
@@ -107,22 +107,22 @@ msgid "[@danny at_player_wide unhappy talk_consternation@] Oh, wow, look at the 
 msgstr "[@danny at_player_wide unhappy talk_consternation@] Oh, wow, look at the time! Gotta go!"
 
 # XXtranslate crowdin strings:XX# XX## game/code/misc/Jack_Dialogue_1_MZ.rpy:34
-msgid @+@+@[mschoice] So, how do you know Vlad Masters?"
-msgstr @+@+@[mschoice] So, how do you know Vlad Masters?"
+msgid "[mschoice] So, how do you know Vlad Masters?"
+msgstr "[mschoice] So, how do you know Vlad Masters?"
 
 # XX## game/code/misc/Jack_Dialogue_1_MZ.rpy:34
-msgid @+@+@[mschoice] Have you ever seen a real ghost before the recent attacks?"
-msgstr @+@+@[mschoice] Have you ever seen a real ghost before the recent attacks?"
+msgid "[mschoice] Have you ever seen a real ghost before the recent attacks?"
+msgstr "[mschoice] Have you ever seen a real ghost before the recent attacks?"
 
 # XX## game/code/misc/Jack_Dialogue_1_MZ.rpy:34
-msgid @+@+@[mschoice] I'll let you get back to it."
-msgstr @+@+@[mschoice] I'll let you get back to it."
+msgid "[mschoice] I'll let you get back to it."
+msgstr "[mschoice] I'll let you get back to it."
 
 # XX## game/code/misc/Jack_Dialogue_1_MZ.rpy:91
-msgid @+@+@[mschoice] Yeah, actually..."
-msgstr @+@+@[mschoice] Yeah, actually..."
+msgid "[mschoice] Yeah, actually..."
+msgstr "[mschoice] Yeah, actually..."
 
 # XX## game/code/misc/Jack_Dialogue_1_MZ.rpy:91
-msgid @+@+@[mschoice] No, that was it."
-msgstr @+@+@[mschoice] No, that was it."
+msgid "[mschoice] No, that was it."
+msgstr "[mschoice] No, that was it."
 

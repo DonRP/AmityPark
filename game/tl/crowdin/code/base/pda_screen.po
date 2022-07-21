@@ -23,8 +23,8 @@ msgid "[@danny@] (She's really more of an online {b}night{/b} owl... or a bat...
 msgstr "[@danny@] (She's really more of an online {b}night{/b} owl... or a bat... whatever's more emotionally drained. I'll try messaging her then, in any case.)"
 
 # game/code/base/pda_screen.rpy:230 ## translate crowdin paulina_is_offline_67a4b5a1:
-msgid "[@danny@] (Paulina isn't going to be available to talk right now. Most likely being swarmed with her adoring £*£*£*£fans£*£*£*£ and entourage.)"
-msgstr "[@danny@] (Paulina isn't going to be available to talk right now. Most likely being swarmed with her adoring £*£*£*£fans£*£*£*£ and entourage.)"
+msgid "[@danny@] (Paulina isn't going to be available to talk right now. Most likely being swarmed with her adoring \"fans\" and entourage.)"
+msgstr "[@danny@] (Paulina isn't going to be available to talk right now. Most likely being swarmed with her adoring \"fans\" and entourage.)"
 
 # game/code/base/pda_screen.rpy:231 ## translate crowdin paulina_is_offline_9ec90338:
 msgid "[@danny@] (I should try messaging her in the {b}afternoon{/b} when she takes a break from them all.)"
@@ -59,22 +59,22 @@ msgid "[@danny@] (Guess Tucker's not online right now.)"
 msgstr "[@danny@] (Guess Tucker's not online right now.)"
 
 # XXtranslate crowdin strings:XX# XX## game/code/base/pda_screen.rpy:173
-msgid @+@+@[mschoice] Do you want to add a new contact to Spookchat?"
-msgstr @+@+@[mschoice] Do you want to add a new contact to Spookchat?"
+msgid "[mschoice] Do you want to add a new contact to Spookchat?"
+msgstr "[mschoice] Do you want to add a new contact to Spookchat?"
 
 # XX## game/code/base/pda_screen.rpy:173
-msgid @+@+@[mschoice] Add Paulina's number as a new contact."
-msgstr @+@+@[mschoice] Add Paulina's number as a new contact."
+msgid "[mschoice] Add Paulina's number as a new contact."
+msgstr "[mschoice] Add Paulina's number as a new contact."
 
 # XX## game/code/base/pda_screen.rpy:173
-msgid @+@+@[mschoice] Add Sam's number as a new contact."
-msgstr @+@+@[mschoice] Add Sam's number as a new contact."
+msgid "[mschoice] Add Sam's number as a new contact."
+msgstr "[mschoice] Add Sam's number as a new contact."
 
 # XX## game/code/base/pda_screen.rpy:173
-msgid @+@+@[mschoice] Add Star's number as a new contact."
-msgstr @+@+@[mschoice] Add Star's number as a new contact."
+msgid "[mschoice] Add Star's number as a new contact."
+msgstr "[mschoice] Add Star's number as a new contact."
 
 # XX## game/code/base/pda_screen.rpy:173
-msgid @+@+@[mschoice] Exit."
-msgstr @+@+@[mschoice] Exit."
+msgid "[mschoice] Exit."
+msgstr "[mschoice] Exit."
 

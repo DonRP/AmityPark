@@ -63,10 +63,10 @@ msgid "[@danny at_player sad consternation@] (I should be more careful next time
 msgstr "[@danny at_player sad consternation@] (I should be more careful next time.)"
 
 # XXtranslate crowdin strings:XX# XX## game/code/character_events/jazz/jazz_yoga.rpy:20
-msgid @+@+@[mschoice] (I gotta make sure she's got the right form!)"
-msgstr @+@+@[mschoice] (I gotta make sure she's got the right form!)"
+msgid "[mschoice] (I gotta make sure she's got the right form!)"
+msgstr "[mschoice] (I gotta make sure she's got the right form!)"
 
 # XX## game/code/character_events/jazz/jazz_yoga.rpy:20
-msgid @+@+@[mschoice] (No, I'm not gonna intrude.)"
-msgstr @+@+@[mschoice] (No, I'm not gonna intrude.)"
+msgid "[mschoice] (No, I'm not gonna intrude.)"
+msgstr "[mschoice] (No, I'm not gonna intrude.)"
 

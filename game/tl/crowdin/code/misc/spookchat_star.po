@@ -147,8 +147,8 @@ msgid "[@starspook@] This girl he's definitely sleeping with. Ugh, I just know s
 msgstr "[@starspook@] This girl he's definitely sleeping with. Ugh, I just know she doesn't properly bathe herself."
 
 # game/code/misc/spookchat_star.rpy:134 ## translate crowdin star_chat_2_b558041a:
-msgid "[@starspook@] In the human world, Billy, goth is just another code word for £*£*£*£unhygenic£*£*£*£." (multiple=2)
-msgstr "[@starspook@] In the human world, Billy, goth is just another code word for £*£*£*£unhygenic£*£*£*£." (multiple=2)
+msgid "[@starspook@] In the human world, Billy, goth is just another code word for \"unhygenic\"." (multiple=2)
+msgstr "[@starspook@] In the human world, Billy, goth is just another code word for \"unhygenic\"." (multiple=2)
 
 # game/code/misc/spookchat_star.rpy:135 ## translate crowdin star_chat_2_d1da5159:
 msgid "[@danny@] (Sam doesn't smell at all! She smells... really nice actually.)" (multiple=2)
@@ -315,38 +315,38 @@ msgid "[@danny phantom towards_wide sad_2 frown_grin_2@] (...the girl's bathroom
 msgstr "[@danny phantom towards_wide sad_2 frown_grin_2@] (...the girl's bathroom?! How am I supposed to get in there? Guess I'll have to be discrete...)"
 
 # game/code/misc/spookchat_star.rpy:282 ## translate crowdin first_chat_star_c8b1751a:
-msgid "[@danny phantom towards frown_grin_3 wondering@] (Okay, my first real big interaction with somebody as £*£*£*£Inviso-Bill£*£*£*£. Shouldn't be too difficult, right?)"
-msgstr "[@danny phantom towards frown_grin_3 wondering@] (Okay, my first real big interaction with somebody as £*£*£*£Inviso-Bill£*£*£*£. Shouldn't be too difficult, right?)"
+msgid "[@danny phantom towards frown_grin_3 wondering@] (Okay, my first real big interaction with somebody as \"Inviso-Bill\". Shouldn't be too difficult, right?)"
+msgstr "[@danny phantom towards frown_grin_3 wondering@] (Okay, my first real big interaction with somebody as \"Inviso-Bill\". Shouldn't be too difficult, right?)"
 
 # XXtranslate crowdin strings:XX# XX## game/code/misc/spookchat_star.rpy:27
-msgid @+@+@[mschoice] Message Star."
-msgstr @+@+@[mschoice] Message Star."
+msgid "[mschoice] Message Star."
+msgstr "[mschoice] Message Star."
 
 # XX## game/code/misc/spookchat_star.rpy:49
-msgid @+@+@[mschoice] What do I wanna message Star about?"
-msgstr @+@+@[mschoice] What do I wanna message Star about?"
+msgid "[mschoice] What do I wanna message Star about?"
+msgstr "[mschoice] What do I wanna message Star about?"
 
 # XX## game/code/misc/spookchat_star.rpy:49
-msgid @+@+@[mschoice] Would you like to go to the Casper Chill Formal with me? (Dance route)"
-msgstr @+@+@[mschoice] Would you like to go to the Casper Chill Formal with me? (Dance route)"
+msgid "[mschoice] Would you like to go to the Casper Chill Formal with me? (Dance route)"
+msgstr "[mschoice] Would you like to go to the Casper Chill Formal with me? (Dance route)"
 
 # XX## game/code/misc/spookchat_star.rpy:49
-msgid @+@+@[mschoice] What's it like being popular?"
-msgstr @+@+@[mschoice] What's it like being popular?"
+msgid "[mschoice] What's it like being popular?"
+msgstr "[mschoice] What's it like being popular?"
 
 # XX## game/code/misc/spookchat_star.rpy:49
-msgid @+@+@[mschoice] Had any more trouble with ghosts lately?"
-msgstr @+@+@[mschoice] Had any more trouble with ghosts lately?"
+msgid "[mschoice] Had any more trouble with ghosts lately?"
+msgstr "[mschoice] Had any more trouble with ghosts lately?"
 
 # XX## game/code/misc/spookchat_star.rpy:49
-msgid @+@+@[mschoice] Has Paulina mentioned me lately?"
-msgstr @+@+@[mschoice] Has Paulina mentioned me lately?"
+msgid "[mschoice] Has Paulina mentioned me lately?"
+msgstr "[mschoice] Has Paulina mentioned me lately?"
 
 # XX## game/code/misc/spookchat_star.rpy:49
-msgid @+@+@[mschoice] What do you know about Danny Fenton?"
-msgstr @+@+@[mschoice] What do you know about Danny Fenton?"
+msgid "[mschoice] What do you know about Danny Fenton?"
+msgstr "[mschoice] What do you know about Danny Fenton?"
 
 # XX## game/code/misc/spookchat_star.rpy:49
-msgid @+@+@[mschoice] I'll talk to you later, Star."
-msgstr @+@+@[mschoice] I'll talk to you later, Star."
+msgid "[mschoice] I'll talk to you later, Star."
+msgstr "[mschoice] I'll talk to you later, Star."
 

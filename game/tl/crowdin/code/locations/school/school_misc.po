@@ -15,12 +15,12 @@ msgid "[@danny@] (That's the girl's bathroom, I can't go in there. Not without g
 msgstr "[@danny@] (That's the girl's bathroom, I can't go in there. Not without getting slapped with a suspension.)"
 
 # game/code/locations/school/school_misc.rpy:54 ## translate crowdin sams_locker_locked_011424b3:
-msgid "[@danny@] This is Sam's locker. Her locker number's £*£*£*£130£*£*£*£, but she once complained to the school administration that they were being unfair for not accepting her request..."
-msgstr "[@danny@] This is Sam's locker. Her locker number's £*£*£*£130£*£*£*£, but she once complained to the school administration that they were being unfair for not accepting her request..."
+msgid "[@danny@] This is Sam's locker. Her locker number's \"130\", but she once complained to the school administration that they were being unfair for not accepting her request..."
+msgstr "[@danny@] This is Sam's locker. Her locker number's \"130\", but she once complained to the school administration that they were being unfair for not accepting her request..."
 
 # game/code/locations/school/school_misc.rpy:56 ## translate crowdin sams_locker_locked_5f1a95b7:
-msgid "[@danny@] ...of modifying her locker to £*£*£*£666£*£*£*£ instead. She didn't quite win that argument, sadly."
-msgstr "[@danny@] ...of modifying her locker to £*£*£*£666£*£*£*£ instead. She didn't quite win that argument, sadly."
+msgid "[@danny@] ...of modifying her locker to \"666\" instead. She didn't quite win that argument, sadly."
+msgstr "[@danny@] ...of modifying her locker to \"666\" instead. She didn't quite win that argument, sadly."
 
 # game/code/locations/school/school_misc.rpy:72 ## translate crowdin locked_school_38b673da:
 msgid "[@danny@] (I need to go to my room and pick up Desiree first before I go to the dance.)"

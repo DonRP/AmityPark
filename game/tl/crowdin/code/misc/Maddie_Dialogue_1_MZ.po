@@ -35,8 +35,8 @@ msgid "[@maddie towards neutral talk_happy@] Oh Danny, no, he wasn't at all a bi
 msgstr "[@maddie towards neutral talk_happy@] Oh Danny, no, he wasn't at all a billionaire back then. We were all just poor college students trying our best to study theoretical physics together. He was very sweet to me when we dated, and your father and him were best friends... that was at least..."
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:60 ## translate crowdin maddie_convo_vlad_2deb9e5a:
-msgid "[@danny towards rise talk_consternation@] Until £*£*£*£the incident£*£*£*£, right? Why, what happened?"
-msgstr "[@danny towards rise talk_consternation@] Until £*£*£*£the incident£*£*£*£, right? Why, what happened?"
+msgid "[@danny towards rise talk_consternation@] Until \"the incident\", right? Why, what happened?"
+msgstr "[@danny towards rise talk_consternation@] Until \"the incident\", right? Why, what happened?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:62 ## translate crowdin maddie_convo_vlad_718a007c:
 msgid "[@maddie towards neutral talk_happy@] It happened during a test of one of Jack's {b}Prototype Ghost Portals{/b}. I told your father there was some math not quite adding up, but he was so eager... he ended up turning the portal on at full power!"
@@ -51,12 +51,12 @@ msgid "[@danny towards rise talk_consternation@] But he looks perfectly alright 
 msgstr "[@danny towards rise talk_consternation@] But he looks perfectly alright to me, so does he wear some sort of skin graft or mask?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:67 ## translate crowdin maddie_convo_vlad_31c1367d:
-msgid "[@maddie towards neutral talk_happy@] Oh no, Danny, he wasn't burned! A rogue blast of ectoplasmic energy shot out of the portal, giving him a severe inflammation on his face, a condition we called at the time £*£*£*£{b}Ecto-acne{/b}£*£*£*£."
-msgstr "[@maddie towards neutral talk_happy@] Oh no, Danny, he wasn't burned! A rogue blast of ectoplasmic energy shot out of the portal, giving him a severe inflammation on his face, a condition we called at the time £*£*£*£{b}Ecto-acne{/b}£*£*£*£."
+msgid "[@maddie towards neutral talk_happy@] Oh no, Danny, he wasn't burned! A rogue blast of ectoplasmic energy shot out of the portal, giving him a severe inflammation on his face, a condition we called at the time \"{b}Ecto-acne{/b}\"."
+msgstr "[@maddie towards neutral talk_happy@] Oh no, Danny, he wasn't burned! A rogue blast of ectoplasmic energy shot out of the portal, giving him a severe inflammation on his face, a condition we called at the time \"{b}Ecto-acne{/b}\"."
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:69 ## translate crowdin maddie_convo_vlad_0f424239:
-msgid "[@danny towards rise talk_consternation@] £*£*£*£Ecto-acne£*£*£*£? Jeez, and I thought £*£*£*£pizza-face£*£*£*£ was brutal."
-msgstr "[@danny towards rise talk_consternation@] £*£*£*£Ecto-acne£*£*£*£? Jeez, and I thought £*£*£*£pizza-face£*£*£*£ was brutal."
+msgid "[@danny towards rise talk_consternation@] \"Ecto-acne\"? Jeez, and I thought \"pizza-face\" was brutal."
+msgstr "[@danny towards rise talk_consternation@] \"Ecto-acne\"? Jeez, and I thought \"pizza-face\" was brutal."
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:71 ## translate crowdin maddie_convo_vlad_aad1f9ea:
 msgid "[@maddie towards neutral talk_happy@] Yes, and unfortunately, Vlad had to drop out of school and spend so many months in the hospital. Ironically enough though, I think it was when he left school that he was able to pave his own future with some smart investments and his own inventions."
@@ -79,8 +79,8 @@ msgid "[@danny towards rise talk_consternation@] Wait, but I thought that the re
 msgstr "[@danny towards rise talk_consternation@] Wait, but I thought that the recent Ectopus sightings were the first time the world has had real confirmable ghost reports, right?{p}How could you and Dad study any of this stuff properly before now?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:88 ## translate crowdin maddie_convo_ectoplasm_6799a75d:
-msgid "[@maddie suspicious_towards aghast talk_distraught@] Well, maybe the first £*£*£*£confirmed£*£*£*£ reports, but parapsychologists like your father and I have been dealing with apparition cases for decades. The scientific community at large just refuses to accept parapsychology as a genuine field of research."
-msgstr "[@maddie suspicious_towards aghast talk_distraught@] Well, maybe the first £*£*£*£confirmed£*£*£*£ reports, but parapsychologists like your father and I have been dealing with apparition cases for decades. The scientific community at large just refuses to accept parapsychology as a genuine field of research."
+msgid "[@maddie suspicious_towards aghast talk_distraught@] Well, maybe the first \"confirmed\" reports, but parapsychologists like your father and I have been dealing with apparition cases for decades. The scientific community at large just refuses to accept parapsychology as a genuine field of research."
+msgstr "[@maddie suspicious_towards aghast talk_distraught@] Well, maybe the first \"confirmed\" reports, but parapsychologists like your father and I have been dealing with apparition cases for decades. The scientific community at large just refuses to accept parapsychology as a genuine field of research."
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:90 ## translate crowdin maddie_convo_ectoplasm_d470d558:
 msgid "[@danny towards_wide unhappy talk_consternation@] Really? So there are other scientists who also believe in the paranormal?"
@@ -119,8 +119,8 @@ msgid "[@danny towards_wide unhappy talk_consternation@] Huh? What do you mean b
 msgstr "[@danny towards_wide unhappy talk_consternation@] Huh? What do you mean by-"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:106 ## translate crowdin maddie_convo_ectoplasm_ddd99478:
-msgid "[@maddie closed sad talk_frown@] Look, the {u}main{/u} point, Danny, is that ectoplasm is what ghosts are {u}made{/u} of. It's slimy, tastes pretty awful, but it's essentially a ghost's £*£*£*£flesh£*£*£*£ as well as its main power supply. That make sense?"
-msgstr "[@maddie closed sad talk_frown@] Look, the {u}main{/u} point, Danny, is that ectoplasm is what ghosts are {u}made{/u} of. It's slimy, tastes pretty awful, but it's essentially a ghost's £*£*£*£flesh£*£*£*£ as well as its main power supply. That make sense?"
+msgid "[@maddie closed sad talk_frown@] Look, the {u}main{/u} point, Danny, is that ectoplasm is what ghosts are {u}made{/u} of. It's slimy, tastes pretty awful, but it's essentially a ghost's \"flesh\" as well as its main power supply. That make sense?"
+msgstr "[@maddie closed sad talk_frown@] Look, the {u}main{/u} point, Danny, is that ectoplasm is what ghosts are {u}made{/u} of. It's slimy, tastes pretty awful, but it's essentially a ghost's \"flesh\" as well as its main power supply. That make sense?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:108 ## translate crowdin maddie_convo_ectoplasm_6624633c:
 msgid "[@danny closed unhappy talk_happy@] Yeah, it does! All right, I got it now, thanks."
@@ -139,8 +139,8 @@ msgid "[@danny towards rise talk_consternation@] Wait, but I thought that the re
 msgstr "[@danny towards rise talk_consternation@] Wait, but I thought that the recent Ectopus sightings were the first time there have been real ghost activity reported, right?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:121 ## translate crowdin maddie_convo_ectoplasm2_fa3eeec9:
-msgid "[@maddie suspicious_towards aghast talk_distraught@] Maybe the first £*£*£*£confirmed£*£*£*£ reports, but parapsychologists like your father and I have been dealing with apparition cases for decades. The problem is the scientific community at large refuses to accept parapsychology as a genuine field of research."
-msgstr "[@maddie suspicious_towards aghast talk_distraught@] Maybe the first £*£*£*£confirmed£*£*£*£ reports, but parapsychologists like your father and I have been dealing with apparition cases for decades. The problem is the scientific community at large refuses to accept parapsychology as a genuine field of research."
+msgid "[@maddie suspicious_towards aghast talk_distraught@] Maybe the first \"confirmed\" reports, but parapsychologists like your father and I have been dealing with apparition cases for decades. The problem is the scientific community at large refuses to accept parapsychology as a genuine field of research."
+msgstr "[@maddie suspicious_towards aghast talk_distraught@] Maybe the first \"confirmed\" reports, but parapsychologists like your father and I have been dealing with apparition cases for decades. The problem is the scientific community at large refuses to accept parapsychology as a genuine field of research."
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:123 ## translate crowdin maddie_convo_ectoplasm2_d470d558:
 msgid "[@danny towards_wide unhappy talk_consternation@] Really? So there are other scientists who also believe in the paranormal?"
@@ -179,8 +179,8 @@ msgid "[@danny towards_wide unhappy talk_consternation@] Wait... what?"
 msgstr "[@danny towards_wide unhappy talk_consternation@] Wait... what?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:139 ## translate crowdin maddie_convo_ectoplasm2_58d81533:
-msgid "[@maddie closed sad talk_frown@] The {u}main{/u} point, Danny, is that ectoplasm is what ghosts are {u}made{/u} of. It's slimy, tastes pretty awful, but it's essentially a ghost's £*£*£*£flesh£*£*£*£ as well as its main power supply. That make sense?"
-msgstr "[@maddie closed sad talk_frown@] The {u}main{/u} point, Danny, is that ectoplasm is what ghosts are {u}made{/u} of. It's slimy, tastes pretty awful, but it's essentially a ghost's £*£*£*£flesh£*£*£*£ as well as its main power supply. That make sense?"
+msgid "[@maddie closed sad talk_frown@] The {u}main{/u} point, Danny, is that ectoplasm is what ghosts are {u}made{/u} of. It's slimy, tastes pretty awful, but it's essentially a ghost's \"flesh\" as well as its main power supply. That make sense?"
+msgstr "[@maddie closed sad talk_frown@] The {u}main{/u} point, Danny, is that ectoplasm is what ghosts are {u}made{/u} of. It's slimy, tastes pretty awful, but it's essentially a ghost's \"flesh\" as well as its main power supply. That make sense?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:141 ## translate crowdin maddie_convo_ectoplasm2_1ceae23d:
 msgid "[@danny closed unhappy talk_happy@] Yeah, it does! All right, I got it know, thanks."
@@ -191,8 +191,8 @@ msgid "[@danny down wondering talk_consternation@] Hey Mom, have you ever dealt 
 msgstr "[@danny down wondering talk_consternation@] Hey Mom, have you ever dealt in the past with any particularly... well... erhm... how do I say this exactly...?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:150 ## translate crowdin maddie_convo_perv_ghost_706e1cd6:
-msgid "[@danny towards_wide wondering talk_happy@] ...have you ever been aware of or heard any stories of some ghosts being extra £*£*£*£creepy£*£*£*£?{p}If you catch my drift?"
-msgstr "[@danny towards_wide wondering talk_happy@] ...have you ever been aware of or heard any stories of some ghosts being extra £*£*£*£creepy£*£*£*£?{p}If you catch my drift?"
+msgid "[@danny towards_wide wondering talk_happy@] ...have you ever been aware of or heard any stories of some ghosts being extra \"creepy\"?{p}If you catch my drift?"
+msgstr "[@danny towards_wide wondering talk_happy@] ...have you ever been aware of or heard any stories of some ghosts being extra \"creepy\"?{p}If you catch my drift?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:152 ## translate crowdin maddie_convo_perv_ghost_aeb8f0af:
 msgid "[@maddie towards neutral talk_happy@] Well sure, I mean, I suppose I was a tad afraid of ghosts when I first started my research into the paranormal, yes. But after a while of properly studying their form and matter, however, I've learned to just treat them as any another principle of science."
@@ -207,12 +207,12 @@ msgid "[@maddie towards_wide sad talk_happy@] Oh... {i}oh!{/i} Well, umm... y-ye
 msgstr "[@maddie towards_wide sad talk_happy@] Oh... {i}oh!{/i} Well, umm... y-yes, there are actually {i}many{/i} cases of ghosts who exhibit certain... {u}proclivities{/u} when it comes to their interactions with human beings. Not all, of course, but a good number of them."
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:157 ## translate crowdin maddie_convo_perv_ghost_a8a16551:
-msgid "[@maddie towards_wide sad talk_amused@] I actually theorized in my doctoral thesis that there seems to be a distinct relationship between sympathetic resonances and ectoplasm. Where as ectoplasm is primarily the particle, the sympathetic wave-form manifests as something called {b}£*£*£*£Orgone£*£*£*£{/b}."
-msgstr "[@maddie towards_wide sad talk_amused@] I actually theorized in my doctoral thesis that there seems to be a distinct relationship between sympathetic resonances and ectoplasm. Where as ectoplasm is primarily the particle, the sympathetic wave-form manifests as something called {b}£*£*£*£Orgone£*£*£*£{/b}."
+msgid "[@maddie towards_wide sad talk_amused@] I actually theorized in my doctoral thesis that there seems to be a distinct relationship between sympathetic resonances and ectoplasm. Where as ectoplasm is primarily the particle, the sympathetic wave-form manifests as something called {b}\"Orgone\"{/b}."
+msgstr "[@maddie towards_wide sad talk_amused@] I actually theorized in my doctoral thesis that there seems to be a distinct relationship between sympathetic resonances and ectoplasm. Where as ectoplasm is primarily the particle, the sympathetic wave-form manifests as something called {b}\"Orgone\"{/b}."
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:159 ## translate crowdin maddie_convo_perv_ghost_dae3b8fa:
-msgid "[@danny towards rise talk_consternation@] £*£*£*£Orgone£*£*£*£? I've {i}uh{/i}, never heard of it before. What is it?"
-msgstr "[@danny towards rise talk_consternation@] £*£*£*£Orgone£*£*£*£? I've {i}uh{/i}, never heard of it before. What is it?"
+msgid "[@danny towards rise talk_consternation@] \"Orgone\"? I've {i}uh{/i}, never heard of it before. What is it?"
+msgstr "[@danny towards rise talk_consternation@] \"Orgone\"? I've {i}uh{/i}, never heard of it before. What is it?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:161 ## translate crowdin maddie_convo_perv_ghost_d2451937:
 msgid "[@maddie towards sad talk_happy blush@] Well, it's an even {i}more-so{/i} theoretical phantasmal material relating to the human body's... {i}uhm{/i}, let's just say relating to human {i}vitality{/i}, you understand?"
@@ -239,8 +239,8 @@ msgid "[@danny towards unhappy talk_consternation@] Affected by it in what way? 
 msgstr "[@danny towards unhappy talk_consternation@] Affected by it in what way? Do they like the smell of the Orgone or something?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:173 ## translate crowdin maddie_convo_perv_ghost_74b33c82:
-msgid "[@maddie suspicious_towards aghast talk_happy@] Well no, not quite. Actually, what Orgone does essentially is that it {i}strengthens{/i} the phantom's bond to the £*£*£*£real£*£*£*£ world, allowing them to manifest their form more powerfully."
-msgstr "[@maddie suspicious_towards aghast talk_happy@] Well no, not quite. Actually, what Orgone does essentially is that it {i}strengthens{/i} the phantom's bond to the £*£*£*£real£*£*£*£ world, allowing them to manifest their form more powerfully."
+msgid "[@maddie suspicious_towards aghast talk_happy@] Well no, not quite. Actually, what Orgone does essentially is that it {i}strengthens{/i} the phantom's bond to the \"real\" world, allowing them to manifest their form more powerfully."
+msgstr "[@maddie suspicious_towards aghast talk_happy@] Well no, not quite. Actually, what Orgone does essentially is that it {i}strengthens{/i} the phantom's bond to the \"real\" world, allowing them to manifest their form more powerfully."
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:175 ## translate crowdin maddie_convo_perv_ghost_b1f026fa:
 msgid "[@danny towards_wide wondering talk_happy@] Weird... sorta like a powerup in a videogame!"
@@ -267,26 +267,26 @@ msgid "[@danny towards sad talk_happy@] Right. Sure thing, thanks Mom."
 msgstr "[@danny towards sad talk_happy@] Right. Sure thing, thanks Mom."
 
 # XXtranslate crowdin strings:XX# XX## game/code/misc/Maddie_Dialogue_1_MZ.rpy:37
-msgid @+@+@[mschoice] Who exactly is this Vlad guy, anyway?"
-msgstr @+@+@[mschoice] Who exactly is this Vlad guy, anyway?"
+msgid "[mschoice] Who exactly is this Vlad guy, anyway?"
+msgstr "[mschoice] Who exactly is this Vlad guy, anyway?"
 
 # XX## game/code/misc/Maddie_Dialogue_1_MZ.rpy:37
-msgid @+@+@[mschoice] Ectoplasm, what is it exactly?"
-msgstr @+@+@[mschoice] Ectoplasm, what is it exactly?"
+msgid "[mschoice] Ectoplasm, what is it exactly?"
+msgstr "[mschoice] Ectoplasm, what is it exactly?"
 
 # XX## game/code/misc/Maddie_Dialogue_1_MZ.rpy:37
-msgid @+@+@[mschoice] Could you tell me about ectoplasm again?"
-msgstr @+@+@[mschoice] Could you tell me about ectoplasm again?"
+msgid "[mschoice] Could you tell me about ectoplasm again?"
+msgstr "[mschoice] Could you tell me about ectoplasm again?"
 
 # XX## game/code/misc/Maddie_Dialogue_1_MZ.rpy:37
-msgid @+@+@[mschoice] Ask about why ghosts are kinda perverted."
-msgstr @+@+@[mschoice] Ask about why ghosts are kinda perverted."
+msgid "[mschoice] Ask about why ghosts are kinda perverted."
+msgstr "[mschoice] Ask about why ghosts are kinda perverted."
 
 # XX## game/code/misc/Maddie_Dialogue_1_MZ.rpy:37
-msgid @+@+@[mschoice] No, that's it."
-msgstr @+@+@[mschoice] No, that's it."
+msgid "[mschoice] No, that's it."
+msgstr "[mschoice] No, that's it."
 
 # XX## game/code/misc/Maddie_Dialogue_1_MZ.rpy:186
-msgid @+@+@[mschoice] No, that's it, thanks."
-msgstr @+@+@[mschoice] No, that's it, thanks."
+msgid "[mschoice] No, that's it, thanks."
+msgstr "[mschoice] No, that's it, thanks."
 

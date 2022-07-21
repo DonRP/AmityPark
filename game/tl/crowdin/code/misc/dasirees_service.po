@@ -215,16 +215,16 @@ msgid "[@danny@] Huh...? Oh, okay... I mean, tr-true, that's fair... then what d
 msgstr "[@danny@] Huh...? Oh, okay... I mean, tr-true, that's fair... then what do you mean exact-"
 
 # game/code/misc/dasirees_service.rpy:649 ## translate crowdin Dasiree_Blowjob_01_321a7eb6:
-msgid "[@desiree@] £*£*£*£Hmm, he actually seems to care for me genuinely.£*£*£*£"
-msgstr "[@desiree@] £*£*£*£Hmm, he actually seems to care for me genuinely.£*£*£*£"
+msgid "[@desiree@] \"Hmm, he actually seems to care for me genuinely.\""
+msgstr "[@desiree@] \"Hmm, he actually seems to care for me genuinely.\""
 
 # game/code/misc/dasirees_service.rpy:663 ## translate crowdin Dasiree_Blowjob_01_4a84531f:
-msgid "[@desiree@] £*£*£*£Or could he be faking it?£*£*£*£"
-msgstr "[@desiree@] £*£*£*£Or could he be faking it?£*£*£*£"
+msgid "[@desiree@] \"Or could he be faking it?\""
+msgstr "[@desiree@] \"Or could he be faking it?\""
 
 # game/code/misc/dasirees_service.rpy:678 ## translate crowdin Dasiree_Blowjob_01_c8b79d59:
-msgid "[@desiree@] £*£*£*£Whatever the case, his cum is beyond super. I must make sure to keep getting it.£*£*£*£"
-msgstr "[@desiree@] £*£*£*£Whatever the case, his cum is beyond super. I must make sure to keep getting it.£*£*£*£"
+msgid "[@desiree@] \"Whatever the case, his cum is beyond super. I must make sure to keep getting it.\""
+msgstr "[@desiree@] \"Whatever the case, his cum is beyond super. I must make sure to keep getting it.\""
 
 # game/code/misc/dasirees_service.rpy:693 ## translate crowdin Dasiree_Blowjob_01_a4cab0c4:
 msgid "[@danny@] Well, I’ve gotta return you to the thermos, as I need to sleep. But thanks for all you did tonight Desiree."

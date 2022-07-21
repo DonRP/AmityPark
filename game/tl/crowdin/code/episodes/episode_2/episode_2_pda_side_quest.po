@@ -275,8 +275,8 @@ msgid "[@tucker neutral talk_happy away@] Once you've hit that high a level of t
 msgstr "[@tucker neutral talk_happy away@] Once you've hit that high a level of technological savviness, there's just no going back to the old outdated ways of {i}actually{/i} being able to use headphones."
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:356 ## translate crowdin tucker_convo_tuckerPDA_end_eaf2a669:
-msgid "[@danny rise_one talk_frown towards@] You know, I'm pretty sure your {i}£*£*£*£new£*£*£*£{/i} model came out only a month after this £*£*£*£old£*£*£*£ one..."
-msgstr "[@danny rise_one talk_frown towards@] You know, I'm pretty sure your {i}£*£*£*£new£*£*£*£{/i} model came out only a month after this £*£*£*£old£*£*£*£ one..."
+msgid "[@danny rise_one talk_frown towards@] You know, I'm pretty sure your {i}\"new\"{/i} model came out only a month after this \"old\" one..."
+msgstr "[@danny rise_one talk_frown towards@] You know, I'm pretty sure your {i}\"new\"{/i} model came out only a month after this \"old\" one..."
 
 # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:358 ## translate crowdin tucker_convo_tuckerPDA_end_37be5aba:
 msgid "[@tucker talk_frown angry@] Don't look a gift horse in the mouth, Danny!!"
@@ -535,22 +535,22 @@ msgid "[@danny pi_50@] (Well, I'll be honest... that was actually pretty impress
 msgstr "[@danny pi_50@] (Well, I'll be honest... that was actually pretty impressive... but not something I should have been watching out in the open. I better leave before Kwan catches me and bashes my head in.)"
 
 # XXtranslate crowdin strings:XX# XX## game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:61
-msgid @+@+@[mschoice] Bargain with Dash."
-msgstr @+@+@[mschoice] Bargain with Dash."
+msgid "[mschoice] Bargain with Dash."
+msgstr "[mschoice] Bargain with Dash."
 
 # XX## game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:61
-msgid @+@+@[mschoice] Were you serious about the panties?"
-msgstr @+@+@[mschoice] Were you serious about the panties?"
+msgid "[mschoice] Were you serious about the panties?"
+msgstr "[mschoice] Were you serious about the panties?"
 
 # XX## game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:61
-msgid @+@+@[mschoice] Here, I got those panties for you."
-msgstr @+@+@[mschoice] Here, I got those panties for you."
+msgid "[mschoice] Here, I got those panties for you."
+msgstr "[mschoice] Here, I got those panties for you."
 
 # XX## game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:61
-msgid @+@+@[mschoice] Tell Dash to get bent?"
-msgstr @+@+@[mschoice] Tell Dash to get bent?"
+msgid "[mschoice] Tell Dash to get bent?"
+msgstr "[mschoice] Tell Dash to get bent?"
 
 # XX## game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:61
-msgid @+@+@[mschoice] Fine, but I'll be back!"
-msgstr @+@+@[mschoice] Fine, but I'll be back!"
+msgid "[mschoice] Fine, but I'll be back!"
+msgstr "[mschoice] Fine, but I'll be back!"
 

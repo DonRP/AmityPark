@@ -155,8 +155,8 @@ msgid "[@valerie uniform_point towards_wide angry talk_distraught@] F-F-Fenton!!
 msgstr "[@valerie uniform_point towards_wide angry talk_distraught@] F-F-Fenton!! What the, why are you-"
 
 # game/code/character_events/lily/lily_introduction.rpy:151 ## translate crowdin lily_introduction_74c559a8:
-msgid "[@lily towards rise talk_displeased@] Your name is £*£*£*£Fenton£*£*£*£?"
-msgstr "[@lily towards rise talk_displeased@] Your name is £*£*£*£Fenton£*£*£*£?"
+msgid "[@lily towards rise talk_displeased@] Your name is \"Fenton\"?"
+msgstr "[@lily towards rise talk_displeased@] Your name is \"Fenton\"?"
 
 # game/code/character_events/lily/lily_introduction.rpy:155 ## translate crowdin lily_introduction_bc87aa2b:
 msgid "[@danny towards sad talk_happy@] No, that's my last name, my name's Da-"
