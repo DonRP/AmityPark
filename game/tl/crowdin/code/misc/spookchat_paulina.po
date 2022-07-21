@@ -19,8 +19,8 @@ msgid "[@billspook@] This might sound forward, but do you wanna hang out sometim
 msgstr "[@billspook@] This might sound forward, but do you wanna hang out sometime?"
 
 # game/code/misc/spookchat_paulina.rpy:56 ## translate crowdin paulina_chat_2_2db91746:
-msgid "[@paulinaspook@] Oh, I'm sorry! I'd really, really love to, but I'm pretty booked after school like, every day! Even on weekends. :(@] 
-msgstr "[@paulinaspook@] Oh, I'm sorry! I'd really, really love to, but I'm pretty booked after school like, every day! Even on weekends. :(@] 
+msgid "[@paulinaspook@] Oh, I'm sorry! I'd really, really love to, but I'm pretty booked after school like, every day! Even on weekends. :("
+msgstr "[@paulinaspook@] Oh, I'm sorry! I'd really, really love to, but I'm pretty booked after school like, every day! Even on weekends. :("
 
 # game/code/misc/spookchat_paulina.rpy:57 ## translate crowdin paulina_chat_2_cf5a4d08:
 msgid "[@paulinaspook@] Cheer practice is super important to always be working on, otherwise I'll start to lose my toned thighs!"
@@ -47,8 +47,8 @@ msgid "[@nvl clear
 msgstr "[@nvl clear
 
 # game/code/misc/spookchat_paulina.rpy:78 ## translate crowdin paulina_chat_2_4b06f1ae:
-msgid "[@billspook@] Oh wow! Yeah, you're really cute, just like I remember! Thanks for that. :)@] 
-msgstr "[@billspook@] Oh wow! Yeah, you're really cute, just like I remember! Thanks for that. :)@] 
+msgid "[@billspook@] Oh wow! Yeah, you're really cute, just like I remember! Thanks for that. :)"
+msgstr "[@billspook@] Oh wow! Yeah, you're really cute, just like I remember! Thanks for that. :)"
 
 # game/code/misc/spookchat_paulina.rpy:79 ## translate crowdin paulina_chat_2_40afbb2a:
 msgid "[@paulinaspook@] Of course! Anything for my hero..."
@@ -79,8 +79,8 @@ msgid "[@phone@] {i}*Woosh* Pictures Successfully Sent to {b}Desktop{/b}{/i}" (m
 msgstr "[@phone@] {i}*Woosh* Pictures Successfully Sent to {b}Desktop{/b}{/i}" (multiple=2)
 
 # game/code/misc/spookchat_paulina.rpy:91 ## translate crowdin paulina_chat_2_3fc58d9b:
-msgid "[@paulinaspook@] I'd hope not. ;)@] 
-msgstr "[@paulinaspook@] I'd hope not. ;)@] 
+msgid "[@paulinaspook@] I'd hope not. ;)"
+msgstr "[@paulinaspook@] I'd hope not. ;)"
 
 # game/code/misc/spookchat_paulina.rpy:114 ## translate crowdin paulina_chat_2_76b2fe88_2:
 msgid "[@nvl clear
@@ -135,8 +135,8 @@ msgid "[@paulinaspook@] Oh, of course! I know you must be busy beating up other 
 msgstr "[@paulinaspook@] Oh, of course! I know you must be busy beating up other ghosts!"
 
 # game/code/misc/spookchat_paulina.rpy:143 ## translate crowdin paulina_chat_2_2edaaddf:
-msgid "[@paulinaspook@] Ceeya later, Ghost Boy. ;D@] 
-msgstr "[@paulinaspook@] Ceeya later, Ghost Boy. ;D@] 
+msgid "[@paulinaspook@] Ceeya later, Ghost Boy. ;D"
+msgstr "[@paulinaspook@] Ceeya later, Ghost Boy. ;D"
 
 # XXtranslate crowdin strings:XX# XX## game/code/misc/spookchat_paulina.rpy:22
 msgid "[mschoice] Message Paulina."
@@ -163,8 +163,8 @@ msgid "[mschoice] {i}(Look at Paulina's pictures){/i}"
 msgstr "[mschoice] {i}(Look at Paulina's pictures){/i}"
 
 # XX## game/code/misc/spookchat_paulina.rpy:43
-msgid "[mschoice] Danny Fenton's a pretty cool guy, right?@] 
-msgstr "[mschoice] Danny Fenton's a pretty cool guy, right?@] 
+msgid "[mschoice] Danny Fenton's a pretty cool guy, right?"
+msgstr "[mschoice] Danny Fenton's a pretty cool guy, right?"
 
 # XX## game/code/misc/spookchat_paulina.rpy:43
 msgid "[mschoice] I'll talk to you later, Paulina."

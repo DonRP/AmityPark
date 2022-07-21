@@ -195,8 +195,8 @@ msgid "[@desiree towards_2 neutral_2 talk_frown@] {i}Hmmm{/i}... well first of a
 msgstr "[@desiree towards_2 neutral_2 talk_frown@] {i}Hmmm{/i}... well first of all, it is extensively vast. Perhaps even {u}infinitely{/u} so."
 
 # game/code/misc/Desiree_Dialogue.rpy:1056 ## translate crowdin ask_desiree_ghost_zone_51175439:
-msgid "[@desiree talk_frown_2 at_player neutral@] There is a simply endless supply of black void, even more so than the mortal night's sky. Swirls of green fog are all that fills it.@] 
-msgstr "[@desiree talk_frown_2 at_player neutral@] There is a simply endless supply of black void, even more so than the mortal night's sky. Swirls of green fog are all that fills it.@] 
+msgid "[@desiree talk_frown_2 at_player neutral@] There is a simply endless supply of black void, even more so than the mortal night's sky. Swirls of green fog are all that fills it."
+msgstr "[@desiree talk_frown_2 at_player neutral@] There is a simply endless supply of black void, even more so than the mortal night's sky. Swirls of green fog are all that fills it."
 
 # game/code/misc/Desiree_Dialogue.rpy:1057 ## translate crowdin ask_desiree_ghost_zone_e49be421:
 msgid "[@desiree towards talk_frown neutral_3@] You can never be {i}too{/i} on guard when there. There are dozens of mindless beasts and empty souls looking to rip your ectoplasmic form apart just for the sake of it."

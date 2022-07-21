@@ -55,8 +55,8 @@ msgid "[@samspook@] Oh, man why did I do this. Now I feel so embarrassed about t
 msgstr "[@samspook@] Oh, man why did I do this. Now I feel so embarrassed about this. -.-"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:66 ## translate crowdin sam_selfie_shot_event_3533271d:
-msgid "[@dannyspook@] Thank you Sam!@] 
-msgstr "[@dannyspook@] Thank you Sam!@] 
+msgid "[@dannyspook@] Thank you Sam!"
+msgstr "[@dannyspook@] Thank you Sam!"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:67 ## translate crowdin sam_selfie_shot_event_09f45668:
 msgid "[@dannyspook@] I feel unstoppable now!!"

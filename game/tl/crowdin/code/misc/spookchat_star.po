@@ -7,8 +7,8 @@ msgid "[@billspook@] Hey Star, it's Inviso-Bill."
 msgstr "[@billspook@] Hey Star, it's Inviso-Bill."
 
 # game/code/misc/spookchat_star.rpy:38 ## translate crowdin star_chat_1_b2d8e3fa:
-msgid "[@starspook@] Oh, heyy Billy. What's up? :D@] 
-msgstr "[@starspook@] Oh, heyy Billy. What's up? :D@] 
+msgid "[@starspook@] Oh, heyy Billy. What's up? :D"
+msgstr "[@starspook@] Oh, heyy Billy. What's up? :D"
 
 # game/code/misc/spookchat_star.rpy:62 ## translate crowdin star_chat_2_76b2fe88:
 msgid "[@nvl clear
@@ -67,16 +67,16 @@ msgid "[@billspook@] Well, I'm gonna do my best to stop more ghosts like the one
 msgstr "[@billspook@] Well, I'm gonna do my best to stop more ghosts like the ones I've heard were... stripping you in public."
 
 # game/code/misc/spookchat_star.rpy:90 ## translate crowdin star_chat_2_9281d50d:
-msgid "[@starspook@] Oh, thank you Billy! You're such a good person, omg. <3@] 
-msgstr "[@starspook@] Oh, thank you Billy! You're such a good person, omg. <3@] 
+msgid "[@starspook@] Oh, thank you Billy! You're such a good person, omg. <3"
+msgstr "[@starspook@] Oh, thank you Billy! You're such a good person, omg. <3"
 
 # game/code/misc/spookchat_star.rpy:91 ## translate crowdin star_chat_2_111c7501:
 msgid "[@billspook@] Just looking out for all the good people of Amity Park, is all."
 msgstr "[@billspook@] Just looking out for all the good people of Amity Park, is all."
 
 # game/code/misc/spookchat_star.rpy:92 ## translate crowdin star_chat_2_753e099d:
-msgid "[@starspook@] Mmhmmm, especially the {i}pretty{/i} ones, right? ;)@] 
-msgstr "[@starspook@] Mmhmmm, especially the {i}pretty{/i} ones, right? ;)@] 
+msgid "[@starspook@] Mmhmmm, especially the {i}pretty{/i} ones, right? ;)"
+msgstr "[@starspook@] Mmhmmm, especially the {i}pretty{/i} ones, right? ;)"
 
 # game/code/misc/spookchat_star.rpy:103 ## translate crowdin star_chat_2_76b2fe88_2:
 msgid "[@nvl clear
@@ -91,8 +91,8 @@ msgid "[@starspook@] Ugh, frankly, she kinda hasn't shut up about you."
 msgstr "[@starspook@] Ugh, frankly, she kinda hasn't shut up about you."
 
 # game/code/misc/spookchat_star.rpy:108 ## translate crowdin star_chat_2_00d5fef9:
-msgid "[@starspook@] It's so stupid, you save her once and she's like all over your dick. :/@] 
-msgstr "[@starspook@] It's so stupid, you save her once and she's like all over your dick. :/@] 
+msgid "[@starspook@] It's so stupid, you save her once and she's like all over your dick. :/"
+msgstr "[@starspook@] It's so stupid, you save her once and she's like all over your dick. :/"
 
 # game/code/misc/spookchat_star.rpy:109 ## translate crowdin star_chat_2_fe9e701c:
 msgid "[@starspook@] Like, figuratively anyway. Lol"
@@ -171,8 +171,8 @@ msgid "[@billspook@] I'll talk to you later, Star. Got some ghosts to go beat do
 msgstr "[@billspook@] I'll talk to you later, Star. Got some ghosts to go beat down!"
 
 # game/code/misc/spookchat_star.rpy:152 ## translate crowdin star_chat_2_d89cd7e4:
-msgid "[@starspook@] Awww, really? Okay, well bye for now! TTYL!! :D@] 
-msgstr "[@starspook@] Awww, really? Okay, well bye for now! TTYL!! :D@] 
+msgid "[@starspook@] Awww, really? Okay, well bye for now! TTYL!! :D"
+msgstr "[@starspook@] Awww, really? Okay, well bye for now! TTYL!! :D"
 
 # game/code/misc/spookchat_star.rpy:174 ## translate crowdin tutorial_PDA_70e18344:
 msgid "[@danny@] (Okay, here we go... Spookchat messaging... seems simple enough. I just click on who I wanna chat with!)"
@@ -291,16 +291,16 @@ msgid "[@billspook@] For sure, I know it. Is that where you wanna talk?"
 msgstr "[@billspook@] For sure, I know it. Is that where you wanna talk?"
 
 # game/code/misc/spookchat_star.rpy:267 ## translate crowdin first_chat_star_2b43af40:
-msgid "[@starspook@] Yes! I usually hang out in the girl's bathroom in the afternoon after school. I'll be alone, don't worry :3@] 
-msgstr "[@starspook@] Yes! I usually hang out in the girl's bathroom in the afternoon after school. I'll be alone, don't worry :3@] 
+msgid "[@starspook@] Yes! I usually hang out in the girl's bathroom in the afternoon after school. I'll be alone, don't worry :3"
+msgstr "[@starspook@] Yes! I usually hang out in the girl's bathroom in the afternoon after school. I'll be alone, don't worry :3"
 
 # game/code/misc/spookchat_star.rpy:268 ## translate crowdin first_chat_star_45176d28:
 msgid "[@billspook@] Cool! I'll stop by sometime when I have the chance. See yah then."
 msgstr "[@billspook@] Cool! I'll stop by sometime when I have the chance. See yah then."
 
 # game/code/misc/spookchat_star.rpy:269 ## translate crowdin first_chat_star_f5f201ff:
-msgid "[@starspook@] Kay!! Can't wait to meet you! ;)@] 
-msgstr "[@starspook@] Kay!! Can't wait to meet you! ;)@] 
+msgid "[@starspook@] Kay!! Can't wait to meet you! ;)"
+msgstr "[@starspook@] Kay!! Can't wait to meet you! ;)"
 
 # game/code/misc/spookchat_star.rpy:278 ## translate crowdin first_chat_star_ee54263d:
 msgid "[@danny phantom grin_happy@] (That certainly went better than expected.)"

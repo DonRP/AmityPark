@@ -42,6 +42,7 @@ msgid @°@°@""",
 
     # fix 
     """@] [@""": """ \"[@""",
+    """@] \n""": """\"\n""",
 
     # Comment
     """\n ## translate crowdin strings:\n\n""": """\n\n# XXtranslate crowdin strings:XX\n""",

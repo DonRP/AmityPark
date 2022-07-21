@@ -11,8 +11,8 @@ msgid "[@danny@] (Man, she must've really taken her whole harem girl position se
 msgstr "[@danny@] (Man, she must've really taken her whole harem girl position seriously... this kinda dedication to simply jerking guys off is a whole new level of commitme-)"
 
 # game/code/misc/dasirees_service.rpy:106 ## translate crowdin Dasiree_Blowjob_01_a4e8de21:
-msgid "[@danny@] {i}Whuuuuh{/i}... Oh jeezus, De-Des-Desiree... you're already... Oh- okay, I guess... you just do what you're used to, I suppose...@] 
-msgstr "[@danny@] {i}Whuuuuh{/i}... Oh jeezus, De-Des-Desiree... you're already... Oh- okay, I guess... you just do what you're used to, I suppose...@] 
+msgid "[@danny@] {i}Whuuuuh{/i}... Oh jeezus, De-Des-Desiree... you're already... Oh- okay, I guess... you just do what you're used to, I suppose..."
+msgstr "[@danny@] {i}Whuuuuh{/i}... Oh jeezus, De-Des-Desiree... you're already... Oh- okay, I guess... you just do what you're used to, I suppose..."
 
 # game/code/misc/dasirees_service.rpy:120 ## translate crowdin Dasiree_Blowjob_01_d482d32b:
 msgid "[@desiree@] My special technique is what's flustering your words, I presume? Yes, I spent years perfecting my handcraft and finger play. You never quite forget it..."

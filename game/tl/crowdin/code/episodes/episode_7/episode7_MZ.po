@@ -1103,8 +1103,8 @@ msgid "[@kate fc down sad talk_consternation@] {i}Uhhh{/i}..."
 msgstr "[@kate fc down sad talk_consternation@] {i}Uhhh{/i}..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1452 ## translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_2_b36f59f2:
-msgid "[@danny phantom fc towards sad talk_displeased@] What's wrong? Sore subject?@] 
-msgstr "[@danny phantom fc towards sad talk_displeased@] What's wrong? Sore subject?@] 
+msgid "[@danny phantom fc towards sad talk_displeased@] What's wrong? Sore subject?"
+msgstr "[@danny phantom fc towards sad talk_displeased@] What's wrong? Sore subject?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1455 ## translate crowdin A_Nightmare_Called_Ember_scene_9_Kate_Questions_2_2f831228:
 msgid "[@kate fc down sad talk_consternation@] N-no, I...{p}...I {i}maybe{/i}, sorta...{p}used to work as a... {b}dancer{/b}."
@@ -1395,8 +1395,8 @@ msgid "[@kate@] (Damn, was he blessed with the right anatomy or what?!)"
 msgstr "[@kate@] (Damn, was he blessed with the right anatomy or what?!)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1782 ## translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_1_32403697:
-msgid "[@danny@] That's it Kate! Don't stop! Keep taking it!@] 
-msgstr "[@danny@] That's it Kate! Don't stop! Keep taking it!@] 
+msgid "[@danny@] That's it Kate! Don't stop! Keep taking it!"
+msgstr "[@danny@] That's it Kate! Don't stop! Keep taking it!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:1785 ## translate crowdin A_Nightmare_Called_Ember_scene_11_Star_House_Kate_Bedroom_Sex_1_b362d545:
 msgid "[@kate@] Oh, fuck! That's so good Danny!"
@@ -2303,8 +2303,8 @@ msgid "[@danny@] Look, let's just go Sam. You told me to walk you back home!"
 msgstr "[@danny@] Look, let's just go Sam. You told me to walk you back home!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3047 ## translate crowdin A_Nightmare_Called_Ember_scene_5_Sam_Home_271a2fda:
-msgid "[@danny towards sad talk_happy@] Well, we're finally at your place now. And away from all that... whatever that was.@] 
-msgstr "[@danny towards sad talk_happy@] Well, we're finally at your place now. And away from all that... whatever that was.@] 
+msgid "[@danny towards sad talk_happy@] Well, we're finally at your place now. And away from all that... whatever that was."
+msgstr "[@danny towards sad talk_happy@] Well, we're finally at your place now. And away from all that... whatever that was."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3052 ## translate crowdin A_Nightmare_Called_Ember_scene_5_Sam_Home_2e0b842e:
 msgid "[@sam co closed unhappy talk_distraught@] {i}Urgh{/i}... we're finally back home? Thank God... my head is killing me."
@@ -3351,8 +3351,8 @@ msgid "[@kate nude towardsdown unhappy talk_happy@] Oh no, don't worry Danny. Yo
 msgstr "[@kate nude towardsdown unhappy talk_happy@] Oh no, don't worry Danny. You were new to it, and it was fun! It just always smarts a good bit afterwards."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4289 ## translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_AfterSex_11ef95c5:
-msgid "[@danny boxers towards rise talk_happy@] ...so, does that mean...?@] 
-msgstr "[@danny boxers towards rise talk_happy@] ...so, does that mean...?@] 
+msgid "[@danny boxers towards rise talk_happy@] ...so, does that mean...?"
+msgstr "[@danny boxers towards rise talk_happy@] ...so, does that mean...?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4292 ## translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_AfterSex_e8eff557:
 msgid "[@kate nude towards rise talk_amused@] {i}Heh{/i}, sure, maybe we can do it again sometime... {u}if{/u} I'm in the right mood."
@@ -3371,8 +3371,8 @@ msgid "[@danny boxers down sad bite blush@] {i}*Blushes*{/i}"
 msgstr "[@danny boxers down sad bite blush@] {i}*Blushes*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4304 ## translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_AfterSex_ac7c3f0d:
-msgid "[@kate nude towardsdown sad talk_amused@] {i}*Laughs*{/i} You should know, that not every girl is into it. It's a gift and an expression of a woman's comfortability, remember that.@] 
-msgstr "[@kate nude towardsdown sad talk_amused@] {i}*Laughs*{/i} You should know, that not every girl is into it. It's a gift and an expression of a woman's comfortability, remember that.@] 
+msgid "[@kate nude towardsdown sad talk_amused@] {i}*Laughs*{/i} You should know, that not every girl is into it. It's a gift and an expression of a woman's comfortability, remember that."
+msgstr "[@kate nude towardsdown sad talk_amused@] {i}*Laughs*{/i} You should know, that not every girl is into it. It's a gift and an expression of a woman's comfortability, remember that."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4307 ## translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_AfterSex_037b628c:
 msgid "[@danny boxers towards rise talk_amused -blush@] Yeah... absolutely, I will."
@@ -3631,8 +3631,8 @@ msgid "[@box_ghost at_player neutral talk_happy@] Well, the actual lady persona 
 msgstr "[@box_ghost at_player neutral talk_happy@] Well, the actual lady persona of the dragon came in looking for something like a jewelry case to place her shiny necklace in, right?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4612 ## translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_12ac1f7e:
-msgid "[@box_ghost at_player neutral talk_amused@] Sadly, the fair maiden could not afford any of my delightful wares! Besides some lovely cardboard boxes, of course...@] 
-msgstr "[@box_ghost at_player neutral talk_amused@] Sadly, the fair maiden could not afford any of my delightful wares! Besides some lovely cardboard boxes, of course...@] 
+msgid "[@box_ghost at_player neutral talk_amused@] Sadly, the fair maiden could not afford any of my delightful wares! Besides some lovely cardboard boxes, of course..."
+msgstr "[@box_ghost at_player neutral talk_amused@] Sadly, the fair maiden could not afford any of my delightful wares! Besides some lovely cardboard boxes, of course..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4615 ## translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_2_Mall_Shop_47c76b2f:
 msgid "[@box_ghost at_player unhappy talk_frown@] Upon this realization, she began to tirade! Turning back into a fearsome dragon, and, well... ate all my inventory from the past few days...."
@@ -5527,8 +5527,8 @@ msgid "[@danny@] (She likes getting off on humiliating Danny Fenton, huh? Well, 
 msgstr "[@danny@] (She likes getting off on humiliating Danny Fenton, huh? Well, his ol' pal Billy doesn't quite like that! Time to finish her off!)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6988 ## translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_1c29ad7a:
-msgid "[@danny@] Okay, get ready, cause I'm gonna push myself over the edge too!@] 
-msgstr "[@danny@] Okay, get ready, cause I'm gonna push myself over the edge too!@] 
+msgid "[@danny@] Okay, get ready, cause I'm gonna push myself over the edge too!"
+msgstr "[@danny@] Okay, get ready, cause I'm gonna push myself over the edge too!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6991 ## translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_47be0dde:
 msgid "[@star@] P-push y-yourself over th- WAIT, does that mean you're gonna-"
@@ -7711,8 +7711,8 @@ msgid "[@jazz towards rise talk_happy@] Okay, so you're totally getting some boo
 msgstr "[@jazz towards rise talk_happy@] Okay, so you're totally getting some booze for this party on Saturday, right?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9691 ## translate crowdin A_Nightmare_Called_Ember_desiree_continued_4_home_hall_9d5d9425:
-msgid "[@danny towards_wide angry talk_consternation@] {i}Shhh!{/i} Not so loud!@] 
-msgstr "[@danny towards_wide angry talk_consternation@] {i}Shhh!{/i} Not so loud!@] 
+msgid "[@danny towards_wide angry talk_consternation@] {i}Shhh!{/i} Not so loud!"
+msgstr "[@danny towards_wide angry talk_consternation@] {i}Shhh!{/i} Not so loud!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:9694 ## translate crowdin A_Nightmare_Called_Ember_desiree_continued_4_home_hall_36c488c9:
 msgid "[@extend@] Wait, y-you heard about that?!"
@@ -8267,8 +8267,8 @@ msgid "[@danny closed wondering talk_amused@] What do you think, Des?"
 msgstr "[@danny closed wondering talk_amused@] What do you think, Des?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:10410 ## translate crowdin A_Nightmare_Called_Ember_desiree_continued_6_mc_home_party_evening_26866eeb:
-msgid "[@danny at_player rise talk_displeased@] Des?@] 
-msgstr "[@danny at_player rise talk_displeased@] Des?@] 
+msgid "[@danny at_player rise talk_displeased@] Des?"
+msgstr "[@danny at_player rise talk_displeased@] Des?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:10413 ## translate crowdin A_Nightmare_Called_Ember_desiree_continued_6_mc_home_party_evening_a2858dda:
 msgid "[@extend@] DES!!"
@@ -8443,8 +8443,8 @@ msgid "[@desiree@] {i}Uhhm{/i}, just, visiting some... old friends I know who li
 msgstr "[@desiree@] {i}Uhhm{/i}, just, visiting some... old friends I know who live in the area. I'm actually..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:10700 ## translate crowdin A_Nightmare_Called_Ember_desiree_6_party_desiree_jazz_sober_66c9809b:
-msgid "[@desiree@] ...a {u}student{/u}! At the, {i}ehm{/i}, University of Wisconsin!@] 
-msgstr "[@desiree@] ...a {u}student{/u}! At the, {i}ehm{/i}, University of Wisconsin!@] 
+msgid "[@desiree@] ...a {u}student{/u}! At the, {i}ehm{/i}, University of Wisconsin!"
+msgstr "[@desiree@] ...a {u}student{/u}! At the, {i}ehm{/i}, University of Wisconsin!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:10704 ## translate crowdin A_Nightmare_Called_Ember_desiree_6_party_desiree_jazz_sober_c1c183c4:
 msgid "[@jazz towards wondering talk_amused@] Oh, seriously? That's cool, my parents went there.{p}What are you studying?"
@@ -8515,8 +8515,8 @@ msgid "[@desiree@] ...{i}ehrr{/i}.... I mean to say... it's driven me so crazy, 
 msgstr "[@desiree@] ...{i}ehrr{/i}.... I mean to say... it's driven me so crazy, not knowing you in person yet, being Danny's big sister, and what not... but I've heard a lot about you."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:10780 ## translate crowdin A_Nightmare_Called_Ember_desiree_6_party_desiree_jazz_sober_da75cd3b:
-msgid "[@jazz towards idle talk_amused@] Oh, well that's so nice!{nw}@] 
-msgstr "[@jazz towards idle talk_amused@] Oh, well that's so nice!{nw}@] 
+msgid "[@jazz towards idle talk_amused@] Oh, well that's so nice!{nw}"
+msgstr "[@jazz towards idle talk_amused@] Oh, well that's so nice!{nw}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:10784 ## translate crowdin A_Nightmare_Called_Ember_desiree_6_party_desiree_jazz_sober_75242dce:
 msgid "[@extend@] Hey Danny, leave us girls alone to chat a little more closely."
@@ -9823,8 +9823,8 @@ msgid "[@danny phantom arms_normal towards sad talk_displeased@] Des... is every
 msgstr "[@danny phantom arms_normal towards sad talk_displeased@] Des... is everyone safe?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12639 ## translate crowdin A_Nightmare_Called_Ember_desiree_11_lake_monster_defeated_59f53ae7:
-msgid "[@desiree@] I... I think so, your mother was telling the guestst that we were safe in the... Master, wait, you're hurt!!@] 
-msgstr "[@desiree@] I... I think so, your mother was telling the guestst that we were safe in the... Master, wait, you're hurt!!@] 
+msgid "[@desiree@] I... I think so, your mother was telling the guestst that we were safe in the... Master, wait, you're hurt!!"
+msgstr "[@desiree@] I... I think so, your mother was telling the guestst that we were safe in the... Master, wait, you're hurt!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12642 ## translate crowdin A_Nightmare_Called_Ember_desiree_11_lake_monster_defeated_b97456eb:
 msgid "[@danny phantom arms_normal towards sad talk_happy@] N-no, no, I'm fine... just... feeling a... little... light-headed here..."
@@ -10043,8 +10043,8 @@ msgid "[@danny@] You're so tight...! It's amazing..."
 msgstr "[@danny@] You're so tight...! It's amazing..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12905 ## translate crowdin A_Nightmare_Called_Ember_desiree_continued_13_sex_6ef8e185:
-msgid "[@desiree@] {i}Ohhh{/i}, I'm so pleased you love it! It's all for you, my dear Master...@] 
-msgstr "[@desiree@] {i}Ohhh{/i}, I'm so pleased you love it! It's all for you, my dear Master...@] 
+msgid "[@desiree@] {i}Ohhh{/i}, I'm so pleased you love it! It's all for you, my dear Master..."
+msgstr "[@desiree@] {i}Ohhh{/i}, I'm so pleased you love it! It's all for you, my dear Master..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12908 ## translate crowdin A_Nightmare_Called_Ember_desiree_continued_13_sex_dbe7bccb:
 msgid "[@desiree@] (I hope he doesn't see me playing with him too clearly! I really can't let him know how {u}much{/u} I truly enjoy his cock... it'd all go straight to his head! Sands, yes, give it to me Danny!!)"
@@ -11931,8 +11931,8 @@ msgid "[@ember towards rise talk_amused@] Uhh... then I uh, I totally promise I 
 msgstr "[@ember towards rise talk_amused@] Uhh... then I uh, I totally promise I won't try conquering the world again. For real."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15431 ## translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_72e7475c:
-msgid "[@danny towards angry talk_distraught@] ...no. No, that wasn't- that wasn't an opportunity for you to audition your \"redemption\" arc.@] 
-msgstr "[@danny towards angry talk_distraught@] ...no. No, that wasn't- that wasn't an opportunity for you to audition your \"redemption\" arc.@] 
+msgid "[@danny towards angry talk_distraught@] ...no. No, that wasn't- that wasn't an opportunity for you to audition your \"redemption\" arc."
+msgstr "[@danny towards angry talk_distraught@] ...no. No, that wasn't- that wasn't an opportunity for you to audition your \"redemption\" arc."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15435 ## translate crowdin A_Nightmare_Called_Ember_scene_19_Danny_Bedroom_Evening_9db27439:
 msgid "[@ember towards_wide angry talk_distraught@] Aghhh! Fuck you, kid!"
@@ -14631,8 +14631,8 @@ msgid "[@ember towards angry talk_amused@] Heh, cute... but don't expect this as
 msgstr "[@ember towards angry talk_amused@] Heh, cute... but don't expect this ass to just be on tap from now on! I'm not that kind of girl."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18420 ## translate crowdin A_Nightmare_Called_Ember_ember_cowgirl_scene_9d7855a4:
-msgid "[@danny towards angry talk_amused@] Right, n-no, I definitely won't.@] 
-msgstr "[@danny towards angry talk_amused@] Right, n-no, I definitely won't.@] 
+msgid "[@danny towards angry talk_amused@] Right, n-no, I definitely won't."
+msgstr "[@danny towards angry talk_amused@] Right, n-no, I definitely won't."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18423 ## translate crowdin A_Nightmare_Called_Ember_ember_cowgirl_scene_ee214eb5:
 msgid "[@ember towards idle talk_happy@] ...good."
@@ -14691,8 +14691,8 @@ msgid "[@danny at_player rise talk_amused@] Hopefully the bathroom's open."
 msgstr "[@danny at_player rise talk_amused@] Hopefully the bathroom's open."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18530 ## translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_bdf5f78b:
-msgid "[@jazz@] {i}DANNY?!{/i}@] 
-msgstr "[@jazz@] {i}DANNY?!{/i}@] 
+msgid "[@jazz@] {i}DANNY?!{/i}"
+msgstr "[@jazz@] {i}DANNY?!{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18534 ## translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_be87be3c:
 msgid "[@danny@] Oh crap! Jazz, I'm so sorry! I didn't hear the-"

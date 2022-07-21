@@ -79,8 +79,8 @@ msgid "[@danny@] Alright then... lick the tip of my cock. Use your tongue to lic
 msgstr "[@danny@] Alright then... lick the tip of my cock. Use your tongue to lick your master's cock, and tell me how much you love the taste..."
 
 # game/code/misc/desiree_repeatable_service.rpy:290 ## translate crowdin desiree_favour_Desiree_Combo_5fbf55c6:
-msgid "[@danny@] Yes... lap up the mess you're making, Desiree... you're the one making that@] 
-msgstr "[@danny@] Yes... lap up the mess you're making, Desiree... you're the one making that@] 
+msgid "[@danny@] Yes... lap up the mess you're making, Desiree... you're the one making that"
+msgstr "[@danny@] Yes... lap up the mess you're making, Desiree... you're the one making that"
 
 # game/code/misc/desiree_repeatable_service.rpy:292 ## translate crowdin desiree_favour_Desiree_Combo_5b89899c:
 msgid "[@desiree@] (He's certainly gained a bit more of a confident edge when it comes to his dirty talk...)"
@@ -143,8 +143,8 @@ msgid "[@desiree@] (This way I end up tasting the whole length of his cock, desp
 msgstr "[@desiree@] (This way I end up tasting the whole length of his cock, despite how far it reaches into my mouth...)"
 
 # game/code/misc/desiree_repeatable_service.rpy:413 ## translate crowdin desiree_favour_Desiree_Combo_7380b047:
-msgid "[@danny@] And a little more power thrusting to really... get things going...@] 
-msgstr "[@danny@] And a little more power thrusting to really... get things going...@] 
+msgid "[@danny@] And a little more power thrusting to really... get things going..."
+msgstr "[@danny@] And a little more power thrusting to really... get things going..."
 
 # game/code/misc/desiree_repeatable_service.rpy:414 ## translate crowdin desiree_favour_Desiree_Combo_1b31d32a:
 msgid "[@desiree@] {i}Chwabp... chawmop... glogph{/i}... oh, m-mashter!"

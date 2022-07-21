@@ -1843,8 +1843,8 @@ msgid "[@kate talk_happy_2 sad_2 blush@] Yeah, and I should clean myself up befo
 msgstr "[@kate talk_happy_2 sad_2 blush@] Yeah, and I should clean myself up before someone comes looking for me. I'd have to say a ghost came in here and shot his ectoplasm all over me! Hahah, wouldn't that be silly?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2387 ## translate crowdin kates_hero_post_blowjob_104a8012:
-msgid "[@kate bite rise_one@] See you later, Danny... you cutie!@] 
-msgstr "[@kate bite rise_one@] See you later, Danny... you cutie!@] 
+msgid "[@kate bite rise_one@] See you later, Danny... you cutie!"
+msgstr "[@kate bite rise_one@] See you later, Danny... you cutie!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2426 ## translate crowdin kates_hero_blowjob_d9eb4056:
 msgid "[@kate@] {i}Hmmm{/i}... 'cho'... diz.. zit...?"
@@ -1863,8 +1863,8 @@ msgid "[@danny@] Oh my god, Kate... yeah... this feels so fucking goood~!"
 msgstr "[@danny@] Oh my god, Kate... yeah... this feels so fucking goood~!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2442 ## translate crowdin kates_hero_blowjob_52c77eab:
-msgid "[@kate@] {i}Hmmm{/i}....@] 
-msgstr "[@kate@] {i}Hmmm{/i}....@] 
+msgid "[@kate@] {i}Hmmm{/i}...."
+msgstr "[@kate@] {i}Hmmm{/i}...."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2446 ## translate crowdin kates_hero_blowjob_3edb45d2:
 msgid "[@kate@] {i}*Slluapp* *Mwyahhh* *Schlahrp*{/i}"
@@ -2399,8 +2399,8 @@ msgid "[@sam closed talk_frown_3 sad@] Trust me, I would {b}never{/b} want to we
 msgstr "[@sam closed talk_frown_3 sad@] Trust me, I would {b}never{/b} want to wear something like this for fun."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3077 ## translate crowdin kittys_revange_the_punishment_ef6986ac:
-msgid "[@sam away talk_frown neutral@] It's my parents' idea. They're punishing me for what happened the other day with my... new look.@] 
-msgstr "[@sam away talk_frown neutral@] It's my parents' idea. They're punishing me for what happened the other day with my... new look.@] 
+msgid "[@sam away talk_frown neutral@] It's my parents' idea. They're punishing me for what happened the other day with my... new look."
+msgstr "[@sam away talk_frown neutral@] It's my parents' idea. They're punishing me for what happened the other day with my... new look."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3079 ## translate crowdin kittys_revange_the_punishment_5e6a92f2:
 msgid "[@tucker talk_frown towards neutral@] Oof, man, that really sucks. Somehow, I just don't think peppy and filled with spunk is your best motif though."
@@ -2695,8 +2695,8 @@ msgid@] Please feel free to share your opinions about the game and please visit 
 msgstr@] Please feel free to share your opinions about the game and please visit our Patreon or Discord."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3540 ## translate crowdin kittys_revange_postfight_a439f609:
-msgid@] Until next time. -GZone@] 
-msgstr@] Until next time. -GZone@] 
+msgid@] Until next time. -GZone"
+msgstr@] Until next time. -GZone"
 
 # XXtranslate crowdin strings:XX# XX## game/code/episodes/episode_3/episode3_MZ.rpy:406
 msgid "[mschoice] (Hmmm... I should say something to try and cheer Sam up.)"

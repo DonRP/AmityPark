@@ -803,8 +803,8 @@ msgid "[@danny f offscreen towards_wide unhappy talk_distraught@] There's gotta 
 msgstr "[@danny f offscreen towards_wide unhappy talk_distraught@] There's gotta be something I can find to-"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:997 ## translate crowdin The_Great_Out_Doors_parachute_found_a04a7498:
-msgid "[@danny f offscreen towards_wide unhappy talk_distraught@] Hmm? Two perfectly placed parachutes, but...@] 
-msgstr "[@danny f offscreen towards_wide unhappy talk_distraught@] Hmm? Two perfectly placed parachutes, but...@] 
+msgid "[@danny f offscreen towards_wide unhappy talk_distraught@] Hmm? Two perfectly placed parachutes, but..."
+msgstr "[@danny f offscreen towards_wide unhappy talk_distraught@] Hmm? Two perfectly placed parachutes, but..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:998 ## translate crowdin The_Great_Out_Doors_parachute_found_ba798f44:
 msgid "[@danny f offscreen towards rise talk_frown@] They've both got our names on them?"
@@ -1035,8 +1035,8 @@ msgid "[@treeghost defeated towards sad talk_frown@] No... I... shan't be stoppe
 msgstr "[@treeghost defeated towards sad talk_frown@] No... I... shan't be stopped... I must... find her... you... stole her away..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1354 ## translate crowdin The_Great_Out_Doors_scene_8a_2_c34cd34e:
-msgid "[@danny phantom towards angry talk_frown@] Hey there, easy now! Listen, I didn't steal this Teresa person.@] 
-msgstr "[@danny phantom towards angry talk_frown@] Hey there, easy now! Listen, I didn't steal this Teresa person.@] 
+msgid "[@danny phantom towards angry talk_frown@] Hey there, easy now! Listen, I didn't steal this Teresa person."
+msgstr "[@danny phantom towards angry talk_frown@] Hey there, easy now! Listen, I didn't steal this Teresa person."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:1357 ## translate crowdin The_Great_Out_Doors_scene_8a_2_908b9fdb:
 msgid "[@treeghost towards rise talk_frown2@] I... well then, who {i}are{/i} you?"
@@ -4955,8 +4955,8 @@ msgid "[@danny towards sad talk_happy blush@] I'm sorry Mom, it's just that you'
 msgstr "[@danny towards sad talk_happy blush@] I'm sorry Mom, it's just that you're so beautiful I thought I could buy something really nice to make you look really radiant in!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6378 ## translate crowdin The_Great_Out_Doors_scene_23_Danny_Bedroom_2d647993:
-msgid "[@maddie towards sad talk_happy blush@] Oh Danny... that's very sweet of you. But you don't need to buy me clothes, I can do that myself. I prefer... more one on one time together.@] 
-msgstr "[@maddie towards sad talk_happy blush@] Oh Danny... that's very sweet of you. But you don't need to buy me clothes, I can do that myself. I prefer... more one on one time together.@] 
+msgid "[@maddie towards sad talk_happy blush@] Oh Danny... that's very sweet of you. But you don't need to buy me clothes, I can do that myself. I prefer... more one on one time together."
+msgstr "[@maddie towards sad talk_happy blush@] Oh Danny... that's very sweet of you. But you don't need to buy me clothes, I can do that myself. I prefer... more one on one time together."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6381 ## translate crowdin The_Great_Out_Doors_scene_23_Danny_Bedroom_1a74f26c:
 msgid "[@danny towards rise talk_distraught -blush@] Well, we could go see a movie then if you'd prefer? Or just to the Mall in general."

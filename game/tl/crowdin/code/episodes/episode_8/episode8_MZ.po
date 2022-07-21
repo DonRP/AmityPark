@@ -2299,8 +2299,8 @@ msgid "[@danny towards neutral talk_displeased@] Oh, {i}uh{/i} sure, okay..."
 msgstr "[@danny towards neutral talk_displeased@] Oh, {i}uh{/i} sure, okay..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3027 ## translate crowdin Episode_8_stage_150_school_penelope_office_gift_advice_03f8297e:
-msgid "[@penelope@] Now let's see now... now I've already spoken to {i}Miss{/i} Fenton today...@] 
-msgstr "[@penelope@] Now let's see now... now I've already spoken to {i}Miss{/i} Fenton today...@] 
+msgid "[@penelope@] Now let's see now... now I've already spoken to {i}Miss{/i} Fenton today..."
+msgstr "[@penelope@] Now let's see now... now I've already spoken to {i}Miss{/i} Fenton today..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:3031 ## translate crowdin Episode_8_stage_150_school_penelope_office_gift_advice_e28c991e:
 msgid "[@penelope@] hmm.. Danny, Danny, now where did I place you...?"
@@ -8455,8 +8455,8 @@ msgid "[@penelope@] What are you watching over there?"
 msgstr "[@penelope@] What are you watching over there?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11883 ## translate crowdin Episode_8_stage_415_living_room_watching_tv_12328d79:
-msgid "[@danny@] Penelope...? Oh, hey.{p}{i}Uhhh{/i}, I don't know, nothing interesting...@] 
-msgstr "[@danny@] Penelope...? Oh, hey.{p}{i}Uhhh{/i}, I don't know, nothing interesting...@] 
+msgid "[@danny@] Penelope...? Oh, hey.{p}{i}Uhhh{/i}, I don't know, nothing interesting..."
+msgstr "[@danny@] Penelope...? Oh, hey.{p}{i}Uhhh{/i}, I don't know, nothing interesting..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11887 ## translate crowdin Episode_8_stage_415_living_room_watching_tv_f2e699af:
 msgid "[@extend@] sorry, did you want to watch somethin-"
@@ -9979,8 +9979,8 @@ msgid@] Please feel free to share your opinions about the game and please visit 
 msgstr@] Please feel free to share your opinions about the game and please visit our Patreon or Discord."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13727 ## translate crowdin episode_8_afterward_a439f609:
-msgid@] Until next time. -GZone@] 
-msgstr@] Until next time. -GZone@] 
+msgid@] Until next time. -GZone"
+msgstr@] Until next time. -GZone"
 
 # XXtranslate crowdin strings:XX# XX## game/code/episodes/episode_8/episode8_MZ.rpy:9406
 msgid "[mschoice] Buy the coffee beans for ($200) ?"

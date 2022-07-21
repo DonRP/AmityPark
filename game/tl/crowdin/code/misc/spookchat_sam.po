@@ -167,8 +167,8 @@ msgid "[@dannyspook@] Heck, beats me. You're more of the detective. Generally sm
 msgstr "[@dannyspook@] Heck, beats me. You're more of the detective. Generally smarter, too."
 
 # game/code/misc/spookchat_sam.rpy:139 ## translate crowdin sam_chat_2_fe5374e8:
-msgid "[@samspook@] Well, being a good hero means knowing your strengths {i}and{/i} limitations. You're doing pretty good at the latter so far. Hahah :P@] 
-msgstr "[@samspook@] Well, being a good hero means knowing your strengths {i}and{/i} limitations. You're doing pretty good at the latter so far. Hahah :P@] 
+msgid "[@samspook@] Well, being a good hero means knowing your strengths {i}and{/i} limitations. You're doing pretty good at the latter so far. Hahah :P"
+msgstr "[@samspook@] Well, being a good hero means knowing your strengths {i}and{/i} limitations. You're doing pretty good at the latter so far. Hahah :P"
 
 # game/code/misc/spookchat_sam.rpy:150 ## translate crowdin sam_chat_2_76b2fe88_4:
 msgid "[@nvl clear
@@ -179,8 +179,8 @@ msgid "[@dannyspook@] I'll talk to you later, Sam. Peace out, lord of \"dorkness
 msgstr "[@dannyspook@] I'll talk to you later, Sam. Peace out, lord of \"dorkness\". Lol"
 
 # game/code/misc/spookchat_sam.rpy:154 ## translate crowdin sam_chat_2_6aebcdb4:
-msgid "[@samspook@] Yeah, I'll see around school. Take care, Ghost nerd. :)@] 
-msgstr "[@samspook@] Yeah, I'll see around school. Take care, Ghost nerd. :)@] 
+msgid "[@samspook@] Yeah, I'll see around school. Take care, Ghost nerd. :)"
+msgstr "[@samspook@] Yeah, I'll see around school. Take care, Ghost nerd. :)"
 
 # XXtranslate crowdin strings:XX# XX## game/code/misc/spookchat_sam.rpy:26
 msgid "[mschoice] Message Sam."
@@ -211,6 +211,6 @@ msgid "[mschoice] Do you worry about the ghost attacks at all?"
 msgstr "[mschoice] Do you worry about the ghost attacks at all?"
 
 # XX## game/code/misc/spookchat_sam.rpy:46
-msgid "[mschoice] I'll talk to you later, Sam.@] 
-msgstr "[mschoice] I'll talk to you later, Sam.@] 
+msgid "[mschoice] I'll talk to you later, Sam."
+msgstr "[mschoice] I'll talk to you later, Sam."
 

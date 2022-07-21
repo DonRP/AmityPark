@@ -4519,8 +4519,8 @@ msgid "[@danny@] N-no, not at all! I would totally never do that!"
 msgstr "[@danny@] N-no, not at all! I would totally never do that!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3967 ## translate crowdin A_Stroke_After_Midnight_scene_9b_schoolhallright_e72f9f29:
-msgid "[@dash neutral talk_frown_3 blank_stare@] Yeah, well you better not be! Freaking Fenton... always... {i}*Hic*{/i} freaking talkin' out loud, and shit... {i}*Sniff* *Belch*{/i}@] 
-msgstr "[@dash neutral talk_frown_3 blank_stare@] Yeah, well you better not be! Freaking Fenton... always... {i}*Hic*{/i} freaking talkin' out loud, and shit... {i}*Sniff* *Belch*{/i}@] 
+msgid "[@dash neutral talk_frown_3 blank_stare@] Yeah, well you better not be! Freaking Fenton... always... {i}*Hic*{/i} freaking talkin' out loud, and shit... {i}*Sniff* *Belch*{/i}"
+msgstr "[@dash neutral talk_frown_3 blank_stare@] Yeah, well you better not be! Freaking Fenton... always... {i}*Hic*{/i} freaking talkin' out loud, and shit... {i}*Sniff* *Belch*{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3970 ## translate crowdin A_Stroke_After_Midnight_scene_9b_schoolhallright_5bf50c22:
 msgid "[@paulina closed talk_frown@] Dash, what the heck! You said you weren't gonna get drunk!!"
@@ -8939,8 +8939,8 @@ msgid "[@nvl clear
 msgstr "[@nvl clear
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7161 ## translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_9d034bdc:
-msgid "[@starspook@] Hey Billy thanks again for today! ;)@] 
-msgstr "[@starspook@] Hey Billy thanks again for today! ;)@] 
+msgid "[@starspook@] Hey Billy thanks again for today! ;)"
+msgstr "[@starspook@] Hey Billy thanks again for today! ;)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7162 ## translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_dc488da6:
 msgid "[@billspook@] Uhm... yeah, you are welcome!"
@@ -8999,24 +8999,24 @@ msgid "[@nvl clear
 msgstr "[@nvl clear
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7188 ## translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_80411932:
-msgid "[@starspook@] I just thought you deserved something special for today. For your eyes only of course. :P@] 
-msgstr "[@starspook@] I just thought you deserved something special for today. For your eyes only of course. :P@] 
+msgid "[@starspook@] I just thought you deserved something special for today. For your eyes only of course. :P"
+msgstr "[@starspook@] I just thought you deserved something special for today. For your eyes only of course. :P"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7193 ## translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_60fa220b:
 msgid "[@billspook@] Thanks, I am definitely looking forward to see you again now."
 msgstr "[@billspook@] Thanks, I am definitely looking forward to see you again now."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7194 ## translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_45f43275:
-msgid "[@starspook@] Yeah, me too. Let us go on a date again. I am already looking forward to that <3@] 
-msgstr "[@starspook@] Yeah, me too. Let us go on a date again. I am already looking forward to that <3@] 
+msgid "[@starspook@] Yeah, me too. Let us go on a date again. I am already looking forward to that <3"
+msgstr "[@starspook@] Yeah, me too. Let us go on a date again. I am already looking forward to that <3"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7195 ## translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_d1ce52f1:
 msgid "[@billspook@] Of course!"
 msgstr "[@billspook@] Of course!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7196 ## translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_1b98d878:
-msgid "[@starspook@] Well, I will have to go and sleep now. Good night Billy! Talk to you soon!! <3@] 
-msgstr "[@starspook@] Well, I will have to go and sleep now. Good night Billy! Talk to you soon!! <3@] 
+msgid "[@starspook@] Well, I will have to go and sleep now. Good night Billy! Talk to you soon!! <3"
+msgstr "[@starspook@] Well, I will have to go and sleep now. Good night Billy! Talk to you soon!! <3"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7202 ## translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_173abacb:
 msgid "[@danny phantom talk_happy@] Oh man, that sure was a nice surprise..."

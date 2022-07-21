@@ -123,8 +123,8 @@ msgid "[mschoice] Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_
 msgstr "[mschoice] Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
 # XX## game/code/base/screens.rpy:733
-msgid "[mschoice] {b}Credits{/b}@] 
-msgstr "[mschoice] {b}Credits{/b}@] 
+msgid "[mschoice] {b}Credits{/b}"
+msgstr "[mschoice] {b}Credits{/b}"
 
 # XX## game/code/base/screens.rpy:734
 msgid "[mschoice] Created by:  {b}{a=https://www.patreon.com/GZone_Art}GZone{/a}{/b}, Project Manager\n"
@@ -159,8 +159,8 @@ msgid "[mschoice] Our deepest appreciation and gratitude to Rhonin, {a=https://w
 msgstr "[mschoice] Our deepest appreciation and gratitude to Rhonin, {a=https://www.youtube.com/c/puritysin}Purity Sin{/a}, Headmaster1988, TheDevian, thomasxlong, SrPani and {a=https://www.deviantart.com/dltoon}DLT{/a} for helping us improve the game in a variety of ways."
 
 # XX## game/code/base/screens.rpy:746
-msgid "[mschoice] And a big thank you to all the many loyal supporters on Patreon and Discord! This project wouldn't be possible without you guys.\n @] 
-msgstr "[mschoice] And a big thank you to all the many loyal supporters on Patreon and Discord! This project wouldn't be possible without you guys.\n @] 
+msgid "[mschoice] And a big thank you to all the many loyal supporters on Patreon and Discord! This project wouldn't be possible without you guys.\n "
+msgstr "[mschoice] And a big thank you to all the many loyal supporters on Patreon and Discord! This project wouldn't be possible without you guys.\n "
 
 # XX## game/code/base/screens.rpy:819
 msgid "[mschoice] {#file_time}%A, %B %d %Y, %H:%M"
