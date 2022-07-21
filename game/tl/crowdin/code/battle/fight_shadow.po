@@ -1,62 +1,40 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
+﻿# TODO: Translation updated at 2022-07-19 HH:HH# game/code/battle/fight_shadow.rpy:257 ## translate crowdin fight_shadow_fight_main_7d2b96fa:
+msgid "[@danny@] Man, this guy's really tough to hit! It's like trying to punch my own shadow! ...erh, wait..."
+msgstr "[@danny@] Man, this guy's really tough to hit! It's like trying to punch my own shadow! ...erh, wait..."
 
-# game/code/battle/fight_shadow.rpy:257
-translate crowdin fight_shadow_fight_main_7d2b96fa:
+# game/code/battle/fight_shadow.rpy:261 ## translate crowdin fight_shadow_fight_main_e76b5a91:
+msgid "[@danny@] I'm gonna banish you back into the shadow realm! (Heh he...)"
+msgstr "[@danny@] I'm gonna banish you back into the shadow realm! (Heh he...)"
 
-    # danny "Man, this guy's really tough to hit! It's like trying to punch my own shadow! ...erh, wait..."
-    danny "Man, this guy's really tough to hit! It's like trying to punch my own shadow! ...erh, wait..."
+# game/code/battle/fight_shadow.rpy:310 ## translate crowdin fight_shadow_t_ghost_turn_d58590d1:
+msgid "[@danny@] nothing happened."
+msgstr "[@danny@] nothing happened."
 
-# game/code/battle/fight_shadow.rpy:261
-translate crowdin fight_shadow_fight_main_e76b5a91:
+# game/code/battle/fight_shadow.rpy:457 ## translate crowdin fight_shadow_player_invisible_6dedd31d:
+msgid "[@danny@] I don't have enough energy for this."
+msgstr "[@danny@] I don't have enough energy for this."
 
-    # danny "I'm gonna banish you back into the shadow realm! (Heh he...)"
-    danny "I'm gonna banish you back into the shadow realm! (Heh he...)"
+# game/code/battle/fight_shadow.rpy:517 ## translate crowdin fight_shadow_player_ghost_ray_6dedd31d:
+msgid "[@danny@] I don't have enough energy for this."
+msgstr "[@danny@] I don't have enough energy for this."
 
-# game/code/battle/fight_shadow.rpy:310
-translate crowdin fight_shadow_t_ghost_turn_d58590d1:
+# game/code/battle/fight_shadow.rpy:702 ## translate crowdin fight_shadow_ghost_attack_cedae1c8:
+msgid "[@danny@] I need to be more careful!"
+msgstr "[@danny@] I need to be more careful!"
 
-    # danny "nothing happened."
-    danny "nothing happened."
+# game/code/battle/fight_shadow.rpy:786 ## translate crowdin fight_shadow_stop_Running_away_3e4f51de:
+msgid@] Be a man and fight! Paulina needs your help!"
+msgstr@] Be a man and fight! Paulina needs your help!"
 
-# game/code/battle/fight_shadow.rpy:457
-translate crowdin fight_shadow_player_invisible_6dedd31d:
+# game/code/battle/fight_shadow.rpy:792 ## translate crowdin fight_shadow_stop_Running_away_2_375e0910:
+msgid@] You can't just run away! Amity Park needs you to protect her."
+msgstr@] You can't just run away! Amity Park needs you to protect her."
 
-    # danny "I don't have enough energy for this."
-    danny "I don't have enough energy for this."
+# game/code/battle/fight_shadow.rpy:798 ## translate crowdin fight_shadow_stop_Running_away_3_5c10a6a0:
+msgid@] Don't leave now! Sam needs protection from the shadow monster."
+msgstr@] Don't leave now! Sam needs protection from the shadow monster."
 
-# game/code/battle/fight_shadow.rpy:517
-translate crowdin fight_shadow_player_ghost_ray_6dedd31d:
-
-    # danny "I don't have enough energy for this."
-    danny "I don't have enough energy for this."
-
-# game/code/battle/fight_shadow.rpy:702
-translate crowdin fight_shadow_ghost_attack_cedae1c8:
-
-    # danny "I need to be more careful!"
-    danny "I need to be more careful!"
-
-# game/code/battle/fight_shadow.rpy:786
-translate crowdin fight_shadow_stop_Running_away_3e4f51de:
-
-    # "Be a man and fight! Paulina needs your help!"
-    "Be a man and fight! Paulina needs your help!"
-
-# game/code/battle/fight_shadow.rpy:792
-translate crowdin fight_shadow_stop_Running_away_2_375e0910:
-
-    # "You can't just run away! Amity Park needs you to protect her."
-    "You can't just run away! Amity Park needs you to protect her."
-
-# game/code/battle/fight_shadow.rpy:798
-translate crowdin fight_shadow_stop_Running_away_3_5c10a6a0:
-
-    # "Don't leave now! Sam needs protection from the shadow monster."
-    "Don't leave now! Sam needs protection from the shadow monster."
-
-# game/code/battle/fight_shadow.rpy:804
-translate crowdin fight_shadow_stop_Running_away_4_d7319c18:
-
-    # "Stand your ground! Johnny 13's reign of perversion needs to be stopped here and now!"
-    "Stand your ground! Johnny 13's reign of perversion needs to be stopped here and now!"
+# game/code/battle/fight_shadow.rpy:804 ## translate crowdin fight_shadow_stop_Running_away_4_d7319c18:
+msgid@] Stand your ground! Johnny 13's reign of perversion needs to be stopped here and now!"
+msgstr@] Stand your ground! Johnny 13's reign of perversion needs to be stopped here and now!"
 

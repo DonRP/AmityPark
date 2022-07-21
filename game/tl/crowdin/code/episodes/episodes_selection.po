@@ -1,40 +1,36 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
+﻿# TODO: Translation updated at 2022-07-19 HH:HH# XXtranslate crowdin strings:XX# XX## game/code/episodes/episodes_selection.rpy:202
+msgid @+@+@[mschoice] Paulina was in trouble! What did I do?!"
+msgstr @+@+@[mschoice] Paulina was in trouble! What did I do?!"
 
-translate crowdin strings:
+# XX## game/code/episodes/episodes_selection.rpy:202
+msgid @+@+@[mschoice] Saved her immediately!"
+msgstr @+@+@[mschoice] Saved her immediately!"
 
-    # game/code/episodes/episodes_selection.rpy:202
-    old "Paulina was in trouble! What did I do?!"
-    new "Paulina was in trouble! What did I do?!"
+# XX## game/code/episodes/episodes_selection.rpy:202
+msgid @+@+@[mschoice] Waited to see what happens..."
+msgstr @+@+@[mschoice] Waited to see what happens..."
 
-    # game/code/episodes/episodes_selection.rpy:202
-    old "Saved her immediately!"
-    new "Saved her immediately!"
+# XX## game/code/episodes/episodes_selection.rpy:245
+msgid @+@+@[mschoice] Did I save Maddie from Ectopuss in the basement?"
+msgstr @+@+@[mschoice] Did I save Maddie from Ectopuss in the basement?"
 
-    # game/code/episodes/episodes_selection.rpy:202
-    old "Waited to see what happens..."
-    new "Waited to see what happens..."
+# XX## game/code/episodes/episodes_selection.rpy:330
+msgid @+@+@[mschoice] Did I prank Sam at Star's request?"
+msgstr @+@+@[mschoice] Did I prank Sam at Star's request?"
 
-    # game/code/episodes/episodes_selection.rpy:245
-    old "Did I save Maddie from Ectopuss in the basement?"
-    new "Did I save Maddie from Ectopuss in the basement?"
+# XX## game/code/episodes/episodes_selection.rpy:366
+msgid @+@+@[mschoice] Who did I take to the school dance?"
+msgstr @+@+@[mschoice] Who did I take to the school dance?"
 
-    # game/code/episodes/episodes_selection.rpy:330
-    old "Did I prank Sam at Star's request?"
-    new "Did I prank Sam at Star's request?"
+# XX## game/code/episodes/episodes_selection.rpy:366
+msgid @+@+@[mschoice] Sam"
+msgstr @+@+@[mschoice] Sam"
 
-    # game/code/episodes/episodes_selection.rpy:366
-    old "Who did I take to the school dance?"
-    new "Who did I take to the school dance?"
+# XX## game/code/episodes/episodes_selection.rpy:406
+msgid @+@+@[mschoice] Did I get romantically involved with Maddie?"
+msgstr @+@+@[mschoice] Did I get romantically involved with Maddie?"
 
-    # game/code/episodes/episodes_selection.rpy:366
-    old "Sam"
-    new "Sam"
-
-    # game/code/episodes/episodes_selection.rpy:406
-    old "Did I get romantically involved with Maddie?"
-    new "Did I get romantically involved with Maddie?"
-
-    # game/code/episodes/episodes_selection.rpy:440
-    old "Who did I get my second orgone charge from?"
-    new "Who did I get my second orgone charge from?"
+# XX## game/code/episodes/episodes_selection.rpy:440
+msgid @+@+@[mschoice] Who did I get my second orgone charge from?"
+msgstr @+@+@[mschoice] Who did I get my second orgone charge from?"
 
