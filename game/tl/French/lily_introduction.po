@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-21 21:42\n"
+"PO-Revision-Date: 2022-07-21 22:06\n"
 
 # TODO: Translation updated at 2022-07-19 HH:HH# game/code/character_events/lily/lily_introduction.rpy:13 ## translate crowdin lily_introduction_bf7b03eb:
 msgid "[@danny towards rise smile@] ({i}Hmmm...{/i} help wanted, huh? For fifty bucks a shift? I could always use the spare change lying around.)"
@@ -169,7 +169,7 @@ msgid "[@valerie uniform_point towards_wide angry talk_distraught@] F-F-Fenton!!
 msgstr ""
 
 # game/code/character_events/lily/lily_introduction.rpy:151 ## translate crowdin lily_introduction_74c559a8:
-msgid "[@lily towards rise talk_displeased@] Your name is £*£*£*£Fenton£*£*£*£?"
+msgid "[@lily towards rise talk_displeased@] Your name is \"Fenton\"?"
 msgstr ""
 
 # game/code/character_events/lily/lily_introduction.rpy:155 ## translate crowdin lily_introduction_bc87aa2b:
