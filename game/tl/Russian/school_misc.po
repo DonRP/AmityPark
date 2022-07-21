@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-07-21 21:42\n"
+"PO-Revision-Date: 2022-07-21 22:06\n"
 
 # TODO: Translation updated at 2022-07-19 HH:HH# game/code/locations/school/school_misc.rpy:6 ## translate crowdin schools_closed_6d531cde:
 msgid "[@danny@] The school's closing soon, I need to get out of here before I get locked in."
@@ -29,11 +29,11 @@ msgid "[@danny@] (That's the girl's bathroom, I can't go in there. Not without g
 msgstr ""
 
 # game/code/locations/school/school_misc.rpy:54 ## translate crowdin sams_locker_locked_011424b3:
-msgid "[@danny@] This is Sam's locker. Her locker number's £*£*£*£130£*£*£*£, but she once complained to the school administration that they were being unfair for not accepting her request..."
+msgid "[@danny@] This is Sam's locker. Her locker number's \"130\", but she once complained to the school administration that they were being unfair for not accepting her request..."
 msgstr ""
 
 # game/code/locations/school/school_misc.rpy:56 ## translate crowdin sams_locker_locked_5f1a95b7:
-msgid "[@danny@] ...of modifying her locker to £*£*£*£666£*£*£*£ instead. She didn't quite win that argument, sadly."
+msgid "[@danny@] ...of modifying her locker to \"666\" instead. She didn't quite win that argument, sadly."
 msgstr ""
 
 # game/code/locations/school/school_misc.rpy:72 ## translate crowdin locked_school_38b673da:
