@@ -5,15 +5,17 @@ import os
 # ATTENTION: there must not be 2 equal key or value
 dict = {
     # search_text : replace_text
+    # Discinct
     """
 translate crowdin""": """ ## translate crowdin""",
     """    # game""": """# XX## game""",
     """:
 
     # """: """:
-msgid \"""",
-    """    old \"""": """msgid \"[mschoice] """,
-    """    new \"""": """msgstr \"[mschoice] """,
+msgid @°@°@""",
+    """\\\"""": """£*£*£*£""",
+    """    old \"""": """msgid @+@+@[mschoice] """,
+    """    new \"""": """msgstr @+@+@[mschoice] """,
     # Effect
     """\" nointeract""": """ [nointeract]\"""",
     """\" with fade""": """ [withfade]\"""",
@@ -24,18 +26,16 @@ msgid \"""",
     """\" with vpunch""": """ [withvpunch]\"""",
     """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
 
-    """\n    """: """\nmsgstr \"""",
-    # ch
-    # """ \"Max \"""": """ \"[Max] """,
+    # Discinct
+    """\n    """: """\nmsgstr @°@°@""",
+    """@°@°@\"""": """@§@§@""",
 
-    """ \"extend \"""": """ \"[extend] """,
+    # Clean
+    """@§@§@""": """\"""",
+    """ \"""": """@] """,
+    """@°@°@""": """\"[@""",
 
-    # """ \"Cab driver\" \"""": """ \"Cab driver || """,
-    
-    # Fix
-    """msgstr \"\"[""": """msgstr \"[@""",
-    """msgid \"\"[""": """msgid \"[@""",
-    #Final
+    # Comment
     """\n ## translate crowdin strings:\n\n""": """\n\n# XXtranslate crowdin strings:XX\n""",
     """:XX\n# XX## game""": """:XX# XX## game""",
     # date
