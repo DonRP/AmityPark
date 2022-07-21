@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/characters/lancer.po\n"
+"X-Crowdin-File-ID: 3858\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2022-07-21 21:42\n"
+
+# TODO: Translation updated at 2022-07-19 HH:HH# game/code/characters/lancer.rpy:337 ## translate crowdin lancer_convo_29fe625f:
+msgid "[@lancer at_player talk_frown@] Don't bother me, Fenton."
+msgstr ""
+
