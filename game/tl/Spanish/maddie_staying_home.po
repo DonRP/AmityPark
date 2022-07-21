@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-21 21:42\n"
+"PO-Revision-Date: 2022-07-21 22:07\n"
 
 # TODO: Translation updated at 2022-07-19 HH:HH# game/code/character_events/maddie/maddie_staying_home.rpy:3 ## translate crowdin stay_home_216caf44:
 msgid "[@danny sit_0 towards unhappy talk_consternation@] If... if you really think I should stay home."
@@ -193,7 +193,7 @@ msgid "[@danny sitting on bed down sad talk_happy@] Y-yeah... I could definitely
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:258 ## translate crowdin staying_home_blowjob_first_2fa1cef9:
-msgid "[@maddie apron standing by bed arm_down towards idle talk_happy@] {i}*Chuckles*{/i} Well, you just let me know the next time you're feeling a little £*£*£*£under the weather.£*£*£*£"
+msgid "[@maddie apron standing by bed arm_down towards idle talk_happy@] {i}*Chuckles*{/i} Well, you just let me know the next time you're feeling a little \"under the weather.\""
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:261 ## translate crowdin staying_home_blowjob_first_72e03050:
