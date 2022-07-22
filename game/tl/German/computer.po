@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/base/computer.po\n"
+"X-Crowdin-File-ID: 4170\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-07-22 04:06\n"
+
+# TODO: Translation updated at 2022-07-19 HH:HH# XXtranslate crowdin strings:XX# XX## game/code/base/computer.rpy:668
+msgid "[mschoice] Scene Replay"
+msgstr ""
+
+# XX## game/code/base/computer.rpy:701
+msgid "[mschoice] <"
+msgstr ""
+
+# XX## game/code/base/computer.rpy:707
+msgid "[mschoice] >"
+msgstr ""
+
