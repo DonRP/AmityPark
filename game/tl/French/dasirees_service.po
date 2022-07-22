@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/misc/dasirees_service.po\n"
+"X-Crowdin-File-ID: 4274\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-07-22 04:05\n"
+
+# TODO: Translation updated at 2022-07-19 HH:HH# game/code/misc/dasirees_service.rpy:79 ## translate crowdin Dasiree_Blowjob_01_cc8fc4ae:
+msgid "[@danny@] Whoa! How'd you already-"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:88 ## translate crowdin Dasiree_Blowjob_01_1b8cb743:
+msgid "[@desiree@] You were simply erect, master, and a good slave must work hard to keep her master's member well taken care of..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:94 ## translate crowdin Dasiree_Blowjob_01_c613a51b:
+msgid "[@danny@] (Man, she must've really taken her whole harem girl position seriously... this kinda dedication to simply jerking guys off is a whole new level of commitme-)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:106 ## translate crowdin Dasiree_Blowjob_01_a4e8de21:
+msgid "[@danny@] {i}Whuuuuh{/i}... Oh jeezus, De-Des-Desiree... you're already... Oh- okay, I guess... you just do what you're used to, I suppose..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:120 ## translate crowdin Dasiree_Blowjob_01_d482d32b:
+msgid "[@desiree@] My special technique is what's flustering your words, I presume? Yes, I spent years perfecting my handcraft and finger play. You never quite forget it..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:132 ## translate crowdin Dasiree_Blowjob_01_7be6569f:
+msgid "[@danny@] (Jeez, man... Nurse Kate definitely has skill, but this is truly something else... so {i}this{/i} is how she rose to the ranks as the Sultan's personal harem girl...)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:133 ## translate crowdin Dasiree_Blowjob_01_2922312d:
+msgid "[@desiree@] (Oh yes, this actually brings me back... a fine, sturdy cock in my hand, a handsome prince receiving his crowning birthday present whispering sweet nothings... ohh, those were good times...)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:134 ## translate crowdin Dasiree_Blowjob_01_4483bd36:
+msgid "[@desiree@] (Errh, no, I am most certainly {i}not{/i} enjoying this! I'm still the Ghost Boy's slave girl... I shouldn't find this fun...)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:135 ## translate crowdin Dasiree_Blowjob_01_aec239d9:
+msgid "[@desiree@] (Just continue to put on a good face for the fool, Desiree... continue biding your time... an opening will reveal itself soon enough...)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:148 ## translate crowdin Dasiree_Blowjob_01_33c12cdb:
+msgid "[@desiree@] I'm glad you're enjoying yourself, my master. It pleases me to serve you..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:164 ## translate crowdin Dasiree_Blowjob_01_3b0e8ddd:
+msgid "[@desiree@] I can tell that your rather large friend here is also enjoying our time together as well... he's leaking out his sweet love juice already... I love running its drip along with my thumb..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:165 ## translate crowdin Dasiree_Blowjob_01_68f1550e:
+msgid "[@desiree@] Now tell me... who makes you feel this good, master?"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:179 ## translate crowdin Dasiree_Blowjob_01_99593964:
+msgid "[@danny@] You-you do, Desiree... you're so sexy... you make me this rock hard... just with your hands alone..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:194 ## translate crowdin Dasiree_Blowjob_01_400970d6:
+msgid "[@danny@] {i}Hagghhh{/i}!! D-Dang…"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:209 ## translate crowdin Dasiree_Blowjob_01_b1989201:
+msgid "[@desiree@] With my hands alone? Oh, I think not... what kind of servant would I be..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:225 ## translate crowdin Dasiree_Blowjob_01_06fd36dc:
+msgid "[@desiree@] ...if I kept you in suspense with just my fingertips? That wouldn't be fair to you, master..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:240 ## translate crowdin Dasiree_Blowjob_01_3c6ddbeb:
+msgid "[@danny@] Wh-what do you mean...?"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:255 ## translate crowdin Dasiree_Blowjob_01_1ebf5659:
+msgid "[@desiree@] Well of course, Master... my sweet little mouth is yours to {u}fuck{/u} as you please."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:270 ## translate crowdin Dasiree_Blowjob_01_fae643a1:
+msgid "[@desiree@] (I hope you're ready for this part, Ghost Boy... I rarely hold back with this part...)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:286 ## translate crowdin Dasiree_Blowjob_01_1e3519a8:
+msgid "[@desiree@] Look at my mouth right now... look at the place your fat cock is going to rest down upon and feel pleasure like you've {i}never{/i} felt before?"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:301 ## translate crowdin Dasiree_Blowjob_01_b72ea4ad:
+msgid "[@desiree@] Let me lick you, master... I want to taste your wad of dribble..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:302 ## translate crowdin Dasiree_Blowjob_01_0e14f0fc:
+msgid "[@danny@] God damn... you really talk like such a dirty slave girl... it's so fucking hot... he-here you go, Des... taste it a bit..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:339 ## translate crowdin Dasiree_Blowjob_01_8f01b294:
+msgid "[@danny@] Oh shit... you're flicking up and down between the slit... holy shit..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:341 ## translate crowdin Dasiree_Blowjob_01_d1c112e0:
+msgid "[@desiree@] (Hmmm... he's also much more hygenic than the men I've dealt with before... he certainly washes properly...)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:345 ## translate crowdin Dasiree_Blowjob_01_9c4af0e7:
+msgid "[@desiree@] (Mmmmm... and his seed tastes so... I don't even know... tantalizing? Such a unique and sweet taste...)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:346 ## translate crowdin Dasiree_Blowjob_01_e31081b0:
+msgid "[@desiree@] (Damn, I shouldn't be solely licking his drip... I'm not suppposed to be enjoying this ordeal... {i}this{/i} part especially... and yet...)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:363 ## translate crowdin Dasiree_Blowjob_01_d157f54a:
+msgid "[@desiree@] Master Danny, please... bless your cock down my throat. My hot mouth is practically drooling over it already... please, give me a proper taste..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:380 ## translate crowdin Dasiree_Blowjob_01_5794127b:
+msgid "[@danny@] Yes! Thank you God... I'm gonna stick it in your dirty little mouth, slave!! Urgghh… well, I mean, a-as you wish, Desiree!"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:396 ## translate crowdin Dasiree_Blowjob_01_c5e0f38a:
+msgid "[@desiree@] Oh yes, please do you big, {u}throbbing{/u} ghost boy..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:421 ## translate crowdin Dasiree_Blowjob_01_84e43951:
+msgid "[@desiree@] {i}Mmm… mmpffhhh…Mmmchuahhh…{/i}"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:422 ## translate crowdin Dasiree_Blowjob_01_17a39843:
+msgid "[@desiree@] {i}*Slurp*{/i} {i}*Schluk*{/i} ...Mmmmchuughhh~..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:423 ## translate crowdin Dasiree_Blowjob_01_ad9296c4:
+msgid "[@danny@] (Oh God, she's not even using any teeth... she shapeshifted her mouth to be filled with only her gums... oh my God... ghost head is so fucking good... {i}uhhhmmm{/i}...)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:424 ## translate crowdin Dasiree_Blowjob_01_f59eb55b:
+msgid "[@desiree@] {i}Hhhnnn{/i}... {i}*Mmuumhh*{/i} ...mastcher... 'jour cawk... {i}*Slup*{/i} ...sho'... sho' big...~"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:427 ## translate crowdin Dasiree_Blowjob_01_de213347:
+msgid "[@desiree@] {i}Mmpphuu... muguchuu... chuu...{/i}"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:428 ## translate crowdin Dasiree_Blowjob_01_edcb407a:
+msgid "[@desiree@] {i}Nnfuu{/i}... kuchu... tasyche'... taysche sho'... gewd... {i}mhhhschlup{/i}...~"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:436 ## translate crowdin Dasiree_Blowjob_01_8e4cce8b:
+msgid "[@desiree@] Muchuu... sho hawt... Nnnnchuru..~."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:439 ## translate crowdin Dasiree_Blowjob_01_60f82732:
+msgid "[@desiree@] (I can feel him pulsing inside my mouth... oh, he twitches and throbs so strongly, it rocks my whole mouth...)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:440 ## translate crowdin Dasiree_Blowjob_01_ef896ec7:
+msgid "[@desiree@] Muchuu... churu... chuhaa... {i}*Schlap*{/i}"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:461 ## translate crowdin Dasiree_Blowjob_01_d3632bca:
+msgid "[@desiree@] (Holy heavens above!! His member... he's just drilling my mouth... so strong...~)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:462 ## translate crowdin Dasiree_Blowjob_01_c77a345a:
+msgid "[@danny@] {i}Hnnn... haaa... hnnnchh{/i}... m-more..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:463 ## translate crowdin Dasiree_Blowjob_01_7470100c:
+msgid "[@desiree@] Nchuguu... nnnchuaann... nnnghh..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:471 ## translate crowdin Dasiree_Blowjob_01_dae1c424:
+msgid "[@desiree@] (I suppose I should switch it up pretty soon... wouldn't want him to grow restless just yet...)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:472 ## translate crowdin Dasiree_Blowjob_01_d5279b33:
+msgid "[@danny@] (This is the absolute best!! Oh man, I could do this forever!!)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:474 ## translate crowdin Dasiree_Blowjob_01_9b6fb4eb:
+msgid "[@desiree@] (Oh... I suppose a few more pumps into my mouth won't hurt...)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:496 ## translate crowdin Dasiree_Blowjob_01_3b778124:
+msgid "[@danny@] {i}Urghh!!!{/i}"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:497 ## translate crowdin Dasiree_Blowjob_01_81c00def:
+msgid "[@desiree@] (Okay, this is officially the part we need to move on!! Sands of Bathaal, this boy is absolutely ramming my poor throat!!)"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:524 ## translate crowdin Dasiree_Blowjob_01_5abc9245:
+msgid "[@desiree@] {i}*Pop*{/i} Muah!!"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:537 ## translate crowdin Dasiree_Blowjob_01_8e5c09fd:
+msgid "[@desiree@] {i}*Gasp*{/i} {i}*Huff*{/i} ...huh... hah... heh..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:550 ## translate crowdin Dasiree_Blowjob_01_04ad1ada:
+msgid "[@danny@] Wha- what's going on, why'd you stop- I mean, sorry, is something wrong?"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:562 ## translate crowdin Dasiree_Blowjob_01_775ec7ed:
+msgid "[@desiree@] {i}Mmhmmm{/i}... no, of course not, master, all is well... but a proper slave doesn't deny her master the {u}true{/u} desire he seeks, does she...?"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:576 ## translate crowdin Dasiree_Blowjob_01_37539a05:
+msgid "[@danny@] Wha-what?! Oh, y-you don't mean we're gonna actually have se-"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:589 ## translate crowdin Dasiree_Blowjob_01_0a86fd8d:
+msgid "[@desiree@] Oh, no, master don't be nervous! It's not that... I'm afraid you might not be quite {i}ready{/i} for that sort of delight just yet..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:602 ## translate crowdin Dasiree_Blowjob_01_4d6ff9a7:
+msgid "[@desiree@] I'd like for you to return to your human form and to take off your clothes, master... then lay back over the side of the bed... I'll make sure you're properly taken care of..."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:627 ## translate crowdin Dasiree_Blowjob_01_99e24cac:
+msgid "[@danny@] Huh...? Oh, okay... I mean, tr-true, that's fair... then what do you mean exact-"
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:649 ## translate crowdin Dasiree_Blowjob_01_321a7eb6:
+msgid "[@desiree@] \"Hmm, he actually seems to care for me genuinely.\""
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:663 ## translate crowdin Dasiree_Blowjob_01_4a84531f:
+msgid "[@desiree@] \"Or could he be faking it?\""
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:678 ## translate crowdin Dasiree_Blowjob_01_c8b79d59:
+msgid "[@desiree@] \"Whatever the case, his cum is beyond super. I must make sure to keep getting it.\""
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:693 ## translate crowdin Dasiree_Blowjob_01_a4cab0c4:
+msgid "[@danny@] Well, I’ve gotta return you to the thermos, as I need to sleep. But thanks for all you did tonight Desiree."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:707 ## translate crowdin Dasiree_Blowjob_01_89cb7484:
+msgid "[@desiree@] No problem master. Just release me from the thermos whenever you want me to drink your cum during the night."
+msgstr ""
+
+# game/code/misc/dasirees_service.rpy:721 ## translate crowdin Dasiree_Blowjob_01_f8c19354:
+msgid "[@danny@] I will."
+msgstr ""
+
