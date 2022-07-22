@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/locations/Nasty_Burger_Interaction_MZ.po\n"
+"X-Crowdin-File-ID: 4230\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"PO-Revision-Date: 2022-07-22 04:07\n"
+
+# TODO: Translation updated at 2022-07-19 HH:HH# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:18 ## translate crowdin talk_to_Lily_nasty_burger_01_f9318bf6:
+msgid "[@lily@] Hi there, welcome to Nasty Burger, may I take your order?"
+msgstr ""
+
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:25 ## translate crowdin Nesty_Op1_c45965d8:
+msgid "[@danny talk_happy sad_2@] Are you taking anybody on for quick shifts at all? Just looking to make a few bucks today."
+msgstr ""
+
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:29 ## translate crowdin Nesty_Op1_2eb27fc7:
+msgid "[@lily@] Yeup, all the time. I'll get you a spare uniform and you can get to work!"
+msgstr ""
+
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:38 ## translate crowdin Nesty_Op1_839a2d54:
+msgid "[@lily@] Well that'd be nice, but shouldn't you be heading to school at your age right now?"
+msgstr ""
+
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:40 ## translate crowdin Nesty_Op1_e370138c:
+msgid "[@lily@] Try coming back later in the day when we're open and classes are over"
+msgstr ""
+
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:48 ## translate crowdin Nesty_Op1_21d8684b:
+msgid "[@danny sad talk_happy_2@] Oh no thank you, I'm good. See you around."
+msgstr ""
+
+# XXtranslate crowdin strings:XX# XX## game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
+msgid "[mschoice] What do I want at Nasty Burger?"
+msgstr ""
+
+# XX## game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
+msgid "[mschoice] Work for a portion of the day."
+msgstr ""
+
+# XX## game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
+msgid "[mschoice] Just leave."
+msgstr ""
+
