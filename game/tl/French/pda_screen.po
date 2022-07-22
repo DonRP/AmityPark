@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/base/pda_screen.po\n"
+"X-Crowdin-File-ID: 4176\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-07-22 04:05\n"
+
+# TODO: Translation updated at 2022-07-19 HH:HH# game/code/base/pda_screen.rpy:184 ## translate crowdin add_new_contact_126980cc:
+msgid "[@danny@] (Okay, I can add her by using her phone number she gave me... 555-2368...)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:189 ## translate crowdin add_new_contact_f8255055:
+msgid "[@danny@] (Alright there, I've added her. I can message her whenever I want now.)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:211 ## translate crowdin sam_is_offline_3074b79a:
+msgid "[@danny@] (Now wouldn't be a great time to try talking to Sam. She probably wants to be left alone for a bit.)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:213 ## translate crowdin sam_is_offline_3074b79a_1:
+msgid "[@danny@] (Now wouldn't be a great time to try talking to Sam. She probably wants to be left alone for a bit.)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:215 ## translate crowdin sam_is_offline_bc91a5fb:
+msgid "[@danny@] (Sam doesn't seem to be online right now, it's too early for her to be browsing her phone.)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:216 ## translate crowdin sam_is_offline_8dc11841:
+msgid "[@danny@] (She's really more of an online {b}night{/b} owl... or a bat... whatever's more emotionally drained. I'll try messaging her then, in any case.)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:230 ## translate crowdin paulina_is_offline_67a4b5a1:
+msgid "[@danny@] (Paulina isn't going to be available to talk right now. Most likely being swarmed with her adoring \"fans\" and entourage.)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:231 ## translate crowdin paulina_is_offline_9ec90338:
+msgid "[@danny@] (I should try messaging her in the {b}afternoon{/b} when she takes a break from them all.)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:248 ## translate crowdin star_is_offline_6daf65dd:
+msgid "[@danny@] (Hmmm... Star is probably a litle upset about the whole prank thing.)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:249 ## translate crowdin star_is_offline_acb5d779:
+msgid "[@danny@] (I should come up with some sorta believeable story as to what happened with that whole situation...)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:252 ## translate crowdin star_is_offline_da622c51:
+msgid "[@danny@] (Star's not online at the moment. She's probably hanging out with Kwan or Paulina at this time of the day.)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:253 ## translate crowdin star_is_offline_03ad3803:
+msgid "[@danny@] (I should try messaging her in the {b}morning{/b} instead.)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:268 ## translate crowdin tucker_is_offline_19730b8a:
+msgid "[@danny@] (Guess Tucker's not online right now. Most likely programming something new on his computer.)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:269 ## translate crowdin tucker_is_offline_7eb2af83:
+msgid "[@danny@] (I'll try to message him in the {b}afternoon{/b} next time.)"
+msgstr ""
+
+# game/code/base/pda_screen.rpy:271 ## translate crowdin tucker_is_offline_09a07195:
+msgid "[@danny@] (Guess Tucker's not online right now.)"
+msgstr ""
+
+# XXtranslate crowdin strings:XX# XX## game/code/base/pda_screen.rpy:173
+msgid "[mschoice] Do you want to add a new contact to Spookchat?"
+msgstr ""
+
+# XX## game/code/base/pda_screen.rpy:173
+msgid "[mschoice] Add Paulina's number as a new contact."
+msgstr ""
+
+# XX## game/code/base/pda_screen.rpy:173
+msgid "[mschoice] Add Sam's number as a new contact."
+msgstr ""
+
+# XX## game/code/base/pda_screen.rpy:173
+msgid "[mschoice] Add Star's number as a new contact."
+msgstr ""
+
+# XX## game/code/base/pda_screen.rpy:173
+msgid "[mschoice] Exit."
+msgstr ""
+
