@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/character_events/maddie/maddie_tv.po\n"
+"X-Crowdin-File-ID: 4192\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-07-22 04:05\n"
+
+# TODO: Translation updated at 2022-07-19 HH:HH# game/code/character_events/maddie/maddie_tv.rpy:14 ## translate crowdin maddie_sunday_tv_sleep_first_time_f84d361d:
+msgid "[@danny f offscreen idle displeased@] ({i}Jeez{/i}... Mom must have been exhausted, she just passed out here with the TV still on.)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:16 ## translate crowdin maddie_sunday_tv_sleep_first_time_40b1a40a:
+msgid "[@danny f offscreen down sad consternation@] (Guess that's bound to happen when you're on patrol with Dad all the time at all times of the day and night.)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:18 ## translate crowdin maddie_sunday_tv_sleep_first_time_0c90f31a:
+msgid "[@danny f offscreen towards sad bite@] . . ."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:20 ## translate crowdin maddie_sunday_tv_sleep_first_time_6812d275:
+msgid "[@danny f offscreen aheago sad bite@] (Man... look at her... the way her breasts just heave up and down while she's lying down like that...~)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:22 ## translate crowdin maddie_sunday_tv_sleep_first_time_2dc1d70d:
+msgid "[@danny f offscreen closed sad frown_2@] (Damn it, why am I so horny right now?)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:24 ## translate crowdin maddie_sunday_tv_sleep_first_time_e80288f1:
+msgid "[@danny f offscreen closed sad frown_2@] (Well, it {i}has{/i} been a while since I did it with Mom... and the last time I had a chance we sorta got interrupted.)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:26 ## translate crowdin maddie_sunday_tv_sleep_first_time_b377c776:
+msgid "[@danny f offscreen towards rise_one bite@] ({i}Hmm{/i}... it's pretty late right now... and everyone must be asleep by now. Maybe I could ask her...?)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:28 ## translate crowdin maddie_sunday_tv_sleep_first_time_18f2b70f:
+msgid "[@danny f offscreen towards sad bite@] (Nah, I don't wanna annoy her by waking her up. She's probably not got the energy for anything right now.)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:30 ## translate crowdin maddie_sunday_tv_sleep_first_time_3152ca45:
+msgid "[@danny f offscreen towards sad consternation@] . . ."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:32 ## translate crowdin maddie_sunday_tv_sleep_first_time_83feb81d:
+msgid "[@danny f offscreen towards rise_one consternation@] (...maybe if I'm careful, she won't even wake up...)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:34 ## translate crowdin maddie_sunday_tv_sleep_first_time_07615700:
+msgid "[@danny f offscreen towards sad smile@] (And since I'm a ghost, I could just turn myself invisible in case someone shows up...)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:36 ## translate crowdin maddie_sunday_tv_sleep_first_time_cc7a317b:
+msgid "[@danny f offscreen towards rise_one consternation@] (What to do, what to do...)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:47 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_bdfb1be8:
+msgid "[@danny f offscreen towards wondering bite@] (Screw it, I'll go for it!)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:49 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_1c6adddc:
+msgid "[@danny@] (Who knows if I'm ever get another chance like this.)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:59 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_217312fa:
+msgid "[@danny@] (Amazing... so soft against my dick, even through the spandex jumpsuit!)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:61 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_3046064a:
+msgid "[@danny@] (I can even barely fit them both in my hands while I wrap them around...)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:66 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_b380ed62:
+msgid "[@maddie@] {i}Mmmmhh...{/i}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:68 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_40f5d51a:
+msgid "[@danny@] (Damn... it's super nice how smooth the texture feels.)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:70 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_bf85ae0f:
+msgid "[@danny@] (If only I had some lube on me, to make this even better...)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:73 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_36371e28:
+msgid "[@danny@] ({i}Ohhhhh{/i} man, it's already really nice though...~)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:75 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_607b3e05:
+msgid "[@maddie@] {i}Mmmmpphh!{/i}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:77 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_18e11ef4:
+msgid "[@danny@] (H-hey, hey now, just, please don't wake up!)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:80 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_31dc2380:
+msgid "[@danny@] (F-fuck, I can't believe how good this feels! Holy shit...!)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:82 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_cd8994b7:
+msgid "[@maddie@] {i}Nnnhhhhnnnn...!{/i}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:85 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_5792a8c7:
+msgid "[@danny@] {i}*Huff* *Huff*{/i}{p}(God bless these tits...!)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:87 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_7dc38f29:
+msgid "[@maddie@] {i}Mmmmfghhh...{/i}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:89 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_2ff05dae:
+msgid "[@maddie@] {i}Mmmmmmgnnnnn!!{/i}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:91 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_d9006166:
+msgid "[@maddie@] {i}U-huhhhh{/i}...~"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:93 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_764c45ef:
+msgid "[@maddie@] ...?"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:99 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_09b24a0f:
+msgid "[@maddie@] {i}...!!!{/i}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:103 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_a1e9f649:
+msgid "[@maddie@] {i}...Daniel Fenton?!{/i} ...{u}what{/u} exactly, are you doing...??"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:107 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_2bcf0b85:
+msgid "[@danny@] ({i}...ohh shit!!{/i})"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:109 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_bbf17532:
+msgid "[@danny@] {i}*Ahem*{/i} S-sorry Mom... I just, sorta... saw an opportunity?"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:113 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_bad65bbf:
+msgid "[@maddie@] Well, what in the-!{p}I mean, what happens if someone were to walk in on us like this, Danny?!"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:117 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_6a193270:
+msgid "[@danny@] I'll just be quick?"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:121 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_6d65eff8:
+msgid "[@maddie@] No!! S-stop this and put your pants on, this instant young man!!"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:125 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_db8f86b7:
+msgid "[@danny@] Please Mom, just a few more minutes."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:129 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_10d63e7f:
+msgid "[@maddie@] I said no, Danny! I don't care how... how good it feels to-~"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:133 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_3a25a868:
+msgid "[@danny@] {i}Pleeeeeaaaase...?{/i}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:135 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_805f89f3:
+msgid "[@maddie@] {i}Hrmmph{/i}...{p}{nw}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:139 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_5dd12606:
+msgid "[@extend@] ...fine... but only a few more minutes. I don't care if you don't even... f-finish...~"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:143 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_d0861181:
+msgid "[@danny@] {i}Ughh{/i}, Mom, you're the best!!"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:145 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_b8e19432:
+msgid "[@maddie@] (I still can't get over how brazen my little boy has become...)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:147 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_fc34f3d7:
+msgid "[@maddie@] (He used to be so reserved around women, and now... a little horn dog he's become...)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:149 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_0098aab9:
+msgid "[@maddie@] (It makes me very happy that he likes me this much, but still!)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:151 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_6ad42ed8:
+msgid "[@maddie@] (I should really talk to him and scold this kind of... illicit behavior...~)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:155 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_7d68a559:
+msgid "[@danny@] {i}*Huff* *Huff!*{/i}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:159 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_591cc7d1:
+msgid "[@maddie@] Does it feel good, sweetie?"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:163 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_322c7d1a:
+msgid "[@danny@] It feels... amazing!"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:167 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_55e28058:
+msgid "[@maddie@] {i}*Giggling*{/i} That's nice... I like wearing this material for that reason too..."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:171 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_150b096b:
+msgid "[@danny@] R-really?"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:175 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_15f78916:
+msgid "[@maddie@] {i}Ohhh{/i}, yes, it's no coincidence I wear something as skintight as this..."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:176 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_dca9e086:
+msgid "[@maddie@] ...I sort of get off on it...~"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:180 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_7d68a559_1:
+msgid "[@danny@] {i}*Huff* *Huff!*{/i}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:184 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_620a51fa:
+msgid "[@maddie@] Are you close, dear?"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:188 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_5f735cce:
+msgid "[@danny@] Yes, I'm... almost... there!"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:192 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_f70de121:
+msgid "[@maddie@] It's okay sweetie, I want you to cum all over my face!"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:196 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_1c521bf0:
+msgid "[@danny@] Oh, oh, I'm gonna-!"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:197 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_622aa037:
+msgid "[@danny@] {i}Ahhhh!!!{/i}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:205 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_c293d166:
+msgid "[@maddie@] {i}Ohhh...!~{/i}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:206 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_fdb85875:
+msgid "[@maddie@] My word... you certainly came a {i}lot{/i} over an activity not even skin-to-skin contact based..."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:210 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_e1188587:
+msgid "[@danny@] What can I say... I just love my Mom so much."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:214 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_cc881c49:
+msgid "[@maddie@] {i}*Chuckles*{/i} This momma loves her boy just as much.{p}{nw}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:218 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_243cabad:
+msgid "[@extend@] Now quickly, go and bring me a small hand cloth from the kitchen!"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:223 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_tit_job_e3f32c77:
+msgid "[@danny@] Yeah Mom, of course. Be right back..."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:231 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_refuse_8ee0efa6:
+msgid "[@danny f offscreen close sad consternation@] (No, I really shouldn't even think of disturbing her, she's sleeping for pete's sake.)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:232 ## translate crowdin maddie_sunday_tv_sleep_first_time_maddie_sunday_tv_sleep_refuse_39b537d8:
+msgid "[@danny f offscreen at_player rise_one consternation@] (...and I don't want to think of the kind of trouble I'd get into for titty fucking her out of a nice dream...)"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:249 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_0224cabc:
+msgid "[@maddie@] Well! {i}That{/i} sure came as a surprise to wake up to."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:253 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_0503391e:
+msgid "[@danny@] Sorry Mom, I know I should have asked first, but lately it's just been so hard to find the right-"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:257 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_8e7c6115:
+msgid "[@maddie@] Danny, please, don't worry. It was fine."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:261 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_d1fdcae8:
+msgid "[@maddie@] I should be more mad that you woke me up from a pretty... similar dream, if anything..."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:265 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_9fe8f8d9:
+msgid "[@danny@] Really?"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:269 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_4cf50cc7:
+msgid "[@maddie@] {i}Mmhmmm{/i}, there just happened to be a rather fun activity I was in the middle of in my dream, along with..."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:273 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_d633d4cb:
+msgid "[@maddie@] ...a {u}number{/u} of my sons, in fact."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:277 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_6bd2b6f2:
+msgid "[@danny@] W-what?! Seriously? Wait, what, you mean like... clones of me...?"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:281 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_8dbb43bf:
+msgid "[@maddie@] {i}*Giggles*{/i} I don't know! I suppose so! It was certainly out there, even for some of my more perverse fantasies!"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:285 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_26ec5a92:
+msgid "[@danny@] Wait, so... how many other fantasies are we talking about? And how many of them include me exact-"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:289 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_698be5a4:
+msgid "[@maddie@] Oh hush now, and go to sleep already, you little pervert...~"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:293 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_ef6d4c59:
+msgid "[@danny@] {i}Heh{/i} Alright, alright, I won't be greedy.{p}{nw}"
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:297 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_f6598dae:
+msgid "[@extend@] Good night, mom."
+msgstr ""
+
+# game/code/character_events/maddie/maddie_tv.rpy:301 ## translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_38346403:
+msgid "[@maddie@] Good night sweetie...~"
+msgstr ""
+
+# XXtranslate crowdin strings:XX# XX## game/code/character_events/maddie/maddie_tv.rpy:38
+msgid "[mschoice] (Do I try and get my rocks off while Mom sleeps?)"
+msgstr ""
+
+# XX## game/code/character_events/maddie/maddie_tv.rpy:38
+msgid "[mschoice] Yes! Golden opportunity!"
+msgstr ""
+
+# XX## game/code/character_events/maddie/maddie_tv.rpy:38
+msgid "[mschoice] I probably better not..."
+msgstr ""
+
