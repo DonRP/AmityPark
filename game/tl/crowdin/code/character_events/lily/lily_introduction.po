@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/character_events/lily/lily_introduction.rpy:13 #-#-# translate crowdin lily_introduction_bf7b03eb:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/lily/lily_introduction.rpy:13 #-#-# translate crowdin lily_introduction_bf7b03eb:
 msgid "[_danny_s_towards_s_rise_s_smile_] ({i}Hmmm...{/i} help wanted, huh? For fifty bucks a shift? I could always use the spare change lying around.)"
 msgstr "[_danny_s_towards_s_rise_s_smile_] ({i}Hmmm...{/i} help wanted, huh? For fifty bucks a shift? I could always use the spare change lying around.)"
 

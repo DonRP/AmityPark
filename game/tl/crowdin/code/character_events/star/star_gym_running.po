@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/character_events/star/star_gym_running.rpy:17 #-#-# translate crowdin gym_monday_star_running_repeat_4f533b71:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/star/star_gym_running.rpy:17 #-#-# translate crowdin gym_monday_star_running_repeat_4f533b71:
 msgid "[_danny_s_gym_s_towards_s_wondering_s_smile_] (Doesn't look like anybody's really taking advantage of the gym this early today.)"
 msgstr "[_danny_s_gym_s_towards_s_wondering_s_smile_] (Doesn't look like anybody's really taking advantage of the gym this early today.)"
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/battleoverhaul/battlesetup.rpy:2 #-#-# translate crowdin testbattles_44b3ea96:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/battlesetup.rpy:2 #-#-# translate crowdin testbattles_44b3ea96:
 msgid "[_epa_] Okay testing time for the battles of episode 7. First battle is against the Ghost Cobra from Kate's route."
 msgstr "[_epa_] Okay testing time for the battles of episode 7. First battle is against the Ghost Cobra from Kate's route."
 

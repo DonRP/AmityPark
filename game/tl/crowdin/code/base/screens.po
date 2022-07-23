@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/base/screens.rpy:461 #-#-# translate crowdin 16d9a82f:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/screens.rpy:461 #-#-# translate crowdin 16d9a82f:
 msgid "frame: vbox: xpos 0"
 msgstr "frame: vbox: xpos 0"
 

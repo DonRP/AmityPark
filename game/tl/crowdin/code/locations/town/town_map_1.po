@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/locations/town/town_map_1.rpy:368 #-#-# translate crowdin It_s_to_early_14320f84:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/town/town_map_1.rpy:368 #-#-# translate crowdin It_s_to_early_14320f84:
 msgid "[_danny_] Sam said we could meet at her place during the {b}afternoons{/b} after school or during the weekend. Now's not the right time."
 msgstr "[_danny_] Sam said we could meet at her place during the {b}afternoons{/b} after school or during the weekend. Now's not the right time."
 

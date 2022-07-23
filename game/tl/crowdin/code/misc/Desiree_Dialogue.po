@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/misc/Desiree_Dialogue.rpy:38 #-#-# translate crowdin desiree_released_start_86417235:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/Desiree_Dialogue.rpy:38 #-#-# translate crowdin desiree_released_start_86417235:
 msgid "[_danny_s_closed_s_sad_s_talk_happy_2_] Oh magic Genie, your gracious master is here! I've come for my wishes, {i}he heh he{/i}!"
 msgstr "[_danny_s_closed_s_sad_s_talk_happy_2_] Oh magic Genie, your gracious master is here! I've come for my wishes, {i}he heh he{/i}!"
 

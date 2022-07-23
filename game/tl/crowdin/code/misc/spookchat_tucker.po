@@ -1,9 +1,6 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/misc/spookchat_tucker.rpy:35 #-#-# translate crowdin tucker_chat_1_76b2fe88:
-
-# nvl clear
-    nvl clear
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_tucker.rpy:35 #-#-# translate crowdin tucker_chat_1_76b2fe88:
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_tucker.rpy:38 #-#-# translate crowdin tucker_chat_1_85256417:
 msgid "[_dannyspook_] Hey Tucker, you there?"
@@ -14,9 +11,8 @@ msgid "[_tuckerspook_] Ya man, I'm just chillin. Wuddup dude?."
 msgstr "[_tuckerspook_] Ya man, I'm just chillin. Wuddup dude?."
 
 # game/code/misc/spookchat_tucker.rpy:63 #-#-# translate crowdin tucker_chat_2_76b2fe88:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_tucker.rpy:66 #-#-# translate crowdin tucker_chat_2_35ae126d:
 msgid "[_dannyspook_] Whatcha working on, Tuck?"
@@ -55,9 +51,8 @@ msgid "[_tuckerspook_] The wait will be worth it though, I promise."
 msgstr "[_tuckerspook_] The wait will be worth it though, I promise."
 
 # game/code/misc/spookchat_tucker.rpy:85 #-#-# translate crowdin tucker_chat_2_76b2fe88_1:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_tucker.rpy:88 #-#-# translate crowdin tucker_chat_2_c7af398a:
 msgid "[_dannyspook_] Do ghosts worry you at all?"
@@ -112,9 +107,8 @@ msgid "[_tuckerspook_] Why thank you, good sir. Was there something else on your
 msgstr "[_tuckerspook_] Why thank you, good sir. Was there something else on your mind?"
 
 # game/code/misc/spookchat_tucker.rpy:112 #-#-# translate crowdin tucker_chat_2_76b2fe88_2:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_tucker.rpy:115 #-#-# translate crowdin tucker_chat_2_277e78d8:
 msgid "[_dannyspook_] What do you think about Sam?"
@@ -169,9 +163,8 @@ msgid "[_tuckerspook_] Weird question Lol. Anyway, anything else you wanted to t
 msgstr "[_tuckerspook_] Weird question Lol. Anyway, anything else you wanted to talk 'bout?"
 
 # game/code/misc/spookchat_tucker.rpy:138 #-#-# translate crowdin tucker_chat_2_76b2fe88_3:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_tucker.rpy:141 #-#-# translate crowdin tucker_chat_2_51366239:
 msgid "[_dannyspook_] One question: Paulina or Star?"
@@ -258,9 +251,8 @@ msgid "[_tuckerspook_] So anything else you wanted to ask?"
 msgstr "[_tuckerspook_] So anything else you wanted to ask?"
 
 # game/code/misc/spookchat_tucker.rpy:171 #-#-# translate crowdin tucker_chat_2_76b2fe88_4:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_tucker.rpy:174 #-#-# translate crowdin tucker_chat_2_3339fa2f:
 msgid "[_dannyspook_] Good talking to you, Tuck."

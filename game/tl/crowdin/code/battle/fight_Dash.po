@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/battle/fight_Dash.rpy:71 #-#-# translate crowdin start_fight_Dash_ff2940fc:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battle/fight_Dash.rpy:71 #-#-# translate crowdin start_fight_Dash_ff2940fc:
 msgid "[_danny_] Time for some well deserved payback, Dash!"
 msgstr "[_danny_] Time for some well deserved payback, Dash!"
 

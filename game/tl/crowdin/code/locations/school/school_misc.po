@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/locations/school/school_misc.rpy:6 #-#-# translate crowdin schools_closed_6d531cde:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/school/school_misc.rpy:6 #-#-# translate crowdin schools_closed_6d531cde:
 msgid "[_danny_] The school's closing soon, I need to get out of here before I get locked in."
 msgstr "[_danny_] The school's closing soon, I need to get out of here before I get locked in."
 

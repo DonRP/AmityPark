@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/misc/sam_handjob.rpy:19 #-#-# translate crowdin Sam_Handjob_at_living_room_03038bb7:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/sam_handjob.rpy:19 #-#-# translate crowdin Sam_Handjob_at_living_room_03038bb7:
 msgid "[_danny_] Oh... man.... what a sight this is..."
 msgstr "[_danny_] Oh... man.... what a sight this is..."
 

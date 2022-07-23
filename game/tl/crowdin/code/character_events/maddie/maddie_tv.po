@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/character_events/maddie/maddie_tv.rpy:14 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_f84d361d:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/maddie/maddie_tv.rpy:14 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_f84d361d:
 msgid "[_danny_s_f_s_offscreen_s_idle_s_displeased_] ({i}Jeez{/i}... Mom must have been exhausted, she just passed out here with the TV still on.)"
 msgstr "[_danny_s_f_s_offscreen_s_idle_s_displeased_] ({i}Jeez{/i}... Mom must have been exhausted, she just passed out here with the TV still on.)"
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/character_events/maddie/maddie_yoga.rpy:11 #-#-# translate crowdin maddie_sunday_yoga_first_time_e164560b:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/maddie/maddie_yoga.rpy:11 #-#-# translate crowdin maddie_sunday_yoga_first_time_e164560b:
 msgid "[_danny_s_f_s_offscreen_s_aheago_s_idle_s_bite_] (Jeez, Mom's butt sure looks, {i}*Ahem*{/i}, \"well rounded\" in those spandex pants...)"
 msgstr "[_danny_s_f_s_offscreen_s_aheago_s_idle_s_bite_] (Jeez, Mom's butt sure looks, {i}*Ahem*{/i}, \"well rounded\" in those spandex pants...)"
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:15 #-#-# translate crowdin dash_convo_tuckerPDA_start_38f0b876:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode_2_pda_side_quest.rpy:15 #-#-# translate crowdin dash_convo_tuckerPDA_start_38f0b876:
 msgid "[_dash_s_towards_s_upset_s_talk_distraught_] Beat it, Fenton! You're stinking up this wing of the school."
 msgstr "[_dash_s_towards_s_upset_s_talk_distraught_] Beat it, Fenton! You're stinking up this wing of the school."
 

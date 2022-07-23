@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/battle/fight_shadow.rpy:257 #-#-# translate crowdin fight_shadow_fight_main_7d2b96fa:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battle/fight_shadow.rpy:257 #-#-# translate crowdin fight_shadow_fight_main_7d2b96fa:
 msgid "[_danny_] Man, this guy's really tough to hit! It's like trying to punch my own shadow! ...erh, wait..."
 msgstr "[_danny_] Man, this guy's really tough to hit! It's like trying to punch my own shadow! ...erh, wait..."
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
 msgstr "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:18 #-#-# translate crowdin talk_to_Lily_nasty_burger_01_f9318bf6:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/Nasty_Burger_Interaction_MZ.rpy:18 #-#-# translate crowdin talk_to_Lily_nasty_burger_01_f9318bf6:
 msgid "[_lily_] Hi there, welcome to Nasty Burger, may I take your order?"
 msgstr "[_lily_] Hi there, welcome to Nasty Burger, may I take your order?"
 

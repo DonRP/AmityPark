@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/battle/fight_ghosts.rpy:59 #-#-# translate crowdin start_fight_2223361c:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battle/fight_ghosts.rpy:59 #-#-# translate crowdin start_fight_2223361c:
 msgid "[_danny_] I'm taking you down, creep!"
 msgstr "[_danny_] I'm taking you down, creep!"
 

@@ -19,8 +19,12 @@ dict = {
     r'" with flash': r' [withflash]"',
     r'" with vpunch': r' [withvpunch]"',
     r'" with Dissolve(2.0)': r' [withDissolve20]"',
+    r'    # nvl clear': r'msgid "[nvl_clear]"',
+    r'    nvl clear': r'msgstr "[nvl_clear]"',
     # first
-    r'    #': '#',
+    r'    # "(.*?)" "(.*?)"': r'msgid "\1 [special_delimiter] \2"',
+    r'    "(.*?)" "(.*?)"': r'msgstr "\1 [special_delimiter] \2"',
+    r'    #': r'#',
     r'    old "(.*?)"': r'msgid "\1"',
     r'    new "(.*?)"': r'msgstr "\1"',
     # find:    # (.*?) "(.*?)"
@@ -37,6 +41,7 @@ dict = {
     r'rpy:(.*?)\ntranslate': r'rpy:\1 #-#-# translate',
     r'strings:\n\n# ': r'strings: #|#|# # ',
     r'\ntranslate': r'\n#§translate',
+    r'updated at (.*?)-(.*?)-(.*?) (.*?):(.*?)\n\n# ': r'updated at \1-\2-\3 \4:\5 #|#|# # ',
     # end
     r'§§§§§§§§': r'\\'+'"',
 }

@@ -1,9 +1,6 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/misc/spookchat_paulina.rpy:29 #-#-# translate crowdin paulina_chat_1_76b2fe88:
-
-# nvl clear
-    nvl clear
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_paulina.rpy:29 #-#-# translate crowdin paulina_chat_1_76b2fe88:
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:32 #-#-# translate crowdin paulina_chat_1_f3b7a0b5:
 msgid "[_billspook_] Hey Paulina, it's the ghost boy. You there?"
@@ -14,9 +11,8 @@ msgid "[_paulinaspook_] Oh my goodness! Yes, I'm here Ghost Boy! How are you tod
 msgstr "[_paulinaspook_] Oh my goodness! Yes, I'm here Ghost Boy! How are you today?!"
 
 # game/code/misc/spookchat_paulina.rpy:53 #-#-# translate crowdin paulina_chat_2_76b2fe88:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:55 #-#-# translate crowdin paulina_chat_2_74f53061:
 msgid "[_billspook_] This might sound forward, but do you wanna hang out sometime?"
@@ -47,9 +43,8 @@ msgid "[_paulinaspook_] But... just so you don't forget my pretty face, here's s
 msgstr "[_paulinaspook_] But... just so you don't forget my pretty face, here's something to remember me by..."
 
 # game/code/misc/spookchat_paulina.rpy:66 #-#-# translate crowdin paulina_chat_2_76b2fe88_1:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:78 #-#-# translate crowdin paulina_chat_2_4b06f1ae:
 msgid "[_billspook_] Oh wow! Yeah, you're really cute, just like I remember! Thanks for that. :) "
@@ -88,9 +83,8 @@ msgid "[_paulinaspook_] I'd hope not. ;) "
 msgstr "[_paulinaspook_] I'd hope not. ;) "
 
 # game/code/misc/spookchat_paulina.rpy:114 #-#-# translate crowdin paulina_chat_2_76b2fe88_2:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:117 #-#-# translate crowdin paulina_chat_2_b16681b0:
 msgid "[_billspook_] Danny Fenton's a pretty cool guy, right?"
@@ -129,9 +123,8 @@ msgid "[_danny_] (Hmmm... I'll have to find some way to get her to take more int
 msgstr "[_danny_] (Hmmm... I'll have to find some way to get her to take more interest in \"Danny Fenton\" some more, instead of just \"Inviso-Bill\".)" (multiple=2)
 
 # game/code/misc/spookchat_paulina.rpy:138 #-#-# translate crowdin paulina_chat_2_76b2fe88_3:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:141 #-#-# translate crowdin paulina_chat_2_cd55dc79:
 msgid "[_billspook_] I'll talk to you later, Paulina. But it was nice chatting with you!"

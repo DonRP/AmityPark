@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/locations/town/the_bus_stop.rpy:14 #-#-# translate crowdin to_busstop_f072e980:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/town/the_bus_stop.rpy:14 #-#-# translate crowdin to_busstop_f072e980:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_smile_] (Am I sure I'm ready to do this?)"
 msgstr "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_smile_] (Am I sure I'm ready to do this?)"
 

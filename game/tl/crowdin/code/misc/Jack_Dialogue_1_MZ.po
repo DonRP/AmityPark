@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/misc/Jack_Dialogue_1_MZ.rpy:14 #-#-# translate crowdin jack_convo_9dca2437:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/Jack_Dialogue_1_MZ.rpy:14 #-#-# translate crowdin jack_convo_9dca2437:
 msgid "[_danny_s_talk_happy_s_rise_one_s_towards_] Hey Dad, I was-"
 msgstr "[_danny_s_talk_happy_s_rise_one_s_towards_] Hey Dad, I was-"
 

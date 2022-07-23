@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/episodes/episode_4/episode4_MZ.rpy:21 #-#-# translate crowdin Wish_you_the_Best_scene_1_Hallway_0fe9772d:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode4_MZ.rpy:21 #-#-# translate crowdin Wish_you_the_Best_scene_1_Hallway_0fe9772d:
 msgid "[_danny_s_talk_happy_] Tucker, my man! What's happening?"
 msgstr "[_danny_s_talk_happy_] Tucker, my man! What's happening?"
 

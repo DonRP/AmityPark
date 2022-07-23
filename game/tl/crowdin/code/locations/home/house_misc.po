@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/locations/home/house_misc.rpy:8 #-#-# translate crowdin locked_34880f71:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/home/house_misc.rpy:8 #-#-# translate crowdin locked_34880f71:
 msgid "[_danny_] (Jazz keeps her door locked most of the time. She doesn't like me snooping in on her. Whatever, like I'd even care!)"
 msgstr "[_danny_] (Jazz keeps her door locked most of the time. She doesn't like me snooping in on her. Whatever, like I'd even care!)"
 

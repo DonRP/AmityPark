@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:18 #-#-# translate crowdin paulina_default_28b9116c:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:18 #-#-# translate crowdin paulina_default_28b9116c:
 msgid "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] Ugh, get away from me, weirdo."
 msgstr "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] Ugh, get away from me, weirdo."
 

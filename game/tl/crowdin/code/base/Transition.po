@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/base/Transition.rpy:140 #-#-# translate crowdin Ghost_Fight_Result_98dec076:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/Transition.rpy:140 #-#-# translate crowdin Ghost_Fight_Result_98dec076:
 msgid " Danny has gained [plus_exp] EXP"
 msgstr " Danny has gained [plus_exp] EXP"
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
 msgstr "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
 
@@ -1989,8 +1987,8 @@ msgid "[_lancer_s_towards_s_idle__s_talk_happy_] ...and can anyone explain to me
 msgstr "[_lancer_s_towards_s_idle__s_talk_happy_] ...and can anyone explain to me why Gatsby's extravagance begins to work {i}against{/i} him towards the later chapters of the book?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2598 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_3_Classroom_morning_4808c48b:
-msgid "[_"Classroom"_] {i}*Chirp* *Chirp* *Chirp*{/i}"
-msgstr "[_"Classroom"_] {i}*Chirp* *Chirp* *Chirp*{/i}"
+msgid "Classroom [special_delimiter] {i}*Chirp* *Chirp* *Chirp*{/i}"
+msgstr "Classroom [special_delimiter] {i}*Chirp* *Chirp* *Chirp*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2600 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_3_Classroom_morning_c9a08c39:
 msgid "[_lancer_s_towards_s_rise_one_s_talk_frown_] Anyone?{p}An educated guess, perhaps?{p}Literally {u}anyone{/u} with a suggestion?"
@@ -2645,8 +2643,8 @@ msgid "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] Come on eve
 msgstr "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] Come on everyone! Let me hear you...{p}SAY.{p}MY.{p}NAME!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3473 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_17d67e28:
-msgid "[_"Crowd"_] Ember!{p}Ember!!{p}Ember!!!"
-msgstr "[_"Crowd"_] Ember!{p}Ember!!{p}Ember!!!"
+msgid "Crowd [special_delimiter] Ember!{p}Ember!!{p}Ember!!!"
+msgstr "Crowd [special_delimiter] Ember!{p}Ember!!{p}Ember!!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3476 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_8893b4c0:
 msgid "[_ember_s_human_guitar_s_at_player_s_angry_s_talk_amused_] Alright everyone! Let's {u}ROCK!{/u}"
@@ -2673,8 +2671,8 @@ msgid "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_amused_] Oh yeah? 
 msgstr "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_amused_] Oh yeah? Well, do you {i}feel{/i} that everyone? Feels to me like a song with a little more {u}AGGRESSION{/u} is coming on!{p}Show this geezer what we think of his rules!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3498 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_cdf028b0:
-msgid "[_"Crowd"_] {i}Boooh!!{/i} Get rid of Lancer!! {i}Boooh!!{/i}"
-msgstr "[_"Crowd"_] {i}Boooh!!{/i} Get rid of Lancer!! {i}Boooh!!{/i}"
+msgid "Crowd [special_delimiter] {i}Boooh!!{/i} Get rid of Lancer!! {i}Boooh!!{/i}"
+msgstr "Crowd [special_delimiter] {i}Boooh!!{/i} Get rid of Lancer!! {i}Boooh!!{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3500 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_fed61e2f:
 msgid "[_lancer_s_offscreen_s_towards_wide_s_wondering_s_talk_frown_] Unhand me, you misguided, rebellious teenagers! I'll have your grades slashed for this! Your permanent records will look mighty-{p}h-hey, stop pushing! {b}Of Mice and Men!!{/b} Help!!"
@@ -2745,8 +2743,8 @@ msgid "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] Say my name
 msgstr "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] Say my name everyone!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3554 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_afc1e406:
-msgid "[_"Crowd"_] EMBER!{p}EMBER!!{p}EMBER!!!"
-msgstr "[_"Crowd"_] EMBER!{p}EMBER!!{p}EMBER!!!"
+msgid "Crowd [special_delimiter] EMBER!{p}EMBER!!{p}EMBER!!!"
+msgstr "Crowd [special_delimiter] EMBER!{p}EMBER!!{p}EMBER!!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3557 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_8_school_Hallway_d8238bcb:
 msgid "[_ember_s_human_guitar_s_closed_s_angry_s_talk_bite_] Oh {i}yeah!!{/i} That's what I needed to hear!"
@@ -2769,8 +2767,8 @@ msgid "[_ember_s_human_guitar_s_towards_s_rise_s_talk_happy_] This next one's a 
 msgstr "[_ember_s_human_guitar_s_towards_s_rise_s_talk_happy_] This next one's a real crowd pleaser! And by that, I mean it'll please the crowd to tear you apart, limb from limb!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3605 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_72a8f25e:
-msgid "[_"Crowd"_] {i}*Growling* *Snarling * Ember! Ember! Ember!{/i}"
-msgstr "[_"Crowd"_] {i}*Growling* *Snarling * Ember! Ember! Ember!{/i}"
+msgid "Crowd [special_delimiter] {i}*Growling* *Snarling * Ember! Ember! Ember!{/i}"
+msgstr "Crowd [special_delimiter] {i}*Growling* *Snarling * Ember! Ember! Ember!{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3608 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_6006ebe2:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_sad_s_talk_displeased_] Oh boy, I think I'm about to be mosh pitted..."
@@ -2805,8 +2803,8 @@ msgid "[_ember_s_human_guitar_s_at_player_s_sad_s_talk_amused_] Sorry about that
 msgstr "[_ember_s_human_guitar_s_at_player_s_sad_s_talk_amused_] Sorry about that lame hold up gang!! Now, are you ready for more of your favorite songs from yours truly ?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3639 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_eca6c132:
-msgid "[_"Crowd"_] {i}*Cheering* *Fawning* *Shouting*{/i}"
-msgstr "[_"Crowd"_] {i}*Cheering* *Fawning* *Shouting*{/i}"
+msgid "Crowd [special_delimiter] {i}*Cheering* *Fawning* *Shouting*{/i}"
+msgstr "Crowd [special_delimiter] {i}*Cheering* *Fawning* *Shouting*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3641 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_d5122bdc:
 msgid "[_ember_s_human_guitar_s_at_player_s_rise_s_talk_happy_] Now, if ya'll don't know yet, which I doubt, I've got a concert coming up soon, right here in your own dinky little town!"
@@ -2817,16 +2815,16 @@ msgid "[_ember_s_human_guitar_s_closed_s_idle_s_talk_amused_] The tickets just w
 msgstr "[_ember_s_human_guitar_s_closed_s_idle_s_talk_amused_] The tickets just went live online, so buy em' quick, before you're the only loser in Amity Park not going!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3646 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_810067a5:
-msgid "[_"Crowd"_] Ember! {i}Wooooh!!{/i} We love you Ember!!"
-msgstr "[_"Crowd"_] Ember! {i}Wooooh!!{/i} We love you Ember!!"
+msgid "Crowd [special_delimiter] Ember! {i}Wooooh!!{/i} We love you Ember!!"
+msgstr "Crowd [special_delimiter] Ember! {i}Wooooh!!{/i} We love you Ember!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3648 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_01b66f90:
 msgid "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] Oh really? Then tell me how {u}much{/u} you love me!!{p}SAY.{p}MY.{p}NAME!!"
 msgstr "[_ember_s_human_guitar_s_at_player_wide_s_angry_s_talk_bite_] Oh really? Then tell me how {u}much{/u} you love me!!{p}SAY.{p}MY.{p}NAME!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3651 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_f90ba28e:
-msgid "[_"Crowd"_] Ember!! Ember!! Ember!! Ember!! Ember!! Ember!!"
-msgstr "[_"Crowd"_] Ember!! Ember!! Ember!! Ember!! Ember!! Ember!!"
+msgid "Crowd [special_delimiter] Ember!! Ember!! Ember!! Ember!! Ember!! Ember!!"
+msgstr "Crowd [special_delimiter] Ember!! Ember!! Ember!! Ember!! Ember!! Ember!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3679 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_76d1c01d:
 msgid "[_ember_s_ghost_guitar_s_closed_s_idle_s_talk_bite_] {i}Ahhh{/i}... music to my ears..."
@@ -5677,9 +5675,8 @@ msgid "[_danny_s_down_s_neutral_s_talk_happy_] I'll just use my PDA to get in to
 msgstr "[_danny_s_down_s_neutral_s_talk_happy_] I'll just use my PDA to get in touch with her as Inviso-Bill."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7178 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_76b2fe88:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7182 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_0ce5950d:
 msgid "[_billspook_] Hey Paulina, it's Billy, the Ghost Boy."
@@ -9574,8 +9571,8 @@ msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_wondering_s_talk_conster
 msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_wondering_s_talk_consternation_] Woah, {i}woah!{/i} Everyone needs to calm down, and just-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12199 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_desiree_star_paulina_drunk_cf117f94:
-msgid "[_"???"_] {i}*Rumble*{/i}"
-msgstr "[_"???"_] {i}*Rumble*{/i}"
+msgid "??? [special_delimiter] {i}*Rumble*{/i}"
+msgstr "??? [special_delimiter] {i}*Rumble*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:12203 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_8_party_desiree_star_paulina_drunk_67902fb7:
 msgid "[_paulina_s_towards_s_rise_s_talk_distraught_] ...{i}uhmm{/i}... Desiree, does your cousin Danny {i}normally{/i} have horribly loud shakes happen in his house?"
@@ -10674,8 +10671,8 @@ msgid "[_danny_s_towards_wide_s_unhappy_s_talk_distraught_] Sam? SAM! Where are 
 msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_distraught_] Sam? SAM! Where are you?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13655 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_12_Sam_House_Evening_676e072d:
-msgid "[_"Van"_] {i}*Vrrrrmmmmm*{/i}"
-msgstr "[_"Van"_] {i}*Vrrrrmmmmm*{/i}"
+msgid "Van [special_delimiter] {i}*Vrrrrmmmmm*{/i}"
+msgstr "Van [special_delimiter] {i}*Vrrrrmmmmm*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13657 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_12_Sam_House_Evening_30199926:
 msgid "[_danny_s_at_player_s_angry_s_clenchteeth_] (That sounds like an engine starting up! It's at the front of the house!!)"
@@ -11666,16 +11663,16 @@ msgid "[_ember_s_at_player_wide_s_angry_s_talk_bite_] WHO DO YOU LOVE?"
 msgstr "[_ember_s_at_player_wide_s_angry_s_talk_bite_] WHO DO YOU LOVE?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15084 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_18_Concert_Evening_d92259c5:
-msgid "[_"Crowd"_] You!"
-msgstr "[_"Crowd"_] You!"
+msgid "Crowd [special_delimiter] You!"
+msgstr "Crowd [special_delimiter] You!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15086 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_18_Concert_Evening_2c6ff929:
 msgid "[_ember_s_at_player_s_angry_s_talk_consternation_] SAY MY NAME!"
 msgstr "[_ember_s_at_player_s_angry_s_talk_consternation_] SAY MY NAME!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15090 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_18_Concert_Evening_ed9e219f:
-msgid "[_"Crowd"_] {b}EMBERRRR!!!{/b}"
-msgstr "[_"Crowd"_] {b}EMBERRRR!!!{/b}"
+msgid "Crowd [special_delimiter] {b}EMBERRRR!!!{/b}"
+msgstr "Crowd [special_delimiter] {b}EMBERRRR!!!{/b}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15093 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_18_Concert_Evening_d9081ff9:
 msgid "[_ember_s_towards_s_rise_s_talk_consternation_] See? My fans adore me."
@@ -11738,12 +11735,12 @@ msgid "[_tucker_s_ef_s_arms_straps_s_stare_s_rage_s_talk_happy_] OhhhHhhH EmBeeE
 msgstr "[_tucker_s_ef_s_arms_straps_s_stare_s_rage_s_talk_happy_] OhhhHhhH EmBeeEeEeerR, yOu WiLL rEmEmBeRRRRR-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15201 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_concert_7f0fbfb7:
-msgid "[_"Crowd"_] {i}*Groaning*{/i}"
-msgstr "[_"Crowd"_] {i}*Groaning*{/i}"
+msgid "Crowd [special_delimiter] {i}*Groaning*{/i}"
+msgstr "Crowd [special_delimiter] {i}*Groaning*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15206 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_concert_dce10835:
-msgid "[_"Guy_s_In_s_The_s_Crowd"_] ...hey, this concert kinda sucks!"
-msgstr "[_"Guy_s_In_s_The_s_Crowd"_] ...hey, this concert kinda sucks!"
+msgid "Guy In The Crowd [special_delimiter] ...hey, this concert kinda sucks!"
+msgstr "Guy In The Crowd [special_delimiter] ...hey, this concert kinda sucks!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15211 #-#-# translate crowdin A_Nightmare_Called_Ember_postfight_concert_0f49f2ff:
 msgid "[_ember_s_at_player_wide_s_angry_s_talk_distraught_] No, wait! Don't listen to him! You love me, you idiots! Say my name!! Wait!{p}WAIT!!"
@@ -13950,8 +13947,8 @@ msgid "[_lancer_s_pantsless_s_shocked_s_at_self_wide_s_sad_s_talk_frown_] Oliver
 msgstr "[_lancer_s_pantsless_s_shocked_s_at_self_wide_s_sad_s_talk_frown_] Oliver Twist!! My {u}pants!!{/u}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17624 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_999259a1:
-msgid "[_"Class"_] {i}*Thunderous Laughter*{/i}"
-msgstr "[_"Class"_] {i}*Thunderous Laughter*{/i}"
+msgid "Class [special_delimiter] {i}*Thunderous Laughter*{/i}"
+msgstr "Class [special_delimiter] {i}*Thunderous Laughter*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17627 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_29_Classroom_Morning_25f1fcbd:
 msgid "[_lancer_s_pantsless_s_shocked_s_towards_wide_s_angry_s_talk_frown_s_blush_] Stop this madness right now! BE SILENT, ALL OF YOU, BEFORE I-"

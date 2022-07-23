@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/battle/fight_ghost_bathroom.rpy:155 #-#-# translate crowdin start_fight_bathroom_79c20c76:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battle/fight_ghost_bathroom.rpy:155 #-#-# translate crowdin start_fight_bathroom_79c20c76:
 msgid "[_danny_] Creepy ghost, you're going down!"
 msgstr "[_danny_] Creepy ghost, you're going down!"
 

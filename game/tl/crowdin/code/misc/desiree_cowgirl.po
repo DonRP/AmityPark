@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/misc/desiree_cowgirl.rpy:35 #-#-# translate crowdin Desiree_Cowgirl_on_bed_437c15a8:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/desiree_cowgirl.rpy:35 #-#-# translate crowdin Desiree_Cowgirl_on_bed_437c15a8:
 msgid "[_danny_] wow..."
 msgstr "[_danny_] wow..."
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/locations/mystery_shop_MZ.rpy:16 #-#-# translate crowdin talk_to_box_ghost_b18d7717:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/mystery_shop_MZ.rpy:16 #-#-# translate crowdin talk_to_box_ghost_b18d7717:
 msgid "[_box_ghost_s_talk_] Hi there, mister customer! Would you like to buy this inconspicuous box for $[stolen_box.cost]?"
 msgstr "[_box_ghost_s_talk_] Hi there, mister customer! Would you like to buy this inconspicuous box for $[stolen_box.cost]?"
 

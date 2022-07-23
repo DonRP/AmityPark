@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/episodes/episode_4/episode_4_cylindrical.rpy:15 #-#-# translate crowdin cylindrical_container_scene_1_lab_10096f14:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_cylindrical.rpy:15 #-#-# translate crowdin cylindrical_container_scene_1_lab_10096f14:
 msgid "[_danny_s_rise_one_s_talk_happy_] Hey Mom, how 'zit hanging?"
 msgstr "[_danny_s_rise_one_s_talk_happy_] Hey Mom, how 'zit hanging?"
 

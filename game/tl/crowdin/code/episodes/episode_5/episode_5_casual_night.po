@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/episodes/episode_5/episode_5_casual_night.rpy:18 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_db41006a:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:18 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_db41006a:
 msgid "[_danny_s_sad_] (Oh, Mom's here... I hope she's still not upset about the whole jumpsuit wardrobe malfunction the other day...)"
 msgstr "[_danny_s_sad_] (Oh, Mom's here... I hope she's still not upset about the whole jumpsuit wardrobe malfunction the other day...)"
 

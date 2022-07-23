@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/locations/town/nasty_burger.rpy:531 #-#-# translate crowdin nasty_burger_first_visit_7fbef0ff:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/town/nasty_burger.rpy:531 #-#-# translate crowdin nasty_burger_first_visit_7fbef0ff:
 msgid "[_danny_s_f_s_offscreen_s_closed_s_idle_s_smile_] {i}*Sniiiiif*{/i}"
 msgstr "[_danny_s_f_s_offscreen_s_closed_s_idle_s_smile_] {i}*Sniiiiif*{/i}"
 

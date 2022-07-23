@@ -1,9 +1,6 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/misc/spookchat_sam.rpy:32 #-#-# translate crowdin sam_chat_1_76b2fe88:
-
-# nvl clear
-    nvl clear
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_sam.rpy:32 #-#-# translate crowdin sam_chat_1_76b2fe88:
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_sam.rpy:35 #-#-# translate crowdin sam_chat_1_d965545e:
 msgid "[_dannyspook_] Hey Sam, you there?"
@@ -14,9 +11,8 @@ msgid "[_samspook_] Oh, hey Danny. Yeah I'm here, just brooding. What's up?"
 msgstr "[_samspook_] Oh, hey Danny. Yeah I'm here, just brooding. What's up?"
 
 # game/code/misc/spookchat_sam.rpy:60 #-#-# translate crowdin sam_chat_2_76b2fe88:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_sam.rpy:63 #-#-# translate crowdin sam_chat_2_b21f6f3d:
 msgid "[_dannyspook_] Anything new with you?"
@@ -55,9 +51,8 @@ msgid "[_samspook_] I'm gonna go back and ask for a refund..."
 msgstr "[_samspook_] I'm gonna go back and ask for a refund..."
 
 # game/code/misc/spookchat_sam.rpy:82 #-#-# translate crowdin sam_chat_2_76b2fe88_1:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_sam.rpy:85 #-#-# translate crowdin sam_chat_2_0297e136:
 msgid "[_dannyspook_] What do you think of my parents? Do you think they're crazy?"
@@ -104,9 +99,8 @@ msgid "[_samspook_] Yeah, that make sense. Can't fight anything if you're stuck 
 msgstr "[_samspook_] Yeah, that make sense. Can't fight anything if you're stuck in some sort of ecto-mason jar..."
 
 # game/code/misc/spookchat_sam.rpy:107 #-#-# translate crowdin sam_chat_2_76b2fe88_2:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_sam.rpy:110 #-#-# translate crowdin sam_chat_2_046337db:
 msgid "[_dannyspook_] How're your folks doing?"
@@ -137,9 +131,8 @@ msgid "[_samspook_] Bugging the hell out of me, that's what."
 msgstr "[_samspook_] Bugging the hell out of me, that's what."
 
 # game/code/misc/spookchat_sam.rpy:128 #-#-# translate crowdin sam_chat_2_76b2fe88_3:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_sam.rpy:131 #-#-# translate crowdin sam_chat_2_f7171c88:
 msgid "[_dannyspook_] Do you worry about the ghost attacks at all?"
@@ -178,9 +171,8 @@ msgid "[_samspook_] Well, being a good hero means knowing your strengths {i}and{
 msgstr "[_samspook_] Well, being a good hero means knowing your strengths {i}and{/i} limitations. You're doing pretty good at the latter so far. Hahah :P "
 
 # game/code/misc/spookchat_sam.rpy:150 #-#-# translate crowdin sam_chat_2_76b2fe88_4:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_sam.rpy:153 #-#-# translate crowdin sam_chat_2_f48e4f6c:
 msgid "[_dannyspook_] I'll talk to you later, Sam. Peace out, lord of \"dorkness\". Lol"

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/misc/maddie_x_jack.rpy:1409 #-#-# translate crowdin maddie_x_jack_02_440c15b9:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/maddie_x_jack.rpy:1409 #-#-# translate crowdin maddie_x_jack_02_440c15b9:
 msgid "[_danny_] (-{u}titties!!{/u})"
 msgstr "[_danny_] (-{u}titties!!{/u})"
 

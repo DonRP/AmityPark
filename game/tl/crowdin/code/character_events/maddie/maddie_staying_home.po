@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/character_events/maddie/maddie_staying_home.rpy:3 #-#-# translate crowdin stay_home_216caf44:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/maddie/maddie_staying_home.rpy:3 #-#-# translate crowdin stay_home_216caf44:
 msgid "[_danny_s_sit_0_s_towards_s_unhappy_s_talk_consternation_] If... if you really think I should stay home."
 msgstr "[_danny_s_sit_0_s_towards_s_unhappy_s_talk_consternation_] If... if you really think I should stay home."
 

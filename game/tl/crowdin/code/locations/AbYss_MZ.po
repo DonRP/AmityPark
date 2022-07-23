@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/locations/AbYss_MZ.rpy:12 #-#-# translate crowdin buy_outfits_1abeb31e:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/AbYss_MZ.rpy:12 #-#-# translate crowdin buy_outfits_1abeb31e:
 msgid "[_sales_lady_s_talk_happy_s_at_player_2_s_wondering_] Hi there, welcome to AbYss! How can I help you today?"
 msgstr "[_sales_lady_s_talk_happy_s_at_player_2_s_wondering_] Hi there, welcome to AbYss! How can I help you today?"
 

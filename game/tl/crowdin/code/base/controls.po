@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/base/controls.rpy:177 #-#-# translate crowdin no_return_06e302cb:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/controls.rpy:177 #-#-# translate crowdin no_return_06e302cb:
 msgid "So be it. There's no turning back now."
 msgstr "So be it. There's no turning back now."
 

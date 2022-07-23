@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/locations/sam_home.rpy:12 #-#-# translate crowdin sam_conversation_d0e5db44:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/sam_home.rpy:12 #-#-# translate crowdin sam_conversation_d0e5db44:
 msgid "[_danny_s_talk_happy_s_rise_one_] Hey Sam! How's it hanging?"
 msgstr "[_danny_s_talk_happy_s_rise_one_] Hey Sam! How's it hanging?"
 

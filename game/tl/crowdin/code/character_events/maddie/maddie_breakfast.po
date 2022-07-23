@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/character_events/maddie/maddie_breakfast.rpy:17 #-#-# translate crowdin maddie_kitchen_monday_breakfast_712eabcb:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/maddie/maddie_breakfast.rpy:17 #-#-# translate crowdin maddie_kitchen_monday_breakfast_712eabcb:
 msgid "[_jack_s_pjs_s_towards_s_idle_s_talk_happy_] Morning sport!"
 msgstr "[_jack_s_pjs_s_towards_s_idle_s_talk_happy_] Morning sport!"
 

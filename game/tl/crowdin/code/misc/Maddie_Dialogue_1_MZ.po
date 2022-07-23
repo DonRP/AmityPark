@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/misc/Maddie_Dialogue_1_MZ.rpy:14 #-#-# translate crowdin maddie_convo_6e093421:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/Maddie_Dialogue_1_MZ.rpy:14 #-#-# translate crowdin maddie_convo_6e093421:
 msgid "[_maddie_s_towards_s_neutral_s_talk_happy_] Sorry Danny, I'm a little busy right now. I'll talk to you later, 'kay?"
 msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_] Sorry Danny, I'm a little busy right now. I'll talk to you later, 'kay?"
 

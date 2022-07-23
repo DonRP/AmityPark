@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/character_events/jack/jack_training_machine.rpy:12 #-#-# translate crowdin training_machine_intro_d12f4c99:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/jack/jack_training_machine.rpy:12 #-#-# translate crowdin training_machine_intro_d12f4c99:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ah{/i}, Danny! How can I help you son?"
 msgstr "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ah{/i}, Danny! How can I help you son?"
 

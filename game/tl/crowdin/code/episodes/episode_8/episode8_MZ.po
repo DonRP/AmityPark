@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
 msgstr "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
 
@@ -317,8 +315,8 @@ msgid "[_lancer_s_at_player_s_idle_s_talk_happy_] Can't you just feel their enth
 msgstr "[_lancer_s_at_player_s_idle_s_talk_happy_] Can't you just feel their enthusiasm for learning radiating off them?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:419 #-#-# translate crowdin Episode_8_stage_30_school_classroom_morning_interruption_a4580853:
-msgid "[_"Students"_] . . ."
-msgstr "[_"Students"_] . . ."
+msgid "Students [special_delimiter] . . ."
+msgstr "Students [special_delimiter] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:422 #-#-# translate crowdin Episode_8_stage_30_school_classroom_morning_interruption_38e35005:
 msgid "[_penelope_s_arms_up_s_towards2_s_rise_s_talk_amused_] ...why yes of course, they certainly seem riveted already! And what a job you've done, Mr. Lancer!"
@@ -841,52 +839,52 @@ msgid "[_danny_s_towards_s_idle_s_talk_happy_] Two tickets to see \"Black Tower 
 msgstr "[_danny_s_towards_s_idle_s_talk_happy_] Two tickets to see \"Black Tower 3\", please."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1084 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_0dbdd401:
-msgid "[_"Employee_s_A?"_] Of course sir, enjoy the movie..."
-msgstr "[_"Employee_s_A?"_] Of course sir, enjoy the movie..."
+msgid "Employee A? [special_delimiter] Of course sir, enjoy the movie..."
+msgstr "Employee A? [special_delimiter] Of course sir, enjoy the movie..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1088 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_45f57d05:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] ...say, do I know you from somewhere?"
 msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ...say, do I know you from somewhere?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1093 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_f0834393:
-msgid "[_"Employee_s_A?"_] {i}Uhm{/i}, you know, I wouldn't think so. But I get around, so it's possible I suppose."
-msgstr "[_"Employee_s_A?"_] {i}Uhm{/i}, you know, I wouldn't think so. But I get around, so it's possible I suppose."
+msgid "Employee A? [special_delimiter] {i}Uhm{/i}, you know, I wouldn't think so. But I get around, so it's possible I suppose."
+msgstr "Employee A? [special_delimiter] {i}Uhm{/i}, you know, I wouldn't think so. But I get around, so it's possible I suppose."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1096 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_c58891dc:
 msgid "[_danny_s_towards_s_idle_s_talk_displeased_] Huh..."
 msgstr "[_danny_s_towards_s_idle_s_talk_displeased_] Huh..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1101 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_9f3934de:
-msgid "[_"Employee_s_A?"_] I do have a sort of distinctive face, at least I've been told."
-msgstr "[_"Employee_s_A?"_] I do have a sort of distinctive face, at least I've been told."
+msgid "Employee A? [special_delimiter] I do have a sort of distinctive face, at least I've been told."
+msgstr "Employee A? [special_delimiter] I do have a sort of distinctive face, at least I've been told."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1105 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_99872136:
 msgid "[_danny_s_down_s_sad_s_consternation_] {i}Hmmm{/i}..."
 msgstr "[_danny_s_down_s_sad_s_consternation_] {i}Hmmm{/i}..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1110 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_c78e56cf:
-msgid "[_"Employee_s_A?"_] Are you into aerobic exercise by chance? I attend a class every Tuesday. Great workout!"
-msgstr "[_"Employee_s_A?"_] Are you into aerobic exercise by chance? I attend a class every Tuesday. Great workout!"
+msgid "Employee A? [special_delimiter] Are you into aerobic exercise by chance? I attend a class every Tuesday. Great workout!"
+msgstr "Employee A? [special_delimiter] Are you into aerobic exercise by chance? I attend a class every Tuesday. Great workout!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1114 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_c7e787ff:
 msgid "[_danny_s_towards_s_idle_s_talk_displeased_] ...nah, you know what, I must have been thinking of someone else."
 msgstr "[_danny_s_towards_s_idle_s_talk_displeased_] ...nah, you know what, I must have been thinking of someone else."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1119 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_e5c7f507:
-msgid "[_"Employee_s_A?"_] Oh {i}phew!{/i}"
-msgstr "[_"Employee_s_A?"_] Oh {i}phew!{/i}"
+msgid "Employee A? [special_delimiter] Oh {i}phew!{/i}"
+msgstr "Employee A? [special_delimiter] Oh {i}phew!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1123 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_7f86a7d1:
-msgid "[_"Employee_s_A?"_] I mean, oh, okay then."
-msgstr "[_"Employee_s_A?"_] I mean, oh, okay then."
+msgid "Employee A? [special_delimiter] I mean, oh, okay then."
+msgstr "Employee A? [special_delimiter] I mean, oh, okay then."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1126 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_cd21f886:
 msgid "[_danny_s_towards_s_idle_s_talk_displeased_] Alright, well anyway, thanks."
 msgstr "[_danny_s_towards_s_idle_s_talk_displeased_] Alright, well anyway, thanks."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1131 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_cc3e7238:
-msgid "[_"Employee_s_A?"_] Yes, yes, enjoy the movie!"
-msgstr "[_"Employee_s_A?"_] Yes, yes, enjoy the movie!"
+msgid "Employee A? [special_delimiter] Yes, yes, enjoy the movie!"
+msgstr "Employee A? [special_delimiter] Yes, yes, enjoy the movie!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1143 #-#-# translate crowdin Episode_8_stage_50_mall_morning_jazz_hangout_fea66ca1:
 msgid "[_bertrand_] {i}Hmmmm....{/i}, yes, enjoy it, you two... I'm sure you'll find it {i}very{/i} titillating."
@@ -993,8 +991,8 @@ msgid "[_jazz_] Danny, I'm-"
 msgstr "[_jazz_] Danny, I'm-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1327 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_90715054:
-msgid "[_"\"Jazz_s_On_s_Screen\""_] {i}Heeey{/i} there, big boy...~"
-msgstr "[_"\"Jazz_s_On_s_Screen\""_] {i}Heeey{/i} there, big boy...~"
+msgid "\"Jazz On Screen\" [special_delimiter] {i}Heeey{/i} there, big boy...~"
+msgstr "\"Jazz On Screen\" [special_delimiter] {i}Heeey{/i} there, big boy...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1330 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_9948de1e:
 msgid "[_danny_] H-huh? Jazz?!"
@@ -1005,36 +1003,36 @@ msgid "[_danny_] But you were just- how did you...??"
 msgstr "[_danny_] But you were just- how did you...??"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1350 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_7de5484d:
-msgid "[_"\"Jazz_s_On_s_Screen\""_] Oh, don't you worry about {i}that{/i} little me, she's not ready for all this yet."
-msgstr "[_"\"Jazz_s_On_s_Screen\""_] Oh, don't you worry about {i}that{/i} little me, she's not ready for all this yet."
+msgid "\"Jazz On Screen\" [special_delimiter] Oh, don't you worry about {i}that{/i} little me, she's not ready for all this yet."
+msgstr "\"Jazz On Screen\" [special_delimiter] Oh, don't you worry about {i}that{/i} little me, she's not ready for all this yet."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1353 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_a9a6dc7a:
-msgid "[_"\"Jazz_s_On_s_Screen\""_] I just want {i}allll{/i} your attention to myself."
-msgstr "[_"\"Jazz_s_On_s_Screen\""_] I just want {i}allll{/i} your attention to myself."
+msgid "\"Jazz On Screen\" [special_delimiter] I just want {i}allll{/i} your attention to myself."
+msgstr "\"Jazz On Screen\" [special_delimiter] I just want {i}allll{/i} your attention to myself."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1357 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_1874c1bc:
 msgid "[_danny_] J-Jazz... what's going on? How are you-"
 msgstr "[_danny_] J-Jazz... what's going on? How are you-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1361 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_1018dd43:
-msgid "[_"\"Jazz_s_On_s_Screen\""_] {i}Shhhh{/i}, don't you worry... I just want you to enjoy the show, okay baby brother?"
-msgstr "[_"\"Jazz_s_On_s_Screen\""_] {i}Shhhh{/i}, don't you worry... I just want you to enjoy the show, okay baby brother?"
+msgid "\"Jazz On Screen\" [special_delimiter] {i}Shhhh{/i}, don't you worry... I just want you to enjoy the show, okay baby brother?"
+msgstr "\"Jazz On Screen\" [special_delimiter] {i}Shhhh{/i}, don't you worry... I just want you to enjoy the show, okay baby brother?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1367 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_eb358dde:
 msgid "[_danny_] {i}...!{i}"
 msgstr "[_danny_] {i}...!{i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1384 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_edcdf53a:
-msgid "[_"\"Jazz_s_On_s_Screen\""_] Do you like games Danny? {i}I{i} certainly do...~"
-msgstr "[_"\"Jazz_s_On_s_Screen\""_] Do you like games Danny? {i}I{i} certainly do...~"
+msgid "\"Jazz On Screen\" [special_delimiter] Do you like games Danny? {i}I{i} certainly do...~"
+msgstr "\"Jazz On Screen\" [special_delimiter] Do you like games Danny? {i}I{i} certainly do...~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1389 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_5e191f07:
 msgid "[_danny_] Ga-games...? Y-yeah, I'm... I like games..."
 msgstr "[_danny_] Ga-games...? Y-yeah, I'm... I like games..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1395 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_b9e3fa5f:
-msgid "[_"\"Jazz_s_On_s_Screen\""_] Then please... come {i}play{/i} with me Danny... I need you to play with me... play with every inch of my-"
-msgstr "[_"\"Jazz_s_On_s_Screen\""_] Then please... come {i}play{/i} with me Danny... I need you to play with me... play with every inch of my-"
+msgid "\"Jazz On Screen\" [special_delimiter] Then please... come {i}play{/i} with me Danny... I need you to play with me... play with every inch of my-"
+msgstr "\"Jazz On Screen\" [special_delimiter] Then please... come {i}play{/i} with me Danny... I need you to play with me... play with every inch of my-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1412 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_5dc4c70e:
 msgid "[_jazz_] Danny!!"
@@ -1133,24 +1131,24 @@ msgid "[_jazz_s_towards_s_rise_s_talk_consternation_] Hello? Are you working rig
 msgstr "[_jazz_s_towards_s_rise_s_talk_consternation_] Hello? Are you working right now?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1594 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_7ca4c2fa:
-msgid "[_"Employee_s_B"_] {i}Uhhh{/i}, yeah, can I like, help you or somethin'?"
-msgstr "[_"Employee_s_B"_] {i}Uhhh{/i}, yeah, can I like, help you or somethin'?"
+msgid "Employee B [special_delimiter] {i}Uhhh{/i}, yeah, can I like, help you or somethin'?"
+msgstr "Employee B [special_delimiter] {i}Uhhh{/i}, yeah, can I like, help you or somethin'?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1597 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_cd4244f3:
 msgid "[_jazz_s_standard_arms_crossed_s_towards_s_rise_s_talk_consternation_] Yes! Me and my brother just walked out of that dumb Tower movie!! Is somebody trying to mess with us here?!"
 msgstr "[_jazz_s_standard_arms_crossed_s_towards_s_rise_s_talk_consternation_] Yes! Me and my brother just walked out of that dumb Tower movie!! Is somebody trying to mess with us here?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1601 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_b4c818a7:
-msgid "[_"Employee_s_B"_] ...well I mean, I know the series has kinda fallen off since Keanu Campbell stopped starring in the franchise, but I don't think this new one's {i}as{/i} bad as you're making it-"
-msgstr "[_"Employee_s_B"_] ...well I mean, I know the series has kinda fallen off since Keanu Campbell stopped starring in the franchise, but I don't think this new one's {i}as{/i} bad as you're making it-"
+msgid "Employee B [special_delimiter] ...well I mean, I know the series has kinda fallen off since Keanu Campbell stopped starring in the franchise, but I don't think this new one's {i}as{/i} bad as you're making it-"
+msgstr "Employee B [special_delimiter] ...well I mean, I know the series has kinda fallen off since Keanu Campbell stopped starring in the franchise, but I don't think this new one's {i}as{/i} bad as you're making it-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1604 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_a83e469f:
 msgid "[_jazz_s_towards_s_angry_s_talk_distraught_] What the heck are you talking about?! I'm talking about the spliced footage that came in later!!"
 msgstr "[_jazz_s_towards_s_angry_s_talk_distraught_] What the heck are you talking about?! I'm talking about the spliced footage that came in later!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1608 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_c5a2d7e7:
-msgid "[_"Employee_s_B"_] \"Spliced footage?\" Sorry, don't know what you're talking about, ma'am."
-msgstr "[_"Employee_s_B"_] \"Spliced footage?\" Sorry, don't know what you're talking about, ma'am."
+msgid "Employee B [special_delimiter] \"Spliced footage?\" Sorry, don't know what you're talking about, ma'am."
+msgstr "Employee B [special_delimiter] \"Spliced footage?\" Sorry, don't know what you're talking about, ma'am."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1611 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_b7f83fb1:
 msgid "[_jazz_s_standard_arms_behind_s_towards_s_rise_s_talk_consternation_s_blush_] {i}Urghh!!{/i} Look, there was this whole freaking weird scene where..."
@@ -1161,8 +1159,8 @@ msgid "[_jazz_s_standard_s_closed_s_angry_s_talk_displeased_s_-blush_] L-look, n
 msgstr "[_jazz_s_standard_s_closed_s_angry_s_talk_displeased_s_-blush_] L-look, never mind, just... the whole thing was gross, and we wanna complain!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1618 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_ea49aa38:
-msgid "[_"Employee_s_B"_] Hey, look, I don't even know what you're talking about lady. We aren't even like, screening Black Tower 3 until 5:30 O'clock tonight."
-msgstr "[_"Employee_s_B"_] Hey, look, I don't even know what you're talking about lady. We aren't even like, screening Black Tower 3 until 5:30 O'clock tonight."
+msgid "Employee B [special_delimiter] Hey, look, I don't even know what you're talking about lady. We aren't even like, screening Black Tower 3 until 5:30 O'clock tonight."
+msgstr "Employee B [special_delimiter] Hey, look, I don't even know what you're talking about lady. We aren't even like, screening Black Tower 3 until 5:30 O'clock tonight."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1621 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_f38f31ca:
 msgid "[_jazz_s_towards_s_confused_s_talk_displeased_] What? But, no, you just did, we were watching it!"
@@ -1173,60 +1171,60 @@ msgid "[_jazz_s_standard_arms_crossed_s_towards_s_rise_s_talk_consternation_] Th
 msgstr "[_jazz_s_standard_arms_crossed_s_towards_s_rise_s_talk_consternation_] That older guy, with the moustache! He sold us the tickets! Talk to him, he let us in for a screening."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1628 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_7e7fe1d1:
-msgid "[_"Employee_s_B"_] {i}Uhhh{/i}, 'kay, so like, I definitely don't know what you're talking about now. I'm the only one working the ticket booth all day today."
-msgstr "[_"Employee_s_B"_] {i}Uhhh{/i}, 'kay, so like, I definitely don't know what you're talking about now. I'm the only one working the ticket booth all day today."
+msgid "Employee B [special_delimiter] {i}Uhhh{/i}, 'kay, so like, I definitely don't know what you're talking about now. I'm the only one working the ticket booth all day today."
+msgstr "Employee B [special_delimiter] {i}Uhhh{/i}, 'kay, so like, I definitely don't know what you're talking about now. I'm the only one working the ticket booth all day today."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1632 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_59de437e:
-msgid "[_"Employee_s_B"_] ...and nobody that works here can even like, grow a moustache, soooo..."
-msgstr "[_"Employee_s_B"_] ...and nobody that works here can even like, grow a moustache, soooo..."
+msgid "Employee B [special_delimiter] ...and nobody that works here can even like, grow a moustache, soooo..."
+msgstr "Employee B [special_delimiter] ...and nobody that works here can even like, grow a moustache, soooo..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1635 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_2b58e707:
 msgid "[_jazz_s_towards_s_confused_s_talk_displeased_] Then- then who on earth sold us those tickets?!"
 msgstr "[_jazz_s_towards_s_confused_s_talk_displeased_] Then- then who on earth sold us those tickets?!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1639 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_78dca0c7:
-msgid "[_"Employee_s_B"_] {i}Pssch{/i}, I dunno know, like... maybe some homeless boomer or something."
-msgstr "[_"Employee_s_B"_] {i}Pssch{/i}, I dunno know, like... maybe some homeless boomer or something."
+msgid "Employee B [special_delimiter] {i}Pssch{/i}, I dunno know, like... maybe some homeless boomer or something."
+msgstr "Employee B [special_delimiter] {i}Pssch{/i}, I dunno know, like... maybe some homeless boomer or something."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1643 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_58cd409a:
-msgid "[_"Employee_s_B"_] {i}Ahhh{/i} dangit, now my boss is gonna get all mad... we got freakin' hobos breaking into the ticket booth!"
-msgstr "[_"Employee_s_B"_] {i}Ahhh{/i} dangit, now my boss is gonna get all mad... we got freakin' hobos breaking into the ticket booth!"
+msgid "Employee B [special_delimiter] {i}Ahhh{/i} dangit, now my boss is gonna get all mad... we got freakin' hobos breaking into the ticket booth!"
+msgstr "Employee B [special_delimiter] {i}Ahhh{/i} dangit, now my boss is gonna get all mad... we got freakin' hobos breaking into the ticket booth!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1646 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_1f006002:
 msgid "[_jazz_s_standard_s_closed_s_angry_s_talk_distraught_] {i}Ughhhh...{/i}"
 msgstr "[_jazz_s_standard_s_closed_s_angry_s_talk_distraught_] {i}Ughhhh...{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1655 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_6af26864:
-msgid "[_"Employee_s_B"_] . . ."
-msgstr "[_"Employee_s_B"_] . . ."
+msgid "Employee B [special_delimiter] . . ."
+msgstr "Employee B [special_delimiter] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1658 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_ee2957a8:
-msgid "[_"Employee_s_B"_] Oh!{p}And if you're looking for some quality movie reviews, check me out on Letterboxd for my sweet reviews!"
-msgstr "[_"Employee_s_B"_] Oh!{p}And if you're looking for some quality movie reviews, check me out on Letterboxd for my sweet reviews!"
+msgid "Employee B [special_delimiter] Oh!{p}And if you're looking for some quality movie reviews, check me out on Letterboxd for my sweet reviews!"
+msgstr "Employee B [special_delimiter] Oh!{p}And if you're looking for some quality movie reviews, check me out on Letterboxd for my sweet reviews!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1661 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_9902152e:
-msgid "[_"Employee_s_B"_] You can find me under \"@The_Movie_Dewd\"!{p}I do real in-depth reviews on the latest films!"
-msgstr "[_"Employee_s_B"_] You can find me under \"@The_Movie_Dewd\"!{p}I do real in-depth reviews on the latest films!"
+msgid "Employee B [special_delimiter] You can find me under \"@The_Movie_Dewd\"!{p}I do real in-depth reviews on the latest films!"
+msgstr "Employee B [special_delimiter] You can find me under \"@The_Movie_Dewd\"!{p}I do real in-depth reviews on the latest films!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1664 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_def4dc98:
-msgid "[_"Employee_s_B"_] I'm sorta a cinephile like that, y'know? {i}*Snorts*{/i}"
-msgstr "[_"Employee_s_B"_] I'm sorta a cinephile like that, y'know? {i}*Snorts*{/i}"
+msgid "Employee B [special_delimiter] I'm sorta a cinephile like that, y'know? {i}*Snorts*{/i}"
+msgstr "Employee B [special_delimiter] I'm sorta a cinephile like that, y'know? {i}*Snorts*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1670 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_6af26864_1:
-msgid "[_"Employee_s_B"_] . . ."
-msgstr "[_"Employee_s_B"_] . . ."
+msgid "Employee B [special_delimiter] . . ."
+msgstr "Employee B [special_delimiter] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1673 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_af527975:
-msgid "[_"Employee_s_B"_] {i}*Sighs*{/i}{p}{nw}"
-msgstr "[_"Employee_s_B"_] {i}*Sighs*{/i}{p}{nw}"
+msgid "Employee B [special_delimiter] {i}*Sighs*{/i}{p}{nw}"
+msgstr "Employee B [special_delimiter] {i}*Sighs*{/i}{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1675 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_9a097319:
 msgid "[_extend_] Well Jeremy, you said you'd put yourself out there today, and you did."
 msgstr "[_extend_] Well Jeremy, you said you'd put yourself out there today, and you did."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1678 #-#-# translate crowdin Episode_8_stage_70_mall_after_movie_mysteries_6435537a:
-msgid "[_"Jeremy"_] ...and nobody can like, take that away from you. You can be proud of that."
-msgstr "[_"Jeremy"_] ...and nobody can like, take that away from you. You can be proud of that."
+msgid "Jeremy [special_delimiter] ...and nobody can like, take that away from you. You can be proud of that."
+msgstr "Jeremy [special_delimiter] ...and nobody can like, take that away from you. You can be proud of that."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1701 #-#-# translate crowdin Episode_8_stage_80_mall_after_movie_7f7b07dd:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] Well? Did anybody know what was up?"
@@ -1273,16 +1271,16 @@ msgid "[_jazz_s_down_s_sad_s_talk_distraught_s_blush_] {i}Uhhhh{/i}.... y-y'know
 msgstr "[_jazz_s_down_s_sad_s_talk_distraught_s_blush_] {i}Uhhhh{/i}.... y-y'know! It was just like..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1751 #-#-# translate crowdin Episode_8_stage_80_mall_after_movie_1f621c78:
-msgid "[_"\"Dream_s_Danny\""_] Oh, Jazz... how much I have longed for this moment."
-msgstr "[_"\"Dream_s_Danny\""_] Oh, Jazz... how much I have longed for this moment."
+msgid "\"Dream Danny\" [special_delimiter] Oh, Jazz... how much I have longed for this moment."
+msgstr "\"Dream Danny\" [special_delimiter] Oh, Jazz... how much I have longed for this moment."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1754 #-#-# translate crowdin Episode_8_stage_80_mall_after_movie_3c40eeac:
-msgid "[_"\"Dream_s_Danny\""_] Together, here, with you, it's simply more than I could ever ask for..."
-msgstr "[_"\"Dream_s_Danny\""_] Together, here, with you, it's simply more than I could ever ask for..."
+msgid "\"Dream Danny\" [special_delimiter] Together, here, with you, it's simply more than I could ever ask for..."
+msgstr "\"Dream Danny\" [special_delimiter] Together, here, with you, it's simply more than I could ever ask for..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1763 #-#-# translate crowdin Episode_8_stage_80_mall_after_movie_1fbe7794:
-msgid "[_"\"Dream_s_Danny\""_] Say... I'm feeling a bit dirty after running laps on the track today... how about you and I both head into the shower and-"
-msgstr "[_"\"Dream_s_Danny\""_] Say... I'm feeling a bit dirty after running laps on the track today... how about you and I both head into the shower and-"
+msgid "\"Dream Danny\" [special_delimiter] Say... I'm feeling a bit dirty after running laps on the track today... how about you and I both head into the shower and-"
+msgstr "\"Dream Danny\" [special_delimiter] Say... I'm feeling a bit dirty after running laps on the track today... how about you and I both head into the shower and-"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1776 #-#-# translate crowdin Episode_8_stage_80_mall_after_movie_4dbd3ee7:
 msgid "[_jazz_s_down_s_neutral_s_talk_displeased_s_blush_] {i}Uhhhh!!{/i}{p}{nw}"
@@ -2213,8 +2211,8 @@ msgid "[_danny_s_towards_s_angry_s_talk_distraught_] Tucker, this is serious!"
 msgstr "[_danny_s_towards_s_angry_s_talk_distraught_] Tucker, this is serious!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2890 #-#-# translate crowdin Episode_8_stage_130_school_mainhall_strange_morning_0f3b91de:
-msgid "[_"Student"_] {i}Ayyye{/i}, yo!! Danica's throwing it back with no underwear in the bathroom guys!"
-msgstr "[_"Student"_] {i}Ayyye{/i}, yo!! Danica's throwing it back with no underwear in the bathroom guys!"
+msgid "Student [special_delimiter] {i}Ayyye{/i}, yo!! Danica's throwing it back with no underwear in the bathroom guys!"
+msgstr "Student [special_delimiter] {i}Ayyye{/i}, yo!! Danica's throwing it back with no underwear in the bathroom guys!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:2893 #-#-# translate crowdin Episode_8_stage_130_school_mainhall_strange_morning_aeeaaac2:
 msgid "[_tucker_s_wild_s_towards_s_angry_s_talk_happy_] {i}If{/i} you'll excuse me, I believe I've just heard my mother calling!"
@@ -3233,8 +3231,8 @@ msgid "[_extend_] Hey teach! Got room for one more apt pupil?! {i}Ahhaha!!{/i}"
 msgstr "[_extend_] Hey teach! Got room for one more apt pupil?! {i}Ahhaha!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4099 #-#-# translate crowdin Episode_8_stage_200_school_classroom_morning_classroom_chaos_451d21c6:
-msgid "[_"Students"_] {i}*Gasps!*{/i}"
-msgstr "[_"Students"_] {i}*Gasps!*{/i}"
+msgid "Students [special_delimiter] {i}*Gasps!*{/i}"
+msgstr "Students [special_delimiter] {i}*Gasps!*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4102 #-#-# translate crowdin Episode_8_stage_200_school_classroom_morning_classroom_chaos_c00b2502:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_distraught_] (Oh no, not another attack from-)"
@@ -3345,8 +3343,8 @@ msgid "[_bootrand_s_arms_up_s_glare_s_talk_] {i}GRAHHHHH!{/i}"
 msgstr "[_bootrand_s_arms_up_s_glare_s_talk_] {i}GRAHHHHH!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4194 #-#-# translate crowdin Episode_8_stage_200_school_classroom_morning_classroom_chaos_d38065c2:
-msgid "[_"Students"_] {i}Ahhhh!!!{/i}"
-msgstr "[_"Students"_] {i}Ahhhh!!!{/i}"
+msgid "Students [special_delimiter] {i}Ahhhh!!!{/i}"
+msgstr "Students [special_delimiter] {i}Ahhhh!!!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4197 #-#-# translate crowdin Episode_8_stage_200_school_classroom_morning_classroom_chaos_652101c0:
 msgid "[_lancer_s_at_player_wide_s_sad_s_talk_distraught_] Everyone! Please! We must try cowering in fear in an {i}orderly{/i} fashion!!"
@@ -3365,12 +3363,12 @@ msgid "[_extend_] ...something really distracting!"
 msgstr "[_extend_] ...something really distracting!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4221 #-#-# translate crowdin Episode_8_stage_200_school_classroom_morning_classroom_chaos_b54fe23c:
-msgid "[_"Student_s_A"_] {i}Ooooh!{/i} I actually {i}love{/i} getting distracted by stuff!"
-msgstr "[_"Student_s_A"_] {i}Ooooh!{/i} I actually {i}love{/i} getting distracted by stuff!"
+msgid "Student A [special_delimiter] {i}Ooooh!{/i} I actually {i}love{/i} getting distracted by stuff!"
+msgstr "Student A [special_delimiter] {i}Ooooh!{/i} I actually {i}love{/i} getting distracted by stuff!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4225 #-#-# translate crowdin Episode_8_stage_200_school_classroom_morning_classroom_chaos_5a827688:
-msgid "[_"Student_s_B"_] Perfect! Something to distract us from the horrors of the new reality we live in!"
-msgstr "[_"Student_s_B"_] Perfect! Something to distract us from the horrors of the new reality we live in!"
+msgid "Student B [special_delimiter] Perfect! Something to distract us from the horrors of the new reality we live in!"
+msgstr "Student B [special_delimiter] Perfect! Something to distract us from the horrors of the new reality we live in!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4228 #-#-# translate crowdin Episode_8_stage_200_school_classroom_morning_classroom_chaos_095fc6e4:
 msgid "[_bootrand_s_arms_up_s_glare_s_talk_] Jeez, how gullible can young people be, really...?"
@@ -3405,8 +3403,8 @@ msgid "[_extend_] ...I think we can resume the lesson. Miss Gray, page 257, plea
 msgstr "[_extend_] ...I think we can resume the lesson. Miss Gray, page 257, please."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4261 #-#-# translate crowdin Episode_8_stage_200_school_classroom_morning_classroom_chaos_a9fd81c7:
-msgid "[_"Students"_] {i}*Groans*{/i}"
-msgstr "[_"Students"_] {i}*Groans*{/i}"
+msgid "Students [special_delimiter] {i}*Groans*{/i}"
+msgstr "Students [special_delimiter] {i}*Groans*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4279 #-#-# translate crowdin Episode_8_stage_205_school_mainhall_morning_pursue_ghost_d56ed367:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_angry_s_grin_] (First things first: I'm going ghost!!)"
@@ -3917,12 +3915,12 @@ msgid "[_danny_s_f_s_offscreen_s_towards_s_idle_s_displeased_] (Let's see here..
 msgstr "[_danny_s_f_s_offscreen_s_towards_s_idle_s_displeased_] (Let's see here...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4868 #-#-# translate crowdin Episode_8_stage_220_home_bedroom_friend_request_3b999804:
-msgid "[_"Computer"_] [[You've accepted Jennifer's Fairbrook's friend request!]]"
-msgstr "[_"Computer"_] [[You've accepted Jennifer's Fairbrook's friend request!]]"
+msgid "Computer [special_delimiter] [[You've accepted Jennifer's Fairbrook's friend request!]]"
+msgstr "Computer [special_delimiter] [[You've accepted Jennifer's Fairbrook's friend request!]]"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4869 #-#-# translate crowdin Episode_8_stage_220_home_bedroom_friend_request_7bb99aca:
-msgid "[_"Computer"_] {i}*Bing!*{/i}"
-msgstr "[_"Computer"_] {i}*Bing!*{/i}"
+msgid "Computer [special_delimiter] {i}*Bing!*{/i}"
+msgstr "Computer [special_delimiter] {i}*Bing!*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4872 #-#-# translate crowdin Episode_8_stage_220_home_bedroom_friend_request_c4945d1a:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_consternation_] (What? Already? Okay, so what is this about...?)"
@@ -7001,12 +6999,12 @@ msgid "[_danny_] Just watch..."
 msgstr "[_danny_] Just watch..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9811 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_dd7fb15d:
-msgid "[_"Lil_s_Penelope"_] [[Oh papa! Don't be silly! What do you mean we can't go back to the Farm yet?]]"
-msgstr "[_"Lil_s_Penelope"_] [[Oh papa! Don't be silly! What do you mean we can't go back to the Farm yet?]]"
+msgid "Lil Penelope [special_delimiter] [[Oh papa! Don't be silly! What do you mean we can't go back to the Farm yet?]]"
+msgstr "Lil Penelope [special_delimiter] [[Oh papa! Don't be silly! What do you mean we can't go back to the Farm yet?]]"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9815 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_678180a2:
-msgid "[_"Lil_s_Penelope"_] [[Is... is Momma still not well?]]"
-msgstr "[_"Lil_s_Penelope"_] [[Is... is Momma still not well?]]"
+msgid "Lil Penelope [special_delimiter] [[Is... is Momma still not well?]]"
+msgstr "Lil Penelope [special_delimiter] [[Is... is Momma still not well?]]"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9834 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_214b51c8:
 msgid "[_penelope_] Where... where did you possibly get... {i}this...?{/i}"
@@ -8437,16 +8435,16 @@ msgid "[_danny_] . . ."
 msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11863 #-#-# translate crowdin Episode_8_stage_415_living_room_watching_tv_767393c6:
-msgid "[_"Male_s_Lead_s_A"_] Oh my goodness! They're... eating her brains! Out of the poor girl's scalp!"
-msgstr "[_"Male_s_Lead_s_A"_] Oh my goodness! They're... eating her brains! Out of the poor girl's scalp!"
+msgid "Male Lead A [special_delimiter] Oh my goodness! They're... eating her brains! Out of the poor girl's scalp!"
+msgstr "Male Lead A [special_delimiter] Oh my goodness! They're... eating her brains! Out of the poor girl's scalp!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11866 #-#-# translate crowdin Episode_8_stage_415_living_room_watching_tv_a0d6d125:
-msgid "[_"Male_s_Lead_s_B"_] Aim for the head, quickly! AIM FOR THE HEAD!"
-msgstr "[_"Male_s_Lead_s_B"_] Aim for the head, quickly! AIM FOR THE HEAD!"
+msgid "Male Lead B [special_delimiter] Aim for the head, quickly! AIM FOR THE HEAD!"
+msgstr "Male Lead B [special_delimiter] Aim for the head, quickly! AIM FOR THE HEAD!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11869 #-#-# translate crowdin Episode_8_stage_415_living_room_watching_tv_f27ded0d:
-msgid "[_"Zombie_s_on_s_TV"_] {i}Wreehhh!! Braaaaiiiins...!{/i}"
-msgstr "[_"Zombie_s_on_s_TV"_] {i}Wreehhh!! Braaaaiiiins...!{/i}"
+msgid "Zombie on TV [special_delimiter] {i}Wreehhh!! Braaaaiiiins...!{/i}"
+msgstr "Zombie on TV [special_delimiter] {i}Wreehhh!! Braaaaiiiins...!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11872 #-#-# translate crowdin Episode_8_stage_415_living_room_watching_tv_c8995690:
 msgid "[_danny_] ( Well this sucks.){p}(But it's a familiar suckage. )"

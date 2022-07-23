@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:57 #-#-# translate crowdin valerie_random_nasty_burger_soda_cb6df6fa:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:57 #-#-# translate crowdin valerie_random_nasty_burger_soda_cb6df6fa:
 msgid "[_lily_s_towards_s_rise_s_talk_displeased_] Hey, Danny, could you help me out over here for a second?"
 msgstr "[_lily_s_towards_s_rise_s_talk_displeased_] Hey, Danny, could you help me out over here for a second?"
 

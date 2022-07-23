@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/character_events/paulina/paulina_spookchat.rpy:23 #-#-# translate crowdin paulina_selfie_shot_event_bb271ba9:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/paulina/paulina_spookchat.rpy:23 #-#-# translate crowdin paulina_selfie_shot_event_bb271ba9:
 msgid "[_phone_] {i}Bzzt{/i} {i}Bzzt{/i}"
 msgstr "[_phone_] {i}Bzzt{/i} {i}Bzzt{/i}"
 
@@ -9,9 +7,8 @@ msgid "[_danny_] Oh, hey, a text from Paulina, sweet."
 msgstr "[_danny_] Oh, hey, a text from Paulina, sweet."
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:32 #-#-# translate crowdin paulina_selfie_shot_event_76b2fe88:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:35 #-#-# translate crowdin paulina_selfie_shot_event_1e8c695f:
 msgid "[_paulinaspook_] Helloo Ghost Boy! How are you doing today?"
@@ -50,9 +47,8 @@ msgid "[_paulinaspook_] Oh yeah."
 msgstr "[_paulinaspook_] Oh yeah."
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:47 #-#-# translate crowdin paulina_selfie_shot_event_76b2fe88_1:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:65 #-#-# translate crowdin paulina_selfie_shot_event_1193004d:
 msgid "[_paulinaspook_] Thought you might want to see 4 yourself..."

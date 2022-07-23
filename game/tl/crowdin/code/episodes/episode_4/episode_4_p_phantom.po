@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/episodes/episode_4/episode_4_p_phantom.rpy:22 #-#-# translate crowdin Peeping_Phan_Tom_scene_1_bedroom_5051d8d5:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_p_phantom.rpy:22 #-#-# translate crowdin Peeping_Phan_Tom_scene_1_bedroom_5051d8d5:
 msgid "[_danny_s_talk_frown_2_s_sad_2_] {i}*Yaaaawn*{/i} Man oh man, I think my stomach shrank in my sleep or something!"
 msgstr "[_danny_s_talk_frown_2_s_sad_2_] {i}*Yaaaawn*{/i} Man oh man, I think my stomach shrank in my sleep or something!"
 

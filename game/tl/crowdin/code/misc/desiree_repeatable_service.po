@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/misc/desiree_repeatable_service.rpy:31 #-#-# translate crowdin desiree_favour_Desiree_Combo_ee60e7b1:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/desiree_repeatable_service.rpy:31 #-#-# translate crowdin desiree_favour_Desiree_Combo_ee60e7b1:
 msgid "[_danny_] {i}Hrnnmm{/i}... just having you touch it... makes me so hard already..."
 msgstr "[_danny_] {i}Hrnnmm{/i}... just having you touch it... makes me so hard already..."
 

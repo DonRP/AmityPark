@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/base/pda_screen.rpy:184 #-#-# translate crowdin add_new_contact_126980cc:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/pda_screen.rpy:184 #-#-# translate crowdin add_new_contact_126980cc:
 msgid "[_danny_] (Okay, I can add her by using her phone number she gave me... 555-2368...)"
 msgstr "[_danny_] (Okay, I can add her by using her phone number she gave me... 555-2368...)"
 

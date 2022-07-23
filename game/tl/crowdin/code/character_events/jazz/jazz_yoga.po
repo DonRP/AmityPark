@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/character_events/jazz/jazz_yoga.rpy:10 #-#-# translate crowdin jazz_wednesday_yoga_ca95bc43:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/jazz/jazz_yoga.rpy:10 #-#-# translate crowdin jazz_wednesday_yoga_ca95bc43:
 msgid "[_mp3_] {i}Breathe in... and breathe out...{p}...let your body be a guiding hand for your inner self's desires and needs...{p}...breathe in... and release..."
 msgstr "[_mp3_] {i}Breathe in... and breathe out...{p}...let your body be a guiding hand for your inner self's desires and needs...{p}...breathe in... and release..."
 

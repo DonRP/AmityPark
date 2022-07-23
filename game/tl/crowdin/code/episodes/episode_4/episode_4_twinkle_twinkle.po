@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:17 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_a29726b8:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:17 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_a29726b8:
 msgid "[_danny_s_talk_happy_s_rise_one_] Whaddup, gothic butt?"
 msgstr "[_danny_s_talk_happy_s_rise_one_] Whaddup, gothic butt?"
 
@@ -909,9 +907,8 @@ msgid "[_danny_s_at_danny_s_frown_3_s_sad_2_] (Speaking of which, I should proba
 msgstr "[_danny_s_at_danny_s_frown_3_s_sad_2_] (Speaking of which, I should probably message her to let her know I've done it.)"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:672 #-#-# translate crowdin last_chance_76b2fe88:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:675 #-#-# translate crowdin last_chance_be282ef7:
 msgid "[_billspook_] Hey Star, it's done. That Manson girl you wanted to prank has the dildo in her locker. Top shelf. Shouldn't be hard to miss. -IB"
@@ -970,9 +967,8 @@ msgid "[_danny_s_sad_s_smile_] (I should text her to let her know that everythin
 msgstr "[_danny_s_sad_s_smile_] (I should text her to let her know that everything is \"in place\")."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:748 #-#-# translate crowdin twinkle_twinkle_little_star_prank_the_prankster_76b2fe88:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:751 #-#-# translate crowdin twinkle_twinkle_little_star_prank_the_prankster_be282ef7:
 msgid "[_billspook_] Hey Star, it's done. That Manson girl you wanted to prank has the dildo in her locker. Top shelf. Shouldn't be hard to miss. -IB"
@@ -1247,9 +1243,8 @@ msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_2_] What the-"
 msgstr "[_danny_s_at_danny_s_rise_one_s_talk_frown_2_] What the-"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:985 #-#-# translate crowdin twinkle_twinkle_little_star_scene_4_hallway_76b2fe88:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:988 #-#-# translate crowdin twinkle_twinkle_little_star_scene_4_hallway_8b80e044:
 msgid "[_starspook_] Heyyyy Billy! Oh my gawd, that was so funny, you should have seen it. Thanks for helping out again!! If you want to, swing by the girl's bathroom again sometime. ;P"
@@ -2160,9 +2155,8 @@ msgid "[_danny_s_down_s_talk_happy_s_rise_one_] Hey, speak of the devil, she jus
 msgstr "[_danny_s_down_s_talk_happy_s_rise_one_] Hey, speak of the devil, she just sent me a message."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1695 #-#-# translate crowdin twinkle_twinkle_little_star_scene_6_bedroom_76b2fe88:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1698 #-#-# translate crowdin twinkle_twinkle_little_star_scene_6_bedroom_a9e5fc7e:
 msgid "[_samspook_] Heyy Danny. I wanted to thank you again for today. You're a really considerate guy, and a genuinely good friend. :)"
@@ -2201,9 +2195,8 @@ msgid "[_phone_] [[{i}*Bzzt*{/i} {i}*Bzzt*{/i}]"
 msgstr "[_phone_] [[{i}*Bzzt*{/i} {i}*Bzzt*{/i}]"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1721 #-#-# translate crowdin twinkle_twinkle_little_star_scene_6_bedroom_76b2fe88_1:
-
-# nvl clear
-    nvl clear
+msgid "[nvl_clear]"
+msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1724 #-#-# translate crowdin twinkle_twinkle_little_star_scene_6_bedroom_40db1c49:
 msgid "[_samspook_] I just thought you deserved something special for your help today. For your eyez only of course <3"

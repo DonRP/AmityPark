@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-19 21:03
-
-# game/code/misc/dasirees_service.rpy:79 #-#-# translate crowdin Dasiree_Blowjob_01_cc8fc4ae:
+﻿# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/dasirees_service.rpy:79 #-#-# translate crowdin Dasiree_Blowjob_01_cc8fc4ae:
 msgid "[_danny_] Whoa! How'd you already-"
 msgstr "[_danny_] Whoa! How'd you already-"
 
