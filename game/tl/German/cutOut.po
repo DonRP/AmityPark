@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/cutOut.po\n"
+"X-Crowdin-File-ID: 4312\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-07-23 16:07\n"
+
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/cutOut.rpy:901 #-#-# translate crowdin Testing_sprite_test_98700175:
+msgid "Loop Back"
+msgstr ""
+
