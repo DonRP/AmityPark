@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/base/Transition.po\n"
+"X-Crowdin-File-ID: 4284\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-07-23 16:08\n"
+
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/Transition.rpy:140 #-#-# translate crowdin Ghost_Fight_Result_98dec076:
+msgid " Danny has gained [plus_exp] EXP"
+msgstr ""
+
+# game/code/base/Transition.rpy:146 #-#-# translate crowdin Ghost_Fight_Result_3108374a:
+msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
+msgstr ""
+
+# game/code/base/Transition.rpy:161 #-#-# translate crowdin Ghost_Fight_Result_3108374a_1:
+msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
+msgstr ""
+
+# game/code/base/Transition.rpy:175 #-#-# translate crowdin Ghost_Fight_Result_3108374a_2:
+msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
+msgstr ""
+
+# game/code/base/Transition.rpy:179 #-#-# translate crowdin Ghost_Fight_Result_3108374a_3:
+msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
+msgstr ""
+
+# game/code/base/Transition.rpy:183 #-#-# translate crowdin Ghost_Fight_Result_3108374a_4:
+msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
+msgstr ""
+
+# game/code/base/Transition.rpy:187 #-#-# translate crowdin Ghost_Fight_Result_3108374a_5:
+msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
+msgstr ""
+
+# game/code/base/Transition.rpy:191 #-#-# translate crowdin Ghost_Fight_Result_3108374a_6:
+msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
+msgstr ""
+
+# game/code/base/Transition.rpy:195 #-#-# translate crowdin Ghost_Fight_Result_3108374a_7:
+msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
+msgstr ""
+
+# game/code/base/Transition.rpy:199 #-#-# translate crowdin Ghost_Fight_Result_3108374a_8:
+msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/color}"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+# game/code/base/Transition.rpy:278
+msgid "No"
+msgstr ""
+
