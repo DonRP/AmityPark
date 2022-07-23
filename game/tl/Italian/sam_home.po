@@ -10,57 +10,56 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-22 04:07\n"
+"PO-Revision-Date: 2022-07-23 10:06\n"
 
-# TODO: Translation updated at 2022-07-19 HH:HH# game/code/locations/sam_home.rpy:12 ## translate crowdin sam_conversation_d0e5db44:
-msgid "[@danny talk_happy rise_one@] Hey Sam! How's it hanging?"
+# game/code/locations/sam_home.rpy:12 #-#-# translate crowdin sam_conversation_d0e5db44:
+msgid "[@danny_$_talk_happy_$_rise_one@] Hey Sam! How's it hanging?"
 msgstr ""
 
-# game/code/locations/sam_home.rpy:14 ## translate crowdin sam_conversation_40ca4e45:
-msgid "[@sam talk_happy sad@] Oh, ya know, the usual gloom and doom. What's up?"
+# game/code/locations/sam_home.rpy:14 #-#-# translate crowdin sam_conversation_40ca4e45:
+msgid "[@sam_$_talk_happy_$_sad@] Oh, ya know, the usual gloom and doom. What's up?"
 msgstr ""
 
-# game/code/locations/sam_home.rpy:28 ## translate crowdin talk_to_Sam_about_aa089d4a:
-msgid "[@danny talk_happy_2 sad_2@] Hey, Sam, Tucker got me this new PDA and I'm getting people's contacts again to put in it."
+# game/code/locations/sam_home.rpy:28 #-#-# translate crowdin talk_to_Sam_about_aa089d4a:
+msgid "[@danny_$_talk_happy_2_$_sad_2@] Hey, Sam, Tucker got me this new PDA and I'm getting people's contacts again to put in it."
 msgstr ""
 
-# game/code/locations/sam_home.rpy:29 ## translate crowdin talk_to_Sam_about_2d92ae1d:
-msgid "[@danny neutral talk_happy@] Do you mind if I get yours again?"
+# game/code/locations/sam_home.rpy:29 #-#-# translate crowdin talk_to_Sam_about_2d92ae1d:
+msgid "[@danny_$_neutral_$_talk_happy@] Do you mind if I get yours again?"
 msgstr ""
 
-# game/code/locations/sam_home.rpy:31 ## translate crowdin talk_to_Sam_about_b2f9b57f:
-msgid "[@sam talk_happy@] Oh sure, it's no trouble. Here, I'll write it in on this slip of paper for you."
+# game/code/locations/sam_home.rpy:31 #-#-# translate crowdin talk_to_Sam_about_b2f9b57f:
+msgid "[@sam_$_talk_happy@] Oh sure, it's no trouble. Here, I'll write it in on this slip of paper for you."
 msgstr ""
 
-# game/code/locations/sam_home.rpy:38 ## translate crowdin talk_to_Sam_about_07d332cc:
-msgid "[@sam closed talk_happy confused@] There you go."
+# game/code/locations/sam_home.rpy:38 #-#-# translate crowdin talk_to_Sam_about_07d332cc:
+msgid "[@sam_$_closed_$_talk_happy_$_confused@] There you go."
 msgstr ""
 
-# game/code/locations/sam_home.rpy:41 ## translate crowdin talk_to_Sam_about_43b61fb0:
-msgid "[@danny talk_happy neutral@] Cool, thanks!"
+# game/code/locations/sam_home.rpy:41 #-#-# translate crowdin talk_to_Sam_about_43b61fb0:
+msgid "[@danny_$_talk_happy_$_neutral@] Cool, thanks!"
 msgstr ""
 
-# game/code/locations/sam_home.rpy:45 ## translate crowdin talk_to_Sam_about_71591366:
-msgid "[@sam talk_happy@] Anything else you wanted to ask or talk about?"
+# game/code/locations/sam_home.rpy:45 #-#-# translate crowdin talk_to_Sam_about_71591366:
+msgid "[@sam_$_talk_happy@] Anything else you wanted to ask or talk about?"
 msgstr ""
 
-# game/code/locations/sam_home.rpy:53 ## translate crowdin talk_to_Sam_about_c2134bb5:
-msgid "[@danny talk_happy rise_one@] I probably should get going! Catch you later?"
+# game/code/locations/sam_home.rpy:53 #-#-# translate crowdin talk_to_Sam_about_c2134bb5:
+msgid "[@danny_$_talk_happy_$_rise_one@] I probably should get going! Catch you later?"
 msgstr ""
 
-# game/code/locations/sam_home.rpy:55 ## translate crowdin talk_to_Sam_about_169ff22c:
-msgid "[@sam talk_happy sad@] Yeah, sure, pop by anytime! Thanks for stopping in."
+# game/code/locations/sam_home.rpy:55 #-#-# translate crowdin talk_to_Sam_about_169ff22c:
+msgid "[@sam_$_talk_happy_$_sad@] Yeah, sure, pop by anytime! Thanks for stopping in."
 msgstr ""
 
-# XXtranslate crowdin strings:XX# XX## game/code/locations/sam_home.rpy:21
-msgid "[mschoice] Hmm... what should I talk about with Sam?"
+msgid "Hmm... what should I talk about with Sam?"
 msgstr ""
 
-# XX## game/code/locations/sam_home.rpy:21
-msgid "[mschoice] Ask Sam to the Casper Chill Formal."
+# game/code/locations/sam_home.rpy:21
+msgid "Ask Sam to the Casper Chill Formal."
 msgstr ""
 
-# XX## game/code/locations/sam_home.rpy:21
-msgid "[mschoice] End the conversation."
+# game/code/locations/sam_home.rpy:21
+msgid "End the conversation."
 msgstr ""
 
