@@ -10,41 +10,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-22 04:06\n"
+"PO-Revision-Date: 2022-07-23 10:06\n"
 
-# TODO: Translation updated at 2022-07-19 HH:HH# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:18 ## translate crowdin talk_to_Lily_nasty_burger_01_f9318bf6:
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:18 #-#-# translate crowdin talk_to_Lily_nasty_burger_01_f9318bf6:
 msgid "[@lily@] Hi there, welcome to Nasty Burger, may I take your order?"
 msgstr ""
 
-# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:25 ## translate crowdin Nesty_Op1_c45965d8:
-msgid "[@danny talk_happy sad_2@] Are you taking anybody on for quick shifts at all? Just looking to make a few bucks today."
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:25 #-#-# translate crowdin Nesty_Op1_c45965d8:
+msgid "[@danny_$_talk_happy_$_sad_2@] Are you taking anybody on for quick shifts at all? Just looking to make a few bucks today."
 msgstr ""
 
-# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:29 ## translate crowdin Nesty_Op1_2eb27fc7:
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:29 #-#-# translate crowdin Nesty_Op1_2eb27fc7:
 msgid "[@lily@] Yeup, all the time. I'll get you a spare uniform and you can get to work!"
 msgstr ""
 
-# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:38 ## translate crowdin Nesty_Op1_839a2d54:
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:38 #-#-# translate crowdin Nesty_Op1_839a2d54:
 msgid "[@lily@] Well that'd be nice, but shouldn't you be heading to school at your age right now?"
 msgstr ""
 
-# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:40 ## translate crowdin Nesty_Op1_e370138c:
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:40 #-#-# translate crowdin Nesty_Op1_e370138c:
 msgid "[@lily@] Try coming back later in the day when we're open and classes are over"
 msgstr ""
 
-# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:48 ## translate crowdin Nesty_Op1_21d8684b:
-msgid "[@danny sad talk_happy_2@] Oh no thank you, I'm good. See you around."
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:48 #-#-# translate crowdin Nesty_Op1_21d8684b:
+msgid "[@danny_$_sad_$_talk_happy_2@] Oh no thank you, I'm good. See you around."
 msgstr ""
 
-# XXtranslate crowdin strings:XX# XX## game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
-msgid "[mschoice] What do I want at Nasty Burger?"
+msgid "What do I want at Nasty Burger?"
 msgstr ""
 
-# XX## game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
-msgid "[mschoice] Work for a portion of the day."
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
+msgid "Work for a portion of the day."
 msgstr ""
 
-# XX## game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
-msgid "[mschoice] Just leave."
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
+msgid "Just leave."
 msgstr ""
 
