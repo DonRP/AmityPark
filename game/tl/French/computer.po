@@ -10,17 +10,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-22 04:05\n"
+"PO-Revision-Date: 2022-07-23 10:05\n"
 
-# TODO: Translation updated at 2022-07-19 HH:HH# XXtranslate crowdin strings:XX# XX## game/code/base/computer.rpy:668
-msgid "[mschoice] Scene Replay"
+msgid "Scene Replay"
 msgstr ""
 
-# XX## game/code/base/computer.rpy:701
-msgid "[mschoice] <"
+# game/code/base/computer.rpy:701
+msgid "<"
 msgstr ""
 
-# XX## game/code/base/computer.rpy:707
-msgid "[mschoice] >"
+# game/code/base/computer.rpy:707
+msgid ">"
 msgstr ""
 
