@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/battle/fight_shadow.po\n"
+"X-Crowdin-File-ID: 4298\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-07-23 16:07\n"
+
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battle/fight_shadow.rpy:257 #-#-# translate crowdin fight_shadow_fight_main_7d2b96fa:
+msgid "[_danny_] Man, this guy's really tough to hit! It's like trying to punch my own shadow! ...erh, wait..."
+msgstr ""
+
+# game/code/battle/fight_shadow.rpy:261 #-#-# translate crowdin fight_shadow_fight_main_e76b5a91:
+msgid "[_danny_] I'm gonna banish you back into the shadow realm! (Heh he...)"
+msgstr ""
+
+# game/code/battle/fight_shadow.rpy:310 #-#-# translate crowdin fight_shadow_t_ghost_turn_d58590d1:
+msgid "[_danny_] nothing happened."
+msgstr ""
+
+# game/code/battle/fight_shadow.rpy:457 #-#-# translate crowdin fight_shadow_player_invisible_6dedd31d:
+msgid "[_danny_] I don't have enough energy for this."
+msgstr ""
+
+# game/code/battle/fight_shadow.rpy:517 #-#-# translate crowdin fight_shadow_player_ghost_ray_6dedd31d:
+msgid "[_danny_] I don't have enough energy for this."
+msgstr ""
+
+# game/code/battle/fight_shadow.rpy:702 #-#-# translate crowdin fight_shadow_ghost_attack_cedae1c8:
+msgid "[_danny_] I need to be more careful!"
+msgstr ""
+
+# game/code/battle/fight_shadow.rpy:786 #-#-# translate crowdin fight_shadow_stop_Running_away_3e4f51de:
+msgid "Be a man and fight! Paulina needs your help!"
+msgstr ""
+
+# game/code/battle/fight_shadow.rpy:792 #-#-# translate crowdin fight_shadow_stop_Running_away_2_375e0910:
+msgid "You can't just run away! Amity Park needs you to protect her."
+msgstr ""
+
+# game/code/battle/fight_shadow.rpy:798 #-#-# translate crowdin fight_shadow_stop_Running_away_3_5c10a6a0:
+msgid "Don't leave now! Sam needs protection from the shadow monster."
+msgstr ""
+
+# game/code/battle/fight_shadow.rpy:804 #-#-# translate crowdin fight_shadow_stop_Running_away_4_d7319c18:
+msgid "Stand your ground! Johnny 13's reign of perversion needs to be stopped here and now!"
+msgstr ""
+
