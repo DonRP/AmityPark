@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-07-21 21:42\n"
+"PO-Revision-Date: 2022-07-23 10:05\n"
 
-# TODO: Translation updated at 2022-07-19 HH:HH# game/code/characters/lancer.rpy:337 ## translate crowdin lancer_convo_29fe625f:
-msgid "[@lancer at_player talk_frown@] Don't bother me, Fenton."
+# game/code/characters/lancer.rpy:337 #-#-# translate crowdin lancer_convo_29fe625f:
+msgid "[@lancer_$_at_player_$_talk_frown@] Don't bother me, Fenton."
 msgstr ""
 
