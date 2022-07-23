@@ -10,41 +10,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-22 04:06\n"
+"PO-Revision-Date: 2022-07-23 10:05\n"
 
-# TODO: Translation updated at 2022-07-19 HH:HH# XXtranslate crowdin strings:XX# XX## game/code/episodes/episodes_selection.rpy:202
-msgid "[mschoice] Paulina was in trouble! What did I do?!"
+msgid "Paulina was in trouble! What did I do?!"
 msgstr ""
 
-# XX## game/code/episodes/episodes_selection.rpy:202
-msgid "[mschoice] Saved her immediately!"
+# game/code/episodes/episodes_selection.rpy:202
+msgid "Saved her immediately!"
 msgstr ""
 
-# XX## game/code/episodes/episodes_selection.rpy:202
-msgid "[mschoice] Waited to see what happens..."
+# game/code/episodes/episodes_selection.rpy:202
+msgid "Waited to see what happens..."
 msgstr ""
 
-# XX## game/code/episodes/episodes_selection.rpy:245
-msgid "[mschoice] Did I save Maddie from Ectopuss in the basement?"
+# game/code/episodes/episodes_selection.rpy:245
+msgid "Did I save Maddie from Ectopuss in the basement?"
 msgstr ""
 
-# XX## game/code/episodes/episodes_selection.rpy:330
-msgid "[mschoice] Did I prank Sam at Star's request?"
+# game/code/episodes/episodes_selection.rpy:330
+msgid "Did I prank Sam at Star's request?"
 msgstr ""
 
-# XX## game/code/episodes/episodes_selection.rpy:366
-msgid "[mschoice] Who did I take to the school dance?"
+# game/code/episodes/episodes_selection.rpy:366
+msgid "Who did I take to the school dance?"
 msgstr ""
 
-# XX## game/code/episodes/episodes_selection.rpy:366
-msgid "[mschoice] Sam"
+# game/code/episodes/episodes_selection.rpy:366
+msgid "Sam"
 msgstr ""
 
-# XX## game/code/episodes/episodes_selection.rpy:406
-msgid "[mschoice] Did I get romantically involved with Maddie?"
+# game/code/episodes/episodes_selection.rpy:406
+msgid "Did I get romantically involved with Maddie?"
 msgstr ""
 
-# XX## game/code/episodes/episodes_selection.rpy:440
-msgid "[mschoice] Who did I get my second orgone charge from?"
+# game/code/episodes/episodes_selection.rpy:440
+msgid "Who did I get my second orgone charge from?"
 msgstr ""
 
