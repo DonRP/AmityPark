@@ -10,197 +10,196 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-22 04:07\n"
+"PO-Revision-Date: 2022-07-23 10:06\n"
 
-# TODO: Translation updated at 2022-07-19 HH:HH# game/code/locations/AbYss_MZ.rpy:12 ## translate crowdin buy_outfits_1abeb31e:
-msgid "[@sales_lady talk_happy at_player_2 wondering@] Hi there, welcome to AbYss! How can I help you today?"
+# game/code/locations/AbYss_MZ.rpy:12 #-#-# translate crowdin buy_outfits_1abeb31e:
+msgid "[@sales_lady_$_talk_happy_$_at_player_2_$_wondering@] Hi there, welcome to AbYss! How can I help you today?"
 msgstr ""
 
-# game/code/locations/AbYss_MZ.rpy:23 ## translate crowdin buy_1_cf4f8bdd:
+# game/code/locations/AbYss_MZ.rpy:23 #-#-# translate crowdin buy_1_cf4f8bdd:
 msgid "[@danny@] Uh, hey, I'm here to pick up an ordered package for a friend of mine."
 msgstr ""
 
-# game/code/locations/AbYss_MZ.rpy:24 ## translate crowdin buy_1_50395604:
+# game/code/locations/AbYss_MZ.rpy:24 #-#-# translate crowdin buy_1_50395604:
 msgid "[@danny@] Her name is Sam Manson. Should be a cheerleading outfit."
 msgstr ""
 
-# game/code/locations/AbYss_MZ.rpy:26 ## translate crowdin buy_1_6a72ab5f:
-msgid "[@sales_lady talk_happy@] Sounds great, I'll go and grab it for you right away from the back!"
+# game/code/locations/AbYss_MZ.rpy:26 #-#-# translate crowdin buy_1_6a72ab5f:
+msgid "[@sales_lady_$_talk_happy@] Sounds great, I'll go and grab it for you right away from the back!"
 msgstr ""
 
-# game/code/locations/AbYss_MZ.rpy:33 ## translate crowdin buy_1_7c98462f:
-msgid "[@sales_lady at_player_2 talk_happy wondering@] I believe {b}this{/b} is what you're looking for! It's all been prepaid already, so you're all set to go! Take care now!"
+# game/code/locations/AbYss_MZ.rpy:33 #-#-# translate crowdin buy_1_7c98462f:
+msgid "[@sales_lady_$_at_player_2_$_talk_happy_$_wondering@] I believe {b}this{/b} is what you're looking for! It's all been prepaid already, so you're all set to go! Take care now!"
 msgstr ""
 
-# game/code/locations/AbYss_MZ.rpy:37 ## translate crowdin buy_1_136dc5ff:
+# game/code/locations/AbYss_MZ.rpy:37 #-#-# translate crowdin buy_1_136dc5ff:
 msgid "[@danny@] Alright, thank you! (Hey, this ain't too bad an outfit... again, it'll definitely be interesting to actually see her wear something like this...)"
 msgstr ""
 
-# game/code/locations/AbYss_MZ.rpy:73 ## translate crowdin buying_cloth_42482319:
-msgid "[@sales_lady idle_ at_player_2 talk_happy@] Sorry sir, you actually have to have enough cash to get that! And you don't, so, sorry!"
+# game/code/locations/AbYss_MZ.rpy:73 #-#-# translate crowdin buying_cloth_42482319:
+msgid "[@sales_lady_$_idle__$_at_player_2_$_talk_happy@] Sorry sir, you actually have to have enough cash to get that! And you don't, so, sorry!"
 msgstr ""
 
-# game/code/locations/AbYss_MZ.rpy:328 ## translate crowdin sorry_not_enough_money_42482319:
-msgid "[@sales_lady idle_ at_player_2 talk_happy@] Sorry sir, you actually have to have enough cash to get that! And you don't, so, sorry!"
+# game/code/locations/AbYss_MZ.rpy:328 #-#-# translate crowdin sorry_not_enough_money_42482319:
+msgid "[@sales_lady_$_idle__$_at_player_2_$_talk_happy@] Sorry sir, you actually have to have enough cash to get that! And you don't, so, sorry!"
 msgstr ""
 
-# game/code/locations/AbYss_MZ.rpy:334 ## translate crowdin item_bought_e34b38e4:
-msgid "[@sales_lady idle_ talk_happy@] Of course! Here's your purchase, and thanks for being a loyal AbYss customer!"
+# game/code/locations/AbYss_MZ.rpy:334 #-#-# translate crowdin item_bought_e34b38e4:
+msgid "[@sales_lady_$_idle__$_talk_happy@] Of course! Here's your purchase, and thanks for being a loyal AbYss customer!"
 msgstr ""
 
-# game/code/locations/AbYss_MZ.rpy:340 ## translate crowdin item_bought_normal_e34b38e4:
-msgid "[@sales_lady idle_ talk_happy@] Of course! Here's your purchase, and thanks for being a loyal AbYss customer!"
+# game/code/locations/AbYss_MZ.rpy:340 #-#-# translate crowdin item_bought_normal_e34b38e4:
+msgid "[@sales_lady_$_idle__$_talk_happy@] Of course! Here's your purchase, and thanks for being a loyal AbYss customer!"
 msgstr ""
 
-# game/code/locations/AbYss_MZ.rpy:347 ## translate crowdin item_bought_2_3d723e86:
-msgid "[@sales_lady idle_ talk_happy@] Here you go, a lovely dress made for a lovely lady!"
+# game/code/locations/AbYss_MZ.rpy:347 #-#-# translate crowdin item_bought_2_3d723e86:
+msgid "[@sales_lady_$_idle__$_talk_happy@] Here you go, a lovely dress made for a lovely lady!"
 msgstr ""
 
-# game/code/locations/AbYss_MZ.rpy:350 ## translate crowdin item_bought_2_364ac41c:
+# game/code/locations/AbYss_MZ.rpy:350 #-#-# translate crowdin item_bought_2_364ac41c:
 msgid "[@danny@] (Great I have a dress for Desiree now. I hope she'll like it!)"
 msgstr ""
 
-# game/code/locations/AbYss_MZ.rpy:352 ## translate crowdin item_bought_2_fc0c241b:
+# game/code/locations/AbYss_MZ.rpy:352 #-#-# translate crowdin item_bought_2_fc0c241b:
 msgid "[@danny@] (Now to attend this shindig and show off my hot date to everyone!)"
 msgstr ""
 
-# XXtranslate crowdin strings:XX# XX## game/code/locations/AbYss_MZ.rpy:16
-msgid "[mschoice] What do I need to do at AbYss?"
+msgid "What do I need to do at AbYss?"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:16
-msgid "[mschoice] Ask about a 'gift' for Jazz."
+# game/code/locations/AbYss_MZ.rpy:16
+msgid "Ask about a 'gift' for Jazz."
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:16
-msgid "[mschoice] Pay for the 'special' package. (120 $)"
+# game/code/locations/AbYss_MZ.rpy:16
+msgid "Pay for the 'special' package. (120 $)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:16
-msgid "[mschoice] Ask to pick up the cheerleader outfit for Sam."
+# game/code/locations/AbYss_MZ.rpy:16
+msgid "Ask to pick up the cheerleader outfit for Sam."
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:16
-msgid "[mschoice] Shop at AbYss."
+# game/code/locations/AbYss_MZ.rpy:16
+msgid "Shop at AbYss."
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:16
-msgid "[mschoice] Nothing, leave."
+# game/code/locations/AbYss_MZ.rpy:16
+msgid "Nothing, leave."
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:49
-msgid "[mschoice] What do you want to buy?"
+# game/code/locations/AbYss_MZ.rpy:49
+msgid "What do you want to buy?"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:49
-msgid "[mschoice] Buy some expensive cloth for {b}Maddie{/b} -150$"
+# game/code/locations/AbYss_MZ.rpy:49
+msgid "Buy some expensive cloth for {b}Maddie{/b} -150$"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:49
-msgid "[mschoice] \"Casper Chill Formal\" Suit ($300)"
+# game/code/locations/AbYss_MZ.rpy:49
+msgid "\"Casper Chill Formal\" Suit ($300)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:49
-msgid "[mschoice] \"Casper Chill Formal\" Dress for Desiree ($200)"
+# game/code/locations/AbYss_MZ.rpy:49
+msgid "\"Casper Chill Formal\" Dress for Desiree ($200)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:49
-msgid "[mschoice] For Desiree."
+# game/code/locations/AbYss_MZ.rpy:49
+msgid "For Desiree."
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:49
-msgid "[mschoice] Back."
+# game/code/locations/AbYss_MZ.rpy:49
+msgid "Back."
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:78
-msgid "[mschoice] What color might suit on Desiree?"
+# game/code/locations/AbYss_MZ.rpy:78
+msgid "What color might suit on Desiree?"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:78
-msgid "[mschoice] Red Dress"
+# game/code/locations/AbYss_MZ.rpy:78
+msgid "Red Dress"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:78
-msgid "[mschoice] Blue Dress"
+# game/code/locations/AbYss_MZ.rpy:78
+msgid "Blue Dress"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:103
-msgid "[mschoice] What might Desiree like to wear?"
+# game/code/locations/AbYss_MZ.rpy:103
+msgid "What might Desiree like to wear?"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:103
-msgid "[mschoice] Top"
+# game/code/locations/AbYss_MZ.rpy:103
+msgid "Top"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:103
-msgid "[mschoice] Bottom"
+# game/code/locations/AbYss_MZ.rpy:103
+msgid "Bottom"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:103
-msgid "[mschoice] Accessory"
+# game/code/locations/AbYss_MZ.rpy:103
+msgid "Accessory"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:103
-msgid "[mschoice] Outfits"
+# game/code/locations/AbYss_MZ.rpy:103
+msgid "Outfits"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:106
-msgid "[mschoice] Black Bra ($20)"
+# game/code/locations/AbYss_MZ.rpy:106
+msgid "Black Bra ($20)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:106
-msgid "[mschoice] Mini Bra ($30)"
+# game/code/locations/AbYss_MZ.rpy:106
+msgid "Mini Bra ($30)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:106
-msgid "[mschoice] Swimsuit ($50)"
+# game/code/locations/AbYss_MZ.rpy:106
+msgid "Swimsuit ($50)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:106
-msgid "[mschoice] School Top ($50)"
+# game/code/locations/AbYss_MZ.rpy:106
+msgid "School Top ($50)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:144
-msgid "[mschoice] Skirt ($20)"
+# game/code/locations/AbYss_MZ.rpy:144
+msgid "Skirt ($20)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:144
-msgid "[mschoice] School Skirt ($30)"
+# game/code/locations/AbYss_MZ.rpy:144
+msgid "School Skirt ($30)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:144
-msgid "[mschoice] Mini Panties ($40)"
+# game/code/locations/AbYss_MZ.rpy:144
+msgid "Mini Panties ($40)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:173
-msgid "[mschoice] Stockings ($20)"
+# game/code/locations/AbYss_MZ.rpy:173
+msgid "Stockings ($20)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:173
-msgid "[mschoice] Garter Belt ($40)"
+# game/code/locations/AbYss_MZ.rpy:173
+msgid "Garter Belt ($40)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:199
-msgid "[mschoice] She-Hulk ($50)"
+# game/code/locations/AbYss_MZ.rpy:199
+msgid "She-Hulk ($50)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:199
-msgid "[mschoice] Jeannie ($100)"
+# game/code/locations/AbYss_MZ.rpy:199
+msgid "Jeannie ($100)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:199
-msgid "[mschoice] Origa ($100)"
+# game/code/locations/AbYss_MZ.rpy:199
+msgid "Origa ($100)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:199
-msgid "[mschoice] Harley Quinn ($150)"
+# game/code/locations/AbYss_MZ.rpy:199
+msgid "Harley Quinn ($150)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:199
-msgid "[mschoice] Chel ($200)"
+# game/code/locations/AbYss_MZ.rpy:199
+msgid "Chel ($200)"
 msgstr ""
 
-# XX## game/code/locations/AbYss_MZ.rpy:199
-msgid "[mschoice] Slave Leia ($400)"
+# game/code/locations/AbYss_MZ.rpy:199
+msgid "Slave Leia ($400)"
 msgstr ""
 
