@@ -10,41 +10,41 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 10:04\n"
+"PO-Revision-Date: 2022-07-23 16:04\n"
 
-# game/code/locations/school/school_misc.rpy:6 #-#-# translate crowdin schools_closed_6d531cde:
-msgid "[@danny@] The school's closing soon, I need to get out of here before I get locked in."
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/school/school_misc.rpy:6 #-#-# translate crowdin schools_closed_6d531cde:
+msgid "[_danny_] The school's closing soon, I need to get out of here before I get locked in."
 msgstr ""
 
 # game/code/locations/school/school_misc.rpy:17 #-#-# translate crowdin nurse_locked_1b13a1ce:
-msgid "[@danny@] Nurse Kate must be doing inventory at the moment, or treating another one of her patients."
+msgid "[_danny_] Nurse Kate must be doing inventory at the moment, or treating another one of her patients."
 msgstr ""
 
 # game/code/locations/school/school_misc.rpy:29 #-#-# translate crowdin girl_locker_locked_90c821b4:
-msgid "[@danny@] I'd likely end up in a body bag if somebody like Star or Valerie caught me just hanging out in the girls locker room. I'd best stay out whenever possible."
+msgid "[_danny_] I'd likely end up in a body bag if somebody like Star or Valerie caught me just hanging out in the girls locker room. I'd best stay out whenever possible."
 msgstr ""
 
 # game/code/locations/school/school_misc.rpy:43 #-#-# translate crowdin girl_toilet_locked_4e635638:
-msgid "[@danny@] (That's the girl's bathroom, I can't go in there. Not without getting slapped with a suspension.)"
+msgid "[_danny_] (That's the girl's bathroom, I can't go in there. Not without getting slapped with a suspension.)"
 msgstr ""
 
 # game/code/locations/school/school_misc.rpy:54 #-#-# translate crowdin sams_locker_locked_011424b3:
-msgid "[@danny@] This is Sam's locker. Her locker number's \"130\", but she once complained to the school administration that they were being unfair for not accepting her request..."
+msgid "[_danny_] This is Sam's locker. Her locker number's \"130\", but she once complained to the school administration that they were being unfair for not accepting her request..."
 msgstr ""
 
 # game/code/locations/school/school_misc.rpy:56 #-#-# translate crowdin sams_locker_locked_5f1a95b7:
-msgid "[@danny@] ...of modifying her locker to \"666\" instead. She didn't quite win that argument, sadly."
+msgid "[_danny_] ...of modifying her locker to \"666\" instead. She didn't quite win that argument, sadly."
 msgstr ""
 
 # game/code/locations/school/school_misc.rpy:72 #-#-# translate crowdin locked_school_38b673da:
-msgid "[@danny@] (I need to go to my room and pick up Desiree first before I go to the dance.)"
+msgid "[_danny_] (I need to go to my room and pick up Desiree first before I go to the dance.)"
 msgstr ""
 
 # game/code/locations/school/school_misc.rpy:74 #-#-# translate crowdin locked_school_f4224db0:
-msgid "[@danny@] (I need to go and pick up Sam first before I go to the dance.)"
+msgid "[_danny_] (I need to go and pick up Sam first before I go to the dance.)"
 msgstr ""
 
 # game/code/locations/school/school_misc.rpy:76 #-#-# translate crowdin locked_school_3f5d82f8:
-msgid "[@danny@] (The school is closed for today.)"
+msgid "[_danny_] (The school is closed for today.)"
 msgstr ""
 
