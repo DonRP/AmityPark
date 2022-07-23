@@ -10,293 +10,292 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-22 04:05\n"
+"PO-Revision-Date: 2022-07-23 10:05\n"
 
-# TODO: Translation updated at 2022-07-19 HH:HH# game/code/character_events/maddie/maddie_yoga.rpy:11 ## translate crowdin maddie_sunday_yoga_first_time_e164560b:
-msgid "[@danny f offscreen aheago idle bite@] (Jeez, Mom's butt sure looks, {i}*Ahem*{/i}, \"well rounded\" in those spandex pants...)"
+# game/code/character_events/maddie/maddie_yoga.rpy:11 #-#-# translate crowdin maddie_sunday_yoga_first_time_e164560b:
+msgid "[@danny_$_f_$_offscreen_$_aheago_$_idle_$_bite@] (Jeez, Mom's butt sure looks, {i}*Ahem*{/i}, \"well rounded\" in those spandex pants...)"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:13 ## translate crowdin maddie_sunday_yoga_first_time_9bf91e5b:
-msgid "[@danny f offscreen towards rise bite@] (Definitely comes from all the yoga she does... helps her stay limber, I guess...)"
+# game/code/character_events/maddie/maddie_yoga.rpy:13 #-#-# translate crowdin maddie_sunday_yoga_first_time_9bf91e5b:
+msgid "[@danny_$_f_$_offscreen_$_towards_$_rise_$_bite@] (Definitely comes from all the yoga she does... helps her stay limber, I guess...)"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:15 ## translate crowdin maddie_sunday_yoga_first_time_c46f476b:
-msgid "[@danny f offscreen aheago sad bite@] (. . .)"
+# game/code/character_events/maddie/maddie_yoga.rpy:15 #-#-# translate crowdin maddie_sunday_yoga_first_time_c46f476b:
+msgid "[@danny_$_f_$_offscreen_$_aheago_$_sad_$_bite@] (. . .)"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:17 ## translate crowdin maddie_sunday_yoga_first_time_beb246ae:
-msgid "[@danny f offscreen down sad consternation@] ({i}Bahh!{/i} What am I doing? Checking out my own Mom like that, seriously?! {i}Jeeez{/i}...)"
+# game/code/character_events/maddie/maddie_yoga.rpy:17 #-#-# translate crowdin maddie_sunday_yoga_first_time_beb246ae:
+msgid "[@danny_$_f_$_offscreen_$_down_$_sad_$_consternation@] ({i}Bahh!{/i} What am I doing? Checking out my own Mom like that, seriously?! {i}Jeeez{/i}...)"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:31 ## translate crowdin maddie_sunday_yoga_first_time_ae4b9814:
-msgid "[@maddie special yoga towards idle talk_happy@] Oh, hey sweetie! Didn't see you there!"
+# game/code/character_events/maddie/maddie_yoga.rpy:31 #-#-# translate crowdin maddie_sunday_yoga_first_time_ae4b9814:
+msgid "[@maddie_$_special_$_yoga_$_towards_$_idle_$_talk_happy@] Oh, hey sweetie! Didn't see you there!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:34 ## translate crowdin maddie_sunday_yoga_first_time_57a9a8cf:
-msgid "[@danny towards idle talk_happy@] Morning Mom.{p}Yoga today?"
+# game/code/character_events/maddie/maddie_yoga.rpy:34 #-#-# translate crowdin maddie_sunday_yoga_first_time_57a9a8cf:
+msgid "[@danny_$_towards_$_idle_$_talk_happy@] Morning Mom.{p}Yoga today?"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:37 ## translate crowdin maddie_sunday_yoga_first_time_5e502f02:
-msgid "[@maddie special yoga towards rise talk_amused@] You bet! You should join try and join me some time, it's a {i}real{/i} workout! Got any plans today?"
+# game/code/character_events/maddie/maddie_yoga.rpy:37 #-#-# translate crowdin maddie_sunday_yoga_first_time_5e502f02:
+msgid "[@maddie_$_special_$_yoga_$_towards_$_rise_$_talk_amused@] You bet! You should join try and join me some time, it's a {i}real{/i} workout! Got any plans today?"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:40 ## translate crowdin maddie_sunday_yoga_first_time_b973d75b:
-msgid "[@danny down sad talk_consternation@] {i}Uhhh{/i}, well now that you mention it, I've got some homework to go and... study, so..."
+# game/code/character_events/maddie/maddie_yoga.rpy:40 #-#-# translate crowdin maddie_sunday_yoga_first_time_b973d75b:
+msgid "[@danny_$_down_$_sad_$_talk_consternation@] {i}Uhhh{/i}, well now that you mention it, I've got some homework to go and... study, so..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:43 ## translate crowdin maddie_sunday_yoga_first_time_3633b9ec:
-msgid "[@maddie special yoga towards sad talk_displeased@] {i}Aww{/i}, well make sure you get that all done and make sure you're studying well!"
+# game/code/character_events/maddie/maddie_yoga.rpy:43 #-#-# translate crowdin maddie_sunday_yoga_first_time_3633b9ec:
+msgid "[@maddie_$_special_$_yoga_$_towards_$_sad_$_talk_displeased@] {i}Aww{/i}, well make sure you get that all done and make sure you're studying well!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:46 ## translate crowdin maddie_sunday_yoga_first_time_b94d920f:
-msgid "[@maddie special yoga towards sad talk_happy@] Maybe another time I guess!"
+# game/code/character_events/maddie/maddie_yoga.rpy:46 #-#-# translate crowdin maddie_sunday_yoga_first_time_b94d920f:
+msgid "[@maddie_$_special_$_yoga_$_towards_$_sad_$_talk_happy@] Maybe another time I guess!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:49 ## translate crowdin maddie_sunday_yoga_first_time_558ee56f:
-msgid "[@danny towards sad talk_happy@] Y-yeah Mom, definitely another time..."
+# game/code/character_events/maddie/maddie_yoga.rpy:49 #-#-# translate crowdin maddie_sunday_yoga_first_time_558ee56f:
+msgid "[@danny_$_towards_$_sad_$_talk_happy@] Y-yeah Mom, definitely another time..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:92 ## translate crowdin maddie_sunday_yoga_too_soon_loop_cfe22c72:
-msgid "[@danny f offscreen towards idle bite@] . . ."
+# game/code/character_events/maddie/maddie_yoga.rpy:92 #-#-# translate crowdin maddie_sunday_yoga_too_soon_loop_cfe22c72:
+msgid "[@danny_$_f_$_offscreen_$_towards_$_idle_$_bite@] . . ."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:103 ## translate crowdin maddie_sunday_yoga_too_soon_loop_d5c8c3b0:
-msgid "[@danny f offscreen at_self idle displeased@] {i}*Siiigh*{/i}"
+# game/code/character_events/maddie/maddie_yoga.rpy:103 #-#-# translate crowdin maddie_sunday_yoga_too_soon_loop_d5c8c3b0:
+msgid "[@danny_$_f_$_offscreen_$_at_self_$_idle_$_displeased@] {i}*Siiigh*{/i}"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:121 ## translate crowdin maddie_sunday_yoga_lewd_c98844aa:
+# game/code/character_events/maddie/maddie_yoga.rpy:121 #-#-# translate crowdin maddie_sunday_yoga_lewd_c98844aa:
 msgid "[@danny@] (Y'know... I think it's been a few days since Mom and I really... {i}'did it'{/i}...)"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:124 ## translate crowdin maddie_sunday_yoga_lewd_3d4067e1:
+# game/code/character_events/maddie/maddie_yoga.rpy:124 #-#-# translate crowdin maddie_sunday_yoga_lewd_3d4067e1:
 msgid "[@danny@] (...and just looking at this sight right now... I mean God, just check out that ass!)"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:127 ## translate crowdin maddie_sunday_yoga_lewd_4d6fe6e3:
+# game/code/character_events/maddie/maddie_yoga.rpy:127 #-#-# translate crowdin maddie_sunday_yoga_lewd_4d6fe6e3:
 msgid "[@danny@] (I still know deep down this probably isn't right, but it's too amazing to ignore!)"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:133 ## translate crowdin maddie_sunday_yoga_lewd_6cbe2b0d:
+# game/code/character_events/maddie/maddie_yoga.rpy:133 #-#-# translate crowdin maddie_sunday_yoga_lewd_6cbe2b0d:
 msgid "[@maddie@] {i}Heh{/i}, you just gonna stand there and stare all day, sweetie?"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:136 ## translate crowdin maddie_sunday_yoga_lewd_411339a1:
+# game/code/character_events/maddie/maddie_yoga.rpy:136 #-#-# translate crowdin maddie_sunday_yoga_lewd_411339a1:
 msgid "[@danny@] {i}U-uhhh{/i}..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:139 ## translate crowdin maddie_sunday_yoga_lewd_f001b8a5:
+# game/code/character_events/maddie/maddie_yoga.rpy:139 #-#-# translate crowdin maddie_sunday_yoga_lewd_f001b8a5:
 msgid "[@maddie@] Don't worry... I don't think anyone's around right now...~"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:142 ## translate crowdin maddie_sunday_yoga_lewd_215c9f35:
+# game/code/character_events/maddie/maddie_yoga.rpy:142 #-#-# translate crowdin maddie_sunday_yoga_lewd_215c9f35:
 msgid "[@maddie@] Do you like the outfit sweetie? Had to pull it out of the closet... it was the popular style at the time..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:145 ## translate crowdin maddie_sunday_yoga_lewd_8f01bbc4:
+# game/code/character_events/maddie/maddie_yoga.rpy:145 #-#-# translate crowdin maddie_sunday_yoga_lewd_8f01bbc4:
 msgid "[@danny@] I can definitely imagine it being... pretty popular, Mom."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:148 ## translate crowdin maddie_sunday_yoga_lewd_fa84a6b8:
+# game/code/character_events/maddie/maddie_yoga.rpy:148 #-#-# translate crowdin maddie_sunday_yoga_lewd_fa84a6b8:
 msgid "[@maddie@] You don't think it looks a bit outdated or cheesy, right?"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:151 ## translate crowdin maddie_sunday_yoga_lewd_5e2bbfa2:
+# game/code/character_events/maddie/maddie_yoga.rpy:151 #-#-# translate crowdin maddie_sunday_yoga_lewd_5e2bbfa2:
 msgid "[@danny@] No way, it definitely has some staying power. You look great, believe me..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:154 ## translate crowdin maddie_sunday_yoga_lewd_e766b18f:
+# game/code/character_events/maddie/maddie_yoga.rpy:154 #-#-# translate crowdin maddie_sunday_yoga_lewd_e766b18f:
 msgid "[@maddie@] Just \"great\"?"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:157 ## translate crowdin maddie_sunday_yoga_lewd_b1a1d4ba:
+# game/code/character_events/maddie/maddie_yoga.rpy:157 #-#-# translate crowdin maddie_sunday_yoga_lewd_b1a1d4ba:
 msgid "[@danny@] {i}Really{/i} great... jaw dropping, I'd say."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:160 ## translate crowdin maddie_sunday_yoga_lewd_e386f48f:
+# game/code/character_events/maddie/maddie_yoga.rpy:160 #-#-# translate crowdin maddie_sunday_yoga_lewd_e386f48f:
 msgid "[@maddie@] {i}Nawww{/i}, baby! You're practically {u}drooling{/u} right now!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:163 ## translate crowdin maddie_sunday_yoga_lewd_2da9e3b4:
+# game/code/character_events/maddie/maddie_yoga.rpy:163 #-#-# translate crowdin maddie_sunday_yoga_lewd_2da9e3b4:
 msgid "[@maddie@] (Oh yeah, Madeline Fenton's {i}stiiill{/i} got it!~)"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:166 ## translate crowdin maddie_sunday_yoga_lewd_7ffbd538:
+# game/code/character_events/maddie/maddie_yoga.rpy:166 #-#-# translate crowdin maddie_sunday_yoga_lewd_7ffbd538:
 msgid "[@maddie@] Would you maybe mind helping me with this one particular pose?"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:169 ## translate crowdin maddie_sunday_yoga_lewd_cdd2cf80:
+# game/code/character_events/maddie/maddie_yoga.rpy:169 #-#-# translate crowdin maddie_sunday_yoga_lewd_cdd2cf80:
 msgid "[@danny@] S-sure, what do I need to do?"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:172 ## translate crowdin maddie_sunday_yoga_lewd_1fe321b6:
+# game/code/character_events/maddie/maddie_yoga.rpy:172 #-#-# translate crowdin maddie_sunday_yoga_lewd_1fe321b6:
 msgid "[@maddie@] Oh nothing, you just need to... pull my arms back a little... while I'm on my knees, is all."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:175 ## translate crowdin maddie_sunday_yoga_lewd_96fc7251:
+# game/code/character_events/maddie/maddie_yoga.rpy:175 #-#-# translate crowdin maddie_sunday_yoga_lewd_96fc7251:
 msgid "[@maddie@] You'll be helping to really {i}'stretch me out'{/i}, believe me..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:178 ## translate crowdin maddie_sunday_yoga_lewd_4b6e558e:
+# game/code/character_events/maddie/maddie_yoga.rpy:178 #-#-# translate crowdin maddie_sunday_yoga_lewd_4b6e558e:
 msgid "[@danny@] ...{i}oh!{/i} Definitely then!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:181 ## translate crowdin maddie_sunday_yoga_lewd_65ed13e0:
+# game/code/character_events/maddie/maddie_yoga.rpy:181 #-#-# translate crowdin maddie_sunday_yoga_lewd_65ed13e0:
 msgid "[@maddie@] Thank you sweetie~!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:184 ## translate crowdin maddie_sunday_yoga_lewd_e955e853:
+# game/code/character_events/maddie/maddie_yoga.rpy:184 #-#-# translate crowdin maddie_sunday_yoga_lewd_e955e853:
 msgid "[@maddie@] You're too kind to your dear old mother..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:194 ## translate crowdin maddie_sunday_yoga_lewd_0efd2037:
+# game/code/character_events/maddie/maddie_yoga.rpy:194 #-#-# translate crowdin maddie_sunday_yoga_lewd_0efd2037:
 msgid "[@maddie@] Now pull nice and firmly baby... be gentle, but really get a good grip on my forearms..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:197 ## translate crowdin maddie_sunday_yoga_lewd_1249e81a:
+# game/code/character_events/maddie/maddie_yoga.rpy:197 #-#-# translate crowdin maddie_sunday_yoga_lewd_1249e81a:
 msgid "[@danny@] Okay then, so do I just-"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:200 ## translate crowdin maddie_sunday_yoga_lewd_d2d69bdc:
+# game/code/character_events/maddie/maddie_yoga.rpy:200 #-#-# translate crowdin maddie_sunday_yoga_lewd_d2d69bdc:
 msgid "[@danny@] {i}...!{/i}"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:206 ## translate crowdin maddie_sunday_yoga_lewd_7c88d435:
+# game/code/character_events/maddie/maddie_yoga.rpy:206 #-#-# translate crowdin maddie_sunday_yoga_lewd_7c88d435:
 msgid "[@maddie@] {i}Mmm~{/i} That's it sweetie, just like that..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:209 ## translate crowdin maddie_sunday_yoga_lewd_67d6437e:
+# game/code/character_events/maddie/maddie_yoga.rpy:209 #-#-# translate crowdin maddie_sunday_yoga_lewd_67d6437e:
 msgid "[@danny@] (God... if she keeps wiggling her butt up against me like that, I'm going to pop a boner in no time!)"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:212 ## translate crowdin maddie_sunday_yoga_lewd_2020587d:
+# game/code/character_events/maddie/maddie_yoga.rpy:212 #-#-# translate crowdin maddie_sunday_yoga_lewd_2020587d:
 msgid "[@maddie@] Something the matter sweetie? You seem sorta, {i}*Giggles*{/i} \"pent up\" today... you getting enough sleep lately?"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:215 ## translate crowdin maddie_sunday_yoga_lewd_de107471:
+# game/code/character_events/maddie/maddie_yoga.rpy:215 #-#-# translate crowdin maddie_sunday_yoga_lewd_de107471:
 msgid "[@danny@] Oh, y'know, c-could have been better last night!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:218 ## translate crowdin maddie_sunday_yoga_lewd_33899ac5:
+# game/code/character_events/maddie/maddie_yoga.rpy:218 #-#-# translate crowdin maddie_sunday_yoga_lewd_33899ac5:
 msgid "[@maddie@] {i}Awww{/i}, poor thing! Don't worry sweetie, I'll be sure to visit at night again soon! Then I can help ease the tension of whatever's winding you up so much...~"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:221 ## translate crowdin maddie_sunday_yoga_lewd_19c998d3:
+# game/code/character_events/maddie/maddie_yoga.rpy:221 #-#-# translate crowdin maddie_sunday_yoga_lewd_19c998d3:
 msgid "[@danny@] Holy... f-fuck..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:224 ## translate crowdin maddie_sunday_yoga_lewd_f5e0278e:
+# game/code/character_events/maddie/maddie_yoga.rpy:224 #-#-# translate crowdin maddie_sunday_yoga_lewd_f5e0278e:
 msgid "[@maddie@] {i}*Tssk!*{/i} Sweetie! Language, please!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:227 ## translate crowdin maddie_sunday_yoga_lewd_44f003d7:
+# game/code/character_events/maddie/maddie_yoga.rpy:227 #-#-# translate crowdin maddie_sunday_yoga_lewd_44f003d7:
 msgid "[@danny@] S-sorry... just sorta slipped out"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:230 ## translate crowdin maddie_sunday_yoga_lewd_02490d1d:
+# game/code/character_events/maddie/maddie_yoga.rpy:230 #-#-# translate crowdin maddie_sunday_yoga_lewd_02490d1d:
 msgid "[@maddie@] {i}*Sigh*{/i} I guess it can't be helped right now, you're right..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:233 ## translate crowdin maddie_sunday_yoga_lewd_4c35d9f1:
+# game/code/character_events/maddie/maddie_yoga.rpy:233 #-#-# translate crowdin maddie_sunday_yoga_lewd_4c35d9f1:
 msgid "[@maddie@] Now... unzip your pants and let's slip out that fat cock of yours...~"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:236 ## translate crowdin maddie_sunday_yoga_lewd_f0525fdd:
+# game/code/character_events/maddie/maddie_yoga.rpy:236 #-#-# translate crowdin maddie_sunday_yoga_lewd_f0525fdd:
 msgid "[@danny@] {i}M-MOM!! We can't just... right?{/i}{p}I-I mean, alright, but... but what about-"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:239 ## translate crowdin maddie_sunday_yoga_lewd_db17debd:
+# game/code/character_events/maddie/maddie_yoga.rpy:239 #-#-# translate crowdin maddie_sunday_yoga_lewd_db17debd:
 msgid "[@maddie@] Don't worry, I told you, everyone's asleep right now anyway, and even if they come downstairs, they won't be able to see anything from this angle.~"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:242 ## translate crowdin maddie_sunday_yoga_lewd_f53c1ab3:
+# game/code/character_events/maddie/maddie_yoga.rpy:242 #-#-# translate crowdin maddie_sunday_yoga_lewd_f53c1ab3:
 msgid "[@maddie@] Now hurry up and be give momma a feel of that nice, big-!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:288 ## translate crowdin maddie_sunday_yoga_lewd_3d1f7ac6:
-msgid "[@jack offscreen pjs at_player rise talk_happy@] {i}*Yaaawn*{/i} Jumping junipers, what a beautiful day! Honey! Get the coffee going!"
+# game/code/character_events/maddie/maddie_yoga.rpy:288 #-#-# translate crowdin maddie_sunday_yoga_lewd_3d1f7ac6:
+msgid "[@jack_$_offscreen_$_pjs_$_at_player_$_rise_$_talk_happy@] {i}*Yaaawn*{/i} Jumping junipers, what a beautiful day! Honey! Get the coffee going!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:295 ## translate crowdin maddie_sunday_yoga_lewd_fc0c7239:
+# game/code/character_events/maddie/maddie_yoga.rpy:295 #-#-# translate crowdin maddie_sunday_yoga_lewd_fc0c7239:
 msgid "[@maddie@] {i}*Quietly Frantic*{/i} Shit! Danny-!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:298 ## translate crowdin maddie_sunday_yoga_lewd_077e4eb7:
+# game/code/character_events/maddie/maddie_yoga.rpy:298 #-#-# translate crowdin maddie_sunday_yoga_lewd_077e4eb7:
 msgid "[@danny@] {i}*Whispering*{/i} Oh crap! We gotta get off the floor!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:326 ## translate crowdin maddie_sunday_yoga_lewd_end_210a1e23:
-msgid "[@danny down unhappy talk_happy blush@] H-hey dad!"
+# game/code/character_events/maddie/maddie_yoga.rpy:326 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_210a1e23:
+msgid "[@danny_$_down_$_unhappy_$_talk_happy_$_blush@] H-hey dad!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:330 ## translate crowdin maddie_sunday_yoga_lewd_end_3ce3fa6a:
-msgid "[@jack pjs closed idle talk_happy@] {i}*Yawn*{/i} Morning Champ. Sweetie."
+# game/code/character_events/maddie/maddie_yoga.rpy:330 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_3ce3fa6a:
+msgid "[@jack_$_pjs_$_closed_$_idle_$_talk_happy@] {i}*Yawn*{/i} Morning Champ. Sweetie."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:334 ## translate crowdin maddie_sunday_yoga_lewd_end_45095677:
-msgid "[@jack pjs towards sad talk_displeased@] {i}*Smack* *Smack*{/i}{p}{i}Blechh{/i}... darn morning mouth!"
+# game/code/character_events/maddie/maddie_yoga.rpy:334 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_45095677:
+msgid "[@jack_$_pjs_$_towards_$_sad_$_talk_displeased@] {i}*Smack* *Smack*{/i}{p}{i}Blechh{/i}... darn morning mouth!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:338 ## translate crowdin maddie_sunday_yoga_lewd_end_d7c9bd11:
-msgid "[@maddie special yoga towards idle talk_happy blush@] I'll get some coffee for you, dear."
+# game/code/character_events/maddie/maddie_yoga.rpy:338 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_d7c9bd11:
+msgid "[@maddie_$_special_$_yoga_$_towards_$_idle_$_talk_happy_$_blush@] I'll get some coffee for you, dear."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:342 ## translate crowdin maddie_sunday_yoga_lewd_end_fc4fc458:
-msgid "[@jack pjs towards idle talk_happy@] Thanks honey, I-"
+# game/code/character_events/maddie/maddie_yoga.rpy:342 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_fc4fc458:
+msgid "[@jack_$_pjs_$_towards_$_idle_$_talk_happy@] Thanks honey, I-"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:347 ## translate crowdin maddie_sunday_yoga_lewd_end_e9666e7d:
+# game/code/character_events/maddie/maddie_yoga.rpy:347 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_e9666e7d:
 msgid "[@extend@] say, you doing okay? You look a little flustered!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:351 ## translate crowdin maddie_sunday_yoga_lewd_end_5cc6b705:
-msgid "[@maddie special yoga towards sad talk_happy blush@] Oh, y'know, just overdid it a little with the yoga.{p}G-gotta keep myself in ghost fighting shape though!"
+# game/code/character_events/maddie/maddie_yoga.rpy:351 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_5cc6b705:
+msgid "[@maddie_$_special_$_yoga_$_towards_$_sad_$_talk_happy_$_blush@] Oh, y'know, just overdid it a little with the yoga.{p}G-gotta keep myself in ghost fighting shape though!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:355 ## translate crowdin maddie_sunday_yoga_lewd_end_6e7e489b:
-msgid "[@jack pjs towards rise displeased@] {i}Hmm{/i}..."
+# game/code/character_events/maddie/maddie_yoga.rpy:355 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_6e7e489b:
+msgid "[@jack_$_pjs_$_towards_$_rise_$_displeased@] {i}Hmm{/i}..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:359 ## translate crowdin maddie_sunday_yoga_lewd_end_09c4041f:
-msgid "[@jack pjs closed idle talk_happy@] {i}Ha!{/i} Anything to keep that body still rockin', baby!"
+# game/code/character_events/maddie/maddie_yoga.rpy:359 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_09c4041f:
+msgid "[@jack_$_pjs_$_closed_$_idle_$_talk_happy@] {i}Ha!{/i} Anything to keep that body still rockin', baby!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:364 ## translate crowdin maddie_sunday_yoga_lewd_end_4236eb41:
+# game/code/character_events/maddie/maddie_yoga.rpy:364 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_4236eb41:
 msgid "[@maddie@] {i}Jack!!{/i} Danny's {i}right{/i} here!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:368 ## translate crowdin maddie_sunday_yoga_lewd_end_80775d9d:
-msgid "[@jack pjs towards rise talk_happy@] ...and he'll be lucky to get a woman half as beautiful as you, dear."
+# game/code/character_events/maddie/maddie_yoga.rpy:368 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_80775d9d:
+msgid "[@jack_$_pjs_$_towards_$_rise_$_talk_happy@] ...and he'll be lucky to get a woman half as beautiful as you, dear."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:372 ## translate crowdin maddie_sunday_yoga_lewd_end_27d1770d:
-msgid "[@maddie special yoga towards sad talk_happy blush@] {i}Awww{/i}, you're the sweetest, Jack..."
+# game/code/character_events/maddie/maddie_yoga.rpy:372 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_27d1770d:
+msgid "[@maddie_$_special_$_yoga_$_towards_$_sad_$_talk_happy_$_blush@] {i}Awww{/i}, you're the sweetest, Jack..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:376 ## translate crowdin maddie_sunday_yoga_lewd_end_62ae282d:
-msgid "[@jack pjs towards rise talk_happy@] See champ? Mind your manners well and one day you might get lucky enough to score a gal that good!"
+# game/code/character_events/maddie/maddie_yoga.rpy:376 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_62ae282d:
+msgid "[@jack_$_pjs_$_towards_$_rise_$_talk_happy@] See champ? Mind your manners well and one day you might get lucky enough to score a gal that good!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:380 ## translate crowdin maddie_sunday_yoga_lewd_end_71bb3369:
-msgid "[@danny towards unhappy talk_happy blush@] {i}Uhh{/i}, sure dad..."
+# game/code/character_events/maddie/maddie_yoga.rpy:380 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_71bb3369:
+msgid "[@danny_$_towards_$_unhappy_$_talk_happy_$_blush@] {i}Uhh{/i}, sure dad..."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:384 ## translate crowdin maddie_sunday_yoga_lewd_end_6cfbd3eb:
-msgid "[@jack pjs closed idle talk_happy@] Well, have a nice day everybody! Gotta work on some new ghost hunting tech in the basement!"
+# game/code/character_events/maddie/maddie_yoga.rpy:384 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_6cfbd3eb:
+msgid "[@jack_$_pjs_$_closed_$_idle_$_talk_happy@] Well, have a nice day everybody! Gotta work on some new ghost hunting tech in the basement!"
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:388 ## translate crowdin maddie_sunday_yoga_lewd_end_125e9fe8:
-msgid "[@maddie special yoga towards idle talk_happy@] I'll bring your coffee in a minute, Jack."
+# game/code/character_events/maddie/maddie_yoga.rpy:388 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_125e9fe8:
+msgid "[@maddie_$_special_$_yoga_$_towards_$_idle_$_talk_happy@] I'll bring your coffee in a minute, Jack."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:398 ## translate crowdin maddie_sunday_yoga_lewd_end_9d5ee56b:
-msgid "[@maddie special yoga down sad talk_happy@] Well.. I suppose I'll talk to you later, Danny."
+# game/code/character_events/maddie/maddie_yoga.rpy:398 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_9d5ee56b:
+msgid "[@maddie_$_special_$_yoga_$_down_$_sad_$_talk_happy@] Well.. I suppose I'll talk to you later, Danny."
 msgstr ""
 
-# game/code/character_events/maddie/maddie_yoga.rpy:405 ## translate crowdin maddie_sunday_yoga_lewd_end_1864ad36:
-msgid "[@danny at_player angry displeased@] (Dang... so close!)"
+# game/code/character_events/maddie/maddie_yoga.rpy:405 #-#-# translate crowdin maddie_sunday_yoga_lewd_end_1864ad36:
+msgid "[@danny_$_at_player_$_angry_$_displeased@] (Dang... so close!)"
 msgstr ""
 
-# XXtranslate crowdin strings:XX# XX## game/code/character_events/maddie/maddie_yoga.rpy:96
-msgid "[mschoice] Keep watching?"
+msgid "Keep watching?"
 msgstr ""
 
