@@ -10,45 +10,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 10:04\n"
+"PO-Revision-Date: 2022-07-23 16:04\n"
 
-# game/code/locations/town/town_map_1.rpy:368 #-#-# translate crowdin It_s_to_early_14320f84:
-msgid "[@danny@] Sam said we could meet at her place during the {b}afternoons{/b} after school or during the weekend. Now's not the right time."
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/town/town_map_1.rpy:368 #-#-# translate crowdin It_s_to_early_14320f84:
+msgid "[_danny_] Sam said we could meet at her place during the {b}afternoons{/b} after school or during the weekend. Now's not the right time."
 msgstr ""
 
 # game/code/locations/town/town_map_1.rpy:388 #-#-# translate crowdin sam_is_angry_88e2dda8:
-msgid "[@danny@] Sam really doesn't wanna see me right now because of my behavior. Maybe I should try back tomorrow instead."
+msgid "[_danny_] Sam really doesn't wanna see me right now because of my behavior. Maybe I should try back tomorrow instead."
 msgstr ""
 
 # game/code/locations/town/town_map_1.rpy:408 #-#-# translate crowdin It_s_late_87146ead:
-msgid "[@danny@] It's getting late. I should probably just come back tomorrow."
+msgid "[_danny_] It's getting late. I should probably just come back tomorrow."
 msgstr ""
 
 # game/code/locations/town/town_map_1.rpy:430 #-#-# translate crowdin closed_burger_820ba8fd:
-msgid "[@danny@] The Nasty Burger is closed for the day. No late night shakes or fries for this Ghost Boy."
+msgid "[_danny_] The Nasty Burger is closed for the day. No late night shakes or fries for this Ghost Boy."
 msgstr ""
 
 # game/code/locations/town/town_map_1.rpy:448 #-#-# translate crowdin nasty_burger_intro_c1e5d303:
-msgid "[@danny_$_f_$_offscreen_$_towards_$_rise_$_talk_happy@] {i}Hmmm?{/i} What the...{p}Wait, don't tell me, is...?"
+msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_s_talk_happy_] {i}Hmmm?{/i} What the...{p}Wait, don't tell me, is...?"
 msgstr ""
 
 # game/code/locations/town/town_map_1.rpy:449 #-#-# translate crowdin nasty_burger_intro_4e95baaf:
-msgid "[@danny_$_f_$_offscreen_$_at_player_$_rise_$_talk_happy@] Alright! The Nasty Burger's open for business again!"
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_happy_] Alright! The Nasty Burger's open for business again!"
 msgstr ""
 
 # game/code/locations/town/town_map_1.rpy:450 #-#-# translate crowdin nasty_burger_intro_8f0b67c2:
-msgid "[@danny_$_f_$_offscreen_$_down_$_unhappy_$_talk_displeased@] I heard they had a rat problem for a couple weeks and had to close everything down."
+msgid "[_danny_s_f_s_offscreen_s_down_s_unhappy_s_talk_displeased_] I heard they had a rat problem for a couple weeks and had to close everything down."
 msgstr ""
 
 # game/code/locations/town/town_map_1.rpy:451 #-#-# translate crowdin nasty_burger_intro_451380d5:
-msgid "[@danny_$_f_$_offscreen_$_at_player_$_idle_$_talk_happy@] Tucker and I used to get their chili fries all the time!{p}Man, you never know how much you miss something until it's gone!"
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_idle_s_talk_happy_] Tucker and I used to get their chili fries all the time!{p}Man, you never know how much you miss something until it's gone!"
 msgstr ""
 
 # game/code/locations/town/town_map_1.rpy:452 #-#-# translate crowdin nasty_burger_intro_2dc5b1cf:
-msgid "[@danny_$_f_$_offscreen_$_at_player_$_wondering_$_talk_happy@] Looks like they're doing some sort of relaunch.{p}I'll definitely have to check it out!"
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_talk_happy_] Looks like they're doing some sort of relaunch.{p}I'll definitely have to check it out!"
 msgstr ""
 
 # game/code/locations/town/town_map_1.rpy:467 #-#-# translate crowdin before_first_visit_burger_dfd4c1b6:
-msgid "[@danny@] It's still early in the morning. I should give the place a visit later in the day."
+msgid "[_danny_] It's still early in the morning. I should give the place a visit later in the day."
 msgstr ""
 
