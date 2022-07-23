@@ -10,102 +10,102 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 10:05\n"
+"PO-Revision-Date: 2022-07-23 16:05\n"
 
-# game/code/locations/mystery_shop_MZ.rpy:16 #-#-# translate crowdin talk_to_box_ghost_b18d7717:
-msgid "[@box_ghost_$_talk@] Hi there, mister customer! Would you like to buy this inconspicuous box for $[stolen_box.cost]?"
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/mystery_shop_MZ.rpy:16 #-#-# translate crowdin talk_to_box_ghost_b18d7717:
+msgid "[_box_ghost_s_talk_] Hi there, mister customer! Would you like to buy this inconspicuous box for $[stolen_box.cost]?"
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:25 #-#-# translate crowdin discuss_mystery_box_632239cc:
-msgid "[@box_ghost_$_angry_$_talk_frown@] Hey, you don't have enough money, buddy!"
+msgid "[_box_ghost_s_angry_s_talk_frown_] Hey, you don't have enough money, buddy!"
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:26 #-#-# translate crowdin discuss_mystery_box_32b6fa3e:
-msgid "[@box_ghost_$_confused_$_talk_frown_2@] Come back when you have enough cash."
+msgid "[_box_ghost_s_confused_s_talk_frown_2_] Come back when you have enough cash."
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:31 #-#-# translate crowdin discuss_mystery_box_3d01c004:
-msgid "[@danny@] Yeah, I'd like to buy this box, please."
+msgid "[_danny_] Yeah, I'd like to buy this box, please."
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:33 #-#-# translate crowdin discuss_mystery_box_9e500ce3:
-msgid "[@box_ghost_$_talk@] Okie doke, that'll be $[stolen_box.cost]."
+msgid "[_box_ghost_s_talk_] Okie doke, that'll be $[stolen_box.cost]."
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:35 #-#-# translate crowdin discuss_mystery_box_fa46b304:
-msgid "[@box_ghost_$_talk_2_$_sad@] Thanks for shopping at Mystery Box and have a nice day, friend!"
+msgid "[_box_ghost_s_talk_2_s_sad_] Thanks for shopping at Mystery Box and have a nice day, friend!"
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:49 #-#-# translate crowdin discuss_mystery_box_bb91ce6a:
-msgid "[@danny@] Why is it labeled \"Property of Casper High?\""
+msgid "[_danny_] Why is it labeled \"Property of Casper High?\""
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:50 #-#-# translate crowdin discuss_mystery_box_72c246bf:
-msgid "[@box_ghost_$_talk_frown@] Oh... that? That's nothing, don't worry about it."
+msgid "[_box_ghost_s_talk_frown_] Oh... that? That's nothing, don't worry about it."
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:51 #-#-# translate crowdin discuss_mystery_box_6d404eab:
-msgid "[@box_ghost_$_talk_frown_2_$_angry@] Besides, it's none of your business anyway, buddy!"
+msgid "[_box_ghost_s_talk_frown_2_s_angry_] Besides, it's none of your business anyway, buddy!"
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:58 #-#-# translate crowdin stolen_or_not_8be3a8b2:
-msgid "[@danny@] Well did you steal it?"
+msgid "[_danny_] Well did you steal it?"
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:59 #-#-# translate crowdin stolen_or_not_9f841d61:
-msgid "[@box_ghost_$_confused_$_talk_frown@] You dare to accuse me of thievery? You got any proof there, buddy?"
+msgid "[_box_ghost_s_confused_s_talk_frown_] You dare to accuse me of thievery? You got any proof there, buddy?"
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:65 #-#-# translate crowdin stolen_or_not_2_f62d3ca7:
-msgid "[@danny@] Uhm, no, I don't have any proof actually. Sorry aobout being so abrasive."
+msgid "[_danny_] Uhm, no, I don't have any proof actually. Sorry aobout being so abrasive."
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:66 #-#-# translate crowdin stolen_or_not_2_64afed4c:
-msgid "[@box_ghost_$_talk_frown_2_$_angry_low_$_center_2@] Exactly, so keep your non-boxy trap shut!"
+msgid "[_box_ghost_s_talk_frown_2_s_angry_low_s_center_2_] Exactly, so keep your non-boxy trap shut!"
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:70 #-#-# translate crowdin stolen_or_not_2_242ec659:
-msgid "[@danny@] Yes, I... have... a {b}whole{/b} lotta proof, actually. Like... tons of it. You better be scared of all the proof that {i}this{/i} guy's walking around with... yessiree bob..."
+msgid "[_danny_] Yes, I... have... a {b}whole{/b} lotta proof, actually. Like... tons of it. You better be scared of all the proof that {i}this{/i} guy's walking around with... yessiree bob..."
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:72 #-#-# translate crowdin stolen_or_not_2_415c4f6a:
-msgid "[@box_ghost_$_angry_$_talk_frown@] You're bluffing! Quit being full of bologna!"
+msgid "[_box_ghost_s_angry_s_talk_frown_] You're bluffing! Quit being full of bologna!"
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:74 #-#-# translate crowdin stolen_or_not_2_ec9f7481:
-msgid "[@box_ghost_$_talk_frown_2_$_angry_low_$_center_2@] You know what? Now the box costs $[stolen_box.cost]! Just for being so full bologna, ya bologna boy! Now you better buy it or leave!"
+msgid "[_box_ghost_s_talk_frown_2_s_angry_low_s_center_2_] You know what? Now the box costs $[stolen_box.cost]! Just for being so full bologna, ya bologna boy! Now you better buy it or leave!"
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:85 #-#-# translate crowdin stolen_or_not_2_e7cbd327:
-msgid "[@danny@] Fine, I never asked! Yeesh."
+msgid "[_danny_] Fine, I never asked! Yeesh."
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:90 #-#-# translate crowdin stolen_or_not_2_31334250:
-msgid "[@danny@] What is even in the mystery box?"
+msgid "[_danny_] What is even in the mystery box?"
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:91 #-#-# translate crowdin stolen_or_not_2_5693ccad:
-msgid "[@box_ghost_$_talk_frown_2_$_confused@] Uhm, if I told you that, it wouldn't be a mystery anymore, would it?"
+msgid "[_box_ghost_s_talk_frown_2_s_confused_] Uhm, if I told you that, it wouldn't be a mystery anymore, would it?"
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:97 #-#-# translate crowdin stolen_or_not_2_baf019c1:
-msgid "[@danny@] I'm not interested, I was just looking around. See yah."
+msgid "[_danny_] I'm not interested, I was just looking around. See yah."
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:114 #-#-# translate crowdin not_ready_fc6fda39:
-msgid "[@box_ghost_$_talk@] Hey there! Thank you for visiting \"The Mystery Shop\" today."
+msgid "[_box_ghost_s_talk_] Hey there! Thank you for visiting \"The Mystery Shop\" today."
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:115 #-#-# translate crowdin not_ready_b6452159:
-msgid "[@box_ghost_$_talk_frown@] Unfortunately, we are currently restocking the inventory at this time with other stole- uhh, I mean, {i}purchased{/i} goods!"
+msgid "[_box_ghost_s_talk_frown_] Unfortunately, we are currently restocking the inventory at this time with other stole- uhh, I mean, {i}purchased{/i} goods!"
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:116 #-#-# translate crowdin not_ready_b3f25c81:
-msgid "[@box_ghost_$_sad_$_talk@] Please visit us another time when we are open! {b}Beware{/b} our dangerous deals during next week's big sales event!"
+msgid "[_box_ghost_s_sad_s_talk_] Please visit us another time when we are open! {b}Beware{/b} our dangerous deals during next week's big sales event!"
 msgstr ""
 
 # game/code/locations/mystery_shop_MZ.rpy:117 #-#-# translate crowdin not_ready_105b26d3:
-msgid "[@box_ghost_$_talk_2_$_neutral@] Have a nice day!"
+msgid "[_box_ghost_s_talk_2_s_neutral_] Have a nice day!"
 msgstr ""
 
 msgid "Would you like to buy this Mystery Box for $[stolen_box.cost]?"
