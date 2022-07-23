@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/battle/fight_ghosts.po\n"
+"X-Crowdin-File-ID: 4296\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"PO-Revision-Date: 2022-07-23 16:08\n"
+
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battle/fight_ghosts.rpy:59 #-#-# translate crowdin start_fight_2223361c:
+msgid "[_danny_] I'm taking you down, creep!"
+msgstr ""
+
+# game/code/battle/fight_ghosts.rpy:70 #-#-# translate crowdin fight_main_1c69cde2:
+msgid "[_danny_] It's stronger than I thought!"
+msgstr ""
+
+# game/code/battle/fight_ghosts.rpy:74 #-#-# translate crowdin fight_main_d15020d9:
+msgid "[_danny_] It's time to end this!"
+msgstr ""
+
+# game/code/battle/fight_ghosts.rpy:113 #-#-# translate crowdin t_ghost_turn_d58590d1:
+msgid "[_danny_] nothing happened."
+msgstr ""
+
+# game/code/battle/fight_ghosts.rpy:249 #-#-# translate crowdin player_invisible_6dedd31d:
+msgid "[_danny_] I don't have enough energy for this."
+msgstr ""
+
+# game/code/battle/fight_ghosts.rpy:309 #-#-# translate crowdin player_ghost_ray_6dedd31d:
+msgid "[_danny_] I don't have enough energy for this."
+msgstr ""
+
+# game/code/battle/fight_ghosts.rpy:455 #-#-# translate crowdin ghost_attack_cedae1c8:
+msgid "[_danny_] I need to be more careful!"
+msgstr ""
+
+# game/code/battle/fight_ghosts.rpy:539 #-#-# translate crowdin stop_Running_away_6c2938ff:
+msgid "You can't run away from this battle. Be a man and fight! Paulina needs you!"
+msgstr ""
+
+# game/code/battle/fight_ghosts.rpy:545 #-#-# translate crowdin stop_Running_away_2_1352e896:
+msgid "You can't run away from this battle. Amity Park needs you."
+msgstr ""
+
