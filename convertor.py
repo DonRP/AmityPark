@@ -1,58 +1,44 @@
 from fileinput import FileInput
 from glob import glob
 import os
+import shutil
+import re
 
 # ATTENTION: there must not be 2 equal key or value
+# regex: https://www.w3schools.com/python/python_regex.asp
 dict = {
     # search_text : replace_text
-    # Discinct
-    """
-translate crowdin""": """ ## translate crowdin""",
-    """    # game""": """# XX## game""",
-    """:
-
-    # """: """:
-msgid @°@°@""",
-    """\\\"""": """£*£*£*£""",
-    """    old \"""": """msgid @+@+@[mschoice] """,
-    """    new \"""": """msgstr @+@+@[mschoice] """,
+    # start
+    r'\\'+'"': r'§§§§§§§§',
     # Effect
-    """\" nointeract""": """ [nointeract]\"""",
-    """\" with fade""": """ [withfade]\"""",
-    """\" with dissolve""": """ [withdissolve]\"""",
-    """\" with slowdissolve""": """ [withslowdissolve]\"""",
-    """\" with hpunch""": """ [withhpunch]\"""",
-    """\" with flash""": """ [withflash]\"""",
-    """\" with vpunch""": """ [withvpunch]\"""",
-    """\" with Dissolve(2.0)""": """ [withDissolve(2.0)]\"""",
-
-    # Discinct
-    """\n    """: """\nmsgstr @°@°@""",
-    """@°@°@\"""": """@§@§@""",
-    """
-\"""": """@*@*@""",
-
-    # Clean
-    """@§@§@""": """\"""",
-    """ \" """: """@] """,
-    """@°@°@""": """\"[@""",
-    """@*@*@""": """\"""",
-    """@+@+@""": """\"""",
-    """£*£*£*£""": """\\\"""",
-
-    # fix 
-    """@] [@""": """ \"[@""",
-    """@] \n""": """\"\n""",
-
+    r'" nointeract': r' [nointeract]"',
+    r'" with fade': r' [withfade]"',
+    r'" with dissolve': r' [withdissolve]"',
+    r'" with slowdissolve': r' [withslowdissolve]"',
+    r'" with hpunch': r' [withhpunch]"',
+    r'" with flash': r' [withflash]"',
+    r'" with vpunch': r' [withvpunch]"',
+    r'" with Dissolve(2.0)': r' [withDissolve20]"',
+    # first
+    r'    #': '#',
+    r'    old "(.*?)"': r'msgid "\1"',
+    r'    new "(.*?)"': r'msgstr "\1"',
+    # find:    # (.*?) "(.*?)"
+    # replace:msgid "[$1] $2"
+    r'# (.*?) "(.*?)"': r'msgid "[@\1@] \2"',
+    # after
+    # find:    (.*?) "(.*?)"
+    # replace:msgstr "[$1] $2"
+    r'    (.*?) "(.*?)"': r'msgstr "[@\1@] \2"',
+    r'# "(.*?)"': r'msgid "\1"',
+    r'    "(.*?)"': r'msgstr "\1"',
     # Comment
-    """\n ## translate crowdin strings:\n\n""": """\n\n# XXtranslate crowdin strings:XX\n""",
-    """:XX\n# XX## game""": """:XX# XX## game""",
-    # date
-    """21:03\n\n# game""": """HH:HH# game""",
-    """21:03\n\n# XXtranslate""": """HH:HH# XXtranslate""",
-    # only rpytopo
-    """msgid \"\"""": """msgid \"""",
-    """msgstr \"\"""": """msgstr \"""",
+    r':\n\nmsgid': r':\nmsgid',
+    r'rpy:(.*?)\ntranslate': r'rpy:\1 #-#-# translate',
+    r'strings:\n\n# ': r'strings: #|#|# # ',
+    r'\ntranslate': r'\n#§translate',
+    # end
+    r'§§§§§§§§': r'\\'+'"',
 }
 
 
@@ -63,8 +49,11 @@ def replacetext(search_text, replace_text, pathFile):
     with open(pathFile, "r+", encoding="utf8") as file:
         filedata = file.read()
 
+    # c = re.compile(search_text)
+
     # Replace the target string
-    filedata = filedata.replace(search_text, replace_text)
+    # filedata = filedata.replace(search_text, replace_text)
+    filedata = re.sub(search_text, replace_text, filedata)
 
     # Write the file out again
     with open(pathFile, 'w', encoding="utf8") as file:
@@ -73,32 +62,39 @@ def replacetext(search_text, replace_text, pathFile):
 
 
 def replaceDictionary(pathFile, dict={}, reverse=False):
+    newpathFile = fileRename(pathFile, extension=".po")
     print(pathFile)
     if(reverse):
         for item in reversed(list(dict.items())):
-            replacetext(pathFile=pathFile,
+            replacetext(pathFile=newpathFile,
                         search_text=item[1], replace_text=item[0])
     else:
         for search_text in dict.keys():
-            replacetext(pathFile=pathFile, search_text=search_text,
+            replacetext(pathFile=newpathFile, search_text=search_text,
                         replace_text=dict[search_text])
 
 
-def getListFiles():
+def getListFiles(extension=".po"):
     # Get the list of all files and directories
     path = "game/tl/"
-    dir_list = glob(path + "/**/*.po", recursive=True)
+    dir_list = glob(path + "/**/*"+extension, recursive=True)
     return dir_list
 
 
 def rpytopo():
-    for path in getListFiles():
+    for path in getListFiles(extension=".rpy"):
         replaceDictionary(path, dict=dict)
 
 
 def potorpy():
     for path in getListFiles():
         replaceDictionary(path, dict=dict, reverse=True)
+
+
+def fileRename(pathFile, extension=".rpy"):
+    pre, ext = os.path.splitext(pathFile)
+    shutil.copyfile(pathFile, pre + extension)
+    return pre + extension
 
 
 rpytopo()
