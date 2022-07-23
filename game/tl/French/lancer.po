@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 10:04\n"
+"PO-Revision-Date: 2022-07-23 16:04\n"
 
-# game/code/characters/lancer.rpy:337 #-#-# translate crowdin lancer_convo_29fe625f:
-msgid "[@lancer_$_at_player_$_talk_frown@] Don't bother me, Fenton."
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/characters/lancer.rpy:337 #-#-# translate crowdin lancer_convo_29fe625f:
+msgid "[_lancer_s_at_player_s_talk_frown_] Don't bother me, Fenton."
 msgstr ""
 
