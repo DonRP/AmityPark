@@ -10,233 +10,233 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-23 10:04\n"
+"PO-Revision-Date: 2022-07-23 16:04\n"
 
-# game/code/character_events/maddie/maddie_staying_home.rpy:3 #-#-# translate crowdin stay_home_216caf44:
-msgid "[@danny_$_sit_0_$_towards_$_unhappy_$_talk_consternation@] If... if you really think I should stay home."
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/maddie/maddie_staying_home.rpy:3 #-#-# translate crowdin stay_home_216caf44:
+msgid "[_danny_s_sit_0_s_towards_s_unhappy_s_talk_consternation_] If... if you really think I should stay home."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:6 #-#-# translate crowdin stay_home_6fc89a08:
-msgid "[@jack_$_towards_$_rise_$_talk_happy@] I'd suggest you take your mother's advice on this one, champ! I've learned that's usually the safer option, at least when it comes to women."
+msgid "[_jack_s_towards_s_rise_s_talk_happy_] I'd suggest you take your mother's advice on this one, champ! I've learned that's usually the safer option, at least when it comes to women."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:9 #-#-# translate crowdin stay_home_6fa9611f:
-msgid "[@maddie_$_special_$_open_nightgown_$_away_$_rise_$_talk_amused@] {i}*Chuckles*{/i}, oh Jack, don't be so fresh...~"
+msgid "[_maddie_s_special_s_open_nightgown_s_away_s_rise_s_talk_amused_] {i}*Chuckles*{/i}, oh Jack, don't be so fresh...~"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:10 #-#-# translate crowdin stay_home_8790b18e:
-msgid "[@maddie_$_special_$_open_nightgown_$_towards_$_sad_$_talk_happy@] Go on sweetie, go get some rest for now, I'll call and let the school know you aren't coming in today."
+msgid "[_maddie_s_special_s_open_nightgown_s_towards_s_sad_s_talk_happy_] Go on sweetie, go get some rest for now, I'll call and let the school know you aren't coming in today."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:12 #-#-# translate crowdin stay_home_98d8d62a:
-msgid "[@danny_$_closed_$_talk_happy@] A-alright then, I'll be upstairs in my room, I guess..."
+msgid "[_danny_s_closed_s_talk_happy_] A-alright then, I'll be upstairs in my room, I guess..."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:39 #-#-# translate crowdin staying_home_first_time_6fc0ac88:
-msgid "[@danny_$_down_$_sad_$_talk_displeased@] {i}*Sigh*{/i} Well... this kinda sucks... not much I feel like doing just laying in my room, honestly."
+msgid "[_danny_s_down_s_sad_s_talk_displeased_] {i}*Sigh*{/i} Well... this kinda sucks... not much I feel like doing just laying in my room, honestly."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:41 #-#-# translate crowdin staying_home_first_time_5cd8e671:
-msgid "[@danny_$_towards_$_sad_$_talk_displeased@] What am I gonna do for the rest of the afternoon? Everyone's busy getting ready for class right now..."
+msgid "[_danny_s_towards_s_sad_s_talk_displeased_] What am I gonna do for the rest of the afternoon? Everyone's busy getting ready for class right now..."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:43 #-#-# translate crowdin staying_home_first_time_6709873a:
-msgid "[@danny_$_at_player_$_rise_$_talk_displeased@] ...I guess I could go play some videogames for a bit?"
+msgid "[_danny_s_at_player_s_rise_s_talk_displeased_] ...I guess I could go play some videogames for a bit?"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:60 #-#-# translate crowdin staying_home_first_time_37738386:
-msgid "[@danny@] ...and that's yet another new speedrun PB on that stupid water level..."
+msgid "[_danny_] ...and that's yet another new speedrun PB on that stupid water level..."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:63 #-#-# translate crowdin staying_home_first_time_d8c83fa0:
-msgid "[@danny@] ...yippee.{p}{i}*Sighs*{/i}"
+msgid "[_danny_] ...yippee.{p}{i}*Sighs*{/i}"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:66 #-#-# translate crowdin staying_home_first_time_f320fe66:
-msgid "[@doorsound@] {i}*Knock!* *Knock!*{/i}"
+msgid "[_doorsound_] {i}*Knock!* *Knock!*{/i}"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:69 #-#-# translate crowdin staying_home_first_time_fcb1dd9e:
-msgid "[@maddie_$_offscreen_$_towards_$_sad_$_talk_happy@] {i}Daaaanny...{/i} are you available?"
+msgid "[_maddie_s_offscreen_s_towards_s_sad_s_talk_happy_] {i}Daaaanny...{/i} are you available?"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:71 #-#-# translate crowdin staying_home_first_time_c00e75ee:
-msgid "[@danny_$_sitting_$_on_$_bed_$_sad_$_talk_happy@] Huh? Oh, yeah, you can come in!"
+msgid "[_danny_s_sitting_s_on_s_bed_s_sad_s_talk_happy_] Huh? Oh, yeah, you can come in!"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:81 #-#-# translate crowdin staying_home_first_time_9931ca15:
-msgid "[@danny_$_sitting_$_on_$_bed_$_closed_$_idle_$_talk_happy@] Hey Mo-"
+msgid "[_danny_s_sitting_s_on_s_bed_s_closed_s_idle_s_talk_happy_] Hey Mo-"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:86 #-#-# translate crowdin staying_home_first_time_5772a1cb:
-msgid "[@extend@] {i}WHOAAAA!!{/i}"
+msgid "[_extend_] {i}WHOAAAA!!{/i}"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:89 #-#-# translate crowdin staying_home_first_time_6e5614ac:
-msgid "[@maddie_$_apron_$_standing_$_by_$_bed_$_arm_up_$_rise_$_talk_excited@] Hi dear... you still feeling all {i}hot{/i} and bothered this afternoon?"
+msgid "[_maddie_s_apron_s_standing_s_by_s_bed_s_arm_up_s_rise_s_talk_excited_] Hi dear... you still feeling all {i}hot{/i} and bothered this afternoon?"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:92 #-#-# translate crowdin staying_home_first_time_afb992cd:
-msgid "[@danny_$_sitting_$_on_$_bed_$_towards_wide_$_sad_$_talk_excited@] M-Mom, jeez, what the- w-where's Dad at right now?!"
+msgid "[_danny_s_sitting_s_on_s_bed_s_towards_wide_s_sad_s_talk_excited_] M-Mom, jeez, what the- w-where's Dad at right now?!"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:95 #-#-# translate crowdin staying_home_first_time_0d34b2b4:
-msgid "[@maddie_$_apron_$_standing_$_by_$_bed_$_arm_up_$_towards_$_sad_$_talk_happy@] Oh don't worry, your father's extra busy in the lab today... he's recalibrating some dials on the Ghost Portal."
+msgid "[_maddie_s_apron_s_standing_s_by_s_bed_s_arm_up_s_towards_s_sad_s_talk_happy_] Oh don't worry, your father's extra busy in the lab today... he's recalibrating some dials on the Ghost Portal."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:98 #-#-# translate crowdin staying_home_first_time_97495c86:
-msgid "[@maddie_$_apron_$_standing_$_by_$_bed_$_arm_down_$_towards_$_rise_$_talk_excited@] He won't even come up to the kitchen for a few more hours..."
+msgid "[_maddie_s_apron_s_standing_s_by_s_bed_s_arm_down_s_towards_s_rise_s_talk_excited_] He won't even come up to the kitchen for a few more hours..."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:101 #-#-# translate crowdin staying_home_first_time_b92e195e:
-msgid "[@danny_$_sitting_$_on_$_bed_$_down_$_sad_$_talk_happy@] Even still, i-isn't this a little... {i}uh{/i}... just a bit too risky?"
+msgid "[_danny_s_sitting_s_on_s_bed_s_down_s_sad_s_talk_happy_] Even still, i-isn't this a little... {i}uh{/i}... just a bit too risky?"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:104 #-#-# translate crowdin staying_home_first_time_c8e3d46a:
-msgid "[@maddie_$_apron_$_standing_$_by_$_bed_$_arm_up_$_towards_$_idle_$_talk_excited_$_blush@] Sweetie... that just makes it even {i}more{/i} exciting..."
+msgid "[_maddie_s_apron_s_standing_s_by_s_bed_s_arm_up_s_towards_s_idle_s_talk_excited_s_blush_] Sweetie... that just makes it even {i}more{/i} exciting..."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:107 #-#-# translate crowdin staying_home_first_time_be243060:
-msgid "[@danny_$_sitting_$_on_$_bed_$_at_player_$_rise_$_bite@] (Jeez, I never knew Mom could be so wild and fun when she wanted to be! At least, before all {i}this{/i} stuff happened...)"
+msgid "[_danny_s_sitting_s_on_s_bed_s_at_player_s_rise_s_bite_] (Jeez, I never knew Mom could be so wild and fun when she wanted to be! At least, before all {i}this{/i} stuff happened...)"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:110 #-#-# translate crowdin staying_home_first_time_08985b8b:
-msgid "[@maddie_$_apron_$_standing_$_by_$_bed_$_arm_up_$_towards_$_rise_$_talk_excited_$_blush@] Now come here... let me look after you properly sweetie.~"
+msgid "[_maddie_s_apron_s_standing_s_by_s_bed_s_arm_up_s_towards_s_rise_s_talk_excited_s_blush_] Now come here... let me look after you properly sweetie.~"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:138 #-#-# translate crowdin staying_home_blowjob_cd2d531c:
-msgid "[@maddie@] {i}Mmm~{/i}"
+msgid "[_maddie_] {i}Mmm~{/i}"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:139 #-#-# translate crowdin staying_home_blowjob_4ea40d66:
-msgid "[@maddie@] (So big... can't help but love the feel of it filling my mouth.)"
+msgid "[_maddie_] (So big... can't help but love the feel of it filling my mouth.)"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:142 #-#-# translate crowdin staying_home_blowjob_a5a7c027:
-msgid "[@danny@] Oh fuck! {i}A-ahhh{/i}... M-Mom... {i}yesss...~{/i}"
+msgid "[_danny_] Oh fuck! {i}A-ahhh{/i}... M-Mom... {i}yesss...~{/i}"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:145 #-#-# translate crowdin staying_home_blowjob_47f0b899:
-msgid "[@danny@] (Oh man, I know it's messed up, but she looks so hot going all the way down on me like-)"
+msgid "[_danny_] (Oh man, I know it's messed up, but she looks so hot going all the way down on me like-)"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:148 #-#-# translate crowdin staying_home_blowjob_c842e285:
-msgid "[@danny@] {i}Ahhh...!{/i}"
+msgid "[_danny_] {i}Ahhh...!{/i}"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:155 #-#-# translate crowdin staying_home_blowjob_0f7d4f95:
-msgid "[@maddie@] {i}*PWOP*{/i}"
+msgid "[_maddie_] {i}*PWOP*{/i}"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:163 #-#-# translate crowdin staying_home_blowjob_b8950822:
-msgid "[@maddie@] Do you like that sweetie?"
+msgid "[_maddie_] Do you like that sweetie?"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:166 #-#-# translate crowdin staying_home_blowjob_d0ea8424:
-msgid "[@danny@] Yes... I really, {i}really{/i} like that..."
+msgid "[_danny_] Yes... I really, {i}really{/i} like that..."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:169 #-#-# translate crowdin staying_home_blowjob_356e8c96:
-msgid "[@maddie@] You want Mommy to continue sucking your big hard penis?"
+msgid "[_maddie_] You want Mommy to continue sucking your big hard penis?"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:172 #-#-# translate crowdin staying_home_blowjob_1255a58b:
-msgid "[@danny@] Y-yes, please Mommy!"
+msgid "[_danny_] Y-yes, please Mommy!"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:175 #-#-# translate crowdin staying_home_blowjob_94b3b8fc:
-msgid "[@maddie@] {i}*Giggles*{/i}"
+msgid "[_maddie_] {i}*Giggles*{/i}"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:184 #-#-# translate crowdin staying_home_blowjob_578a0e23:
-msgid "[@danny@] {i}Ah!~{/i} That feels..."
+msgid "[_danny_] {i}Ah!~{/i} That feels..."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:186 #-#-# translate crowdin staying_home_blowjob_716a4d1e:
-msgid "[@danny@] {u}Awesome...{u}"
+msgid "[_danny_] {u}Awesome...{u}"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:189 #-#-# translate crowdin staying_home_blowjob_4a0d44a5:
-msgid "[@maddie@] {i}*Slurp!* *Slurp*{/i}"
+msgid "[_maddie_] {i}*Slurp!* *Slurp*{/i}"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:190 #-#-# translate crowdin staying_home_blowjob_391be7ea:
-msgid "[@maddie@] (I could do this for hours... he tastes so good...)"
+msgid "[_maddie_] (I could do this for hours... he tastes so good...)"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:191 #-#-# translate crowdin staying_home_blowjob_f4cd9e78:
-msgid "[@maddie@] {i}Mmfgh... Mmm...~{/i}"
+msgid "[_maddie_] {i}Mmfgh... Mmm...~{/i}"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:194 #-#-# translate crowdin staying_home_blowjob_7c6cf299:
-msgid "[@danny@] S-shit, I can't hold on much longer! I'm gonna bust soon!"
+msgid "[_danny_] S-shit, I can't hold on much longer! I'm gonna bust soon!"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:195 #-#-# translate crowdin staying_home_blowjob_29fc8a71:
-msgid "[@danny@] Oh, fuck, here it comes Mom!"
+msgid "[_danny_] Oh, fuck, here it comes Mom!"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:238 #-#-# translate crowdin staying_home_blowjob_first_db284c6e:
-msgid "[@danny_$_f_$_offscreen_$_towards_$_rise_$_talk_happy_$_blush@] {i}*Huff*{/i} Oh man... that was great..."
+msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_s_talk_happy_s_blush_] {i}*Huff*{/i} Oh man... that was great..."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:249 #-#-# translate crowdin staying_home_blowjob_first_234147a4:
-msgid "[@maddie_$_apron_$_standing_$_by_$_bed_$_arm_up_$_towards_$_rise_$_talk_happy@] See?"
+msgid "[_maddie_s_apron_s_standing_s_by_s_bed_s_arm_up_s_towards_s_rise_s_talk_happy_] See?"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:252 #-#-# translate crowdin staying_home_blowjob_first_dbb62399:
-msgid "[@maddie_$_apron_$_standing_$_by_$_bed_$_arm_up_$_towards_$_sad_$_talk_excited@] Staying home with dear ol' mother's not {i}all{/i} bad, now is it?"
+msgid "[_maddie_s_apron_s_standing_s_by_s_bed_s_arm_up_s_towards_s_sad_s_talk_excited_] Staying home with dear ol' mother's not {i}all{/i} bad, now is it?"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:255 #-#-# translate crowdin staying_home_blowjob_first_365ac5f5:
-msgid "[@danny_$_sitting_$_on_$_bed_$_down_$_sad_$_talk_happy@] Y-yeah... I could definitely see the appeal of doing it every day, honestly..."
+msgid "[_danny_s_sitting_s_on_s_bed_s_down_s_sad_s_talk_happy_] Y-yeah... I could definitely see the appeal of doing it every day, honestly..."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:258 #-#-# translate crowdin staying_home_blowjob_first_2fa1cef9:
-msgid "[@maddie_$_apron_$_standing_$_by_$_bed_$_arm_down_$_towards_$_idle_$_talk_happy@] {i}*Chuckles*{/i} Well, you just let me know the next time you're feeling a little \"under the weather.\""
+msgid "[_maddie_s_apron_s_standing_s_by_s_bed_s_arm_down_s_towards_s_idle_s_talk_happy_] {i}*Chuckles*{/i} Well, you just let me know the next time you're feeling a little \"under the weather.\""
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:261 #-#-# translate crowdin staying_home_blowjob_first_72e03050:
-msgid "[@maddie_$_apron_$_standing_$_by_$_bed_$_arm_up_$_towards_$_rise_$_talk_excited_$_blush@] We'll be sure to spend another afternoon together, making sure you're getting all better again, 'kay?"
+msgid "[_maddie_s_apron_s_standing_s_by_s_bed_s_arm_up_s_towards_s_rise_s_talk_excited_s_blush_] We'll be sure to spend another afternoon together, making sure you're getting all better again, 'kay?"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:264 #-#-# translate crowdin staying_home_blowjob_first_babe7c25:
-msgid "[@danny_$_sitting_$_on_$_bed_$_towards_$_rise_$_talk_happy@] Absolutely!"
+msgid "[_danny_s_sitting_s_on_s_bed_s_towards_s_rise_s_talk_happy_] Absolutely!"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:269 #-#-# translate crowdin staying_home_blowjob_first_5c158c91:
-msgid "[@maddie_$_apron_$_standing_$_by_$_bed_$_arm_down_$_towards_$_sad_$_talk_happy_$_blush@] Bye now!~"
+msgid "[_maddie_s_apron_s_standing_s_by_s_bed_s_arm_down_s_towards_s_sad_s_talk_happy_s_blush_] Bye now!~"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:277 #-#-# translate crowdin staying_home_blowjob_first_2ef747d6:
-msgid "[@danny_$_sitting_$_on_$_bed_$_down_$_sad_$_smile@] (...well... I always thought it'd kinda keep a guy socially distanced from others his age...)"
+msgid "[_danny_s_sitting_s_on_s_bed_s_down_s_sad_s_smile_] (...well... I always thought it'd kinda keep a guy socially distanced from others his age...)"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:279 #-#-# translate crowdin staying_home_blowjob_first_fc84445a:
-msgid "[@danny_$_sitting_$_on_$_bed_$_at_player_$_rise_$_grin@] (...but I'm sorta starting to see the appeal of home schooling after {i}that!{/i})"
+msgid "[_danny_s_sitting_s_on_s_bed_s_at_player_s_rise_s_grin_] (...but I'm sorta starting to see the appeal of home schooling after {i}that!{/i})"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:281 #-#-# translate crowdin staying_home_blowjob_first_f2abf70b:
-msgid "[@danny_$_sitting_$_on_$_bed_$_closed_$_sad_$_talk_happy@] {i}*Phew!*{/i}"
+msgid "[_danny_s_sitting_s_on_s_bed_s_closed_s_sad_s_talk_happy_] {i}*Phew!*{/i}"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:306 #-#-# translate crowdin staying_home_after_17f8508f:
-msgid "[@maddie_$_apron_$_standing_$_by_$_bed_$_arm_down_$_towards_$_idle_$_talk_happy@] {i}Hehe~{/i}... you know {i}just{/i} how to make my day, Danny... thank you for that..."
+msgid "[_maddie_s_apron_s_standing_s_by_s_bed_s_arm_down_s_towards_s_idle_s_talk_happy_] {i}Hehe~{/i}... you know {i}just{/i} how to make my day, Danny... thank you for that..."
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:309 #-#-# translate crowdin staying_home_after_fe282723:
-msgid "[@danny_$_sitting_$_on_$_bed_$_towards_$_rise_$_talk_happy@] Make {i}your{/i} day?! {i}*Laughs*{/i} Man, I can't even imagine what you'd consider doing {u}me{/i} a favor to be!"
+msgid "[_danny_s_sitting_s_on_s_bed_s_towards_s_rise_s_talk_happy_] Make {i}your{/i} day?! {i}*Laughs*{/i} Man, I can't even imagine what you'd consider doing {u}me{/i} a favor to be!"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:312 #-#-# translate crowdin staying_home_after_eb03d06a:
-msgid "[@maddie_$_apron_$_standing_$_by_$_bed_$_arm_up_$_towards_$_rise_$_talk_excited@] Bet you're feeling a lot better now though, huh?"
+msgid "[_maddie_s_apron_s_standing_s_by_s_bed_s_arm_up_s_towards_s_rise_s_talk_excited_] Bet you're feeling a lot better now though, huh?"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:315 #-#-# translate crowdin staying_home_after_900d7114:
-msgid "[@danny_$_sitting_$_on_$_bed_$_towards_$_sad_$_talk_happy@] {i}Phew!*{/i} Definitely! Already feeling leagues better, thanks!"
+msgid "[_danny_s_sitting_s_on_s_bed_s_towards_s_sad_s_talk_happy_] {i}Phew!*{/i} Definitely! Already feeling leagues better, thanks!"
 msgstr ""
 
 # game/code/character_events/maddie/maddie_staying_home.rpy:320 #-#-# translate crowdin staying_home_after_9736b273:
-msgid "[@maddie_$_apron_$_standing_$_by_$_bed_$_arm_down_$_towards_$_sad_$_talk_happy@] {i}Mmmm{/i}... so glad to hear, hon...~"
+msgid "[_maddie_s_apron_s_standing_s_by_s_bed_s_arm_down_s_towards_s_sad_s_talk_happy_] {i}Mmmm{/i}... so glad to hear, hon...~"
 msgstr ""
 
