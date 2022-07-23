@@ -10,58 +10,58 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 10:06\n"
+"PO-Revision-Date: 2022-07-23 16:05\n"
 
-# game/code/locations/AbYss_MZ.rpy:12 #-#-# translate crowdin buy_outfits_1abeb31e:
-msgid "[@sales_lady_$_talk_happy_$_at_player_2_$_wondering@] Hi there, welcome to AbYss! How can I help you today?"
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/AbYss_MZ.rpy:12 #-#-# translate crowdin buy_outfits_1abeb31e:
+msgid "[_sales_lady_s_talk_happy_s_at_player_2_s_wondering_] Hi there, welcome to AbYss! How can I help you today?"
 msgstr ""
 
 # game/code/locations/AbYss_MZ.rpy:23 #-#-# translate crowdin buy_1_cf4f8bdd:
-msgid "[@danny@] Uh, hey, I'm here to pick up an ordered package for a friend of mine."
+msgid "[_danny_] Uh, hey, I'm here to pick up an ordered package for a friend of mine."
 msgstr ""
 
 # game/code/locations/AbYss_MZ.rpy:24 #-#-# translate crowdin buy_1_50395604:
-msgid "[@danny@] Her name is Sam Manson. Should be a cheerleading outfit."
+msgid "[_danny_] Her name is Sam Manson. Should be a cheerleading outfit."
 msgstr ""
 
 # game/code/locations/AbYss_MZ.rpy:26 #-#-# translate crowdin buy_1_6a72ab5f:
-msgid "[@sales_lady_$_talk_happy@] Sounds great, I'll go and grab it for you right away from the back!"
+msgid "[_sales_lady_s_talk_happy_] Sounds great, I'll go and grab it for you right away from the back!"
 msgstr ""
 
 # game/code/locations/AbYss_MZ.rpy:33 #-#-# translate crowdin buy_1_7c98462f:
-msgid "[@sales_lady_$_at_player_2_$_talk_happy_$_wondering@] I believe {b}this{/b} is what you're looking for! It's all been prepaid already, so you're all set to go! Take care now!"
+msgid "[_sales_lady_s_at_player_2_s_talk_happy_s_wondering_] I believe {b}this{/b} is what you're looking for! It's all been prepaid already, so you're all set to go! Take care now!"
 msgstr ""
 
 # game/code/locations/AbYss_MZ.rpy:37 #-#-# translate crowdin buy_1_136dc5ff:
-msgid "[@danny@] Alright, thank you! (Hey, this ain't too bad an outfit... again, it'll definitely be interesting to actually see her wear something like this...)"
+msgid "[_danny_] Alright, thank you! (Hey, this ain't too bad an outfit... again, it'll definitely be interesting to actually see her wear something like this...)"
 msgstr ""
 
 # game/code/locations/AbYss_MZ.rpy:73 #-#-# translate crowdin buying_cloth_42482319:
-msgid "[@sales_lady_$_idle__$_at_player_2_$_talk_happy@] Sorry sir, you actually have to have enough cash to get that! And you don't, so, sorry!"
+msgid "[_sales_lady_s_idle__s_at_player_2_s_talk_happy_] Sorry sir, you actually have to have enough cash to get that! And you don't, so, sorry!"
 msgstr ""
 
 # game/code/locations/AbYss_MZ.rpy:328 #-#-# translate crowdin sorry_not_enough_money_42482319:
-msgid "[@sales_lady_$_idle__$_at_player_2_$_talk_happy@] Sorry sir, you actually have to have enough cash to get that! And you don't, so, sorry!"
+msgid "[_sales_lady_s_idle__s_at_player_2_s_talk_happy_] Sorry sir, you actually have to have enough cash to get that! And you don't, so, sorry!"
 msgstr ""
 
 # game/code/locations/AbYss_MZ.rpy:334 #-#-# translate crowdin item_bought_e34b38e4:
-msgid "[@sales_lady_$_idle__$_talk_happy@] Of course! Here's your purchase, and thanks for being a loyal AbYss customer!"
+msgid "[_sales_lady_s_idle__s_talk_happy_] Of course! Here's your purchase, and thanks for being a loyal AbYss customer!"
 msgstr ""
 
 # game/code/locations/AbYss_MZ.rpy:340 #-#-# translate crowdin item_bought_normal_e34b38e4:
-msgid "[@sales_lady_$_idle__$_talk_happy@] Of course! Here's your purchase, and thanks for being a loyal AbYss customer!"
+msgid "[_sales_lady_s_idle__s_talk_happy_] Of course! Here's your purchase, and thanks for being a loyal AbYss customer!"
 msgstr ""
 
 # game/code/locations/AbYss_MZ.rpy:347 #-#-# translate crowdin item_bought_2_3d723e86:
-msgid "[@sales_lady_$_idle__$_talk_happy@] Here you go, a lovely dress made for a lovely lady!"
+msgid "[_sales_lady_s_idle__s_talk_happy_] Here you go, a lovely dress made for a lovely lady!"
 msgstr ""
 
 # game/code/locations/AbYss_MZ.rpy:350 #-#-# translate crowdin item_bought_2_364ac41c:
-msgid "[@danny@] (Great I have a dress for Desiree now. I hope she'll like it!)"
+msgid "[_danny_] (Great I have a dress for Desiree now. I hope she'll like it!)"
 msgstr ""
 
 # game/code/locations/AbYss_MZ.rpy:352 #-#-# translate crowdin item_bought_2_fc0c241b:
-msgid "[@danny@] (Now to attend this shindig and show off my hot date to everyone!)"
+msgid "[_danny_] (Now to attend this shindig and show off my hot date to everyone!)"
 msgstr ""
 
 msgid "What do I need to do at AbYss?"
