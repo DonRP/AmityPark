@@ -10,9 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-22 04:06\n"
+"PO-Revision-Date: 2022-07-23 10:06\n"
 
-# TODO: Translation updated at 2022-07-19 HH:HH# XXtranslate crowdin strings:XX# XX## game/code/base/options.rpy:15
-msgid "[mschoice] Amity Park"
+msgid "Amity Park"
 msgstr ""
 
