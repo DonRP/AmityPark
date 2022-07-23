@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-07-23 10:04\n"
+"PO-Revision-Date: 2022-07-23 16:04\n"
 
-# game/code/locations/mall/mall_parking_lot.rpy:260 #-#-# translate crowdin It_s_closed_ccee5c09:
-msgid "[@danny@] They shut the mall down a few hours ago, it's already closing hours after all. I can come back tomorrow to shop."
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/mall/mall_parking_lot.rpy:260 #-#-# translate crowdin It_s_closed_ccee5c09:
+msgid "[_danny_] They shut the mall down a few hours ago, it's already closing hours after all. I can come back tomorrow to shop."
 msgstr ""
 
