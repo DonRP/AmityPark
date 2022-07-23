@@ -10,29 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 10:04\n"
+"PO-Revision-Date: 2022-07-23 16:04\n"
 
-# game/code/locations/town/nasty_burger.rpy:531 #-#-# translate crowdin nasty_burger_first_visit_7fbef0ff:
-msgid "[@danny_$_f_$_offscreen_$_closed_$_idle_$_smile@] {i}*Sniiiiif*{/i}"
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/town/nasty_burger.rpy:531 #-#-# translate crowdin nasty_burger_first_visit_7fbef0ff:
+msgid "[_danny_s_f_s_offscreen_s_closed_s_idle_s_smile_] {i}*Sniiiiif*{/i}"
 msgstr ""
 
 # game/code/locations/town/nasty_burger.rpy:532 #-#-# translate crowdin nasty_burger_first_visit_e1694914:
-msgid "[@danny_$_f_$_offscreen_$_at_player_$_rise_$_talk_happy@] {i}Ahhh!{/i} The delicious smell of burnt meat patties and processed dairy products..."
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_happy_] {i}Ahhh!{/i} The delicious smell of burnt meat patties and processed dairy products..."
 msgstr ""
 
 # game/code/locations/town/nasty_burger.rpy:533 #-#-# translate crowdin nasty_burger_first_visit_d5227c21:
-msgid "[@danny_$_f_$_offscreen_$_closed_$_idle_$_talk_happy@] ...truly, I am home once more."
+msgid "[_danny_s_f_s_offscreen_s_closed_s_idle_s_talk_happy_] ...truly, I am home once more."
 msgstr ""
 
 # game/code/locations/town/nasty_burger.rpy:534 #-#-# translate crowdin nasty_burger_first_visit_d3c68fcd:
-msgid "[@danny_$_f_$_offscreen_$_at_player_$_idle_$_talk_happy@] Although, it's not exactly quite the same. Place looks actually sorta... clean?"
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_idle_s_talk_happy_] Although, it's not exactly quite the same. Place looks actually sorta... clean?"
 msgstr ""
 
 # game/code/locations/town/nasty_burger.rpy:535 #-#-# translate crowdin nasty_burger_first_visit_9f6236a5:
-msgid "[@danny_$_f_$_offscreen_$_towards_$_sad_$_talk_displeased@] But there's way less people than I would have thought.{p}Everyone must still be freaked out by that rat incident."
+msgid "[_danny_s_f_s_offscreen_s_towards_s_sad_s_talk_displeased_] But there's way less people than I would have thought.{p}Everyone must still be freaked out by that rat incident."
 msgstr ""
 
 # game/code/locations/town/nasty_burger.rpy:536 #-#-# translate crowdin nasty_burger_first_visit_b6a45d58:
-msgid "[@danny_$_f_$_offscreen_$_at_player_$_rise_$_talk_happy@] Oh well! More for the rest of us I guess."
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_happy_] Oh well! More for the rest of us I guess."
 msgstr ""
 
