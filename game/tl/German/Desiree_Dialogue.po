@@ -1,0 +1,414 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/misc/Desiree_Dialogue.po\n"
+"X-Crowdin-File-ID: 4336\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2022-07-23 16:07\n"
+
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/Desiree_Dialogue.rpy:38 #-#-# translate crowdin desiree_released_start_86417235:
+msgid "[_danny_s_closed_s_sad_s_talk_happy_2_] Oh magic Genie, your gracious master is here! I've come for my wishes, {i}he heh he{/i}!"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:40 #-#-# translate crowdin desiree_released_start_ae459659:
+msgid "[_thermos_] [[{i}Ghost Release Protocal Initiated. *Bachoooooo*{/u}]"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:129 #-#-# translate crowdin desiree_released_start_34dfa05b:
+msgid "[_desiree_s_talk_happy_s_sad_2_] Ahh, master [player_name], how may your humble servant be of service to you today?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:370 #-#-# translate crowdin ask_favour_57ad6f0c:
+msgid "[_danny_s_towards_wide_s_talk_happy_2_s_rise_one_] Hey, Des, do you mind if we, uh, sorta, ya know...?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:372 #-#-# translate crowdin ask_favour_0e62b2ad:
+msgid "[_desiree_s_closed_s_talk_bite_s_angry_] If you mean to ask me for pleasures of the flesh, master [player_name], I will of course abide your desires..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:374 #-#-# translate crowdin ask_favour_2b8a4e35:
+msgid "[_desiree_s_towards_s_sad_s_talk_bite_2_] What do you wish of me and my body, my master?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:469 #-#-# translate crowdin ask_favour_ask_favour_combo_37c6669e:
+msgid "[_danny_s_sad_s_talk_happy_] Well, that thing you did with your hands was great... and the way you followed it up with your mouth, I mean... {i}woah{/i}!"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:471 #-#-# translate crowdin ask_favour_ask_favour_combo_e9c9e2cf:
+msgid "[_desiree_s_towards_2_s_talk_bite_2_s_sad_] Very well, master Danny. Please, sit by the edge of the bed... we'll commence things there..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:473 #-#-# translate crowdin ask_favour_ask_favour_combo_d6fa9055:
+msgid "[_danny_s_wondering_s_towards_s_blush_s_talk_happy_2_] Hey, n-no problem."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:475 #-#-# translate crowdin ask_favour_ask_favour_combo_4092ba35:
+msgid "[_desiree_s_talk_bite_s_sad_] Very good... I'll change into my slave form, I think it best if I please you like a true servant..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:576 #-#-# translate crowdin ask_favour_ask_favour_titjob_5e6ce420:
+msgid "[_danny_s_talk_happy_s_rise_one_] You know, Desiree, I like it when you smother me between your... uhm... you know, so, maybe we could..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:578 #-#-# translate crowdin ask_favour_ask_favour_titjob_649bb8b5:
+msgid "[_desiree_s_talk_happy_2_s_closed_s_sad_2_] I think I get the idea of what you'd like, master [player_name]. Please, undress yourself and lie back on the bed..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:580 #-#-# translate crowdin ask_favour_ask_favour_titjob_42f6627f:
+msgid "[_danny_s_towards_wide_s_talk_happy_s_wondering_] Sounds good to me!"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:582 #-#-# translate crowdin ask_favour_ask_favour_titjob_b62992fc:
+msgid "[_desiree_s_sad_2_s_talk_bite_] I'll change into my clean slave form then to prevent a mess... now then, master Danny, allow me to pleasure you between my soft and luscious breasts..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:686 #-#-# translate crowdin ask_favour_finish_favour_combo_adc3249d:
+msgid "[_danny_s_talk_happy_s_sad_] Man, there is seriously {u}nothing{/u} quite like getting head from a real life phantom..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:694 #-#-# translate crowdin ask_favour_finish_favour_combo_16498497:
+msgid "[_desiree_s_towards_s_talk_bite_s_neutral_] Oh, {i}trust{/i} me master, there are plenty of other treasurable experiences {i}far{/i} more pleasurable to explore with my body than just my mouth..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:696 #-#-# translate crowdin ask_favour_finish_favour_combo_da99ad63:
+msgid "[_danny_s_at_danny_s_sad_2_s_talk_happy_] Uhmm.. wow, oh-ok-kay. I'll uh, t-take your word for it."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:698 #-#-# translate crowdin ask_favour_finish_favour_combo_d340ad15:
+msgid "[_desiree_s_pout_s_neutral_] (I hope he doesn't get things twisted in his head... I'm certainly {u}not{/u} enjoying having to serve him like this...)"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:700 #-#-# translate crowdin ask_favour_finish_favour_combo_6562b131:
+msgid "[_desiree_s_bite_s_sad_s_at_player_] (Regardless of how nice his big long cock is...)"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:702 #-#-# translate crowdin ask_favour_finish_favour_combo_1d7b97d8:
+msgid "[_desiree_s_towards_wide_s_talk_frown_2_] Uhm, {i}*Ahem*{/i}, well Master, was there anything else you wanted?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:801 #-#-# translate crowdin ask_favour_finish_favour_titjob_cdb5e273:
+msgid "[_desiree_s_talk_happy_] I must say, I do take some small satisfaction in watching you get so flustered, master."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:803 #-#-# translate crowdin ask_favour_finish_favour_titjob_a2cd6428:
+msgid "[_danny_s_rise_one_s_talk_happy_2_] Well... I'm glad you find it so amusing."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:805 #-#-# translate crowdin ask_favour_finish_favour_titjob_ab9d732f:
+msgid "[_desiree_s_sad_2_s_talk_happy_2_] {i}*Chuckle*{/i} Oh, I mean not to be impolite master, I do apologize."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:807 #-#-# translate crowdin ask_favour_finish_favour_titjob_13e98bd7:
+msgid "[_danny_s_talk_happy_s_closed_s_sad_] Nah, it's okay. I'm glad you're enjoying yourself a bit more."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:809 #-#-# translate crowdin ask_favour_finish_favour_titjob_95a4cd1f:
+msgid "[_desiree_s_closed_s_neutral_2_s_talk_bite_2_] Excuse me a moment, master, I shall clean myself up again."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:811 #-#-# translate crowdin ask_favour_finish_favour_titjob_75e77b4f:
+msgid "[_danny_s_talk_happy_s_sad_] Yeah, for sure, do what you need."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:819 #-#-# translate crowdin ask_favour_finish_favour_titjob_7d40c2b7:
+msgid "[_danny_s_rise_one_s_talk_happy_] Looking gorgeous as ever, I must say."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:821 #-#-# translate crowdin ask_favour_finish_favour_titjob_f23f3c62:
+msgid "[_desiree_s_sad_2_s_talk_happy_] Oh, master [player_name], you flatter me so... now, is there anything else I can do for you?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:920 #-#-# translate crowdin ask_desiree_how_she_doing_ad5b1d58:
+msgid "[_danny_s_talk_happy_2_s_rise_one_] How are you doing Desiree?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:922 #-#-# translate crowdin ask_desiree_how_she_doing_bc418971:
+msgid "[_desiree_s_sad_2_s_talk_frown_] How am I \"doing\", you ask? Do you want me to be completely truthful, master?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:924 #-#-# translate crowdin ask_desiree_how_she_doing_c4ef2397:
+msgid "[_danny_s_closed_s_talk_happy_s_sad_] Well, I mean yeah, of course, I'd appreciate you being as open and hones-"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:926 #-#-# translate crowdin ask_desiree_how_she_doing_41509af0:
+msgid "[_desiree_s_angry_s_talk_frown_] I {u}hate{/u} it here. I hate {i}you{/i}, master [player_name]. I hate that I'm held captive by some mere petulant boy who fancies himself a sort of hero."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:928 #-#-# translate crowdin ask_desiree_how_she_doing_fc447c6e:
+msgid "[_desiree_s_at_player_s_talk_frown_2_] I find your crusade to fight ghosts {i}pointless{/i}, my servitude {i}indignant{/i}, and your choice of attire entirely {u}boring{/u}."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:930 #-#-# translate crowdin ask_desiree_how_she_doing_c31d679b:
+msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] My attire? What's wrong with my clothes?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:932 #-#-# translate crowdin ask_desiree_how_she_doing_c1cdad8d:
+msgid "[_desiree_s_closed_s_talk_frown_] You're just like all the men who've come and gone in my life, master. Needlessly cruel and unworthy to even be acquainted with someone of my stature."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:934 #-#-# translate crowdin ask_desiree_how_she_doing_7dfdfaad:
+msgid "[_danny_s_towards_wide_s_sad_s_talk_frown_2_] Cruel? Ah, c'mon, I think we've been getting along just fine, honestly! I mean you're an evil ghost that causes chaos and tried to use my friend for vindictive reasons!"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:936 #-#-# translate crowdin ask_desiree_how_she_doing_1f84a5f1:
+msgid "[_danny_s_towards_s_wondering_s_talk_happy_2_] You can't exactly blame me for {i}trying{/i} to stop an evil ghost in my town, can you?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:938 #-#-# translate crowdin ask_desiree_how_she_doing_eb45e01e:
+msgid "[_desiree_s_towards_wide_s_talk_frown_s_neutral_] Oh, am I not allowed to blame you now? Is that an {i}exact{/i} order, master?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:940 #-#-# translate crowdin ask_desiree_how_she_doing_c5d3b323:
+msgid "[_danny_s_talk_frown_2_s_neutral_] Hey, no, look Desiree... I'm not trying to take away any of your freedoms of thought either. You're allowed to {u}think{/u} whatever you want about me, honestly."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:942 #-#-# translate crowdin ask_desiree_how_she_doing_4fb10d10:
+msgid "[_desiree_s_talk_frown_2_s_towards_2_] You could have fooled me..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:944 #-#-# translate crowdin ask_desiree_how_she_doing_3f90520d:
+msgid "[_danny_s_sad_s_talk_frown_2_s_towards_] Well, is there {i}anything{/i} you like about being around to help me?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:946 #-#-# translate crowdin ask_desiree_how_she_doing_ad17c961:
+msgid "[_desiree_s_towards_s_talk_frown_s_sad_2_] Yes, your cock's not half bad. Slightly longer than most, but girthy where it counts. Notably hygenic."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:948 #-#-# translate crowdin ask_desiree_how_she_doing_26e82c39:
+msgid "[_danny_s_talk_happy_2_s_at_danny_s_rise_one_s_blush_] Huh. Really? Well, hey, thank you... I do wash pretty well down there..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:950 #-#-# translate crowdin ask_desiree_how_she_doing_e0364f62:
+msgid "[_desiree_s_closed_s_talk_frown_2_s_sad_3_] Yes, but that's it, really, the {u}only{/u} thing I don't mind about this endeavor you're putting me through!"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:952 #-#-# translate crowdin ask_desiree_how_she_doing_0b5deaa2:
+msgid "[_desiree_s_cute_s_at_player_s_sad_] (I'm also putting it lightly when I say \"not half bad\"...)"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:954 #-#-# translate crowdin ask_desiree_how_she_doing_09771a59:
+msgid "[_danny_s_talk_frown_2_s_-blush_s_sad_] Well, hey, I'll try my best to make things even better for you here, I promise."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:956 #-#-# translate crowdin ask_desiree_how_she_doing_785d706f:
+msgid "[_desiree_s_closed_s_talk_frown_2_s_neutral_3_] If you say so, master [player_name]... was there something else you needed?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1053 #-#-# translate crowdin ask_desiree_ghost_zone_306612cf:
+msgid "[_danny_s_rise_one_s_talk_frown_s_towards_] What's it even like in the Ghost Zone?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1055 #-#-# translate crowdin ask_desiree_ghost_zone_e8fc197f:
+msgid "[_desiree_s_towards_2_s_neutral_2_s_talk_frown_] {i}Hmmm{/i}... well first of all, it is extensively vast. Perhaps even {u}infinitely{/u} so."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1056 #-#-# translate crowdin ask_desiree_ghost_zone_51175439:
+msgid "[_desiree_s_talk_frown_2_s_at_player_s_neutral_] There is a simply endless supply of black void, even more so than the mortal night's sky. Swirls of green fog are all that fills it. "
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1057 #-#-# translate crowdin ask_desiree_ghost_zone_e49be421:
+msgid "[_desiree_s_towards_s_talk_frown_s_neutral_3_] You can never be {i}too{/i} on guard when there. There are dozens of mindless beasts and empty souls looking to rip your ectoplasmic form apart just for the sake of it."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1058 #-#-# translate crowdin ask_desiree_ghost_zone_e8205f16:
+msgid "[_desiree_s_closed_s_talk_frown_2_s_neutral_2_] There are of course certain territories marked off for more {b}notable{/b} ghosts, such as myself... your best bet is to stay within your own designated zone if you can."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1060 #-#-# translate crowdin ask_desiree_ghost_zone_f2ea69e2:
+msgid "[_desiree_s_towards_s_talk_bite_2_s_sad_] Most unfortunate wandering souls either become prisoners of Walker's jail or trophies for Skulker the Hunter's collection..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1062 #-#-# translate crowdin ask_desiree_ghost_zone_19d09ce0:
+msgid "[_danny_s_at_danny_s_frown_grin_s_rise_one_] (Gee, these other guys don't sound good... I hope I don't ever have to run into them!)"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1064 #-#-# translate crowdin ask_desiree_ghost_zone_de28cbb0:
+msgid "[_desiree_s_closed_s_talk_happy_2_s_sad_] The Ghost Zone is a haven for monsters, and I prefer to stay out of it whenever possible. The human world is so much more fun!"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1066 #-#-# translate crowdin ask_desiree_ghost_zone_0b3e66bf:
+msgid "[_danny_s_neutral_s_talk_frown_2_s_towards_] Cursing people with magic wishes is not \"fun\", Desiree."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1068 #-#-# translate crowdin ask_desiree_ghost_zone_6a89e48a:
+msgid "[_desiree_s_angry_s_talk_frown_2_s_towards_2_] Oh, what do {i}you{/i} know?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1165 #-#-# translate crowdin ask_desiree_mall_99034a63:
+msgid "Do you want to go to the mall?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1261 #-#-# translate crowdin ask_to_customize_75bed742:
+msgid "[_danny_s_towards_s_talk_happy_] Let's change what you're wearing."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1264 #-#-# translate crowdin ask_to_customize_2f4fb445:
+msgid "[_desiree_s_closed_s_talk_frown_s_sad_2_] Yes, master, what would you have me change about my outfit?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1362 #-#-# translate crowdin ask_about_ghosts_4d76768f:
+msgid "[_danny_s_talk_frown_2_s_towards_wide_s_sad_] Tell me about some more notable ghosts you've met..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1364 #-#-# translate crowdin ask_about_ghosts_0365402b:
+msgid "[_desiree_s_talk_frown_s_sad_2_] Well, who would you like to know more about?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1461 #-#-# translate crowdin ask_about_ghosts_about_ectopuss_acd30eba:
+msgid "[_danny_s_towards_wide_s_sad_s_talk_frown_2_] Anything you can tell me about that Ectopus guy? The one who looks like a green octopus?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1463 #-#-# translate crowdin ask_about_ghosts_about_ectopuss_6798fc62:
+msgid "[_desiree_s_talk_frown_2_s_sad_2_] Well first of all, contrary to what you might think, there's really not {i}one{/i} \"Ectopus\" as you've been calling them. They're actually a dime a dozen type of spirit within the Ghost Zone."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1465 #-#-# translate crowdin ask_about_ghosts_about_ectopuss_d55d19ad:
+msgid "[_desiree_s_towards_2_s_neutral_2_s_talk_frown_] Sort've just worthless, conjured up dregs of the human spirit still mopily haunting the earth. They're relatively useless besides being lackies for slightly more notable ghosts. The definition of \"disposable\", essentially."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1467 #-#-# translate crowdin ask_about_ghosts_about_ectopuss_181b5162:
+msgid "[_desiree_s_closed_s_neutral_3_s_talk_frown_2_] I myself would {i}never{/i} use such lowly creatures for my own bidding. I have a reputation to uphold!"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1469 #-#-# translate crowdin ask_about_ghosts_about_ectopuss_f9e19e0b:
+msgid "[_danny_s_talk_happy_2_s_sad_] Low on the totem pole type of creeps, gotcha."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1566 #-#-# translate crowdin ask_about_ghosts_about_johnny_kitty_b81c9377:
+msgid "[_danny_s_towards_wide_s_sad_s_talk_frown_2_] Anything you can tell me about Johnny and Kitty? The crazy girlfriend and the trench coat wearing creep?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1568 #-#-# translate crowdin ask_about_ghosts_about_johnny_kitty_7a50eec6:
+msgid "[_desiree_s_towards_2_s_talk_frown_2_s_neutral_2_] Ahh yes, Johnny \"Thirteen\" I believe, along with his unlucky shadow... a living embodiment of his own bad luck that does his bidding for him."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1570 #-#-# translate crowdin ask_about_ghosts_about_johnny_kitty_1e797c8f:
+msgid "[_desiree_s_talk_frown_s_towards_s_sad_2_] From what I understand, he and Kitty were a pair of love strung children that got into some sort've accident involving his two wheeled vehicle many years ago..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1572 #-#-# translate crowdin ask_about_ghosts_about_johnny_kitty_2797356b:
+msgid "[_desiree_s_at_player_s_sad_2_s_talk_frown_2_] They're often speeding around the planes of the Ghost Zone together, but sometimes Johnny's behavior becomes a bit of a nuisance to Kitty..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1574 #-#-# translate crowdin ask_about_ghosts_about_johnny_kitty_06364aab:
+msgid "[_danny_s_talk_frown_2_s_rise_one_] A nuisance? How so?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1576 #-#-# translate crowdin ask_about_ghosts_about_johnny_kitty_d324ad95:
+msgid "[_desiree_s_towards_2_s_talk_frown_s_angry_] That man has wandering eyes, even more than most've wicked men I've known. He doesn't seem to know how to just leave her if he's so bored. Pig."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1578 #-#-# translate crowdin ask_about_ghosts_about_johnny_kitty_035e1cb6:
+msgid "[_desiree_s_towards_s_neutral_2_s_talk_frown_2_] Kitty on the other hand can't seem to gain the semblance to just leave him already. Love is a wretched thing, I suppose..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1580 #-#-# translate crowdin ask_about_ghosts_about_johnny_kitty_b6d924e2:
+msgid "[_danny_s_talk_frown_2_s_sad_] Scummy ghost motorhead and his overly dependent and jealous girlfriend, understood."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1678 #-#-# translate crowdin ask_about_ghosts_about_desiree_8795372b:
+msgid "[_danny_s_towards_wide_s_sad_s_talk_happy_2_] Anything you can tell me about you?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1680 #-#-# translate crowdin ask_about_ghosts_about_desiree_62606d36:
+msgid "[_desiree_s_towards_wide_s_sad_2_s_talk_frown_2_] Me? Oh, I don't think there's much to really say, I suppose..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1682 #-#-# translate crowdin ask_about_ghosts_about_desiree_34267812:
+msgid "[_danny_s_talk_frown_s_sad_] Oh, come on, I'm sure you have {i}something{/i} to talk about yourself."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1684 #-#-# translate crowdin ask_about_ghosts_about_desiree_070a1a85:
+msgid "[_desiree_s_talk_frown_s_closed_s_sad_2_] Well, if you insist..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1686 #-#-# translate crowdin ask_about_ghosts_about_desiree_a8586130:
+msgid "[_desiree_s_towards_2_s_talk_frown_2_s_neutral_] My main interests relate to wishes which mainly work doublefold as unfortunate and unexpected curses."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1688 #-#-# translate crowdin ask_about_ghosts_about_desiree_8f970032:
+msgid "[_desiree_s_neutral_2_s_at_player_s_talk_bite_] Burdening the hearts of terrible men {i}really{/i} gets me going, honestly."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1690 #-#-# translate crowdin ask_about_ghosts_about_desiree_ce9bf6d3:
+msgid "[_desiree_s_talk_happy_s_sad_2_s_closed_] My scornful bitterness comes from understanding a simple truth that I have learned over the course of almost 2000 years..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1692 #-#-# translate crowdin ask_about_ghosts_about_desiree_bb621021:
+msgid "[_desiree_s_towards_wide_s_angry_s_talk_happy_2_] ...all men are worthless scum, who deserve to be crushed under the weight of their own immense hubris..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1694 #-#-# translate crowdin ask_about_ghosts_about_desiree_2c796d23:
+msgid "[_desiree_s_talk_bite_2_s_towards_s_sad_] Is that about what you wanted to learn with regards to my personality, master [player_name]?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1696 #-#-# translate crowdin ask_about_ghosts_about_desiree_e3dea9e0:
+msgid "[_danny_s_talk_frown_2_s_at_danny_s_rise_one_] Uhmm... yeah, in so many words... that was pretty succint, thank you."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1793 #-#-# translate crowdin ask_about_ghosts_about_boxghost_d81839cb:
+msgid "[_danny_s_towards_wide_s_sad_s_talk_frown_2_] Anything you can tell me about The Box Ghost?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1795 #-#-# translate crowdin ask_about_ghosts_about_boxghost_38620321:
+msgid "[_desiree_s_closed_s_angry_s_talk_frown_] {i}Ugh{/i}... {u}must{/u} we talk about him? I was beginning to have a somewhat tolerable time talking to you."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1797 #-#-# translate crowdin ask_about_ghosts_about_boxghost_88e23b95:
+msgid "[_desiree_s_towards_2_s_neutral_3_s_talk_frown_2_] Simply put, the {u}lowest{/u} of the low in all of the Ghost Zone. There's not much to him other than that he probably died moving heavy boxes, maybe...?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1799 #-#-# translate crowdin ask_about_ghosts_about_boxghost_e3d2f33d:
+msgid "[_desiree_s_towards_wide_s_talk_frown_s_sad_] I mean, come on now, what kind of tragic backstory is that supposed to be? That's not tragic, that's {i}pathetic{/i}!"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1801 #-#-# translate crowdin ask_about_ghosts_about_boxghost_f69393ad:
+msgid "[_desiree_s_towards_s_talk_frown_2_s_angry_] He's a worthless waste of ectoplasm incarnate, and I don't want to waste any portion of the rest of my eternity talking about him."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1803 #-#-# translate crowdin ask_about_ghosts_about_boxghost_f27c38f5:
+msgid "[_danny_s_talk_happy_2_s_at_player_s_rise_one_] Box Ghosts' a loser... yeah I sorta figured that already, but good to get it fact checked."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1900 #-#-# translate crowdin call_me_blank_3b7c13e2:
+msgid "[_danny_s_talk_frown_2_s_towards_s_sad_] Hey Desiree, I think I'd rather have you call me something different from now on..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1902 #-#-# translate crowdin call_me_blank_00dcb617:
+msgid "[_desiree_s_sad_2_s_talk_frown_] Oh? Like a nickname you'd prefer? Very well, what would you rather I address you as instead of [player_name]?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1904 #-#-# translate crowdin call_me_blank_225843da:
+msgid "[_danny_s_at_danny_s_sad_s_talk_frown_2_] Call me something else, like..."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1913 #-#-# translate crowdin call_me_blank_412e23bd:
+msgid "[_desiree_s_talk_bite_s_towards_s_neutral_] Alright, from now on, I shall address you as [player_name]."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1915 #-#-# translate crowdin call_me_blank_1a55f6e2:
+msgid "[_danny_s_sad_s_talk_happy_] Thanks, Des."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:1917 #-#-# translate crowdin call_me_blank_4b94a1fb:
+msgid "[_desiree_s_closed_s_talk_happy_] Of course, master [player_name]. What else do you require of me?"
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:2011 #-#-# translate crowdin goodbye_desiree_deea9ba3:
+msgid "[_danny_s_closed_s_talk_happy_2_s_sad_] That's all for now Des, you can head back inside."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:2013 #-#-# translate crowdin goodbye_desiree_1a932d39:
+msgid "[_desiree_s_closed_s_talk_bite_2_s_sad_] Very well then, I shall take my leave. Farewell for now, master [player_name]."
+msgstr ""
+
+# game/code/misc/Desiree_Dialogue.rpy:2018 #-#-# translate crowdin goodbye_desiree_9bad588a:
+msgid "[_thermos_] [[{i}Ghost Retraction Protocal Initiated. *Bachooooo*{/i}]"
+msgstr ""
+
