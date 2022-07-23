@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-21 21:42\n"
+"PO-Revision-Date: 2022-07-23 10:04\n"
 
-# TODO: Translation updated at 2022-07-19 HH:HH# game/code/locations/school/school_upstairs_landing.rpy:255 ## translate crowdin principaloffice_blocked_807550bf:
-msgid "[@danny f offscreen at_player rise talk_amused@] I don't want to go in there unless I have to."
+# game/code/locations/school/school_upstairs_landing.rpy:255 #-#-# translate crowdin principaloffice_blocked_807550bf:
+msgid "[@danny_$_f_$_offscreen_$_at_player_$_rise_$_talk_amused@] I don't want to go in there unless I have to."
 msgstr ""
 
