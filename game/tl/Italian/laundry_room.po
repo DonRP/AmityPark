@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/locations/home/laundry_room.po\n"
+"X-Crowdin-File-ID: 4334\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-07-23 16:08\n"
+
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/home/laundry_room.rpy:264 #-#-# translate crowdin notWorkingYet_bf5cad1b:
+msgid "cant jump in there yet"
+msgstr ""
+
