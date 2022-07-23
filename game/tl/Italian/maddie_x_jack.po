@@ -10,342 +10,342 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 10:06\n"
+"PO-Revision-Date: 2022-07-23 16:05\n"
 
-# game/code/misc/maddie_x_jack.rpy:1409 #-#-# translate crowdin maddie_x_jack_02_440c15b9:
-msgid "[@danny@] (-{u}titties!!{/u})"
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/maddie_x_jack.rpy:1409 #-#-# translate crowdin maddie_x_jack_02_440c15b9:
+msgid "[_danny_] (-{u}titties!!{/u})"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1412 #-#-# translate crowdin maddie_x_jack_02_bd7c4b35:
-msgid "[@jack@] {i}Ubngh{/i}… honey, you know just how to make a man moan like a wet sock!"
+msgid "[_jack_] {i}Ubngh{/i}… honey, you know just how to make a man moan like a wet sock!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1415 #-#-# translate crowdin maddie_x_jack_02_d15b4a68:
-msgid "[@maddie@] {i}Hnnn{/i}… oh Jack... you certainly... {i}*Ahem*{/i} ...know how to make a woman melt with just your words alone.."
+msgid "[_maddie_] {i}Hnnn{/i}… oh Jack... you certainly... {i}*Ahem*{/i} ...know how to make a woman melt with just your words alone.."
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1418 #-#-# translate crowdin maddie_x_jack_02_af617e69:
-msgid "[@danny@] (M-my parents are… woah, they're {i}really{/i} nailing each other!)"
+msgid "[_danny_] (M-my parents are… woah, they're {i}really{/i} nailing each other!)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1421 #-#-# translate crowdin maddie_x_jack_02_034e9602:
-msgid "[@jack@] Oh, momma... you work me any harder than this, we'll have to worry about a little sibling for Danny… {i}huhnnfhh{/i}…!!"
+msgid "[_jack_] Oh, momma... you work me any harder than this, we'll have to worry about a little sibling for Danny… {i}huhnnfhh{/i}…!!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1424 #-#-# translate crowdin maddie_x_jack_02_ef6131cd:
-msgid "[@maddie@] {i}Nnnnfhh{/i}… yes, I-I’m sure he’d like that, Jack…"
+msgid "[_maddie_] {i}Nnnnfhh{/i}… yes, I-I’m sure he’d like that, Jack…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1431 #-#-# translate crowdin maddie_x_jack_02_719f6a9b:
-msgid "[@danny@] (This is nuts, but... maybe I could just... sneak a little closer...)"
+msgid "[_danny_] (This is nuts, but... maybe I could just... sneak a little closer...)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1432 #-#-# translate crowdin maddie_x_jack_02_3f410513:
-msgid "[@danny@] (Wait, huh?! Whoaaaah!)"
+msgid "[_danny_] (Wait, huh?! Whoaaaah!)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1447 #-#-# translate crowdin maddie_x_jack_02_b88d642d:
-msgid "[@danny@] ..."
+msgid "[_danny_] ..."
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1449 #-#-# translate crowdin maddie_x_jack_02_de7635b8:
-msgid "[@danny@] (What the... what happend? Where... where am I?)"
+msgid "[_danny_] (What the... what happend? Where... where am I?)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1452 #-#-# translate crowdin maddie_x_jack_02_49f41f64:
-msgid "[@danny@] (Oh my God!! Is {u}mom{/u} {i}riding{/i} me?!?)"
+msgid "[_danny_] (Oh my God!! Is {u}mom{/u} {i}riding{/i} me?!?)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1455 #-#-# translate crowdin maddie_x_jack_02_9395fab2:
-msgid "[@danny@] (Oh no, I think I fell into Dad’s body or something!! I can feel the same thing {i}he’s{/i} feeling!!)"
+msgid "[_danny_] (Oh no, I think I fell into Dad’s body or something!! I can feel the same thing {i}he’s{/i} feeling!!)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1461 #-#-# translate crowdin maddie_x_jack_02_ad9c3453:
-msgid "[@maddie@] {i}Unnhhh{/i}… every time your thick dick enters me all the way, I... {i}Haaahhh{/i}…"
+msgid "[_maddie_] {i}Unnhhh{/i}… every time your thick dick enters me all the way, I... {i}Haaahhh{/i}…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1462 #-#-# translate crowdin maddie_x_jack_02_37218b5f:
-msgid "[@maddie@] {i}Chkhh{/i}… oh, yeah... can you feel it Jack? How wet I am? How much I want to devour your dick?"
+msgid "[_maddie_] {i}Chkhh{/i}… oh, yeah... can you feel it Jack? How wet I am? How much I want to devour your dick?"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1467 #-#-# translate crowdin maddie_x_jack_02_757b1a56:
-msgid "[@danny@] I… {i}ergh{/i}… I… ye-yes, I can, M-Mo… I mean- M-Maddie…!"
+msgid "[_danny_] I… {i}ergh{/i}… I… ye-yes, I can, M-Mo… I mean- M-Maddie…!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1472 #-#-# translate crowdin maddie_x_jack_02_b53fb9f2:
-msgid "[@maddie@] {i}Hmm… mnnnnn… hahhhh{/i}… ohh, Jack~…"
+msgid "[_maddie_] {i}Hmm… mnnnnn… hahhhh{/i}… ohh, Jack~…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1475 #-#-# translate crowdin maddie_x_jack_02_c7d20692:
-msgid "[@danny@] ({i}Ughh{/i}… {i}kahh{/i}… it’s getting even tighter… oh God, this is so…)"
+msgid "[_danny_] ({i}Ughh{/i}… {i}kahh{/i}… it’s getting even tighter… oh God, this is so…)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1476 #-#-# translate crowdin maddie_x_jack_02_e270807e:
-msgid "[@danny@] (This is… too much… I shouldn't be…)"
+msgid "[_danny_] (This is… too much… I shouldn't be…)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1477 #-#-# translate crowdin maddie_x_jack_02_7b17cf0a:
-msgid "[@danny@] (Just look at me!! Fucking my own... {u}mother{/u}~!!)"
+msgid "[_danny_] (Just look at me!! Fucking my own... {u}mother{/u}~!!)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1481 #-#-# translate crowdin maddie_x_jack_02_21be476f:
-msgid "[@maddie@] {i}Haahhh{/i}… please Jack… talk nasty to me…"
+msgid "[_maddie_] {i}Haahhh{/i}… please Jack… talk nasty to me…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1485 #-#-# translate crowdin maddie_x_jack_02_118d4485:
-msgid "[@danny@] (Oh no… If I don’t say something, Mom'll definitely suspect something is up… I have to talk dirty to her?! God, what would Dad even say…??)"
+msgid "[_danny_] (Oh no… If I don’t say something, Mom'll definitely suspect something is up… I have to talk dirty to her?! God, what would Dad even say…??)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1486 #-#-# translate crowdin maddie_x_jack_02_46e7eaef:
-msgid "[@danny@] Uhm... oh, M-Maddie, you naughty... bitch, you… your, uhh, pussy is trying to eat… more of my... cock… than I actually h-have… to offer you..."
+msgid "[_danny_] Uhm... oh, M-Maddie, you naughty... bitch, you… your, uhh, pussy is trying to eat… more of my... cock… than I actually h-have… to offer you..."
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1487 #-#-# translate crowdin maddie_x_jack_02_1afc1033:
-msgid "[@danny@] (Jeez, that must've been terrible... I'm no good at this!)"
+msgid "[_danny_] (Jeez, that must've been terrible... I'm no good at this!)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1491 #-#-# translate crowdin maddie_x_jack_02_10964ed9:
-msgid "[@maddie@] Ohhh Jack, that's nice… please, say more… be nasty and harsh…"
+msgid "[_maddie_] Ohhh Jack, that's nice… please, say more… be nasty and harsh…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1495 #-#-# translate crowdin maddie_x_jack_02_ce87342f:
-msgid "[@danny@] Well, uhm, y-your beautiful tits are bouncing around… look at those fat mounds of... pure joy! Oh, they deserve to be milked like a... like a real cow, y-yes sir…"
+msgid "[_danny_] Well, uhm, y-your beautiful tits are bouncing around… look at those fat mounds of... pure joy! Oh, they deserve to be milked like a... like a real cow, y-yes sir…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1499 #-#-# translate crowdin maddie_x_jack_02_4f3798a7:
-msgid "[@maddie@] Then milk me Jack… milk me like the big titted cow I am! {i}Hnnngh…{/i}!!"
+msgid "[_maddie_] Then milk me Jack… milk me like the big titted cow I am! {i}Hnnngh…{/i}!!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1501 #-#-# translate crowdin maddie_x_jack_02_b3c410f9:
-msgid "[@maddie@] {i}Nnn!!{/i} That’s right! Squeeze them, Honey!! Get your cow's milk out!!"
+msgid "[_maddie_] {i}Nnn!!{/i} That’s right! Squeeze them, Honey!! Get your cow's milk out!!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1505 #-#-# translate crowdin maddie_x_jack_02_d5a27786:
-msgid "[@danny@] {i}Grhnngh{/i}…! So round! Your body is so amazing..."
+msgid "[_danny_] {i}Grhnngh{/i}…! So round! Your body is so amazing..."
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1506 #-#-# translate crowdin maddie_x_jack_02_7a3a6a20:
-msgid "[@danny@] (Mom’s tits are perfect… I haven’t felt anything better in my life… even after raising two kids... she's still a bombshell!"
+msgid "[_danny_] (Mom’s tits are perfect… I haven’t felt anything better in my life… even after raising two kids... she's still a bombshell!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1510 #-#-# translate crowdin maddie_x_jack_02_4867187c:
-msgid "[@maddie@] You're really making me wet, Honey… I’m… {i}Hnnnn{/i}... I’m really starting to feel it…"
+msgid "[_maddie_] You're really making me wet, Honey… I’m… {i}Hnnnn{/i}... I’m really starting to feel it…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1514 #-#-# translate crowdin maddie_x_jack_02_dbbbcf0a:
-msgid "[@danny@] I’m going to squeeze these udders until you're all out of milk then…"
+msgid "[_danny_] I’m going to squeeze these udders until you're all out of milk then…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1518 #-#-# translate crowdin maddie_x_jack_02_f20b883a:
-msgid "[@maddie@] Yes! Pinch them Jack! Grab them just like... {i}uhnnnn{/i}!!"
+msgid "[_maddie_] Yes! Pinch them Jack! Grab them just like... {i}uhnnnn{/i}!!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1521 #-#-# translate crowdin maddie_x_jack_02_a20741bc:
-msgid "[@danny@] (Mom is really getting into this… I also feel… pretty wild myself… God, what's happening to me? I shouldn't be doing this!!)"
+msgid "[_danny_] (Mom is really getting into this… I also feel… pretty wild myself… God, what's happening to me? I shouldn't be doing this!!)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1523 #-#-# translate crowdin maddie_x_jack_02_7136fd81:
-msgid "[@danny@] (...but it just feels so good!! How often does Dad get treated to this?! I can barely endure it as it is!)"
+msgid "[_danny_] (...but it just feels so good!! How often does Dad get treated to this?! I can barely endure it as it is!)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1527 #-#-# translate crowdin maddie_x_jack_02_78c57b2b:
-msgid "[@maddie@] Jack!! Jackk!!! It’s in so deep… {i}hnnnghhhh… {/i} I’m gonna..."
+msgid "[_maddie_] Jack!! Jackk!!! It’s in so deep… {i}hnnnghhhh… {/i} I’m gonna..."
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1531 #-#-# translate crowdin maddie_x_jack_02_34512fd6:
-msgid "[@danny@] {i}Unhhh{/i}… Maddie… your tempo is {i}too{/i} fast… I… I…"
+msgid "[_danny_] {i}Unhhh{/i}… Maddie… your tempo is {i}too{/i} fast… I… I…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1535 #-#-# translate crowdin maddie_x_jack_02_46f62029:
-msgid "[@maddie@] But it's just so good… {i}haaah{/i}… {i}so{/i} good, Jack…~"
+msgid "[_maddie_] But it's just so good… {i}haaah{/i}… {i}so{/i} good, Jack…~"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1539 #-#-# translate crowdin maddie_x_jack_02_71a78836:
-msgid "[@danny@] Oh yeah... it’s getting even wetter the more I… {i}gahh{/i}… this is too much… I'm at my limit!"
+msgid "[_danny_] Oh yeah... it’s getting even wetter the more I… {i}gahh{/i}… this is too much… I'm at my limit!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1540 #-#-# translate crowdin maddie_x_jack_02_85fbe5bd:
-msgid "[@danny@] I can feel it coming... {i}urggghh{/i}… something is coming!"
+msgid "[_danny_] I can feel it coming... {i}urggghh{/i}… something is coming!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1544 #-#-# translate crowdin maddie_x_jack_02_6a666bbd:
-msgid "[@maddie@] So soon…? N-no, Jack, hold it in… {i}hahuhhh{/i}… just a... bit... longer…"
+msgid "[_maddie_] So soon…? N-no, Jack, hold it in… {i}hahuhhh{/i}… just a... bit... longer…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1545 #-#-# translate crowdin maddie_x_jack_02_19f24006:
-msgid "[@maddie@] Please, I’m so close... to c-cumming!!!"
+msgid "[_maddie_] Please, I’m so close... to c-cumming!!!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1549 #-#-# translate crowdin maddie_x_jack_02_03638452:
-msgid "[@danny@] {i}Urghh{/i}… but, it’s so hot in here… I feel like I’m going to melt inside you…"
+msgid "[_danny_] {i}Urghh{/i}… but, it’s so hot in here… I feel like I’m going to melt inside you…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1551 #-#-# translate crowdin maddie_x_jack_02_bbff6b2e:
-msgid "[@danny@] I’m sorry, but... I can’t… hold on…!"
+msgid "[_danny_] I’m sorry, but... I can’t… hold on…!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1555 #-#-# translate crowdin maddie_x_jack_02_45ced347:
-msgid "[@maddie@] B-but, you usually- {i}mmmphh{/i}... l-last much... longer... I don't understand why-"
+msgid "[_maddie_] B-but, you usually- {i}mmmphh{/i}... l-last much... longer... I don't understand why-"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1564 #-#-# translate crowdin maddie_x_jack_02_9fcce2b7:
-msgid "[@danny@] {i}Hngaaaaahhh!!!{/i}"
+msgid "[_danny_] {i}Hngaaaaahhh!!!{/i}"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1570 #-#-# translate crowdin maddie_x_jack_02_1529eb9e:
-msgid "[@maddie@] {i}Nnnyahhh!!{/i}"
+msgid "[_maddie_] {i}Nnnyahhh!!{/i}"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1572 #-#-# translate crowdin maddie_x_jack_02_fe5bf536:
-msgid "[@danny@] {i}Haaaa… haaaaa… that was... amazing…"
+msgid "[_danny_] {i}Haaaa… haaaaa… that was... amazing…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1576 #-#-# translate crowdin maddie_x_jack_02_194803db:
-msgid "[@maddie@] {i}Hmmmm…{/i} yes… it was… it was fine, dear. Better luck next time to hope that you last longer, I suppose... I would've liked it to have gone a few more rounds."
+msgid "[_maddie_] {i}Hmmmm…{/i} yes… it was… it was fine, dear. Better luck next time to hope that you last longer, I suppose... I would've liked it to have gone a few more rounds."
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1580 #-#-# translate crowdin maddie_x_jack_02_1232e6a8:
-msgid "[@maddie@] Don't worry, I still love you, Jack."
+msgid "[_maddie_] Don't worry, I still love you, Jack."
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1584 #-#-# translate crowdin maddie_x_jack_02_2a6cfe21:
-msgid "[@danny@] (Uhhmm... well... this might be my cue to leave. I should've tried earlier, honestly...)"
+msgid "[_danny_] (Uhhmm... well... this might be my cue to leave. I should've tried earlier, honestly...)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1588 #-#-# translate crowdin maddie_x_jack_02_01536bc9:
-msgid "[@jack@] ...ergh...?"
+msgid "[_jack_] ...ergh...?"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1590 #-#-# translate crowdin maddie_x_jack_02_8cf1e8fb:
-msgid "[@jack@] (Huh? What the...? What just happened? I feel like I... blacked out for a bit... Maddie?)"
+msgid "[_jack_] (Huh? What the...? What just happened? I feel like I... blacked out for a bit... Maddie?)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1595 #-#-# translate crowdin maddie_x_jack_02_61807cab:
-msgid "[@maddie@] Uhm, hello Jack? I just said I {u}love{/u} you, dear."
+msgid "[_maddie_] Uhm, hello Jack? I just said I {u}love{/u} you, dear."
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1600 #-#-# translate crowdin maddie_x_jack_02_5cb38c09:
-msgid "[@jack_$_jk_21@] What? Huh? Maddie, look, that's not important right now, I'm trying to figure out why I was-"
+msgid "[_jack_s_jk_21_] What? Huh? Maddie, look, that's not important right now, I'm trying to figure out why I was-"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1605 #-#-# translate crowdin maddie_x_jack_02_0aa99bc0:
-msgid "[@maddie@] {i}*Gasp*{/i} So, what, y-you're not going to say it back!? After we just made love?! {i}Jack Fenton!!{/i}"
+msgid "[_maddie_] {i}*Gasp*{/i} So, what, y-you're not going to say it back!? After we just made love?! {i}Jack Fenton!!{/i}"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1610 #-#-# translate crowdin maddie_x_jack_02_1969adad:
-msgid "[@jack_$_jk_21@] No of course not Honey, but-"
+msgid "[_jack_s_jk_21_] No of course not Honey, but-"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1615 #-#-# translate crowdin maddie_x_jack_02_5a4f1ae9:
-msgid "[@maddie@] Now listen to me, you quick finish!! I expect you to act a little more considerate if you're just gonna shoot your load off as fast as you did just now, you big oaf! And another thing-"
+msgid "[_maddie_] Now listen to me, you quick finish!! I expect you to act a little more considerate if you're just gonna shoot your load off as fast as you did just now, you big oaf! And another thing-"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1617 #-#-# translate crowdin maddie_x_jack_02_08e8d498:
-msgid "[@danny@] (Yeup, I’m so out of here. Poor Dad, I didn't mean to get him in trouble. I couldn't help it, that was my first...)"
+msgid "[_danny_] (Yeup, I’m so out of here. Poor Dad, I didn't mean to get him in trouble. I couldn't help it, that was my first...)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1620 #-#-# translate crowdin maddie_x_jack_02_a63a3475:
-msgid "[@danny@] (Oh God, that was my {u}first{/u}!! That's so messed up...)"
+msgid "[_danny_] (Oh God, that was my {u}first{/u}!! That's so messed up...)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1642 #-#-# translate crowdin maddie_x_jack_02_ec254f4f:
-msgid "[@maddie@] {i}Unnhhh{/i}… everytime your thick cock enters me all the way, I… {i}Haaahhh{/i}…"
+msgid "[_maddie_] {i}Unnhhh{/i}… everytime your thick cock enters me all the way, I… {i}Haaahhh{/i}…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1645 #-#-# translate crowdin maddie_x_jack_02_a8342304:
-msgid "[@jack@] You're as tight as ever Maddie… {i}knghhhh{/i}… yeah, you really know how to milk a man…"
+msgid "[_jack_] You're as tight as ever Maddie… {i}knghhhh{/i}… yeah, you really know how to milk a man…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1648 #-#-# translate crowdin maddie_x_jack_02_7065810c:
-msgid "[@maddie@] Oh, I know how to alright… but Jack... {i}mmmfh{/i}... we should-{i}mmnfph{/i}!! ...we should keep our noise down... or else the kids might… {i}gnghhh!!{/i} ...they might hea-hear... uhh-us…~"
+msgid "[_maddie_] Oh, I know how to alright… but Jack... {i}mmmfh{/i}... we should-{i}mmnfph{/i}!! ...we should keep our noise down... or else the kids might… {i}gnghhh!!{/i} ...they might hea-hear... uhh-us…~"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1651 #-#-# translate crowdin maddie_x_jack_02_602343f0:
-msgid "[@jack@] Oh, to hell with that, baby! If I can’t… {i}kahhhh!!{/i} ...mess around with my own wife… {i}guhhh…{/i} ...in my own house... {i}grahh{/i}... then what was the point of that wall insulation I installed?!"
+msgid "[_jack_] Oh, to hell with that, baby! If I can’t… {i}kahhhh!!{/i} ...mess around with my own wife… {i}guhhh…{/i} ...in my own house... {i}grahh{/i}... then what was the point of that wall insulation I installed?!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1654 #-#-# translate crowdin maddie_x_jack_02_b454d433:
-msgid "[@maddie@] T-to keep- {i}fugnh{/i}!! ...to keep the he-heat in, sweetie, n-not s-s-soouunnd...~"
+msgid "[_maddie_] T-to keep- {i}fugnh{/i}!! ...to keep the he-heat in, sweetie, n-not s-s-soouunnd...~"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1657 #-#-# translate crowdin maddie_x_jack_02_6e12675e:
-msgid "[@jack@] Yeah... it just slides right in, baby… {i}hehmm…{/i} you’re dripping down my length…"
+msgid "[_jack_] Yeah... it just slides right in, baby… {i}hehmm…{/i} you’re dripping down my length…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1660 #-#-# translate crowdin maddie_x_jack_02_41d8203e:
-msgid "[@maddie@] Fuck... I'm just getting so wet, Honey… I’m… {i}hnmnn...{/i} oh yeah, I’m {i}really{/i} starting to feel it now…"
+msgid "[_maddie_] Fuck... I'm just getting so wet, Honey… I’m… {i}hnmnn...{/i} oh yeah, I’m {i}really{/i} starting to feel it now…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1661 #-#-# translate crowdin maddie_x_jack_02_53f0369d:
-msgid "[@maddie@] Your dick is slamming my cervix… it feels… {i}hagghhh…{/i} s-s-so good…"
+msgid "[_maddie_] Your dick is slamming my cervix… it feels… {i}hagghhh…{/i} s-s-so good…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1662 #-#-# translate crowdin maddie_x_jack_02_3fdf2c7d:
-msgid "[@maddie@] You're practically all up in my guts… {i}aaahh{/i}…!! ...fuck me Jack… {i}mmmphhh{/i}... fuck me!!"
+msgid "[_maddie_] You're practically all up in my guts… {i}aaahh{/i}…!! ...fuck me Jack… {i}mmmphhh{/i}... fuck me!!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1665 #-#-# translate crowdin maddie_x_jack_02_55610c69:
-msgid "[@jack@] {i}Uhnnfhh{/i}… oh Maddie, you're swallowing me so tight... it’s getting even tighter… almost... {u}too{/u} tight…!"
+msgid "[_jack_] {i}Uhnnfhh{/i}… oh Maddie, you're swallowing me so tight... it’s getting even tighter… almost... {u}too{/u} tight…!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1668 #-#-# translate crowdin maddie_x_jack_02_40f9230d:
-msgid "[@maddie@] I-I can’t help it Jack… your dick is just so snug… {i}haaahhh~{/i}!! ...and the way you keep slamming it inside me...~!!"
+msgid "[_maddie_] I-I can’t help it Jack… your dick is just so snug… {i}haaahhh~{/i}!! ...and the way you keep slamming it inside me...~!!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1671 #-#-# translate crowdin maddie_x_jack_02_e5f08fc5:
-msgid "[@jack@] {i}Urghh{/i}… everytime I thrust, you clamp down on me harder…"
+msgid "[_jack_] {i}Urghh{/i}… everytime I thrust, you clamp down on me harder…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1672 #-#-# translate crowdin maddie_x_jack_02_3a55b829:
-msgid "[@jack@] I can… {i}khhhh{/i}… I can feel you clenching me with your kegel muscles…"
+msgid "[_jack_] I can… {i}khhhh{/i}… I can feel you clenching me with your kegel muscles…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1673 #-#-# translate crowdin maddie_x_jack_02_9368ab7d:
-msgid "[@danny@] (Holy shit, this is intense… Mom is riding Dad like he's a bronco…)"
+msgid "[_danny_] (Holy shit, this is intense… Mom is riding Dad like he's a bronco…)"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1676 #-#-# translate crowdin maddie_x_jack_02_6cace1dc:
-msgid "[@maddie@] Jack!! Jackk!!! It’s in so deep… {i}hnnnghhhh… {/i} I’m... I'm gonna~!!"
+msgid "[_maddie_] Jack!! Jackk!!! It’s in so deep… {i}hnnnghhhh… {/i} I’m... I'm gonna~!!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1679 #-#-# translate crowdin maddie_x_jack_02_d259026c:
-msgid "[@jack@] {i}Unhhh{/i}… Maddie… your tempo is too fast… I… I think…"
+msgid "[_jack_] {i}Unhhh{/i}… Maddie… your tempo is too fast… I… I think…"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1682 #-#-# translate crowdin maddie_x_jack_02_23a56236:
-msgid "[@maddie@] So good though… {i}aaach…!{/i} ...so damn good…."
+msgid "[_maddie_] So good though… {i}aaach…!{/i} ...so damn good…."
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1685 #-#-# translate crowdin maddie_x_jack_02_419b928f:
-msgid "[@jack@] But... it's {i}really{/i} clamping down on me... {i}gahh…{/i} this is just... too much, the... blood flow to my… it's too much! I think I'm about to..."
+msgid "[_jack_] But... it's {i}really{/i} clamping down on me... {i}gahh…{/i} this is just... too much, the... blood flow to my… it's too much! I think I'm about to..."
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1688 #-#-# translate crowdin maddie_x_jack_02_9e35b393:
-msgid "[@maddie@] Stay strong, Hon… I’m about to… just let me…!"
+msgid "[_maddie_] Stay strong, Hon… I’m about to… just let me…!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1689 #-#-# translate crowdin maddie_x_jack_02_41df6b0a:
-msgid "[@maddie@] I’m… about to… yes… {i}yes!!{/i}"
+msgid "[_maddie_] I’m… about to… yes… {i}yes!!{/i}"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1690 #-#-# translate crowdin maddie_x_jack_02_6ee9c76f:
-msgid "[@maddie@] Yes Jack, shoot your ectoplasm inside me!! Fill me up, ghost man!!"
+msgid "[_maddie_] Yes Jack, shoot your ectoplasm inside me!! Fill me up, ghost man!!"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1694 #-#-# translate crowdin maddie_x_jack_02_31dae5ac:
-msgid "[@maddie@] {i}Haaaaaaaaa!!!{/i}"
+msgid "[_maddie_] {i}Haaaaaaaaa!!!{/i}"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1697 #-#-# translate crowdin maddie_x_jack_02_46d3fdef:
-msgid "[@maddie@] Haaa… haaa… that was great Jack... we need to do that again right now, I wanna keep riding you until my... Jack? Jack...?"
+msgid "[_maddie_] Haaa… haaa… that was great Jack... we need to do that again right now, I wanna keep riding you until my... Jack? Jack...?"
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1698 #-#-# translate crowdin maddie_x_jack_02_76fe68a1:
-msgid "[@maddie@] Oh dear, he’s out cold. Maybe that {i}was{/i} too much for him. I should clean him up... both of us, I should say."
+msgid "[_maddie_] Oh dear, he’s out cold. Maybe that {i}was{/i} too much for him. I should clean him up... both of us, I should say."
 msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1700 #-#-# translate crowdin maddie_x_jack_02_9563584e:
-msgid "[@danny@] (Okay, that's it, I'm outta here.)"
+msgid "[_danny_] (Okay, that's it, I'm outta here.)"
 msgstr ""
 
 msgid "What the heck am I supposed to do now??"
