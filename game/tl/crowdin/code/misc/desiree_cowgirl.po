@@ -1,16 +1,16 @@
 ﻿# TODO: Translation updated at 2022-07-19 21:03
 
 # game/code/misc/desiree_cowgirl.rpy:35 #-#-# translate crowdin Desiree_Cowgirl_on_bed_437c15a8:
-msgid "[@danny@] wow..."
-msgstr "[@danny@] wow..."
+msgid "[_danny_] wow..."
+msgstr "[_danny_] wow..."
 
 # game/code/misc/desiree_cowgirl.rpy:42 #-#-# translate crowdin Desiree_Cowgirl_on_bed_ff8fc5c8:
-msgid "[@desiree_$_talk_happy@] hehe"
-msgstr "[@desiree_$_talk_happy@] hehe"
+msgid "[_desiree_s_talk_happy_] hehe"
+msgstr "[_desiree_s_talk_happy_] hehe"
 
 # game/code/misc/desiree_cowgirl.rpy:49 #-#-# translate crowdin Desiree_Cowgirl_on_bed_0a60d975:
-msgid "[@desiree_$_talk_frown@] ....."
-msgstr "[@desiree_$_talk_frown@] ....."
+msgid "[_desiree_s_talk_frown_] ....."
+msgstr "[_desiree_s_talk_frown_] ....."
 
 # game/code/misc/desiree_cowgirl.rpy:57 #-#-# translate crowdin Desiree_Cowgirl_on_bed_0fd4d656:
 msgid "......"
@@ -21,98 +21,98 @@ msgid "...."
 msgstr "...."
 
 # game/code/misc/desiree_cowgirl.rpy:94 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_91c34b16:
-msgid "[@danny@] Holy- holy shit! We're fucking right now!! I'm actually fucking a ghost!! I'm {u}fucking{/u} you Desiree!"
-msgstr "[@danny@] Holy- holy shit! We're fucking right now!! I'm actually fucking a ghost!! I'm {u}fucking{/u} you Desiree!"
+msgid "[_danny_] Holy- holy shit! We're fucking right now!! I'm actually fucking a ghost!! I'm {u}fucking{/u} you Desiree!"
+msgstr "[_danny_] Holy- holy shit! We're fucking right now!! I'm actually fucking a ghost!! I'm {u}fucking{/u} you Desiree!"
 
 # game/code/misc/desiree_cowgirl.rpy:96 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_c348430f:
-msgid "[@desiree_$_cowgirl_$_at_player_$_talk_happy@] Yes, you're inside of me... look at me, Master. Riding your big fat cock... oooh, it feels even better than I thought it might..."
-msgstr "[@desiree_$_cowgirl_$_at_player_$_talk_happy@] Yes, you're inside of me... look at me, Master. Riding your big fat cock... oooh, it feels even better than I thought it might..."
+msgid "[_desiree_s_cowgirl_s_at_player_s_talk_happy_] Yes, you're inside of me... look at me, Master. Riding your big fat cock... oooh, it feels even better than I thought it might..."
+msgstr "[_desiree_s_cowgirl_s_at_player_s_talk_happy_] Yes, you're inside of me... look at me, Master. Riding your big fat cock... oooh, it feels even better than I thought it might..."
 
 # game/code/misc/desiree_cowgirl.rpy:99 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_0581e556:
-msgid "[@danny@] I- I don't understand though, you- you wouldn't want to-"
-msgstr "[@danny@] I- I don't understand though, you- you wouldn't want to-"
+msgid "[_danny_] I- I don't understand though, you- you wouldn't want to-"
+msgstr "[_danny_] I- I don't understand though, you- you wouldn't want to-"
 
 # game/code/misc/desiree_cowgirl.rpy:101 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_71fca529:
-msgid "[@desiree_$_cowgirl_$_at_player_$_talk_happy@] I believed you would want to finish the night with a truly big {u}bang{/u}! Giving me a real slice of happiness was so refreshing, I thought you deserved a reward..."
-msgstr "[@desiree_$_cowgirl_$_at_player_$_talk_happy@] I believed you would want to finish the night with a truly big {u}bang{/u}! Giving me a real slice of happiness was so refreshing, I thought you deserved a reward..."
+msgid "[_desiree_s_cowgirl_s_at_player_s_talk_happy_] I believed you would want to finish the night with a truly big {u}bang{/u}! Giving me a real slice of happiness was so refreshing, I thought you deserved a reward..."
+msgstr "[_desiree_s_cowgirl_s_at_player_s_talk_happy_] I believed you would want to finish the night with a truly big {u}bang{/u}! Giving me a real slice of happiness was so refreshing, I thought you deserved a reward..."
 
 # game/code/misc/desiree_cowgirl.rpy:103 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_a9159e64:
-msgid "[@desiree@] Well here it is: my fat tits swinging in your face while you shove that big cock of yours deep up inside me!"
-msgstr "[@desiree@] Well here it is: my fat tits swinging in your face while you shove that big cock of yours deep up inside me!"
+msgid "[_desiree_] Well here it is: my fat tits swinging in your face while you shove that big cock of yours deep up inside me!"
+msgstr "[_desiree_] Well here it is: my fat tits swinging in your face while you shove that big cock of yours deep up inside me!"
 
 # game/code/misc/desiree_cowgirl.rpy:106 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_70cda0e7:
-msgid "[@danny@] Oh my God, this is crazy. I'm losing my virginity to a ghost!"
-msgstr "[@danny@] Oh my God, this is crazy. I'm losing my virginity to a ghost!"
+msgid "[_danny_] Oh my God, this is crazy. I'm losing my virginity to a ghost!"
+msgstr "[_danny_] Oh my God, this is crazy. I'm losing my virginity to a ghost!"
 
 # game/code/misc/desiree_cowgirl.rpy:108 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_e9aa6907:
-msgid "[@desiree_$_cowgirl_$_at_player_$_talk_happy@] Yes, do it! More! Plunge it deep inside me!"
-msgstr "[@desiree_$_cowgirl_$_at_player_$_talk_happy@] Yes, do it! More! Plunge it deep inside me!"
+msgid "[_desiree_s_cowgirl_s_at_player_s_talk_happy_] Yes, do it! More! Plunge it deep inside me!"
+msgstr "[_desiree_s_cowgirl_s_at_player_s_talk_happy_] Yes, do it! More! Plunge it deep inside me!"
 
 # game/code/misc/desiree_cowgirl.rpy:110 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_25bf57e7:
-msgid "[@desiree@] You like it as I bounce up and down on you? Taking every inch down to the base?"
-msgstr "[@desiree@] You like it as I bounce up and down on you? Taking every inch down to the base?"
+msgid "[_desiree_] You like it as I bounce up and down on you? Taking every inch down to the base?"
+msgstr "[_desiree_] You like it as I bounce up and down on you? Taking every inch down to the base?"
 
 # game/code/misc/desiree_cowgirl.rpy:113 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_092bbb46:
-msgid "[@danny@] Holy shit, this is too much! You're so good! Why do you have to be so good?!"
-msgstr "[@danny@] Holy shit, this is too much! You're so good! Why do you have to be so good?!"
+msgid "[_danny_] Holy shit, this is too much! You're so good! Why do you have to be so good?!"
+msgstr "[_danny_] Holy shit, this is too much! You're so good! Why do you have to be so good?!"
 
 # game/code/misc/desiree_cowgirl.rpy:115 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_ecdb0e1b:
-msgid "[@desiree_$_cowgirl_$_at_player_$_talk_happy@] Mmmm, because you only deserve the best, Master!"
-msgstr "[@desiree_$_cowgirl_$_at_player_$_talk_happy@] Mmmm, because you only deserve the best, Master!"
+msgid "[_desiree_s_cowgirl_s_at_player_s_talk_happy_] Mmmm, because you only deserve the best, Master!"
+msgstr "[_desiree_s_cowgirl_s_at_player_s_talk_happy_] Mmmm, because you only deserve the best, Master!"
 
 # game/code/misc/desiree_cowgirl.rpy:117 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_f9f1499e:
-msgid "[@desiree@] Now do it!"
-msgstr "[@desiree@] Now do it!"
+msgid "[_desiree_] Now do it!"
+msgstr "[_desiree_] Now do it!"
 
 # game/code/misc/desiree_cowgirl.rpy:120 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_a4ada21e:
-msgid "[@danny@] Wh-wha? What do you mean?"
-msgstr "[@danny@] Wh-wha? What do you mean?"
+msgid "[_danny_] Wh-wha? What do you mean?"
+msgstr "[_danny_] Wh-wha? What do you mean?"
 
 # game/code/misc/desiree_cowgirl.rpy:122 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_097e219b:
-msgid "[@desiree_$_cowgirl_$_at_player_$_talk_happy@] Shoot your load inside me! I wanna feel my Master cumming inside her slave!"
-msgstr "[@desiree_$_cowgirl_$_at_player_$_talk_happy@] Shoot your load inside me! I wanna feel my Master cumming inside her slave!"
+msgid "[_desiree_s_cowgirl_s_at_player_s_talk_happy_] Shoot your load inside me! I wanna feel my Master cumming inside her slave!"
+msgstr "[_desiree_s_cowgirl_s_at_player_s_talk_happy_] Shoot your load inside me! I wanna feel my Master cumming inside her slave!"
 
 # game/code/misc/desiree_cowgirl.rpy:125 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_d6221adb:
-msgid "[@danny@] Jeezus, but- you won't mind- or, i-is it safe to-"
-msgstr "[@danny@] Jeezus, but- you won't mind- or, i-is it safe to-"
+msgid "[_danny_] Jeezus, but- you won't mind- or, i-is it safe to-"
+msgstr "[_danny_] Jeezus, but- you won't mind- or, i-is it safe to-"
 
 # game/code/misc/desiree_cowgirl.rpy:127 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_d08e8131:
-msgid "[@desiree_$_cowgirl_$_at_player_$_talk_displeased@] Yes Master, don't worry, I won't carry child... I'm a ghost, remember?"
-msgstr "[@desiree_$_cowgirl_$_at_player_$_talk_displeased@] Yes Master, don't worry, I won't carry child... I'm a ghost, remember?"
+msgid "[_desiree_s_cowgirl_s_at_player_s_talk_displeased_] Yes Master, don't worry, I won't carry child... I'm a ghost, remember?"
+msgstr "[_desiree_s_cowgirl_s_at_player_s_talk_displeased_] Yes Master, don't worry, I won't carry child... I'm a ghost, remember?"
 
 # game/code/misc/desiree_cowgirl.rpy:130 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_a7f1eeb5:
-msgid "[@danny@] Ahh, shit.... you really want it, don't you?"
-msgstr "[@danny@] Ahh, shit.... you really want it, don't you?"
+msgid "[_danny_] Ahh, shit.... you really want it, don't you?"
+msgstr "[_danny_] Ahh, shit.... you really want it, don't you?"
 
 # game/code/misc/desiree_cowgirl.rpy:132 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_d994df69:
-msgid "[@desiree_$_cowgirl_$_at_player_$_talk_happy@] Mmmhhmff, t-trust me, I wouldn't work this hard if I didn't, Master... now cum for me.... cum for me~~!!"
-msgstr "[@desiree_$_cowgirl_$_at_player_$_talk_happy@] Mmmhhmff, t-trust me, I wouldn't work this hard if I didn't, Master... now cum for me.... cum for me~~!!"
+msgid "[_desiree_s_cowgirl_s_at_player_s_talk_happy_] Mmmhhmff, t-trust me, I wouldn't work this hard if I didn't, Master... now cum for me.... cum for me~~!!"
+msgstr "[_desiree_s_cowgirl_s_at_player_s_talk_happy_] Mmmhhmff, t-trust me, I wouldn't work this hard if I didn't, Master... now cum for me.... cum for me~~!!"
 
 # game/code/misc/desiree_cowgirl.rpy:134 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_9a4c9149:
-msgid "[@danny@] Fuck, fuck, fuuuck! I'm cumming inside!! You're sucking the soul out of me!! De-Desiree!!~~"
-msgstr "[@danny@] Fuck, fuck, fuuuck! I'm cumming inside!! You're sucking the soul out of me!! De-Desiree!!~~"
+msgid "[_danny_] Fuck, fuck, fuuuck! I'm cumming inside!! You're sucking the soul out of me!! De-Desiree!!~~"
+msgstr "[_danny_] Fuck, fuck, fuuuck! I'm cumming inside!! You're sucking the soul out of me!! De-Desiree!!~~"
 
 # game/code/misc/desiree_cowgirl.rpy:136 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_d1d08a79:
-msgid "[@desiree_$_cowgirl_$_up_$_talk_happy@] Yes... oh, I can feel it already... you're twitching cock is throbbing so much... it's leaking out now..."
-msgstr "[@desiree_$_cowgirl_$_up_$_talk_happy@] Yes... oh, I can feel it already... you're twitching cock is throbbing so much... it's leaking out now..."
+msgid "[_desiree_s_cowgirl_s_up_s_talk_happy_] Yes... oh, I can feel it already... you're twitching cock is throbbing so much... it's leaking out now..."
+msgstr "[_desiree_s_cowgirl_s_up_s_talk_happy_] Yes... oh, I can feel it already... you're twitching cock is throbbing so much... it's leaking out now..."
 
 # game/code/misc/desiree_cowgirl.rpy:138 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_aa4b0ea9:
-msgid "[@desiree@] Shoot it Master [player_name]!! Fill your dirty slave girl to the brim~~!! It makes me wanna... c-cuuuummmm tooooh!!~~"
-msgstr "[@desiree@] Shoot it Master [player_name]!! Fill your dirty slave girl to the brim~~!! It makes me wanna... c-cuuuummmm tooooh!!~~"
+msgid "[_desiree_] Shoot it Master [player_name]!! Fill your dirty slave girl to the brim~~!! It makes me wanna... c-cuuuummmm tooooh!!~~"
+msgstr "[_desiree_] Shoot it Master [player_name]!! Fill your dirty slave girl to the brim~~!! It makes me wanna... c-cuuuummmm tooooh!!~~"
 
 # game/code/misc/desiree_cowgirl.rpy:147 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_d6151bcb:
-msgid "[@danny@] Ahhh, God... that was so damn good."
-msgstr "[@danny@] Ahhh, God... that was so damn good."
+msgid "[_danny_] Ahhh, God... that was so damn good."
+msgstr "[_danny_] Ahhh, God... that was so damn good."
 
 # game/code/misc/desiree_cowgirl.rpy:150 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_5753006c:
-msgid "[@desiree@] I'm glad you enjoyed it... please... I'll clean up again..."
-msgstr "[@desiree@] I'm glad you enjoyed it... please... I'll clean up again..."
+msgid "[_desiree_] I'm glad you enjoyed it... please... I'll clean up again..."
+msgstr "[_desiree_] I'm glad you enjoyed it... please... I'll clean up again..."
 
 # game/code/misc/desiree_cowgirl.rpy:152 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_a23e3bed:
-msgid "[@desiree@] Just close your eyes, and I'll fetch you your fresh clothes..."
-msgstr "[@desiree@] Just close your eyes, and I'll fetch you your fresh clothes..."
+msgid "[_desiree_] Just close your eyes, and I'll fetch you your fresh clothes..."
+msgstr "[_desiree_] Just close your eyes, and I'll fetch you your fresh clothes..."
 
 # game/code/misc/desiree_cowgirl.rpy:155 #-#-# translate crowdin desiree_cowgirl_on_bed_ghost_08b91cb4:
-msgid "[@danny@] (Oh man... absolutely incredible. Desiree is the perfect attendant. She's amazing. Absolutely amazing.)"
-msgstr "[@danny@] (Oh man... absolutely incredible. Desiree is the perfect attendant. She's amazing. Absolutely amazing.)"
+msgid "[_danny_] (Oh man... absolutely incredible. Desiree is the perfect attendant. She's amazing. Absolutely amazing.)"
+msgstr "[_danny_] (Oh man... absolutely incredible. Desiree is the perfect attendant. She's amazing. Absolutely amazing.)"
 

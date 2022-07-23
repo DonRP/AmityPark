@@ -1,12 +1,12 @@
 ﻿# TODO: Translation updated at 2022-07-19 21:03
 
 # game/code/locations/town/the_bus_stop.rpy:14 #-#-# translate crowdin to_busstop_f072e980:
-msgid "[@danny_$_f_$_offscreen_$_at_player_$_sad_$_smile@] (Am I sure I'm ready to do this?)"
-msgstr "[@danny_$_f_$_offscreen_$_at_player_$_sad_$_smile@] (Am I sure I'm ready to do this?)"
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_smile_] (Am I sure I'm ready to do this?)"
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_smile_] (Am I sure I'm ready to do this?)"
 
 # game/code/locations/town/the_bus_stop.rpy:35 #-#-# translate crowdin to_busstop_b763c376:
-msgid "[@danny_$_f_$_offscreen_$_at_player_$_rise_$_talk_displeased@] I don't have anywhere to take a bus to right now."
-msgstr "[@danny_$_f_$_offscreen_$_at_player_$_rise_$_talk_displeased@] I don't have anywhere to take a bus to right now."
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_displeased_] I don't have anywhere to take a bus to right now."
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_displeased_] I don't have anywhere to take a bus to right now."
 
 #§translate crowdin strings: #|#|# # game/code/locations/town/the_bus_stop.rpy:19
 msgid "(Am I sure I'm ready to do this?)"

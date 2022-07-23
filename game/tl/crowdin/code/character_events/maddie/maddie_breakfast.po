@@ -1,176 +1,176 @@
 ﻿# TODO: Translation updated at 2022-07-19 21:03
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:17 #-#-# translate crowdin maddie_kitchen_monday_breakfast_712eabcb:
-msgid "[@jack_$_pjs_$_towards_$_idle_$_talk_happy@] Morning sport!"
-msgstr "[@jack_$_pjs_$_towards_$_idle_$_talk_happy@] Morning sport!"
+msgid "[_jack_s_pjs_s_towards_s_idle_s_talk_happy_] Morning sport!"
+msgstr "[_jack_s_pjs_s_towards_s_idle_s_talk_happy_] Morning sport!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:21 #-#-# translate crowdin maddie_kitchen_monday_breakfast_a69d985e:
-msgid "[@danny_$_towards_$_sad_$_talk_happy@] Morning Dad."
-msgstr "[@danny_$_towards_$_sad_$_talk_happy@] Morning Dad."
+msgid "[_danny_s_towards_s_sad_s_talk_happy_] Morning Dad."
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Morning Dad."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:26 #-#-# translate crowdin maddie_kitchen_monday_breakfast_02e4a946:
-msgid "[@jack_$_pjs_$_closed_$_idle_$_talk_happy@] {i}Ahh{/i}...{p}What a day!!{p}"
-msgstr "[@jack_$_pjs_$_closed_$_idle_$_talk_happy@] {i}Ahh{/i}...{p}What a day!!{p}"
+msgid "[_jack_s_pjs_s_closed_s_idle_s_talk_happy_] {i}Ahh{/i}...{p}What a day!!{p}"
+msgstr "[_jack_s_pjs_s_closed_s_idle_s_talk_happy_] {i}Ahh{/i}...{p}What a day!!{p}"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:31 #-#-# translate crowdin maddie_kitchen_monday_breakfast_4c00f240:
-msgid "[@jack_$_pjs_$_towards_$_idle_$_talk_happy@] The day always shines brighter after a good night's sleep, am I right?"
-msgstr "[@jack_$_pjs_$_towards_$_idle_$_talk_happy@] The day always shines brighter after a good night's sleep, am I right?"
+msgid "[_jack_s_pjs_s_towards_s_idle_s_talk_happy_] The day always shines brighter after a good night's sleep, am I right?"
+msgstr "[_jack_s_pjs_s_towards_s_idle_s_talk_happy_] The day always shines brighter after a good night's sleep, am I right?"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:49 #-#-# translate crowdin maddie_kitchen_monday_breakfast_0baed95c:
-msgid "[@maddie_$_special_$_nightgown_$_towards_$_idle_$_talk_happy@] Can I get you anything for breakfast dear?"
-msgstr "[@maddie_$_special_$_nightgown_$_towards_$_idle_$_talk_happy@] Can I get you anything for breakfast dear?"
+msgid "[_maddie_s_special_s_nightgown_s_towards_s_idle_s_talk_happy_] Can I get you anything for breakfast dear?"
+msgstr "[_maddie_s_special_s_nightgown_s_towards_s_idle_s_talk_happy_] Can I get you anything for breakfast dear?"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:52 #-#-# translate crowdin maddie_kitchen_monday_breakfast_582b599d:
-msgid "[@danny_$_towards_$_sad_$_talk_happy@] {i}Uh{/i}, no thanks, I'm not really very hungry."
-msgstr "[@danny_$_towards_$_sad_$_talk_happy@] {i}Uh{/i}, no thanks, I'm not really very hungry."
+msgid "[_danny_s_towards_s_sad_s_talk_happy_] {i}Uh{/i}, no thanks, I'm not really very hungry."
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] {i}Uh{/i}, no thanks, I'm not really very hungry."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:55 #-#-# translate crowdin maddie_kitchen_monday_breakfast_7fa06598:
-msgid "[@maddie_$_special_$_nightgown_$_towards_$_sad_$_talk_happy@] Are you sure dear?"
-msgstr "[@maddie_$_special_$_nightgown_$_towards_$_sad_$_talk_happy@] Are you sure dear?"
+msgid "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_happy_] Are you sure dear?"
+msgstr "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_happy_] Are you sure dear?"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:58 #-#-# translate crowdin maddie_kitchen_monday_breakfast_19c621af:
-msgid "[@maddie_$_special_$_nightgown_$_towards_$_rise_$_talk_amused@] You can have {i}'whatever'{/i} you want...~"
-msgstr "[@maddie_$_special_$_nightgown_$_towards_$_rise_$_talk_amused@] You can have {i}'whatever'{/i} you want...~"
+msgid "[_maddie_s_special_s_nightgown_s_towards_s_rise_s_talk_amused_] You can have {i}'whatever'{/i} you want...~"
+msgstr "[_maddie_s_special_s_nightgown_s_towards_s_rise_s_talk_amused_] You can have {i}'whatever'{/i} you want...~"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:69 #-#-# translate crowdin maddie_kitchen_monday_breakfast_e0b30a39:
-msgid "[@danny_$_at_player_$_unhappy_$_smile@] (Mom sure is in a good mood today.)"
-msgstr "[@danny_$_at_player_$_unhappy_$_smile@] (Mom sure is in a good mood today.)"
+msgid "[_danny_s_at_player_s_unhappy_s_smile_] (Mom sure is in a good mood today.)"
+msgstr "[_danny_s_at_player_s_unhappy_s_smile_] (Mom sure is in a good mood today.)"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:107 #-#-# translate crowdin maddie_kitchen_monday_breakfast_3e9d8e12:
-msgid "[@jack_$_towards_$_idle_$_talk_happy@] You should have some breakfast Danny! It's the most important meal of the day."
-msgstr "[@jack_$_towards_$_idle_$_talk_happy@] You should have some breakfast Danny! It's the most important meal of the day."
+msgid "[_jack_s_towards_s_idle_s_talk_happy_] You should have some breakfast Danny! It's the most important meal of the day."
+msgstr "[_jack_s_towards_s_idle_s_talk_happy_] You should have some breakfast Danny! It's the most important meal of the day."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:111 #-#-# translate crowdin maddie_kitchen_monday_breakfast_1a93fd29:
-msgid "[@maddie_$_special_$_nightgown_$_towards_$_sad_$_talk_happy@] I completely agree. Are you {i}sure{/i} I can't whip something up for you...?"
-msgstr "[@maddie_$_special_$_nightgown_$_towards_$_sad_$_talk_happy@] I completely agree. Are you {i}sure{/i} I can't whip something up for you...?"
+msgid "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_happy_] I completely agree. Are you {i}sure{/i} I can't whip something up for you...?"
+msgstr "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_happy_] I completely agree. Are you {i}sure{/i} I can't whip something up for you...?"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:115 #-#-# translate crowdin maddie_kitchen_monday_breakfast_f14c87ee:
-msgid "[@danny_$_at_player_$_rise_$_grin@] (Do I have mom serve me... \"breakfast?\")"
-msgstr "[@danny_$_at_player_$_rise_$_grin@] (Do I have mom serve me... \"breakfast?\")"
+msgid "[_danny_s_at_player_s_rise_s_grin_] (Do I have mom serve me... \"breakfast?\")"
+msgstr "[_danny_s_at_player_s_rise_s_grin_] (Do I have mom serve me... \"breakfast?\")"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:130 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_161d1914:
-msgid "[@danny_$_closed_$_talk_happy@] Sure, I guess that's fine."
-msgstr "[@danny_$_closed_$_talk_happy@] Sure, I guess that's fine."
+msgid "[_danny_s_closed_s_talk_happy_] Sure, I guess that's fine."
+msgstr "[_danny_s_closed_s_talk_happy_] Sure, I guess that's fine."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:154 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_28d04858:
-msgid "[@jack_$_towards_$_rise_$_talk_happy@] So, ready for school, son?"
-msgstr "[@jack_$_towards_$_rise_$_talk_happy@] So, ready for school, son?"
+msgid "[_jack_s_towards_s_rise_s_talk_happy_] So, ready for school, son?"
+msgstr "[_jack_s_towards_s_rise_s_talk_happy_] So, ready for school, son?"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:158 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_dae5dc47:
-msgid "[@danny_$_sit_0_$_towards_$_rise_$_talk_happy@] Yeah, I think so. I've got a science quiz later on today... I think."
-msgstr "[@danny_$_sit_0_$_towards_$_rise_$_talk_happy@] Yeah, I think so. I've got a science quiz later on today... I think."
+msgid "[_danny_s_sit_0_s_towards_s_rise_s_talk_happy_] Yeah, I think so. I've got a science quiz later on today... I think."
+msgstr "[_danny_s_sit_0_s_towards_s_rise_s_talk_happy_] Yeah, I think so. I've got a science quiz later on today... I think."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:162 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_0f81259c:
-msgid "[@jack_$_idle_$_talk_happy@] Take it all in while you can, son! Why my school years were some of the best times of my life!"
-msgstr "[@jack_$_idle_$_talk_happy@] Take it all in while you can, son! Why my school years were some of the best times of my life!"
+msgid "[_jack_s_idle_s_talk_happy_] Take it all in while you can, son! Why my school years were some of the best times of my life!"
+msgstr "[_jack_s_idle_s_talk_happy_] Take it all in while you can, son! Why my school years were some of the best times of my life!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:166 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_495f1c8c:
-msgid "[@jack_$_towards_$_rise_$_talk_happy@] ...and you just never know what you've got 'til it's gone!"
-msgstr "[@jack_$_towards_$_rise_$_talk_happy@] ...and you just never know what you've got 'til it's gone!"
+msgid "[_jack_s_towards_s_rise_s_talk_happy_] ...and you just never know what you've got 'til it's gone!"
+msgstr "[_jack_s_towards_s_rise_s_talk_happy_] ...and you just never know what you've got 'til it's gone!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:195 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_d2d69bdc:
-msgid "[@danny@] {i}...!{/i}"
-msgstr "[@danny@] {i}...!{/i}"
+msgid "[_danny_] {i}...!{/i}"
+msgstr "[_danny_] {i}...!{/i}"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:199 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_2e4c7e15:
-msgid "[@jack_$_closed_$_sad_$_talk_happy@] Especially my time in college! Man, those were an absolute best!"
-msgstr "[@jack_$_closed_$_sad_$_talk_happy@] Especially my time in college! Man, those were an absolute best!"
+msgid "[_jack_s_closed_s_sad_s_talk_happy_] Especially my time in college! Man, those were an absolute best!"
+msgstr "[_jack_s_closed_s_sad_s_talk_happy_] Especially my time in college! Man, those were an absolute best!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:205 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_2494f704:
-msgid "[@danny_$_sit_0_$_wondering_$_talk_displeased_$_blush@] H-huh? You were saying something?"
-msgstr "[@danny_$_sit_0_$_wondering_$_talk_displeased_$_blush@] H-huh? You were saying something?"
+msgid "[_danny_s_sit_0_s_wondering_s_talk_displeased_s_blush_] H-huh? You were saying something?"
+msgstr "[_danny_s_sit_0_s_wondering_s_talk_displeased_s_blush_] H-huh? You were saying something?"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:209 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_60c8099c:
-msgid "[@jack_$_towards_$_sad_$_talk_displeased@] Why I was just saying, that-"
-msgstr "[@jack_$_towards_$_sad_$_talk_displeased@] Why I was just saying, that-"
+msgid "[_jack_s_towards_s_sad_s_talk_displeased_] Why I was just saying, that-"
+msgstr "[_jack_s_towards_s_sad_s_talk_displeased_] Why I was just saying, that-"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:214 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_7a83c5b1:
-msgid "[@extend@] Jeez, Danny, you're not running a fever, right? I haven't seen somebody that red since the Annual Tomato Fest!"
-msgstr "[@extend@] Jeez, Danny, you're not running a fever, right? I haven't seen somebody that red since the Annual Tomato Fest!"
+msgid "[_extend_] Jeez, Danny, you're not running a fever, right? I haven't seen somebody that red since the Annual Tomato Fest!"
+msgstr "[_extend_] Jeez, Danny, you're not running a fever, right? I haven't seen somebody that red since the Annual Tomato Fest!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:218 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_c0a97de0:
-msgid "[@maddie_$_special_$_nightgown_$_towards_$_rise_$_talk_happy@] Maybe we should find a thermometer for him, Jack... I can go look in the other room for it if-"
-msgstr "[@maddie_$_special_$_nightgown_$_towards_$_rise_$_talk_happy@] Maybe we should find a thermometer for him, Jack... I can go look in the other room for it if-"
+msgid "[_maddie_s_special_s_nightgown_s_towards_s_rise_s_talk_happy_] Maybe we should find a thermometer for him, Jack... I can go look in the other room for it if-"
+msgstr "[_maddie_s_special_s_nightgown_s_towards_s_rise_s_talk_happy_] Maybe we should find a thermometer for him, Jack... I can go look in the other room for it if-"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:222 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_6fca6f7d:
-msgid "[@danny_$_sit_0_$_towards_wide_$_unhappy_$_talk_consternation@] N-no, I'm fine!"
-msgstr "[@danny_$_sit_0_$_towards_wide_$_unhappy_$_talk_consternation@] N-no, I'm fine!"
+msgid "[_danny_s_sit_0_s_towards_wide_s_unhappy_s_talk_consternation_] N-no, I'm fine!"
+msgstr "[_danny_s_sit_0_s_towards_wide_s_unhappy_s_talk_consternation_] N-no, I'm fine!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:226 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_080cb3ae:
-msgid "[@maddie_$_special_$_nightgown_$_away_$_rise_$_talk_amused@] I don't know Danny, you seem to be getting a little {i}hot and bothered{/i} back there..."
-msgstr "[@maddie_$_special_$_nightgown_$_away_$_rise_$_talk_amused@] I don't know Danny, you seem to be getting a little {i}hot and bothered{/i} back there..."
+msgid "[_maddie_s_special_s_nightgown_s_away_s_rise_s_talk_amused_] I don't know Danny, you seem to be getting a little {i}hot and bothered{/i} back there..."
+msgstr "[_maddie_s_special_s_nightgown_s_away_s_rise_s_talk_amused_] I don't know Danny, you seem to be getting a little {i}hot and bothered{/i} back there..."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:230 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_e398c64c:
-msgid "[@jack_$_towards_$_sad_$_talk_displeased@] He certainly does... maybe you should stay home today, sport!"
-msgstr "[@jack_$_towards_$_sad_$_talk_displeased@] He certainly does... maybe you should stay home today, sport!"
+msgid "[_jack_s_towards_s_sad_s_talk_displeased_] He certainly does... maybe you should stay home today, sport!"
+msgstr "[_jack_s_towards_s_sad_s_talk_displeased_] He certainly does... maybe you should stay home today, sport!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:234 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_9d390d11:
-msgid "[@maddie_$_special_$_nightgown_$_towards_$_sad_$_talk_amused@] You can stay at home if you like..."
-msgstr "[@maddie_$_special_$_nightgown_$_towards_$_sad_$_talk_amused@] You can stay at home if you like..."
+msgid "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_amused_] You can stay at home if you like..."
+msgstr "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_amused_] You can stay at home if you like..."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:240 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_ae826f4a:
-msgid "[@maddie@] {i}I can look after you all day.{/i}"
-msgstr "[@maddie@] {i}I can look after you all day.{/i}"
+msgid "[_maddie_] {i}I can look after you all day.{/i}"
+msgstr "[_maddie_] {i}I can look after you all day.{/i}"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:246 #-#-# translate crowdin maddie_kitchen_monday_breakfast_treat_b602c2ca:
-msgid "[@danny_$_sit_0_$_towards_wide_$_wondering_$_displeased_$_blush2@] ...*Gulp*"
-msgstr "[@danny_$_sit_0_$_towards_wide_$_wondering_$_displeased_$_blush2@] ...*Gulp*"
+msgid "[_danny_s_sit_0_s_towards_wide_s_wondering_s_displeased_s_blush2_] ...*Gulp*"
+msgstr "[_danny_s_sit_0_s_towards_wide_s_wondering_s_displeased_s_blush2_] ...*Gulp*"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:261 #-#-# translate crowdin maddie_kitchen_monday_stying_home_refuse_c602ac45:
-msgid "[@danny_$_sit_0_$_towards_wide_$_sad_$_talk_displeased@] I'm fine."
-msgstr "[@danny_$_sit_0_$_towards_wide_$_sad_$_talk_displeased@] I'm fine."
+msgid "[_danny_s_sit_0_s_towards_wide_s_sad_s_talk_displeased_] I'm fine."
+msgstr "[_danny_s_sit_0_s_towards_wide_s_sad_s_talk_displeased_] I'm fine."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:265 #-#-# translate crowdin maddie_kitchen_monday_stying_home_refuse_7476d364:
-msgid "[@maddie_$_special_$_nightgown_$_towards_$_sad_$_talk_displeased@] Aw..."
-msgstr "[@maddie_$_special_$_nightgown_$_towards_$_sad_$_talk_displeased@] Aw..."
+msgid "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_displeased_] Aw..."
+msgstr "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_displeased_] Aw..."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:269 #-#-# translate crowdin maddie_kitchen_monday_stying_home_refuse_a41d04b6:
-msgid "[@jack_$_towards_$_confused_$_displeased@] ..."
-msgstr "[@jack_$_towards_$_confused_$_displeased@] ..."
+msgid "[_jack_s_towards_s_confused_s_displeased_] ..."
+msgstr "[_jack_s_towards_s_confused_s_displeased_] ..."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:273 #-#-# translate crowdin maddie_kitchen_monday_stying_home_refuse_2523cfef:
-msgid "[@maddie_$_special_$_nightgown_$_towards_$_sad_$_talk_happy@] I mean, glad you're feeling well enough to go to School."
-msgstr "[@maddie_$_special_$_nightgown_$_towards_$_sad_$_talk_happy@] I mean, glad you're feeling well enough to go to School."
+msgid "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_happy_] I mean, glad you're feeling well enough to go to School."
+msgstr "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_happy_] I mean, glad you're feeling well enough to go to School."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:278 #-#-# translate crowdin maddie_kitchen_monday_stying_home_refuse_4feb14c9:
-msgid "[@danny_$_sit_0_$_towards_wide_$_sad_$_talk_displeased@] Really, I'm fine, honestly!{p}In fact, {i}uhm{/i}, I better just get going now!"
-msgstr "[@danny_$_sit_0_$_towards_wide_$_sad_$_talk_displeased@] Really, I'm fine, honestly!{p}In fact, {i}uhm{/i}, I better just get going now!"
+msgid "[_danny_s_sit_0_s_towards_wide_s_sad_s_talk_displeased_] Really, I'm fine, honestly!{p}In fact, {i}uhm{/i}, I better just get going now!"
+msgstr "[_danny_s_sit_0_s_towards_wide_s_sad_s_talk_displeased_] Really, I'm fine, honestly!{p}In fact, {i}uhm{/i}, I better just get going now!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:283 #-#-# translate crowdin maddie_kitchen_monday_stying_home_refuse_e553108e:
-msgid "[@jack_$_talk_happy@] That's it, tough it out champ! Education is it's own reward!"
-msgstr "[@jack_$_talk_happy@] That's it, tough it out champ! Education is it's own reward!"
+msgid "[_jack_s_talk_happy_] That's it, tough it out champ! Education is it's own reward!"
+msgstr "[_jack_s_talk_happy_] That's it, tough it out champ! Education is it's own reward!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:287 #-#-# translate crowdin maddie_kitchen_monday_stying_home_refuse_8345cc74:
-msgid "[@maddie_$_special_$_nightgown_$_towards_$_rise_$_talk_displeased@] But your breakfast-"
-msgstr "[@maddie_$_special_$_nightgown_$_towards_$_rise_$_talk_displeased@] But your breakfast-"
+msgid "[_maddie_s_special_s_nightgown_s_towards_s_rise_s_talk_displeased_] But your breakfast-"
+msgstr "[_maddie_s_special_s_nightgown_s_towards_s_rise_s_talk_displeased_] But your breakfast-"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:291 #-#-# translate crowdin maddie_kitchen_monday_stying_home_refuse_f80e0386:
-msgid "[@danny_$_sit_0_$_towards_$_sad_$_talk_displeased@] I'll eat later! The walk to school should do me some good! Don't wanna be late!"
-msgstr "[@danny_$_sit_0_$_towards_$_sad_$_talk_displeased@] I'll eat later! The walk to school should do me some good! Don't wanna be late!"
+msgid "[_danny_s_sit_0_s_towards_s_sad_s_talk_displeased_] I'll eat later! The walk to school should do me some good! Don't wanna be late!"
+msgstr "[_danny_s_sit_0_s_towards_s_sad_s_talk_displeased_] I'll eat later! The walk to school should do me some good! Don't wanna be late!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:301 #-#-# translate crowdin maddie_kitchen_monday_stying_home_refuse_d655cd4f:
-msgid "[@jack_$_closed_$_idle_$_talk_happy@] {i}Ahh!{/i} The boy's starting to shape up into a real go-getter, just like his old man!"
-msgstr "[@jack_$_closed_$_idle_$_talk_happy@] {i}Ahh!{/i} The boy's starting to shape up into a real go-getter, just like his old man!"
+msgid "[_jack_s_closed_s_idle_s_talk_happy_] {i}Ahh!{/i} The boy's starting to shape up into a real go-getter, just like his old man!"
+msgstr "[_jack_s_closed_s_idle_s_talk_happy_] {i}Ahh!{/i} The boy's starting to shape up into a real go-getter, just like his old man!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:304 #-#-# translate crowdin maddie_kitchen_monday_stying_home_refuse_8bbcc656:
-msgid "[@jack_$_towards_$_rise_$_talk_happy@] Good for Danny! Showing some real initiative!"
-msgstr "[@jack_$_towards_$_rise_$_talk_happy@] Good for Danny! Showing some real initiative!"
+msgid "[_jack_s_towards_s_rise_s_talk_happy_] Good for Danny! Showing some real initiative!"
+msgstr "[_jack_s_towards_s_rise_s_talk_happy_] Good for Danny! Showing some real initiative!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:323 #-#-# translate crowdin maddie_kitchen_monday_breakfast_refuse_5462ddde:
-msgid "[@maddie_$_special_$_nightgown_$_towards_$_rise_$_talk_displeased@] Well, alright, I get it. No worries!"
-msgstr "[@maddie_$_special_$_nightgown_$_towards_$_rise_$_talk_displeased@] Well, alright, I get it. No worries!"
+msgid "[_maddie_s_special_s_nightgown_s_towards_s_rise_s_talk_displeased_] Well, alright, I get it. No worries!"
+msgstr "[_maddie_s_special_s_nightgown_s_towards_s_rise_s_talk_displeased_] Well, alright, I get it. No worries!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:327 #-#-# translate crowdin maddie_kitchen_monday_breakfast_refuse_421d37d9:
-msgid "[@danny_$_towards_$_sad_$_talk_displeased@] Thanks, but again, it's just that I'm not too... {i}hungry{/i}, right now."
-msgstr "[@danny_$_towards_$_sad_$_talk_displeased@] Thanks, but again, it's just that I'm not too... {i}hungry{/i}, right now."
+msgid "[_danny_s_towards_s_sad_s_talk_displeased_] Thanks, but again, it's just that I'm not too... {i}hungry{/i}, right now."
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] Thanks, but again, it's just that I'm not too... {i}hungry{/i}, right now."
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:331 #-#-# translate crowdin maddie_kitchen_monday_breakfast_refuse_0869be24:
-msgid "[@jack_$_towards_$_rise_$_talk_happy@] Hey, no big complaints on my end! More for me!"
-msgstr "[@jack_$_towards_$_rise_$_talk_happy@] Hey, no big complaints on my end! More for me!"
+msgid "[_jack_s_towards_s_rise_s_talk_happy_] Hey, no big complaints on my end! More for me!"
+msgstr "[_jack_s_towards_s_rise_s_talk_happy_] Hey, no big complaints on my end! More for me!"
 
 # game/code/character_events/maddie/maddie_breakfast.rpy:335 #-#-# translate crowdin maddie_kitchen_monday_breakfast_refuse_8989432f:
-msgid "[@maddie_$_special_$_nightgown_$_towards_$_sad_$_talk_happy@] Have a good day at school then, sweetie!"
-msgstr "[@maddie_$_special_$_nightgown_$_towards_$_sad_$_talk_happy@] Have a good day at school then, sweetie!"
+msgid "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_happy_] Have a good day at school then, sweetie!"
+msgstr "[_maddie_s_special_s_nightgown_s_towards_s_sad_s_talk_happy_] Have a good day at school then, sweetie!"
 
 #§translate crowdin strings: #|#|# # game/code/character_events/maddie/maddie_breakfast.rpy:119
 msgid "I'm starved! Let's dig in!"

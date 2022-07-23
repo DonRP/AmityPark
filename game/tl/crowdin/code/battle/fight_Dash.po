@@ -1,32 +1,32 @@
 ﻿# TODO: Translation updated at 2022-07-19 21:03
 
 # game/code/battle/fight_Dash.rpy:71 #-#-# translate crowdin start_fight_Dash_ff2940fc:
-msgid "[@danny@] Time for some well deserved payback, Dash!"
-msgstr "[@danny@] Time for some well deserved payback, Dash!"
+msgid "[_danny_] Time for some well deserved payback, Dash!"
+msgstr "[_danny_] Time for some well deserved payback, Dash!"
 
 # game/code/battle/fight_Dash.rpy:82 #-#-# translate crowdin fight_main_dash_e4d8a7f3:
-msgid "[@danny@] Man... and I thought his punches {i}before{/i} stung!"
-msgstr "[@danny@] Man... and I thought his punches {i}before{/i} stung!"
+msgid "[_danny_] Man... and I thought his punches {i}before{/i} stung!"
+msgstr "[_danny_] Man... and I thought his punches {i}before{/i} stung!"
 
 # game/code/battle/fight_Dash.rpy:86 #-#-# translate crowdin fight_main_dash_868dc067:
-msgid "[@danny@] This has saved me {i}years{/i} of therapy, so thanks Ectopus! But now it's time to put the {b}real{/b} bully in his place!"
-msgstr "[@danny@] This has saved me {i}years{/i} of therapy, so thanks Ectopus! But now it's time to put the {b}real{/b} bully in his place!"
+msgid "[_danny_] This has saved me {i}years{/i} of therapy, so thanks Ectopus! But now it's time to put the {b}real{/b} bully in his place!"
+msgstr "[_danny_] This has saved me {i}years{/i} of therapy, so thanks Ectopus! But now it's time to put the {b}real{/b} bully in his place!"
 
 # game/code/battle/fight_Dash.rpy:127 #-#-# translate crowdin dash_turn_d58590d1:
-msgid "[@danny@] nothing happened."
-msgstr "[@danny@] nothing happened."
+msgid "[_danny_] nothing happened."
+msgstr "[_danny_] nothing happened."
 
 # game/code/battle/fight_Dash.rpy:263 #-#-# translate crowdin player_invisible_dash_6dedd31d:
-msgid "[@danny@] I don't have enough energy for this."
-msgstr "[@danny@] I don't have enough energy for this."
+msgid "[_danny_] I don't have enough energy for this."
+msgstr "[_danny_] I don't have enough energy for this."
 
 # game/code/battle/fight_Dash.rpy:323 #-#-# translate crowdin player_ghost_ray_dash_6dedd31d:
-msgid "[@danny@] I don't have enough energy for this."
-msgstr "[@danny@] I don't have enough energy for this."
+msgid "[_danny_] I don't have enough energy for this."
+msgstr "[_danny_] I don't have enough energy for this."
 
 # game/code/battle/fight_Dash.rpy:459 #-#-# translate crowdin ghost_attack_dash_f3027409:
-msgid "[@danny@] Ooof! The left hook, a classic Dash maneuver! Should have seen that one coming..."
-msgstr "[@danny@] Ooof! The left hook, a classic Dash maneuver! Should have seen that one coming..."
+msgid "[_danny_] Ooof! The left hook, a classic Dash maneuver! Should have seen that one coming..."
+msgstr "[_danny_] Ooof! The left hook, a classic Dash maneuver! Should have seen that one coming..."
 
 # game/code/battle/fight_Dash.rpy:536 #-#-# translate crowdin stop_Running_away_dash_2bc2d4b0:
 msgid "You can't just run away. Be a man and fight!"

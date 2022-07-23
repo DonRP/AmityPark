@@ -1,784 +1,784 @@
 ﻿# TODO: Translation updated at 2022-07-19 21:03
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:22 #-#-# translate crowdin Peeping_Phan_Tom_scene_1_bedroom_5051d8d5:
-msgid "[@danny_$_talk_frown_2_$_sad_2@] {i}*Yaaaawn*{/i} Man oh man, I think my stomach shrank in my sleep or something!"
-msgstr "[@danny_$_talk_frown_2_$_sad_2@] {i}*Yaaaawn*{/i} Man oh man, I think my stomach shrank in my sleep or something!"
+msgid "[_danny_s_talk_frown_2_s_sad_2_] {i}*Yaaaawn*{/i} Man oh man, I think my stomach shrank in my sleep or something!"
+msgstr "[_danny_s_talk_frown_2_s_sad_2_] {i}*Yaaaawn*{/i} Man oh man, I think my stomach shrank in my sleep or something!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:24 #-#-# translate crowdin Peeping_Phan_Tom_scene_1_bedroom_b04d6547:
-msgid "[@danny_$_blank_stare_$_talk_frown_2_$_rise_one@] I am {b}super{/b} hungry. Probably from fighting off so many shadow monsters lately... I better grab something to eat before I head to school."
-msgstr "[@danny_$_blank_stare_$_talk_frown_2_$_rise_one@] I am {b}super{/b} hungry. Probably from fighting off so many shadow monsters lately... I better grab something to eat before I head to school."
+msgid "[_danny_s_blank_stare_s_talk_frown_2_s_rise_one_] I am {b}super{/b} hungry. Probably from fighting off so many shadow monsters lately... I better grab something to eat before I head to school."
+msgstr "[_danny_s_blank_stare_s_talk_frown_2_s_rise_one_] I am {b}super{/b} hungry. Probably from fighting off so many shadow monsters lately... I better grab something to eat before I head to school."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:26 #-#-# translate crowdin Peeping_Phan_Tom_scene_1_bedroom_f7c6ae88:
-msgid "[@danny_$_towards_$_talk_happy@] There's probably something in the kitchen to snack on like some cereal or something."
-msgstr "[@danny_$_towards_$_talk_happy@] There's probably something in the kitchen to snack on like some cereal or something."
+msgid "[_danny_s_towards_s_talk_happy_] There's probably something in the kitchen to snack on like some cereal or something."
+msgstr "[_danny_s_towards_s_talk_happy_] There's probably something in the kitchen to snack on like some cereal or something."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:66 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_e857f264:
-msgid "[@danny_$_talk_happy@] Mornin', Jazz."
-msgstr "[@danny_$_talk_happy@] Mornin', Jazz."
+msgid "[_danny_s_talk_happy_] Mornin', Jazz."
+msgstr "[_danny_s_talk_happy_] Mornin', Jazz."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:68 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_7c761d7f:
-msgid "[@jazz_$_talk_happy_3_$_idle_2@] Ahh, {i}good{/i} morning Danny! Glad to finally see you roaming around here."
-msgstr "[@jazz_$_talk_happy_3_$_idle_2@] Ahh, {i}good{/i} morning Danny! Glad to finally see you roaming around here."
+msgid "[_jazz_s_talk_happy_3_s_idle_2_] Ahh, {i}good{/i} morning Danny! Glad to finally see you roaming around here."
+msgstr "[_jazz_s_talk_happy_3_s_idle_2_] Ahh, {i}good{/i} morning Danny! Glad to finally see you roaming around here."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:70 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_9ab09c00:
-msgid "[@danny_$_talk_frown_$_wondering@] What are you talking about? I {b}live{/b} here."
-msgstr "[@danny_$_talk_frown_$_wondering@] What are you talking about? I {b}live{/b} here."
+msgid "[_danny_s_talk_frown_s_wondering_] What are you talking about? I {b}live{/b} here."
+msgstr "[_danny_s_talk_frown_s_wondering_] What are you talking about? I {b}live{/b} here."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:72 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_4bdb810a:
-msgid "[@jazz_$_talk_frown_$_rise_one@] {i}Barely{/i}. Seems to me you're always out and about after school, doing {b}God{/b} knows what."
-msgstr "[@jazz_$_talk_frown_$_rise_one@] {i}Barely{/i}. Seems to me you're always out and about after school, doing {b}God{/b} knows what."
+msgid "[_jazz_s_talk_frown_s_rise_one_] {i}Barely{/i}. Seems to me you're always out and about after school, doing {b}God{/b} knows what."
+msgstr "[_jazz_s_talk_frown_s_rise_one_] {i}Barely{/i}. Seems to me you're always out and about after school, doing {b}God{/b} knows what."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:74 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_9fceeb12:
-msgid "[@danny_$_talk_frown@] Oh c'mon, I haven't been gone {i}that{/i} much!"
-msgstr "[@danny_$_talk_frown@] Oh c'mon, I haven't been gone {i}that{/i} much!"
+msgid "[_danny_s_talk_frown_] Oh c'mon, I haven't been gone {i}that{/i} much!"
+msgstr "[_danny_s_talk_frown_] Oh c'mon, I haven't been gone {i}that{/i} much!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:75 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_db8dd7ab:
-msgid "[@danny_$_talk_frown_2_$_sad@] ...have I?"
-msgstr "[@danny_$_talk_frown_2_$_sad@] ...have I?"
+msgid "[_danny_s_talk_frown_2_s_sad_] ...have I?"
+msgstr "[_danny_s_talk_frown_2_s_sad_] ...have I?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:78 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_76bdccaf:
-msgid "[@jazz_$_talk_frown_$_idle_2@] I'd say you have! You don't stay in {b}nearly{/b} as much as you used to."
-msgstr "[@jazz_$_talk_frown_$_idle_2@] I'd say you have! You don't stay in {b}nearly{/b} as much as you used to."
+msgid "[_jazz_s_talk_frown_s_idle_2_] I'd say you have! You don't stay in {b}nearly{/b} as much as you used to."
+msgstr "[_jazz_s_talk_frown_s_idle_2_] I'd say you have! You don't stay in {b}nearly{/b} as much as you used to."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:80 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_de387b68:
-msgid "[@danny_$_talk_happy_$_rise_one@] Well, hey, isn't that a good thing? Functioning young adults are {i}supposed{/i} to have a healthy social life, right?"
-msgstr "[@danny_$_talk_happy_$_rise_one@] Well, hey, isn't that a good thing? Functioning young adults are {i}supposed{/i} to have a healthy social life, right?"
+msgid "[_danny_s_talk_happy_s_rise_one_] Well, hey, isn't that a good thing? Functioning young adults are {i}supposed{/i} to have a healthy social life, right?"
+msgstr "[_danny_s_talk_happy_s_rise_one_] Well, hey, isn't that a good thing? Functioning young adults are {i}supposed{/i} to have a healthy social life, right?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:82 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_57c58e88:
-msgid "[@jazz_$_talk_frown_$_idle_2@] At all hours of the night, though? Come on, Danny, you can't expect me to believe that's a good social condition for a growing-"
-msgstr "[@jazz_$_talk_frown_$_idle_2@] At all hours of the night, though? Come on, Danny, you can't expect me to believe that's a good social condition for a growing-"
+msgid "[_jazz_s_talk_frown_s_idle_2_] At all hours of the night, though? Come on, Danny, you can't expect me to believe that's a good social condition for a growing-"
+msgstr "[_jazz_s_talk_frown_s_idle_2_] At all hours of the night, though? Come on, Danny, you can't expect me to believe that's a good social condition for a growing-"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:84 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_47a97299:
-msgid "[@danny_$_talk_frown_2@] Okay, then tell me, how often do you hang with {i}your{/i} friends? How many friends do you even {i}have{/i}? Tell me how {i}your{/i} social life's been treating you lately?"
-msgstr "[@danny_$_talk_frown_2@] Okay, then tell me, how often do you hang with {i}your{/i} friends? How many friends do you even {i}have{/i}? Tell me how {i}your{/i} social life's been treating you lately?"
+msgid "[_danny_s_talk_frown_2_] Okay, then tell me, how often do you hang with {i}your{/i} friends? How many friends do you even {i}have{/i}? Tell me how {i}your{/i} social life's been treating you lately?"
+msgstr "[_danny_s_talk_frown_2_] Okay, then tell me, how often do you hang with {i}your{/i} friends? How many friends do you even {i}have{/i}? Tell me how {i}your{/i} social life's been treating you lately?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:86 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_109dd562:
-msgid "[@jazz_$_down_$_talk_frown_$_idle_2@] Well... well I- I mean... I have-! I've been hanging with... look, people just {u}know{/u} I'm pretty popular, okay?"
-msgstr "[@jazz_$_down_$_talk_frown_$_idle_2@] Well... well I- I mean... I have-! I've been hanging with... look, people just {u}know{/u} I'm pretty popular, okay?"
+msgid "[_jazz_s_down_s_talk_frown_s_idle_2_] Well... well I- I mean... I have-! I've been hanging with... look, people just {u}know{/u} I'm pretty popular, okay?"
+msgstr "[_jazz_s_down_s_talk_frown_s_idle_2_] Well... well I- I mean... I have-! I've been hanging with... look, people just {u}know{/u} I'm pretty popular, okay?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:88 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_64662793:
-msgid "[@danny_$_talk_frown_$_towards_$_wondering@] Okay then, name me just {u}one{/u} of your friends outside the family."
-msgstr "[@danny_$_talk_frown_$_towards_$_wondering@] Okay then, name me just {u}one{/u} of your friends outside the family."
+msgid "[_danny_s_talk_frown_s_towards_s_wondering_] Okay then, name me just {u}one{/u} of your friends outside the family."
+msgstr "[_danny_s_talk_frown_s_towards_s_wondering_] Okay then, name me just {u}one{/u} of your friends outside the family."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:90 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_96a2e164:
-msgid "[@jazz_$_down@] ..."
-msgstr "[@jazz_$_down@] ..."
+msgid "[_jazz_s_down_] ..."
+msgstr "[_jazz_s_down_] ..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:92 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_b0becade:
-msgid "[@danny_$_talk_happy_$_rise_one@] Yeah, see?"
-msgstr "[@danny_$_talk_happy_$_rise_one@] Yeah, see?"
+msgid "[_danny_s_talk_happy_s_rise_one_] Yeah, see?"
+msgstr "[_danny_s_talk_happy_s_rise_one_] Yeah, see?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:94 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_794f3243:
-msgid "[@jazz_$_talk_frown_$_sad@] No, th-that's not fair, I was {b}thinking{/b}! You just... caught me off guard with the question is all!"
-msgstr "[@jazz_$_talk_frown_$_sad@] No, th-that's not fair, I was {b}thinking{/b}! You just... caught me off guard with the question is all!"
+msgid "[_jazz_s_talk_frown_s_sad_] No, th-that's not fair, I was {b}thinking{/b}! You just... caught me off guard with the question is all!"
+msgstr "[_jazz_s_talk_frown_s_sad_] No, th-that's not fair, I was {b}thinking{/b}! You just... caught me off guard with the question is all!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:96 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_7a3aa968:
-msgid "[@danny_$_wondering_$_talk_happy_2@] Alrighty then, take your time. I'll wait."
-msgstr "[@danny_$_wondering_$_talk_happy_2@] Alrighty then, take your time. I'll wait."
+msgid "[_danny_s_wondering_s_talk_happy_2_] Alrighty then, take your time. I'll wait."
+msgstr "[_danny_s_wondering_s_talk_happy_2_] Alrighty then, take your time. I'll wait."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:98 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_26212dc8:
-msgid "[@jazz_$_talk_frown_$_down_$_idle_@] Okay... well... {i}ehhmmm{/i}..."
-msgstr "[@jazz_$_talk_frown_$_down_$_idle_@] Okay... well... {i}ehhmmm{/i}..."
+msgid "[_jazz_s_talk_frown_s_down_s_idle__] Okay... well... {i}ehhmmm{/i}..."
+msgstr "[_jazz_s_talk_frown_s_down_s_idle__] Okay... well... {i}ehhmmm{/i}..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:99 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_1fc4a737:
-msgid "[@jazz_$_down_wide_1@] I mean... Dash sorta says hi, and stuff! Even though he tried to assault me in the halls that one time he was all green and nasty, I'm pretty certain that was something crazy ghost related."
-msgstr "[@jazz_$_down_wide_1@] I mean... Dash sorta says hi, and stuff! Even though he tried to assault me in the halls that one time he was all green and nasty, I'm pretty certain that was something crazy ghost related."
+msgid "[_jazz_s_down_wide_1_] I mean... Dash sorta says hi, and stuff! Even though he tried to assault me in the halls that one time he was all green and nasty, I'm pretty certain that was something crazy ghost related."
+msgstr "[_jazz_s_down_wide_1_] I mean... Dash sorta says hi, and stuff! Even though he tried to assault me in the halls that one time he was all green and nasty, I'm pretty certain that was something crazy ghost related."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:101 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_71f4b96a:
-msgid "[@jazz_$_talk_happy_$_idle_2@] He apologized about it later, which was sweet... I think {i}he's{/i} pretty nice, I guess..."
-msgstr "[@jazz_$_talk_happy_$_idle_2@] He apologized about it later, which was sweet... I think {i}he's{/i} pretty nice, I guess..."
+msgid "[_jazz_s_talk_happy_s_idle_2_] He apologized about it later, which was sweet... I think {i}he's{/i} pretty nice, I guess..."
+msgstr "[_jazz_s_talk_happy_s_idle_2_] He apologized about it later, which was sweet... I think {i}he's{/i} pretty nice, I guess..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:103 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_10c9ce26:
-msgid "[@danny_$_talk_frown_$_sad@] Sorry sis, but I really don't think you can consider the guy who wants to get into your pants an actual \"friend\", sis."
-msgstr "[@danny_$_talk_frown_$_sad@] Sorry sis, but I really don't think you can consider the guy who wants to get into your pants an actual \"friend\", sis."
+msgid "[_danny_s_talk_frown_s_sad_] Sorry sis, but I really don't think you can consider the guy who wants to get into your pants an actual \"friend\", sis."
+msgstr "[_danny_s_talk_frown_s_sad_] Sorry sis, but I really don't think you can consider the guy who wants to get into your pants an actual \"friend\", sis."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:105 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_98c842b9:
-msgid "[@jazz_$_angry_$_talk_frown@] Uhm, {i}excuse{/i} you, Dash does {i}not{/i} think of me like that!"
-msgstr "[@jazz_$_angry_$_talk_frown@] Uhm, {i}excuse{/i} you, Dash does {i}not{/i} think of me like that!"
+msgid "[_jazz_s_angry_s_talk_frown_] Uhm, {i}excuse{/i} you, Dash does {i}not{/i} think of me like that!"
+msgstr "[_jazz_s_angry_s_talk_frown_] Uhm, {i}excuse{/i} you, Dash does {i}not{/i} think of me like that!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:107 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_ac66c6e4:
-msgid "[@danny_$_talk_frown@] Well, why else would he ask me for your panties then?"
-msgstr "[@danny_$_talk_frown@] Well, why else would he ask me for your panties then?"
+msgid "[_danny_s_talk_frown_] Well, why else would he ask me for your panties then?"
+msgstr "[_danny_s_talk_frown_] Well, why else would he ask me for your panties then?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:109 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_8370783f:
-msgid "[@jazz_$_towards_$_talk_frown@] {b}Wh-what?!{/b} When did he... {u}what?!{/u}"
-msgstr "[@jazz_$_towards_$_talk_frown@] {b}Wh-what?!{/b} When did he... {u}what?!{/u}"
+msgid "[_jazz_s_towards_s_talk_frown_] {b}Wh-what?!{/b} When did he... {u}what?!{/u}"
+msgstr "[_jazz_s_towards_s_talk_frown_] {b}Wh-what?!{/b} When did he... {u}what?!{/u}"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:111 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_e7003d03:
-msgid "[@danny_$_talk_frown_2_$_neutral@] Yeah, he wanted them for... well who knows for what. I'd rather not think about it, myself. But what a creep, right?"
-msgstr "[@danny_$_talk_frown_2_$_neutral@] Yeah, he wanted them for... well who knows for what. I'd rather not think about it, myself. But what a creep, right?"
+msgid "[_danny_s_talk_frown_2_s_neutral_] Yeah, he wanted them for... well who knows for what. I'd rather not think about it, myself. But what a creep, right?"
+msgstr "[_danny_s_talk_frown_2_s_neutral_] Yeah, he wanted them for... well who knows for what. I'd rather not think about it, myself. But what a creep, right?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:113 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_88849d48:
-msgid "[@jazz_$_talk_frown_$_towards_$_rise_one@] Uhhmm, and so...?"
-msgstr "[@jazz_$_talk_frown_$_towards_$_rise_one@] Uhhmm, and so...?"
+msgid "[_jazz_s_talk_frown_s_towards_s_rise_one_] Uhhmm, and so...?"
+msgstr "[_jazz_s_talk_frown_s_towards_s_rise_one_] Uhhmm, and so...?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:115 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_dbadcd5c:
-msgid "[@danny_$_rise_one_$_talk_frown@] Uhm, soooo... what?"
-msgstr "[@danny_$_rise_one_$_talk_frown@] Uhm, soooo... what?"
+msgid "[_danny_s_rise_one_s_talk_frown_] Uhm, soooo... what?"
+msgstr "[_danny_s_rise_one_s_talk_frown_] Uhm, soooo... what?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:117 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_8a6be34c:
-msgid "[@jazz_$_talk_frown@] So, {b}did{/b} you give him any of my underwear, Danny?!"
-msgstr "[@jazz_$_talk_frown@] So, {b}did{/b} you give him any of my underwear, Danny?!"
+msgid "[_jazz_s_talk_frown_] So, {b}did{/b} you give him any of my underwear, Danny?!"
+msgstr "[_jazz_s_talk_frown_] So, {b}did{/b} you give him any of my underwear, Danny?!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:125 #-#-# translate crowdin panties_in_posession_7539e78c:
-msgid "[@danny_$_talk_frown_$_wondering_$_towards_wide@] Well... I mean... I really had to get past him in the hall, and he refused to move, so... I sorta-"
-msgstr "[@danny_$_talk_frown_$_wondering_$_towards_wide@] Well... I mean... I really had to get past him in the hall, and he refused to move, so... I sorta-"
+msgid "[_danny_s_talk_frown_s_wondering_s_towards_wide_] Well... I mean... I really had to get past him in the hall, and he refused to move, so... I sorta-"
+msgstr "[_danny_s_talk_frown_s_wondering_s_towards_wide_] Well... I mean... I really had to get past him in the hall, and he refused to move, so... I sorta-"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:127 #-#-# translate crowdin panties_in_posession_0171c323:
-msgid "[@jazz_$_sad_$_talk_frown_$_towards_wide@] Danny!! Oh my God!!"
-msgstr "[@jazz_$_sad_$_talk_frown_$_towards_wide@] Danny!! Oh my God!!"
+msgid "[_jazz_s_sad_s_talk_frown_s_towards_wide_] Danny!! Oh my God!!"
+msgstr "[_jazz_s_sad_s_talk_frown_s_towards_wide_] Danny!! Oh my God!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:129 #-#-# translate crowdin panties_in_posession_1bcf1f6d:
-msgid "[@danny_$_talk_frown_2@] Hey, I'm sorry! Look, I feel terrible about it, but I really did need to get by him."
-msgstr "[@danny_$_talk_frown_2@] Hey, I'm sorry! Look, I feel terrible about it, but I really did need to get by him."
+msgid "[_danny_s_talk_frown_2_] Hey, I'm sorry! Look, I feel terrible about it, but I really did need to get by him."
+msgstr "[_danny_s_talk_frown_2_] Hey, I'm sorry! Look, I feel terrible about it, but I really did need to get by him."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:131 #-#-# translate crowdin panties_in_posession_f6fcb795:
-msgid "[@jazz_$_idle_2_$_talk_frown@] God, Danny, that's so {i}creepy{/i}!! Stay out of my room from now on. That is {b}such{/b} an invasion of my privacy!!"
-msgstr "[@jazz_$_idle_2_$_talk_frown@] God, Danny, that's so {i}creepy{/i}!! Stay out of my room from now on. That is {b}such{/b} an invasion of my privacy!!"
+msgid "[_jazz_s_idle_2_s_talk_frown_] God, Danny, that's so {i}creepy{/i}!! Stay out of my room from now on. That is {b}such{/b} an invasion of my privacy!!"
+msgstr "[_jazz_s_idle_2_s_talk_frown_] God, Danny, that's so {i}creepy{/i}!! Stay out of my room from now on. That is {b}such{/b} an invasion of my privacy!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:132 #-#-# translate crowdin panties_in_posession_05e57084:
-msgid "[@jazz_$_angry@] I don't care what reason you did it for, you should have come to me first, at the very least!!"
-msgstr "[@jazz_$_angry@] I don't care what reason you did it for, you should have come to me first, at the very least!!"
+msgid "[_jazz_s_angry_] I don't care what reason you did it for, you should have come to me first, at the very least!!"
+msgstr "[_jazz_s_angry_] I don't care what reason you did it for, you should have come to me first, at the very least!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:134 #-#-# translate crowdin panties_in_posession_55eedb26:
-msgid "[@danny_$_talk_frown@] Jazz, I'm sorry!! I didn't know how to come to you about it... I just didn't want to have some sort of awkward conversation with you."
-msgstr "[@danny_$_talk_frown@] Jazz, I'm sorry!! I didn't know how to come to you about it... I just didn't want to have some sort of awkward conversation with you."
+msgid "[_danny_s_talk_frown_] Jazz, I'm sorry!! I didn't know how to come to you about it... I just didn't want to have some sort of awkward conversation with you."
+msgstr "[_danny_s_talk_frown_] Jazz, I'm sorry!! I didn't know how to come to you about it... I just didn't want to have some sort of awkward conversation with you."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:136 #-#-# translate crowdin panties_in_posession_9a067c6d:
-msgid "[@jazz_$_talk_frown_$_angry@] Is me freaking about it right now any better?!"
-msgstr "[@jazz_$_talk_frown_$_angry@] Is me freaking about it right now any better?!"
+msgid "[_jazz_s_talk_frown_s_angry_] Is me freaking about it right now any better?!"
+msgstr "[_jazz_s_talk_frown_s_angry_] Is me freaking about it right now any better?!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:138 #-#-# translate crowdin panties_in_posession_c2182e63:
-msgid "[@danny_$_towards_$_talk_frown_2_$_sad@] Well, you asked about it! I can't lie to you either, Jazz."
-msgstr "[@danny_$_towards_$_talk_frown_2_$_sad@] Well, you asked about it! I can't lie to you either, Jazz."
+msgid "[_danny_s_towards_s_talk_frown_2_s_sad_] Well, you asked about it! I can't lie to you either, Jazz."
+msgstr "[_danny_s_towards_s_talk_frown_2_s_sad_] Well, you asked about it! I can't lie to you either, Jazz."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:140 #-#-# translate crowdin panties_in_posession_afd0b180:
-msgid "[@jazz_$_down_$_talk_frown@] Ugh... well... just... don't ever do that again. {u}Promise{/u} me right now, Danny, that you won't ever trespass or steal from my room again."
-msgstr "[@jazz_$_down_$_talk_frown@] Ugh... well... just... don't ever do that again. {u}Promise{/u} me right now, Danny, that you won't ever trespass or steal from my room again."
+msgid "[_jazz_s_down_s_talk_frown_] Ugh... well... just... don't ever do that again. {u}Promise{/u} me right now, Danny, that you won't ever trespass or steal from my room again."
+msgstr "[_jazz_s_down_s_talk_frown_] Ugh... well... just... don't ever do that again. {u}Promise{/u} me right now, Danny, that you won't ever trespass or steal from my room again."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:142 #-#-# translate crowdin panties_in_posession_d8311b05:
-msgid "[@danny_$_talk_happy_$_towards_wide@] Uhm, yeah, sure I promise..."
-msgstr "[@danny_$_talk_happy_$_towards_wide@] Uhm, yeah, sure I promise..."
+msgid "[_danny_s_talk_happy_s_towards_wide_] Uhm, yeah, sure I promise..."
+msgstr "[_danny_s_talk_happy_s_towards_wide_] Uhm, yeah, sure I promise..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:144 #-#-# translate crowdin panties_in_posession_bd1259c0:
-msgid "[@jazz_$_angry_$_talk_frown@] You promise {i}what{/i}, Danny?"
-msgstr "[@jazz_$_angry_$_talk_frown@] You promise {i}what{/i}, Danny?"
+msgid "[_jazz_s_angry_s_talk_frown_] You promise {i}what{/i}, Danny?"
+msgstr "[_jazz_s_angry_s_talk_frown_] You promise {i}what{/i}, Danny?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:146 #-#-# translate crowdin panties_in_posession_2b6081a8:
-msgid "[@danny_$_towards_$_wondering_$_talk_frown_2@] Yes, Jasmine Fenton, I promise {i}not{/i} to trespass or take things from your room ever again. On my soul."
-msgstr "[@danny_$_towards_$_wondering_$_talk_frown_2@] Yes, Jasmine Fenton, I promise {i}not{/i} to trespass or take things from your room ever again. On my soul."
+msgid "[_danny_s_towards_s_wondering_s_talk_frown_2_] Yes, Jasmine Fenton, I promise {i}not{/i} to trespass or take things from your room ever again. On my soul."
+msgstr "[_danny_s_towards_s_wondering_s_talk_frown_2_] Yes, Jasmine Fenton, I promise {i}not{/i} to trespass or take things from your room ever again. On my soul."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:147 #-#-# translate crowdin panties_in_posession_2a950ecc:
-msgid "[@danny_$_talk_frown_$_sad@] Was {i}that{/i} better?"
-msgstr "[@danny_$_talk_frown_$_sad@] Was {i}that{/i} better?"
+msgid "[_danny_s_talk_frown_s_sad_] Was {i}that{/i} better?"
+msgstr "[_danny_s_talk_frown_s_sad_] Was {i}that{/i} better?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:149 #-#-# translate crowdin panties_in_posession_b54a514b:
-msgid "[@jazz@] ..."
-msgstr "[@jazz@] ..."
+msgid "[_jazz_] ..."
+msgstr "[_jazz_] ..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:150 #-#-# translate crowdin panties_in_posession_7077c190:
-msgid "[@jazz_$_down_$_talk_frown_$_angry@] ...ugh, you're such a brat, Danny. You make for such an annoying little brother."
-msgstr "[@jazz_$_down_$_talk_frown_$_angry@] ...ugh, you're such a brat, Danny. You make for such an annoying little brother."
+msgid "[_jazz_s_down_s_talk_frown_s_angry_] ...ugh, you're such a brat, Danny. You make for such an annoying little brother."
+msgstr "[_jazz_s_down_s_talk_frown_s_angry_] ...ugh, you're such a brat, Danny. You make for such an annoying little brother."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:152 #-#-# translate crowdin panties_in_posession_e725acd8:
-msgid "[@jazz_$_talk_happy_$_towards_$_idle_@] ...but at least you fessed up to it. And Dash is still a creep, so... thanks for telling me."
-msgstr "[@jazz_$_talk_happy_$_towards_$_idle_@] ...but at least you fessed up to it. And Dash is still a creep, so... thanks for telling me."
+msgid "[_jazz_s_talk_happy_s_towards_s_idle__] ...but at least you fessed up to it. And Dash is still a creep, so... thanks for telling me."
+msgstr "[_jazz_s_talk_happy_s_towards_s_idle__] ...but at least you fessed up to it. And Dash is still a creep, so... thanks for telling me."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:154 #-#-# translate crowdin panties_in_posession_df96ea07:
-msgid "[@danny_$_talk_happy_$_rise_one@] Hey, no problem sis... I'm glad we could work this out betwe-"
-msgstr "[@danny_$_talk_happy_$_rise_one@] Hey, no problem sis... I'm glad we could work this out betwe-"
+msgid "[_danny_s_talk_happy_s_rise_one_] Hey, no problem sis... I'm glad we could work this out betwe-"
+msgstr "[_danny_s_talk_happy_s_rise_one_] Hey, no problem sis... I'm glad we could work this out betwe-"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:157 #-#-# translate crowdin panties_in_posession_1ebe69e7:
-msgid "[@jazz@] Okay, but you're seriously distracting me now, so be quiet."
-msgstr "[@jazz@] Okay, but you're seriously distracting me now, so be quiet."
+msgid "[_jazz_] Okay, but you're seriously distracting me now, so be quiet."
+msgstr "[_jazz_] Okay, but you're seriously distracting me now, so be quiet."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:161 #-#-# translate crowdin panties_in_posession_bed9d72e:
-msgid "[@danny_$_talk_frown_$_wondering_$_towards_wide@] No, of course I wouldn't, are you kidding?"
-msgstr "[@danny_$_talk_frown_$_wondering_$_towards_wide@] No, of course I wouldn't, are you kidding?"
+msgid "[_danny_s_talk_frown_s_wondering_s_towards_wide_] No, of course I wouldn't, are you kidding?"
+msgstr "[_danny_s_talk_frown_s_wondering_s_towards_wide_] No, of course I wouldn't, are you kidding?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:162 #-#-# translate crowdin panties_in_posession_9c3f5e45:
-msgid "[@danny_$_closed_$_talk_frown_2@] That'd be a {b}total{/b} invasion of your privacy!"
-msgstr "[@danny_$_closed_$_talk_frown_2@] That'd be a {b}total{/b} invasion of your privacy!"
+msgid "[_danny_s_closed_s_talk_frown_2_] That'd be a {b}total{/b} invasion of your privacy!"
+msgstr "[_danny_s_closed_s_talk_frown_2_] That'd be a {b}total{/b} invasion of your privacy!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:164 #-#-# translate crowdin panties_in_posession_dccdc597:
-msgid "[@jazz_$_talk_happy_$_idle_2@] Well thank you, Danny. I'm glad you told me that happened. And I'm glad you didn't go through with it."
-msgstr "[@jazz_$_talk_happy_$_idle_2@] Well thank you, Danny. I'm glad you told me that happened. And I'm glad you didn't go through with it."
+msgid "[_jazz_s_talk_happy_s_idle_2_] Well thank you, Danny. I'm glad you told me that happened. And I'm glad you didn't go through with it."
+msgstr "[_jazz_s_talk_happy_s_idle_2_] Well thank you, Danny. I'm glad you told me that happened. And I'm glad you didn't go through with it."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:165 #-#-# translate crowdin panties_in_posession_71ff21a7:
-msgid "[@jazz_$_talk_frown_$_down_wide_1_$_rise_one@] Well, I guess I can't consider that creep Baxter as a real friend. {i}*Blech*{/i}"
-msgstr "[@jazz_$_talk_frown_$_down_wide_1_$_rise_one@] Well, I guess I can't consider that creep Baxter as a real friend. {i}*Blech*{/i}"
+msgid "[_jazz_s_talk_frown_s_down_wide_1_s_rise_one_] Well, I guess I can't consider that creep Baxter as a real friend. {i}*Blech*{/i}"
+msgstr "[_jazz_s_talk_frown_s_down_wide_1_s_rise_one_] Well, I guess I can't consider that creep Baxter as a real friend. {i}*Blech*{/i}"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:167 #-#-# translate crowdin panties_in_posession_b807af8f:
-msgid "[@danny_$_talk_happy_$_wondering@] That's what I've been saying, Jazz! He only listens to you cause he think's you're cute."
-msgstr "[@danny_$_talk_happy_$_wondering@] That's what I've been saying, Jazz! He only listens to you cause he think's you're cute."
+msgid "[_danny_s_talk_happy_s_wondering_] That's what I've been saying, Jazz! He only listens to you cause he think's you're cute."
+msgstr "[_danny_s_talk_happy_s_wondering_] That's what I've been saying, Jazz! He only listens to you cause he think's you're cute."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:169 #-#-# translate crowdin panties_in_posession_88ab6549:
-msgid "[@jazz_$_talk_frown_$_down_$_sad@] Oh shut up, nobody thinks I'm cute!"
-msgstr "[@jazz_$_talk_frown_$_down_$_sad@] Oh shut up, nobody thinks I'm cute!"
+msgid "[_jazz_s_talk_frown_s_down_s_sad_] Oh shut up, nobody thinks I'm cute!"
+msgstr "[_jazz_s_talk_frown_s_down_s_sad_] Oh shut up, nobody thinks I'm cute!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:171 #-#-# translate crowdin panties_in_posession_82187471:
-msgid "[@danny_$_talk_frown_$_rise_one@] Come on Jazz, you don't actually have that opinion of yourself, right?"
-msgstr "[@danny_$_talk_frown_$_rise_one@] Come on Jazz, you don't actually have that opinion of yourself, right?"
+msgid "[_danny_s_talk_frown_s_rise_one_] Come on Jazz, you don't actually have that opinion of yourself, right?"
+msgstr "[_danny_s_talk_frown_s_rise_one_] Come on Jazz, you don't actually have that opinion of yourself, right?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:173 #-#-# translate crowdin panties_in_posession_82e939a3:
-msgid "[@jazz_$_down_$_talk_frown_$_sad@] What opinion? It's pretty much fact; nobody at Casper High has {u}ever{/u} asked me out. I must carry some sort of parasite or something. Being related to {i}this{/i} family, it's more than likely, too..."
-msgstr "[@jazz_$_down_$_talk_frown_$_sad@] What opinion? It's pretty much fact; nobody at Casper High has {u}ever{/u} asked me out. I must carry some sort of parasite or something. Being related to {i}this{/i} family, it's more than likely, too..."
+msgid "[_jazz_s_down_s_talk_frown_s_sad_] What opinion? It's pretty much fact; nobody at Casper High has {u}ever{/u} asked me out. I must carry some sort of parasite or something. Being related to {i}this{/i} family, it's more than likely, too..."
+msgstr "[_jazz_s_down_s_talk_frown_s_sad_] What opinion? It's pretty much fact; nobody at Casper High has {u}ever{/u} asked me out. I must carry some sort of parasite or something. Being related to {i}this{/i} family, it's more than likely, too..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:175 #-#-# translate crowdin panties_in_posession_45f7e13e:
-msgid "[@danny_$_talk_frown_2_$_wondering@] Jeez, is that true? Like, nobody's asked ever?"
-msgstr "[@danny_$_talk_frown_2_$_wondering@] Jeez, is that true? Like, nobody's asked ever?"
+msgid "[_danny_s_talk_frown_2_s_wondering_] Jeez, is that true? Like, nobody's asked ever?"
+msgstr "[_danny_s_talk_frown_2_s_wondering_] Jeez, is that true? Like, nobody's asked ever?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:177 #-#-# translate crowdin panties_in_posession_20db7189:
-msgid "[@jazz_$_closed_$_talk_frown_$_idle_2@] Yeup. I mean... sure people {i}like{/i} me, I guess, but... I don't think it has anything to with actually {i}liking{/i} me. People just don't see me like that I suppose."
-msgstr "[@jazz_$_closed_$_talk_frown_$_idle_2@] Yeup. I mean... sure people {i}like{/i} me, I guess, but... I don't think it has anything to with actually {i}liking{/i} me. People just don't see me like that I suppose."
+msgid "[_jazz_s_closed_s_talk_frown_s_idle_2_] Yeup. I mean... sure people {i}like{/i} me, I guess, but... I don't think it has anything to with actually {i}liking{/i} me. People just don't see me like that I suppose."
+msgstr "[_jazz_s_closed_s_talk_frown_s_idle_2_] Yeup. I mean... sure people {i}like{/i} me, I guess, but... I don't think it has anything to with actually {i}liking{/i} me. People just don't see me like that I suppose."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:179 #-#-# translate crowdin panties_in_posession_59ec62c9:
-msgid "[@danny_$_talk_happy_2@] Well, who knows, maybe they're just intimidated?"
-msgstr "[@danny_$_talk_happy_2@] Well, who knows, maybe they're just intimidated?"
+msgid "[_danny_s_talk_happy_2_] Well, who knows, maybe they're just intimidated?"
+msgstr "[_danny_s_talk_happy_2_] Well, who knows, maybe they're just intimidated?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:181 #-#-# translate crowdin panties_in_posession_c7e9cfa3:
-msgid "[@jazz_$_talk_frown_$_rise_one@] Why? Do I exude some sort of scary, psycho aura or something?"
-msgstr "[@jazz_$_talk_frown_$_rise_one@] Why? Do I exude some sort of scary, psycho aura or something?"
+msgid "[_jazz_s_talk_frown_s_rise_one_] Why? Do I exude some sort of scary, psycho aura or something?"
+msgstr "[_jazz_s_talk_frown_s_rise_one_] Why? Do I exude some sort of scary, psycho aura or something?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:183 #-#-# translate crowdin panties_in_posession_491beca2:
-msgid "[@danny_$_talk_frown_$_wondering@] I don't know... people just might be too nervous to ask you out is all."
-msgstr "[@danny_$_talk_frown_$_wondering@] I don't know... people just might be too nervous to ask you out is all."
+msgid "[_danny_s_talk_frown_s_wondering_] I don't know... people just might be too nervous to ask you out is all."
+msgstr "[_danny_s_talk_frown_s_wondering_] I don't know... people just might be too nervous to ask you out is all."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:184 #-#-# translate crowdin panties_in_posession_41d64eaa:
-msgid "[@danny_$_talk_happy_$_rise_one@] ...I mean, honestly, I consider you really pretty... I'd probably ask-"
-msgstr "[@danny_$_talk_happy_$_rise_one@] ...I mean, honestly, I consider you really pretty... I'd probably ask-"
+msgid "[_danny_s_talk_happy_s_rise_one_] ...I mean, honestly, I consider you really pretty... I'd probably ask-"
+msgstr "[_danny_s_talk_happy_s_rise_one_] ...I mean, honestly, I consider you really pretty... I'd probably ask-"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:186 #-#-# translate crowdin panties_in_posession_b0f01bae:
-msgid "[@jazz_$_closed_$_talk_happy_$_rise_one@] Bah hahah!! Oh sure, Danny, you must think I'm just {i}gorgeous{/i}! I appreciate the bone you're trying to throw me, little brother, but I know you're just trying to be nice."
-msgstr "[@jazz_$_closed_$_talk_happy_$_rise_one@] Bah hahah!! Oh sure, Danny, you must think I'm just {i}gorgeous{/i}! I appreciate the bone you're trying to throw me, little brother, but I know you're just trying to be nice."
+msgid "[_jazz_s_closed_s_talk_happy_s_rise_one_] Bah hahah!! Oh sure, Danny, you must think I'm just {i}gorgeous{/i}! I appreciate the bone you're trying to throw me, little brother, but I know you're just trying to be nice."
+msgstr "[_jazz_s_closed_s_talk_happy_s_rise_one_] Bah hahah!! Oh sure, Danny, you must think I'm just {i}gorgeous{/i}! I appreciate the bone you're trying to throw me, little brother, but I know you're just trying to be nice."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:187 #-#-# translate crowdin panties_in_posession_b1de7e27:
-msgid "[@jazz_$_at_laptop_$_talk_frown_$_idle_@] It doesn't matter, anyway, I've got other things to focus on other than boys."
-msgstr "[@jazz_$_at_laptop_$_talk_frown_$_idle_@] It doesn't matter, anyway, I've got other things to focus on other than boys."
+msgid "[_jazz_s_at_laptop_s_talk_frown_s_idle__] It doesn't matter, anyway, I've got other things to focus on other than boys."
+msgstr "[_jazz_s_at_laptop_s_talk_frown_s_idle__] It doesn't matter, anyway, I've got other things to focus on other than boys."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:189 #-#-# translate crowdin panties_in_posession_9d72282b:
-msgid "[@danny_$_wondering_$_talk_frown@] Like what?"
-msgstr "[@danny_$_wondering_$_talk_frown@] Like what?"
+msgid "[_danny_s_wondering_s_talk_frown_] Like what?"
+msgstr "[_danny_s_wondering_s_talk_frown_] Like what?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:191 #-#-# translate crowdin panties_in_posession_911c3301:
-msgid "[@jazz_$_towards_$_talk_frown@] Maintaining my track record as the best student in Casper High's history is a full time commitment, Danny!"
-msgstr "[@jazz_$_towards_$_talk_frown@] Maintaining my track record as the best student in Casper High's history is a full time commitment, Danny!"
+msgid "[_jazz_s_towards_s_talk_frown_] Maintaining my track record as the best student in Casper High's history is a full time commitment, Danny!"
+msgstr "[_jazz_s_towards_s_talk_frown_] Maintaining my track record as the best student in Casper High's history is a full time commitment, Danny!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:198 #-#-# translate crowdin panties_in_posession_b1ffd6c2:
-msgid "[@jazz_$_sit_3_$_idle_2_$_talk_frown_$_towards@] I've got to write my conclusion for Mr. Simmer's philosophy paper, I have to organize my group project's materials into a proper slideshow presentation with 3D graphics, {b}and{/b} I have Lancer having me tutor Dash in algebra now!"
-msgstr "[@jazz_$_sit_3_$_idle_2_$_talk_frown_$_towards@] I've got to write my conclusion for Mr. Simmer's philosophy paper, I have to organize my group project's materials into a proper slideshow presentation with 3D graphics, {b}and{/b} I have Lancer having me tutor Dash in algebra now!"
+msgid "[_jazz_s_sit_3_s_idle_2_s_talk_frown_s_towards_] I've got to write my conclusion for Mr. Simmer's philosophy paper, I have to organize my group project's materials into a proper slideshow presentation with 3D graphics, {b}and{/b} I have Lancer having me tutor Dash in algebra now!"
+msgstr "[_jazz_s_sit_3_s_idle_2_s_talk_frown_s_towards_] I've got to write my conclusion for Mr. Simmer's philosophy paper, I have to organize my group project's materials into a proper slideshow presentation with 3D graphics, {b}and{/b} I have Lancer having me tutor Dash in algebra now!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:201 #-#-# translate crowdin panties_in_posession_7723e43b:
-msgid "[@jazz_$_sit_2_$_angry_$_at_laptop@] There is just {b}so{/b} much that needs to be done and so little time to-"
-msgstr "[@jazz_$_sit_2_$_angry_$_at_laptop@] There is just {b}so{/b} much that needs to be done and so little time to-"
+msgid "[_jazz_s_sit_2_s_angry_s_at_laptop_] There is just {b}so{/b} much that needs to be done and so little time to-"
+msgstr "[_jazz_s_sit_2_s_angry_s_at_laptop_] There is just {b}so{/b} much that needs to be done and so little time to-"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:205 #-#-# translate crowdin panties_in_posession_19ec5c52:
-msgid "[@laptop@] {i}*HAHH*{/i} {i}*OHMGMM*{/i} {i}*FUUCK*{/i} {i}*GNNMFH*{/i} {i}*YEEAAHH*{/i} {i}*AAHNGM*{/i} {i}*GASP*{/i} {i}*FUUUGH*{/i}"
-msgstr "[@laptop@] {i}*HAHH*{/i} {i}*OHMGMM*{/i} {i}*FUUCK*{/i} {i}*GNNMFH*{/i} {i}*YEEAAHH*{/i} {i}*AAHNGM*{/i} {i}*GASP*{/i} {i}*FUUUGH*{/i}"
+msgid "[_laptop_] {i}*HAHH*{/i} {i}*OHMGMM*{/i} {i}*FUUCK*{/i} {i}*GNNMFH*{/i} {i}*YEEAAHH*{/i} {i}*AAHNGM*{/i} {i}*GASP*{/i} {i}*FUUUGH*{/i}"
+msgstr "[_laptop_] {i}*HAHH*{/i} {i}*OHMGMM*{/i} {i}*FUUCK*{/i} {i}*GNNMFH*{/i} {i}*YEEAAHH*{/i} {i}*AAHNGM*{/i} {i}*GASP*{/i} {i}*FUUUGH*{/i}"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:210 #-#-# translate crowdin panties_in_posession_4e18a672:
-msgid "[@laptop@] {i}*Slam*{/i}"
-msgstr "[@laptop@] {i}*Slam*{/i}"
+msgid "[_laptop_] {i}*Slam*{/i}"
+msgstr "[_laptop_] {i}*Slam*{/i}"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:211 #-#-# translate crowdin panties_in_posession_6e3f63b8:
-msgid "[@danny_$_frown_grin_2@] ..."
-msgstr "[@danny_$_frown_grin_2@] ..."
+msgid "[_danny_s_frown_grin_2_] ..."
+msgstr "[_danny_s_frown_grin_2_] ..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:213 #-#-# translate crowdin panties_in_posession_96a2e164:
-msgid "[@jazz_$_down@] ..."
-msgstr "[@jazz_$_down@] ..."
+msgid "[_jazz_s_down_] ..."
+msgstr "[_jazz_s_down_] ..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:214 #-#-# translate crowdin panties_in_posession_d1f231cf:
-msgid "[@danny_$_talk_frown@] ...was... was that-"
-msgstr "[@danny_$_talk_frown@] ...was... was that-"
+msgid "[_danny_s_talk_frown_] ...was... was that-"
+msgstr "[_danny_s_talk_frown_] ...was... was that-"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:216 #-#-# translate crowdin panties_in_posession_f7a45309:
-msgid "[@jazz_$_towards_$_talk_frown_$_angry@] NO, IT WASN'T!!"
-msgstr "[@jazz_$_towards_$_talk_frown_$_angry@] NO, IT WASN'T!!"
+msgid "[_jazz_s_towards_s_talk_frown_s_angry_] NO, IT WASN'T!!"
+msgstr "[_jazz_s_towards_s_talk_frown_s_angry_] NO, IT WASN'T!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:218 #-#-# translate crowdin panties_in_posession_7c5e5d5a:
-msgid "[@danny_$_talk_frown_$_rise_one@] Jeez, okay! It just... I was pretty sure it sounded like-"
-msgstr "[@danny_$_talk_frown_$_rise_one@] Jeez, okay! It just... I was pretty sure it sounded like-"
+msgid "[_danny_s_talk_frown_s_rise_one_] Jeez, okay! It just... I was pretty sure it sounded like-"
+msgstr "[_danny_s_talk_frown_s_rise_one_] Jeez, okay! It just... I was pretty sure it sounded like-"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:220 #-#-# translate crowdin panties_in_posession_23ae9aa7:
-msgid "[@jazz_$_talk_frown_$_angry@] I don't care what you {i}think{/i} it sounded like, Danny, it {b}wasn't{/b} that."
-msgstr "[@jazz_$_talk_frown_$_angry@] I don't care what you {i}think{/i} it sounded like, Danny, it {b}wasn't{/b} that."
+msgid "[_jazz_s_talk_frown_s_angry_] I don't care what you {i}think{/i} it sounded like, Danny, it {b}wasn't{/b} that."
+msgstr "[_jazz_s_talk_frown_s_angry_] I don't care what you {i}think{/i} it sounded like, Danny, it {b}wasn't{/b} that."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:222 #-#-# translate crowdin panties_in_posession_075ca098:
-msgid "[@danny_$_towards_$_talk_happy_$_wondering@] Jazz, it's fine, I don't care if you watch-"
-msgstr "[@danny_$_towards_$_talk_happy_$_wondering@] Jazz, it's fine, I don't care if you watch-"
+msgid "[_danny_s_towards_s_talk_happy_s_wondering_] Jazz, it's fine, I don't care if you watch-"
+msgstr "[_danny_s_towards_s_talk_happy_s_wondering_] Jazz, it's fine, I don't care if you watch-"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:224 #-#-# translate crowdin panties_in_posession_d2639afc:
-msgid "[@jazz_$_talk_frown_$_rise_one_$_towards@] {b}NATURE DOCUMENTARIES!!{/b}"
-msgstr "[@jazz_$_talk_frown_$_rise_one_$_towards@] {b}NATURE DOCUMENTARIES!!{/b}"
+msgid "[_jazz_s_talk_frown_s_rise_one_s_towards_] {b}NATURE DOCUMENTARIES!!{/b}"
+msgstr "[_jazz_s_talk_frown_s_rise_one_s_towards_] {b}NATURE DOCUMENTARIES!!{/b}"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:226 #-#-# translate crowdin panties_in_posession_f8ba7e6d:
-msgid "[@danny_$_talk_frown_2_$_rise_one_$_towards@] ...what?"
-msgstr "[@danny_$_talk_frown_2_$_rise_one_$_towards@] ...what?"
+msgid "[_danny_s_talk_frown_2_s_rise_one_s_towards_] ...what?"
+msgstr "[_danny_s_talk_frown_2_s_rise_one_s_towards_] ...what?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:228 #-#-# translate crowdin panties_in_posession_009f554c:
-msgid "[@jazz_$_talk_frown_$_idle_2@] It was just a nature documentary is all! A new Jungle Planet special on wailing coyotes... in Nebraska!"
-msgstr "[@jazz_$_talk_frown_$_idle_2@] It was just a nature documentary is all! A new Jungle Planet special on wailing coyotes... in Nebraska!"
+msgid "[_jazz_s_talk_frown_s_idle_2_] It was just a nature documentary is all! A new Jungle Planet special on wailing coyotes... in Nebraska!"
+msgstr "[_jazz_s_talk_frown_s_idle_2_] It was just a nature documentary is all! A new Jungle Planet special on wailing coyotes... in Nebraska!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:229 #-#-# translate crowdin panties_in_posession_bbd59d74:
-msgid "[@jazz_$_down_$_talk_happy_$_sad@] I was watching part of it last night, b-but I got tired half way through is all! I just slipped right to sleep!"
-msgstr "[@jazz_$_down_$_talk_happy_$_sad@] I was watching part of it last night, b-but I got tired half way through is all! I just slipped right to sleep!"
+msgid "[_jazz_s_down_s_talk_happy_s_sad_] I was watching part of it last night, b-but I got tired half way through is all! I just slipped right to sleep!"
+msgstr "[_jazz_s_down_s_talk_happy_s_sad_] I was watching part of it last night, b-but I got tired half way through is all! I just slipped right to sleep!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:231 #-#-# translate crowdin panties_in_posession_13f4bcb6:
-msgid "[@danny_$_talk_happy@] Seriously, Jazz, it's not that big a deal. Pretty much everyone looks at por-"
-msgstr "[@danny_$_talk_happy@] Seriously, Jazz, it's not that big a deal. Pretty much everyone looks at por-"
+msgid "[_danny_s_talk_happy_] Seriously, Jazz, it's not that big a deal. Pretty much everyone looks at por-"
+msgstr "[_danny_s_talk_happy_] Seriously, Jazz, it's not that big a deal. Pretty much everyone looks at por-"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:233 #-#-# translate crowdin panties_in_posession_883777f6:
-msgid "[@jazz_$_angry_$_talk_frown_$_towards@] I am {b}not{/b} having this conversation with you, Danny!!"
-msgstr "[@jazz_$_angry_$_talk_frown_$_towards@] I am {b}not{/b} having this conversation with you, Danny!!"
+msgid "[_jazz_s_angry_s_talk_frown_s_towards_] I am {b}not{/b} having this conversation with you, Danny!!"
+msgstr "[_jazz_s_angry_s_talk_frown_s_towards_] I am {b}not{/b} having this conversation with you, Danny!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:234 #-#-# translate crowdin panties_in_posession_3acf8a3f:
-msgid "[@jazz_$_angry_$_talk_frown_$_down@] Those were coyote wails from a nature documentary, which I found informative and captivating! Got it?!"
-msgstr "[@jazz_$_angry_$_talk_frown_$_down@] Those were coyote wails from a nature documentary, which I found informative and captivating! Got it?!"
+msgid "[_jazz_s_angry_s_talk_frown_s_down_] Those were coyote wails from a nature documentary, which I found informative and captivating! Got it?!"
+msgstr "[_jazz_s_angry_s_talk_frown_s_down_] Those were coyote wails from a nature documentary, which I found informative and captivating! Got it?!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:236 #-#-# translate crowdin panties_in_posession_7e5c3cb9:
-msgid "[@danny_$_talk_frown_2@] Uhm..."
-msgstr "[@danny_$_talk_frown_2@] Uhm..."
+msgid "[_danny_s_talk_frown_2_] Uhm..."
+msgstr "[_danny_s_talk_frown_2_] Uhm..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:238 #-#-# translate crowdin panties_in_posession_3deb6d52:
-msgid "[@jazz_$_angry_$_talk_frown_$_towards@] {b}GOT IT{/b}?!?"
-msgstr "[@jazz_$_angry_$_talk_frown_$_towards@] {b}GOT IT{/b}?!?"
+msgid "[_jazz_s_angry_s_talk_frown_s_towards_] {b}GOT IT{/b}?!?"
+msgstr "[_jazz_s_angry_s_talk_frown_s_towards_] {b}GOT IT{/b}?!?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:240 #-#-# translate crowdin panties_in_posession_502a444b:
-msgid "[@danny_$_talk_frown_$_towards_wide_$_neutral@] Okay, okay, I got it! Coyotes, understood! Just calm down, Jazz."
-msgstr "[@danny_$_talk_frown_$_towards_wide_$_neutral@] Okay, okay, I got it! Coyotes, understood! Just calm down, Jazz."
+msgid "[_danny_s_talk_frown_s_towards_wide_s_neutral_] Okay, okay, I got it! Coyotes, understood! Just calm down, Jazz."
+msgstr "[_danny_s_talk_frown_s_towards_wide_s_neutral_] Okay, okay, I got it! Coyotes, understood! Just calm down, Jazz."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:241 #-#-# translate crowdin panties_in_posession_d1d3ccfa:
-msgid "[@danny_$_talk_frown_2_$_towards_$_rise_one@] I'm sorry if nature programs are such a hot-button issue for you."
-msgstr "[@danny_$_talk_frown_2_$_towards_$_rise_one@] I'm sorry if nature programs are such a hot-button issue for you."
+msgid "[_danny_s_talk_frown_2_s_towards_s_rise_one_] I'm sorry if nature programs are such a hot-button issue for you."
+msgstr "[_danny_s_talk_frown_2_s_towards_s_rise_one_] I'm sorry if nature programs are such a hot-button issue for you."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:244 #-#-# translate crowdin panties_in_posession_75f5ebd4:
-msgid "[@jazz_$_talk_frown_$_closed_$_idle_@] Ugh! You're just an uninformed joker, and I'm done dealing with your nonsense for today. I'm heading to school early."
-msgstr "[@jazz_$_talk_frown_$_closed_$_idle_@] Ugh! You're just an uninformed joker, and I'm done dealing with your nonsense for today. I'm heading to school early."
+msgid "[_jazz_s_talk_frown_s_closed_s_idle__] Ugh! You're just an uninformed joker, and I'm done dealing with your nonsense for today. I'm heading to school early."
+msgstr "[_jazz_s_talk_frown_s_closed_s_idle__] Ugh! You're just an uninformed joker, and I'm done dealing with your nonsense for today. I'm heading to school early."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:246 #-#-# translate crowdin panties_in_posession_ce648d5f:
-msgid "[@danny_$_talk_frown@] Come on, Jazz, weren't you {i}just{/i} saying you don't see me enough?"
-msgstr "[@danny_$_talk_frown@] Come on, Jazz, weren't you {i}just{/i} saying you don't see me enough?"
+msgid "[_danny_s_talk_frown_] Come on, Jazz, weren't you {i}just{/i} saying you don't see me enough?"
+msgstr "[_danny_s_talk_frown_] Come on, Jazz, weren't you {i}just{/i} saying you don't see me enough?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:248 #-#-# translate crowdin panties_in_posession_29bb95b8:
-msgid "[@jazz_$_talk_frown_$_angry_$_towards@] Ugh, just... get bent, Danny!"
-msgstr "[@jazz_$_talk_frown_$_angry_$_towards@] Ugh, just... get bent, Danny!"
+msgid "[_jazz_s_talk_frown_s_angry_s_towards_] Ugh, just... get bent, Danny!"
+msgstr "[_jazz_s_talk_frown_s_angry_s_towards_] Ugh, just... get bent, Danny!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:256 #-#-# translate crowdin panties_in_posession_34d23423:
-msgid "[@danny_$_frown_2_$_wondering@] (\"Get bent?\")"
-msgstr "[@danny_$_frown_2_$_wondering@] (\"Get bent?\")"
+msgid "[_danny_s_frown_2_s_wondering_] (\"Get bent?\")"
+msgstr "[_danny_s_frown_2_s_wondering_] (\"Get bent?\")"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:257 #-#-# translate crowdin panties_in_posession_65218fe4:
-msgid "[@danny@] (Well then... {i}she{/i} certainly had her thumb stuck {u}well{/u} up her butt this morning...)"
-msgstr "[@danny@] (Well then... {i}she{/i} certainly had her thumb stuck {u}well{/u} up her butt this morning...)"
+msgid "[_danny_] (Well then... {i}she{/i} certainly had her thumb stuck {u}well{/u} up her butt this morning...)"
+msgstr "[_danny_] (Well then... {i}she{/i} certainly had her thumb stuck {u}well{/u} up her butt this morning...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:258 #-#-# translate crowdin panties_in_posession_114ba58d:
-msgid "[@danny@] (I don't even see what the big issue is! Watching porn is like, {i}beyond{/i} normal at our age.)"
-msgstr "[@danny@] (I don't even see what the big issue is! Watching porn is like, {i}beyond{/i} normal at our age.)"
+msgid "[_danny_] (I don't even see what the big issue is! Watching porn is like, {i}beyond{/i} normal at our age.)"
+msgstr "[_danny_] (I don't even see what the big issue is! Watching porn is like, {i}beyond{/i} normal at our age.)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:259 #-#-# translate crowdin panties_in_posession_37dcbf21:
-msgid "[@danny@] (Some people just never learn to get comfortable in their own skin, I guess.)"
-msgstr "[@danny@] (Some people just never learn to get comfortable in their own skin, I guess.)"
+msgid "[_danny_] (Some people just never learn to get comfortable in their own skin, I guess.)"
+msgstr "[_danny_] (Some people just never learn to get comfortable in their own skin, I guess.)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:260 #-#-# translate crowdin panties_in_posession_39587603:
-msgid "[@danny_$_smile_$_rise_one@] (Hah, she probably can't figure out how to touch herself properly... wouldn't know where to rub!)"
-msgstr "[@danny_$_smile_$_rise_one@] (Hah, she probably can't figure out how to touch herself properly... wouldn't know where to rub!)"
+msgid "[_danny_s_smile_s_rise_one_] (Hah, she probably can't figure out how to touch herself properly... wouldn't know where to rub!)"
+msgstr "[_danny_s_smile_s_rise_one_] (Hah, she probably can't figure out how to touch herself properly... wouldn't know where to rub!)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:261 #-#-# translate crowdin panties_in_posession_8c132542:
-msgid "[@danny_$_frown_grin@] (...not that I have much expertise in the area of touching naked women {i}either{/i}...)"
-msgstr "[@danny_$_frown_grin@] (...not that I have much expertise in the area of touching naked women {i}either{/i}...)"
+msgid "[_danny_s_frown_grin_] (...not that I have much expertise in the area of touching naked women {i}either{/i}...)"
+msgstr "[_danny_s_frown_grin_] (...not that I have much expertise in the area of touching naked women {i}either{/i}...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:262 #-#-# translate crowdin panties_in_posession_3940ccad:
-msgid "[@danny_$_frown_2@] (She must not be getting much satisfaction out of it if she's this high strung just talking about it...)"
-msgstr "[@danny_$_frown_2@] (She must not be getting much satisfaction out of it if she's this high strung just talking about it...)"
+msgid "[_danny_s_frown_2_] (She must not be getting much satisfaction out of it if she's this high strung just talking about it...)"
+msgstr "[_danny_s_frown_2_] (She must not be getting much satisfaction out of it if she's this high strung just talking about it...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:263 #-#-# translate crowdin panties_in_posession_c1f393aa:
-msgid "[@danny_$_at_player@] ..."
-msgstr "[@danny_$_at_player@] ..."
+msgid "[_danny_s_at_player_] ..."
+msgstr "[_danny_s_at_player_] ..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:264 #-#-# translate crowdin panties_in_posession_ac304507:
-msgid "[@danny@] (Maybe...)"
-msgstr "[@danny@] (Maybe...)"
+msgid "[_danny_] (Maybe...)"
+msgstr "[_danny_] (Maybe...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:266 #-#-# translate crowdin panties_in_posession_ccd05b83:
-msgid "[@danny_$_towards@] (...maybe I should try to use my powers to watch her sometime...?)"
-msgstr "[@danny_$_towards@] (...maybe I should try to use my powers to watch her sometime...?)"
+msgid "[_danny_s_towards_] (...maybe I should try to use my powers to watch her sometime...?)"
+msgstr "[_danny_s_towards_] (...maybe I should try to use my powers to watch her sometime...?)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:267 #-#-# translate crowdin panties_in_posession_94348679:
-msgid "[@danny_$_smile@] (It'd be wrong, and totally weird, but... kinda funny? Right?)"
-msgstr "[@danny_$_smile@] (It'd be wrong, and totally weird, but... kinda funny? Right?)"
+msgid "[_danny_s_smile_] (It'd be wrong, and totally weird, but... kinda funny? Right?)"
+msgstr "[_danny_s_smile_] (It'd be wrong, and totally weird, but... kinda funny? Right?)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:268 #-#-# translate crowdin panties_in_posession_23364865:
-msgid "[@danny_$_smile@] (Yeah... it'd just be a bit of teasing is all... just a hilarious joke between us...)"
-msgstr "[@danny_$_smile@] (Yeah... it'd just be a bit of teasing is all... just a hilarious joke between us...)"
+msgid "[_danny_s_smile_] (Yeah... it'd just be a bit of teasing is all... just a hilarious joke between us...)"
+msgstr "[_danny_s_smile_] (Yeah... it'd just be a bit of teasing is all... just a hilarious joke between us...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:271 #-#-# translate crowdin panties_in_posession_6c8e3b51:
-msgid "[@danny_$_grin_happy@] (That settles it! I'll just go and at least check out what {i}kind{/i} of porn she's watching at night. It'll be great to see her react when I bring it up...)"
-msgstr "[@danny_$_grin_happy@] (That settles it! I'll just go and at least check out what {i}kind{/i} of porn she's watching at night. It'll be great to see her react when I bring it up...)"
+msgid "[_danny_s_grin_happy_] (That settles it! I'll just go and at least check out what {i}kind{/i} of porn she's watching at night. It'll be great to see her react when I bring it up...)"
+msgstr "[_danny_s_grin_happy_] (That settles it! I'll just go and at least check out what {i}kind{/i} of porn she's watching at night. It'll be great to see her react when I bring it up...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:273 #-#-# translate crowdin panties_in_posession_41c5e733:
-msgid "[@danny_$_frown_$_at_player@] (Again... just to be funny...)"
-msgstr "[@danny_$_frown_$_at_player@] (Again... just to be funny...)"
+msgid "[_danny_s_frown_s_at_player_] (Again... just to be funny...)"
+msgstr "[_danny_s_frown_s_at_player_] (Again... just to be funny...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:297 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_f5146a0f:
-msgid "[@danny_$_sad_$_talk_frown_2@] Okay... so it's pretty late into the night already."
-msgstr "[@danny_$_sad_$_talk_frown_2@] Okay... so it's pretty late into the night already."
+msgid "[_danny_s_sad_s_talk_frown_2_] Okay... so it's pretty late into the night already."
+msgstr "[_danny_s_sad_s_talk_frown_2_] Okay... so it's pretty late into the night already."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:298 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_32ab9262:
-msgid "[@danny_$_at_player_$_sad_$_talk_happy@] Jazz has already gone and held herself up in her room... which tells me she's either studying in private... or she's having herself some {i}\"private time\"{/i}."
-msgstr "[@danny_$_at_player_$_sad_$_talk_happy@] Jazz has already gone and held herself up in her room... which tells me she's either studying in private... or she's having herself some {i}\"private time\"{/i}."
+msgid "[_danny_s_at_player_s_sad_s_talk_happy_] Jazz has already gone and held herself up in her room... which tells me she's either studying in private... or she's having herself some {i}\"private time\"{/i}."
+msgstr "[_danny_s_at_player_s_sad_s_talk_happy_] Jazz has already gone and held herself up in her room... which tells me she's either studying in private... or she's having herself some {i}\"private time\"{/i}."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:299 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_3cf00bc2:
-msgid "[@danny_$_talk_frown_$_wondering@] I really shouldn't be doing this but..."
-msgstr "[@danny_$_talk_frown_$_wondering@] I really shouldn't be doing this but..."
+msgid "[_danny_s_talk_frown_s_wondering_] I really shouldn't be doing this but..."
+msgstr "[_danny_s_talk_frown_s_wondering_] I really shouldn't be doing this but..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:300 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_4b36d271:
-msgid "[@danny_$_towards_$_neutral_$_frown@] ..."
-msgstr "[@danny_$_towards_$_neutral_$_frown@] ..."
+msgid "[_danny_s_towards_s_neutral_s_frown_] ..."
+msgstr "[_danny_s_towards_s_neutral_s_frown_] ..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:301 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_3527596a:
-msgid "[@danny_$_at_player_$_talk_happy_2_$_rise_one@] Awe, screw it. What's the worst that could happen?"
-msgstr "[@danny_$_at_player_$_talk_happy_2_$_rise_one@] Awe, screw it. What's the worst that could happen?"
+msgid "[_danny_s_at_player_s_talk_happy_2_s_rise_one_] Awe, screw it. What's the worst that could happen?"
+msgstr "[_danny_s_at_player_s_talk_happy_2_s_rise_one_] Awe, screw it. What's the worst that could happen?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:302 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_26edd8d8:
-msgid "[@danny_$_at_danny_$_talk_frown_$_wondering@] Okay so, I gotta figure that I'm {i}half{/i} ghost, right? So it would stand to reason that I don't even {i}need{/i} to \"go ghost\" to get this done..."
-msgstr "[@danny_$_at_danny_$_talk_frown_$_wondering@] Okay so, I gotta figure that I'm {i}half{/i} ghost, right? So it would stand to reason that I don't even {i}need{/i} to \"go ghost\" to get this done..."
+msgid "[_danny_s_at_danny_s_talk_frown_s_wondering_] Okay so, I gotta figure that I'm {i}half{/i} ghost, right? So it would stand to reason that I don't even {i}need{/i} to \"go ghost\" to get this done..."
+msgstr "[_danny_s_at_danny_s_talk_frown_s_wondering_] Okay so, I gotta figure that I'm {i}half{/i} ghost, right? So it would stand to reason that I don't even {i}need{/i} to \"go ghost\" to get this done..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:303 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_ca1a6c38:
-msgid "[@danny_$_sad_$_closed_$_talk_frown_2@] That if I can just... focus a little..."
-msgstr "[@danny_$_sad_$_closed_$_talk_frown_2@] That if I can just... focus a little..."
+msgid "[_danny_s_sad_s_closed_s_talk_frown_2_] That if I can just... focus a little..."
+msgstr "[_danny_s_sad_s_closed_s_talk_frown_2_] That if I can just... focus a little..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:304 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_0b93f2ec:
-msgid "[@danny_$_angry_$_talk_frown@] I can get my human body form to also..."
-msgstr "[@danny_$_angry_$_talk_frown@] I can get my human body form to also..."
+msgid "[_danny_s_angry_s_talk_frown_] I can get my human body form to also..."
+msgstr "[_danny_s_angry_s_talk_frown_] I can get my human body form to also..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:314 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_0f256927:
-msgid "[@danny_$_at_player_$_sad_2_$_talk_happy@] Alright! It worked! I actually went {b}intangible{/b}!"
-msgstr "[@danny_$_at_player_$_sad_2_$_talk_happy@] Alright! It worked! I actually went {b}intangible{/b}!"
+msgid "[_danny_s_at_player_s_sad_2_s_talk_happy_] Alright! It worked! I actually went {b}intangible{/b}!"
+msgstr "[_danny_s_at_player_s_sad_2_s_talk_happy_] Alright! It worked! I actually went {b}intangible{/b}!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:315 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_69e3345b:
-msgid "[@danny_$_at_danny_$_rise_one@] This feels different than just going invisible too!"
-msgstr "[@danny_$_at_danny_$_rise_one@] This feels different than just going invisible too!"
+msgid "[_danny_s_at_danny_s_rise_one_] This feels different than just going invisible too!"
+msgstr "[_danny_s_at_danny_s_rise_one_] This feels different than just going invisible too!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:316 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_5ee618ec:
-msgid "[@danny_$_talk_frown_$_neutral@] It feels... kinda weird actually."
-msgstr "[@danny_$_talk_frown_$_neutral@] It feels... kinda weird actually."
+msgid "[_danny_s_talk_frown_s_neutral_] It feels... kinda weird actually."
+msgstr "[_danny_s_talk_frown_s_neutral_] It feels... kinda weird actually."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:317 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_5886e27f:
-msgid "[@danny_$_towards_$_sad@] ...sorta like how Jell-O must feel when it jiggles around, oddly enough."
-msgstr "[@danny_$_towards_$_sad@] ...sorta like how Jell-O must feel when it jiggles around, oddly enough."
+msgid "[_danny_s_towards_s_sad_] ...sorta like how Jell-O must feel when it jiggles around, oddly enough."
+msgstr "[_danny_s_towards_s_sad_] ...sorta like how Jell-O must feel when it jiggles around, oddly enough."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:320 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_78669752:
-msgid "[@danny_$_talk_frown_$_sad_2@] Looks like it spread all over my regular clothes too... hope they don't slip off me when I go through the door... I'd hate to be caught peeping {b}and{/b} with no clothes. That'd look {i}real{/i} bad on my part."
-msgstr "[@danny_$_talk_frown_$_sad_2@] Looks like it spread all over my regular clothes too... hope they don't slip off me when I go through the door... I'd hate to be caught peeping {b}and{/b} with no clothes. That'd look {i}real{/i} bad on my part."
+msgid "[_danny_s_talk_frown_s_sad_2_] Looks like it spread all over my regular clothes too... hope they don't slip off me when I go through the door... I'd hate to be caught peeping {b}and{/b} with no clothes. That'd look {i}real{/i} bad on my part."
+msgstr "[_danny_s_talk_frown_s_sad_2_] Looks like it spread all over my regular clothes too... hope they don't slip off me when I go through the door... I'd hate to be caught peeping {b}and{/b} with no clothes. That'd look {i}real{/i} bad on my part."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:321 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_90ae036b:
-msgid "[@danny_$_talk_happy_$_towards_wide_$_rise_one@] Okay, so... if I've done this right, I {i}should{/i} be able to phase through solid objects like walls."
-msgstr "[@danny_$_talk_happy_$_towards_wide_$_rise_one@] Okay, so... if I've done this right, I {i}should{/i} be able to phase through solid objects like walls."
+msgid "[_danny_s_talk_happy_s_towards_wide_s_rise_one_] Okay, so... if I've done this right, I {i}should{/i} be able to phase through solid objects like walls."
+msgstr "[_danny_s_talk_happy_s_towards_wide_s_rise_one_] Okay, so... if I've done this right, I {i}should{/i} be able to phase through solid objects like walls."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:322 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_253017ad:
-msgid "[@danny_$_talk_frown_$_blank_stare_$_wondering@] Oh man, I {i}really{/i} hope I don't get stuck halfway through the door or something... that'd most definitely be painful."
-msgstr "[@danny_$_talk_frown_$_blank_stare_$_wondering@] Oh man, I {i}really{/i} hope I don't get stuck halfway through the door or something... that'd most definitely be painful."
+msgid "[_danny_s_talk_frown_s_blank_stare_s_wondering_] Oh man, I {i}really{/i} hope I don't get stuck halfway through the door or something... that'd most definitely be painful."
+msgstr "[_danny_s_talk_frown_s_blank_stare_s_wondering_] Oh man, I {i}really{/i} hope I don't get stuck halfway through the door or something... that'd most definitely be painful."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:323 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_26c56c73:
-msgid "[@danny_$_closed_$_sad@] Guess I'm just gonna have to trust that my powers will hold up!"
-msgstr "[@danny_$_closed_$_sad@] Guess I'm just gonna have to trust that my powers will hold up!"
+msgid "[_danny_s_closed_s_sad_] Guess I'm just gonna have to trust that my powers will hold up!"
+msgstr "[_danny_s_closed_s_sad_] Guess I'm just gonna have to trust that my powers will hold up!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:324 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_3f607dd7:
-msgid "[@danny_$_at_player_$_talk_happy_$_rise_one@] I'll be a totally ghostly ninja from this point forth! She won't even know I was there!"
-msgstr "[@danny_$_at_player_$_talk_happy_$_rise_one@] I'll be a totally ghostly ninja from this point forth! She won't even know I was there!"
+msgid "[_danny_s_at_player_s_talk_happy_s_rise_one_] I'll be a totally ghostly ninja from this point forth! She won't even know I was there!"
+msgstr "[_danny_s_at_player_s_talk_happy_s_rise_one_] I'll be a totally ghostly ninja from this point forth! She won't even know I was there!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:325 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_10ee0035:
-msgid "[@danny_$_towards_$_sad_$_frown_grin@] (I guess it'd help my stealth aspect if I stopped talking too.)"
-msgstr "[@danny_$_towards_$_sad_$_frown_grin@] (I guess it'd help my stealth aspect if I stopped talking too.)"
+msgid "[_danny_s_towards_s_sad_s_frown_grin_] (I guess it'd help my stealth aspect if I stopped talking too.)"
+msgstr "[_danny_s_towards_s_sad_s_frown_grin_] (I guess it'd help my stealth aspect if I stopped talking too.)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:330 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_95cd88b4:
-msgid "[@danny_$_at_player_$_smile@] (Again... just a quick peek, see what kind of freaky stuff she's into, then make fun of her later for it. Harmless fun!)"
-msgstr "[@danny_$_at_player_$_smile@] (Again... just a quick peek, see what kind of freaky stuff she's into, then make fun of her later for it. Harmless fun!)"
+msgid "[_danny_s_at_player_s_smile_] (Again... just a quick peek, see what kind of freaky stuff she's into, then make fun of her later for it. Harmless fun!)"
+msgstr "[_danny_s_at_player_s_smile_] (Again... just a quick peek, see what kind of freaky stuff she's into, then make fun of her later for it. Harmless fun!)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:331 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_e8e6340c:
-msgid "[@danny_$_sad_2_$_frown_grin_2@] (Right then... here goes nothing!)"
-msgstr "[@danny_$_sad_2_$_frown_grin_2@] (Right then... here goes nothing!)"
+msgid "[_danny_s_sad_2_s_frown_grin_2_] (Right then... here goes nothing!)"
+msgstr "[_danny_s_sad_2_s_frown_grin_2_] (Right then... here goes nothing!)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:340 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_370e3229:
-msgid "[@danny@] (Oh, there we go! I think I'm actually doing it!)"
-msgstr "[@danny@] (Oh, there we go! I think I'm actually doing it!)"
+msgid "[_danny_] (Oh, there we go! I think I'm actually doing it!)"
+msgstr "[_danny_] (Oh, there we go! I think I'm actually doing it!)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:343 #-#-# translate crowdin Peeping_Phan_Tom_scene_3_hallway_75c6d5fd:
-msgid "[@danny@] (Goodbye days of dealing with locked doors, and hello-)"
-msgstr "[@danny@] (Goodbye days of dealing with locked doors, and hello-)"
+msgid "[_danny_] (Goodbye days of dealing with locked doors, and hello-)"
+msgstr "[_danny_] (Goodbye days of dealing with locked doors, and hello-)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:367 #-#-# translate crowdin Peeping_Phan_Tom_after_peeping_event_036dfc11:
-msgid "[@danny_$_talk_frown@] Oh God... did I really just witness that? With my own eyes?"
-msgstr "[@danny_$_talk_frown@] Oh God... did I really just witness that? With my own eyes?"
+msgid "[_danny_s_talk_frown_] Oh God... did I really just witness that? With my own eyes?"
+msgstr "[_danny_s_talk_frown_] Oh God... did I really just witness that? With my own eyes?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:372 #-#-# translate crowdin Peeping_Phan_Tom_after_peeping_event_ba212bb9:
-msgid "[@danny_$_towards_wide_$_talk_frown_2_$_neutral@] That was just freaking nuts!"
-msgstr "[@danny_$_towards_wide_$_talk_frown_2_$_neutral@] That was just freaking nuts!"
+msgid "[_danny_s_towards_wide_s_talk_frown_2_s_neutral_] That was just freaking nuts!"
+msgstr "[_danny_s_towards_wide_s_talk_frown_2_s_neutral_] That was just freaking nuts!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:373 #-#-# translate crowdin Peeping_Phan_Tom_after_peeping_event_11e1b5c6:
-msgid "[@danny_$_at_danny_$_rise_one_$_blush_2_$_talk_frown_2@] I mean, I jerk off to porn {i}too{/i}, but... I don't get nearly as {b}involved{/b} as she does!"
-msgstr "[@danny_$_at_danny_$_rise_one_$_blush_2_$_talk_frown_2@] I mean, I jerk off to porn {i}too{/i}, but... I don't get nearly as {b}involved{/b} as she does!"
+msgid "[_danny_s_at_danny_s_rise_one_s_blush_2_s_talk_frown_2_] I mean, I jerk off to porn {i}too{/i}, but... I don't get nearly as {b}involved{/b} as she does!"
+msgstr "[_danny_s_at_danny_s_rise_one_s_blush_2_s_talk_frown_2_] I mean, I jerk off to porn {i}too{/i}, but... I don't get nearly as {b}involved{/b} as she does!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:374 #-#-# translate crowdin Peeping_Phan_Tom_after_peeping_event_b147beaf:
-msgid "[@danny_$_at_player_$_talk_frown_$_sad_$_-blush@] Are {b}all{/b} girls like that?"
-msgstr "[@danny_$_at_player_$_talk_frown_$_sad_$_-blush@] Are {b}all{/b} girls like that?"
+msgid "[_danny_s_at_player_s_talk_frown_s_sad_s_-blush_] Are {b}all{/b} girls like that?"
+msgstr "[_danny_s_at_player_s_talk_frown_s_sad_s_-blush_] Are {b}all{/b} girls like that?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:375 #-#-# translate crowdin Peeping_Phan_Tom_after_peeping_event_4492056e:
-msgid "[@danny_$_towards_wide_$_talk_frown_2_$_wondering@] Something just felt... really {i}raw{/i} about that."
-msgstr "[@danny_$_towards_wide_$_talk_frown_2_$_wondering@] Something just felt... really {i}raw{/i} about that."
+msgid "[_danny_s_towards_wide_s_talk_frown_2_s_wondering_] Something just felt... really {i}raw{/i} about that."
+msgstr "[_danny_s_towards_wide_s_talk_frown_2_s_wondering_] Something just felt... really {i}raw{/i} about that."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:376 #-#-# translate crowdin Peeping_Phan_Tom_after_peeping_event_a7e1ca98:
-msgid "[@danny_$_at_danny_$_sad_$_talk_frown@] Seriously, I don't even think I can even {b}joke{/b} about that in the morning with her. That's some deep level of perversion and pleasure I was {b}completely{/b} unaware of!"
-msgstr "[@danny_$_at_danny_$_sad_$_talk_frown@] Seriously, I don't even think I can even {b}joke{/b} about that in the morning with her. That's some deep level of perversion and pleasure I was {b}completely{/b} unaware of!"
+msgid "[_danny_s_at_danny_s_sad_s_talk_frown_] Seriously, I don't even think I can even {b}joke{/b} about that in the morning with her. That's some deep level of perversion and pleasure I was {b}completely{/b} unaware of!"
+msgstr "[_danny_s_at_danny_s_sad_s_talk_frown_] Seriously, I don't even think I can even {b}joke{/b} about that in the morning with her. That's some deep level of perversion and pleasure I was {b}completely{/b} unaware of!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:377 #-#-# translate crowdin Peeping_Phan_Tom_after_peeping_event_eb2493db:
-msgid "[@danny_$_at_player_$_rise_one_$_talk_frown_2@] Besides, how would I even go about mentioning it to her?"
-msgstr "[@danny_$_at_player_$_rise_one_$_talk_frown_2@] Besides, how would I even go about mentioning it to her?"
+msgid "[_danny_s_at_player_s_rise_one_s_talk_frown_2_] Besides, how would I even go about mentioning it to her?"
+msgstr "[_danny_s_at_player_s_rise_one_s_talk_frown_2_] Besides, how would I even go about mentioning it to her?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:378 #-#-# translate crowdin Peeping_Phan_Tom_after_peeping_event_4c218761:
-msgid "[@danny_$_towards_$_talk_frown_2_$_sad@] I couldn't have possibly known what she was looking up on her desktop without spying on her, obviously... she'd definitely call me out for trespassing again. {i}Ugh{/i}, this whole thing was stupid..."
-msgstr "[@danny_$_towards_$_talk_frown_2_$_sad@] I couldn't have possibly known what she was looking up on her desktop without spying on her, obviously... she'd definitely call me out for trespassing again. {i}Ugh{/i}, this whole thing was stupid..."
+msgid "[_danny_s_towards_s_talk_frown_2_s_sad_] I couldn't have possibly known what she was looking up on her desktop without spying on her, obviously... she'd definitely call me out for trespassing again. {i}Ugh{/i}, this whole thing was stupid..."
+msgstr "[_danny_s_towards_s_talk_frown_2_s_sad_] I couldn't have possibly known what she was looking up on her desktop without spying on her, obviously... she'd definitely call me out for trespassing again. {i}Ugh{/i}, this whole thing was stupid..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:380 #-#-# translate crowdin Peeping_Phan_Tom_after_peeping_event_e0563e49:
-msgid "[@danny_$_at_player_$_sad_2_$_talk_frown@] Yeah, for now, I think it'd be best if I just let this one slide. Bringing it up at the breakfast table might not be the smartest move I could make."
-msgstr "[@danny_$_at_player_$_sad_2_$_talk_frown@] Yeah, for now, I think it'd be best if I just let this one slide. Bringing it up at the breakfast table might not be the smartest move I could make."
+msgid "[_danny_s_at_player_s_sad_2_s_talk_frown_] Yeah, for now, I think it'd be best if I just let this one slide. Bringing it up at the breakfast table might not be the smartest move I could make."
+msgstr "[_danny_s_at_player_s_sad_2_s_talk_frown_] Yeah, for now, I think it'd be best if I just let this one slide. Bringing it up at the breakfast table might not be the smartest move I could make."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:382 #-#-# translate crowdin Peeping_Phan_Tom_after_peeping_event_43b1fee8:
-msgid "[@danny_$_towards_$_frown_grin_$_wondering@] (Man, why'd I have to go and start phasing my head through walls I shouldn't be phasing my head through?)"
-msgstr "[@danny_$_towards_$_frown_grin_$_wondering@] (Man, why'd I have to go and start phasing my head through walls I shouldn't be phasing my head through?)"
+msgid "[_danny_s_towards_s_frown_grin_s_wondering_] (Man, why'd I have to go and start phasing my head through walls I shouldn't be phasing my head through?)"
+msgstr "[_danny_s_towards_s_frown_grin_s_wondering_] (Man, why'd I have to go and start phasing my head through walls I shouldn't be phasing my head through?)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:410 #-#-# translate crowdin Home_Sisters_Room_Event01_40504c5c:
-msgid "[@danny@] (JAZZ!!)"
-msgstr "[@danny@] (JAZZ!!)"
+msgid "[_danny_] (JAZZ!!)"
+msgstr "[_danny_] (JAZZ!!)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:414 #-#-# translate crowdin Home_Sisters_Room_Event01_3e97729f:
-msgid "[@danny@] (Oh man, that is- sh-she's actually- I mean... this is {b}really{/b} happening in front of my own eyes right now!!)"
-msgstr "[@danny@] (Oh man, that is- sh-she's actually- I mean... this is {b}really{/b} happening in front of my own eyes right now!!)"
+msgid "[_danny_] (Oh man, that is- sh-she's actually- I mean... this is {b}really{/b} happening in front of my own eyes right now!!)"
+msgstr "[_danny_] (Oh man, that is- sh-she's actually- I mean... this is {b}really{/b} happening in front of my own eyes right now!!)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:416 #-#-# translate crowdin Home_Sisters_Room_Event01_ef349582:
-msgid "[@danny@] (Oh no, I think my heart's going to burst! It's beating {b}way{/b} too fast!!)"
-msgstr "[@danny@] (Oh no, I think my heart's going to burst! It's beating {b}way{/b} too fast!!)"
+msgid "[_danny_] (Oh no, I think my heart's going to burst! It's beating {b}way{/b} too fast!!)"
+msgstr "[_danny_] (Oh no, I think my heart's going to burst! It's beating {b}way{/b} too fast!!)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:418 #-#-# translate crowdin Home_Sisters_Room_Event01_fd32782c:
-msgid "[@danny@] (Nope, shouldn't have done this, I should {u}not{/u} have done this!!)"
-msgstr "[@danny@] (Nope, shouldn't have done this, I should {u}not{/u} have done this!!)"
+msgid "[_danny_] (Nope, shouldn't have done this, I should {u}not{/u} have done this!!)"
+msgstr "[_danny_] (Nope, shouldn't have done this, I should {u}not{/u} have done this!!)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:420 #-#-# translate crowdin Home_Sisters_Room_Event01_a5a994d3:
-msgid "[@danny@] (I mean, she's really just... sitting there... using a mini vibrator on herself...)"
-msgstr "[@danny@] (I mean, she's really just... sitting there... using a mini vibrator on herself...)"
+msgid "[_danny_] (I mean, she's really just... sitting there... using a mini vibrator on herself...)"
+msgstr "[_danny_] (I mean, she's really just... sitting there... using a mini vibrator on herself...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:422 #-#-# translate crowdin Home_Sisters_Room_Event01_c7089459:
-msgid "[@danny@] (This is just so...)"
-msgstr "[@danny@] (This is just so...)"
+msgid "[_danny_] (This is just so...)"
+msgstr "[_danny_] (This is just so...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:424 #-#-# translate crowdin Home_Sisters_Room_Event01_b2019071:
-msgid "[@danny@] (...)"
-msgstr "[@danny@] (...)"
+msgid "[_danny_] (...)"
+msgstr "[_danny_] (...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:426 #-#-# translate crowdin Home_Sisters_Room_Event01_e696a007:
-msgid "[@danny@] (I really don't know how I feel about this honestly... this was just supposed to be a funny prank...)"
-msgstr "[@danny@] (I really don't know how I feel about this honestly... this was just supposed to be a funny prank...)"
+msgid "[_danny_] (I really don't know how I feel about this honestly... this was just supposed to be a funny prank...)"
+msgstr "[_danny_] (I really don't know how I feel about this honestly... this was just supposed to be a funny prank...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:429 #-#-# translate crowdin Home_Sisters_Room_Event01_ae69ac77:
-msgid "[@jazz@] {i}Ahh… Ahhh{/i}… oh yes…."
-msgstr "[@jazz@] {i}Ahh… Ahhh{/i}… oh yes…."
+msgid "[_jazz_] {i}Ahh… Ahhh{/i}… oh yes…."
+msgstr "[_jazz_] {i}Ahh… Ahhh{/i}… oh yes…."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:432 #-#-# translate crowdin Home_Sisters_Room_Event01_01c04f64:
-msgid "[@jazz@] {i}Mmmmm{/i}... yeah..."
-msgstr "[@jazz@] {i}Mmmmm{/i}... yeah..."
+msgid "[_jazz_] {i}Mmmmm{/i}... yeah..."
+msgstr "[_jazz_] {i}Mmmmm{/i}... yeah..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:433 #-#-# translate crowdin Home_Sisters_Room_Event01_99e7b804:
-msgid "[@jazz@] {i}Uhmmff{/i}... (Just like that... stick it right in there...)"
-msgstr "[@jazz@] {i}Uhmmff{/i}... (Just like that... stick it right in there...)"
+msgid "[_jazz_] {i}Uhmmff{/i}... (Just like that... stick it right in there...)"
+msgstr "[_jazz_] {i}Uhmmff{/i}... (Just like that... stick it right in there...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:435 #-#-# translate crowdin Home_Sisters_Room_Event01_cbeb9a4b:
-msgid "[@jazz@] (Oooh, you're making my pussy nice and wet...) {i}Mmhffhh~{/i}..."
-msgstr "[@jazz@] (Oooh, you're making my pussy nice and wet...) {i}Mmhffhh~{/i}..."
+msgid "[_jazz_] (Oooh, you're making my pussy nice and wet...) {i}Mmhffhh~{/i}..."
+msgstr "[_jazz_] (Oooh, you're making my pussy nice and wet...) {i}Mmhffhh~{/i}..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:444 #-#-# translate crowdin Home_Sisters_Room_Event01_9f49cbd2:
-msgid "[@jazz@] {i}Uhhh{/i}... God, I need some cock inside me right {i}nooow{/i}~..."
-msgstr "[@jazz@] {i}Uhhh{/i}... God, I need some cock inside me right {i}nooow{/i}~..."
+msgid "[_jazz_] {i}Uhhh{/i}... God, I need some cock inside me right {i}nooow{/i}~..."
+msgstr "[_jazz_] {i}Uhhh{/i}... God, I need some cock inside me right {i}nooow{/i}~..."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:449 #-#-# translate crowdin Home_Sisters_Room_Event01_74479bcf:
-msgid "[@jazz@] (Rubbing my clit feels soo fucking nice… {i}Hahh{/i}…)"
-msgstr "[@jazz@] (Rubbing my clit feels soo fucking nice… {i}Hahh{/i}…)"
+msgid "[_jazz_] (Rubbing my clit feels soo fucking nice… {i}Hahh{/i}…)"
+msgstr "[_jazz_] (Rubbing my clit feels soo fucking nice… {i}Hahh{/i}…)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:454 #-#-# translate crowdin Home_Sisters_Room_Event01_386b4276:
-msgid "[@jazz@] {i}Ngghhh{/i}… oh God, my nipples are so hard…"
-msgstr "[@jazz@] {i}Ngghhh{/i}… oh God, my nipples are so hard…"
+msgid "[_jazz_] {i}Ngghhh{/i}… oh God, my nipples are so hard…"
+msgstr "[_jazz_] {i}Ngghhh{/i}… oh God, my nipples are so hard…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:456 #-#-# translate crowdin Home_Sisters_Room_Event01_cc3b7c05:
-msgid "[@jazz@] ({i}Uhhhnnn{/i}… it feels like little volts are surging through my pussy…)"
-msgstr "[@jazz@] ({i}Uhhhnnn{/i}… it feels like little volts are surging through my pussy…)"
+msgid "[_jazz_] ({i}Uhhhnnn{/i}… it feels like little volts are surging through my pussy…)"
+msgstr "[_jazz_] ({i}Uhhhnnn{/i}… it feels like little volts are surging through my pussy…)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:466 #-#-# translate crowdin Home_Sisters_Room_Event01_764cc794:
-msgid "[@jazz@] {i}Ahh… hahhh… hnnn…{/i}"
-msgstr "[@jazz@] {i}Ahh… hahhh… hnnn…{/i}"
+msgid "[_jazz_] {i}Ahh… hahhh… hnnn…{/i}"
+msgstr "[_jazz_] {i}Ahh… hahhh… hnnn…{/i}"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:471 #-#-# translate crowdin Home_Sisters_Room_Event01_c1a63067:
-msgid "[@jazz@] {i}Hnnnghhh{/i}… God, my tits feel so good to just {b}squeeze{/b}…"
-msgstr "[@jazz@] {i}Hnnnghhh{/i}… God, my tits feel so good to just {b}squeeze{/b}…"
+msgid "[_jazz_] {i}Hnnnghhh{/i}… God, my tits feel so good to just {b}squeeze{/b}…"
+msgstr "[_jazz_] {i}Hnnnghhh{/i}… God, my tits feel so good to just {b}squeeze{/b}…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:476 #-#-# translate crowdin Home_Sisters_Room_Event01_5f9b772e:
 msgid "...."
 msgstr "...."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:481 #-#-# translate crowdin Home_Sisters_Room_Event01_d7b4c1a9:
-msgid "[@jazz@] Oh yessss, I'm gonna... oh shit~...!!"
-msgstr "[@jazz@] Oh yessss, I'm gonna... oh shit~...!!"
+msgid "[_jazz_] Oh yessss, I'm gonna... oh shit~...!!"
+msgstr "[_jazz_] Oh yessss, I'm gonna... oh shit~...!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:482 #-#-# translate crowdin Home_Sisters_Room_Event01_4754b9fc:
-msgid "[@jazz@] I'm about to... {b}fucking Christ{/b}...~!!"
-msgstr "[@jazz@] I'm about to... {b}fucking Christ{/b}...~!!"
+msgid "[_jazz_] I'm about to... {b}fucking Christ{/b}...~!!"
+msgstr "[_jazz_] I'm about to... {b}fucking Christ{/b}...~!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:486 #-#-# translate crowdin Home_Sisters_Room_Event01_bed5c559:
-msgid "[@danny@] (Wait a second... is she about to...?)"
-msgstr "[@danny@] (Wait a second... is she about to...?)"
+msgid "[_danny_] (Wait a second... is she about to...?)"
+msgstr "[_danny_] (Wait a second... is she about to...?)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:495 #-#-# translate crowdin Home_Sisters_Room_Event01_1523da73:
-msgid "[@danny@] (I should leave. Like now!!)"
-msgstr "[@danny@] (I should leave. Like now!!)"
+msgid "[_danny_] (I should leave. Like now!!)"
+msgstr "[_danny_] (I should leave. Like now!!)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:516 #-#-# translate crowdin Home_Sisters_Room_Event01_b20bce32:
-msgid "[@jazz@] Your cock is so big… Haggghhhh…"
-msgstr "[@jazz@] Your cock is so big… Haggghhhh…"
+msgid "[_jazz_] Your cock is so big… Haggghhhh…"
+msgstr "[_jazz_] Your cock is so big… Haggghhhh…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:518 #-#-# translate crowdin Home_Sisters_Room_Event01_f54c7c05:
-msgid "[@jazz@] When did you grow so much?"
-msgstr "[@jazz@] When did you grow so much?"
+msgid "[_jazz_] When did you grow so much?"
+msgstr "[_jazz_] When did you grow so much?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:522 #-#-# translate crowdin Home_Sisters_Room_Event01_8940042d:
-msgid "[@jazz@] I-I can't take it..!! I- Khhhh! I need more!!"
-msgstr "[@jazz@] I-I can't take it..!! I- Khhhh! I need more!!"
+msgid "[_jazz_] I-I can't take it..!! I- Khhhh! I need more!!"
+msgstr "[_jazz_] I-I can't take it..!! I- Khhhh! I need more!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:523 #-#-# translate crowdin Home_Sisters_Room_Event01_c47c3e97:
-msgid "[@jazz@] Hahh…Danny!!"
-msgstr "[@jazz@] Hahh…Danny!!"
+msgid "[_jazz_] Hahh…Danny!!"
+msgstr "[_jazz_] Hahh…Danny!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:524 #-#-# translate crowdin Home_Sisters_Room_Event01_b9fe8c91:
-msgid "[@jazz@] I feel you cock sliding inside me…"
-msgstr "[@jazz@] I feel you cock sliding inside me…"
+msgid "[_jazz_] I feel you cock sliding inside me…"
+msgstr "[_jazz_] I feel you cock sliding inside me…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:525 #-#-# translate crowdin Home_Sisters_Room_Event01_80b87077:
-msgid "[@jazz@] It's rubbing all my key spots…Hnngghhh…"
-msgstr "[@jazz@] It's rubbing all my key spots…Hnngghhh…"
+msgid "[_jazz_] It's rubbing all my key spots…Hnngghhh…"
+msgstr "[_jazz_] It's rubbing all my key spots…Hnngghhh…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:527 #-#-# translate crowdin Home_Sisters_Room_Event01_df73d311:
-msgid "[@jazz@] You're such a beast…"
-msgstr "[@jazz@] You're such a beast…"
+msgid "[_jazz_] You're such a beast…"
+msgstr "[_jazz_] You're such a beast…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:529 #-#-# translate crowdin Home_Sisters_Room_Event01_d90fa469:
-msgid "[@jazz@] S-So rough…*pant* *pant*"
-msgstr "[@jazz@] S-So rough…*pant* *pant*"
+msgid "[_jazz_] S-So rough…*pant* *pant*"
+msgstr "[_jazz_] S-So rough…*pant* *pant*"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:531 #-#-# translate crowdin Home_Sisters_Room_Event01_5f1e31d3:
-msgid "[@jazz@] It's in soo deep…."
-msgstr "[@jazz@] It's in soo deep…."
+msgid "[_jazz_] It's in soo deep…."
+msgstr "[_jazz_] It's in soo deep…."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:532 #-#-# translate crowdin Home_Sisters_Room_Event01_26242d6e:
-msgid "[@jazz@] It feels like it's in my stomach…"
-msgstr "[@jazz@] It feels like it's in my stomach…"
+msgid "[_jazz_] It feels like it's in my stomach…"
+msgstr "[_jazz_] It feels like it's in my stomach…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:533 #-#-# translate crowdin Home_Sisters_Room_Event01_e1259cd0:
-msgid "[@jazz@] The way it twists and turns as it comes in is too much…"
-msgstr "[@jazz@] The way it twists and turns as it comes in is too much…"
+msgid "[_jazz_] The way it twists and turns as it comes in is too much…"
+msgstr "[_jazz_] The way it twists and turns as it comes in is too much…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:534 #-#-# translate crowdin Home_Sisters_Room_Event01_1a88e80b:
-msgid "[@jazz@] Oh Danny… you're gonna make me cum!!!"
-msgstr "[@jazz@] Oh Danny… you're gonna make me cum!!!"
+msgid "[_jazz_] Oh Danny… you're gonna make me cum!!!"
+msgstr "[_jazz_] Oh Danny… you're gonna make me cum!!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:536 #-#-# translate crowdin Home_Sisters_Room_Event01_9ab8db4a:
-msgid "[@danny@] Woah, Jazz is masturbating … and she's kinda hot while doing it."
-msgstr "[@danny@] Woah, Jazz is masturbating … and she's kinda hot while doing it."
+msgid "[_danny_] Woah, Jazz is masturbating … and she's kinda hot while doing it."
+msgstr "[_danny_] Woah, Jazz is masturbating … and she's kinda hot while doing it."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:540 #-#-# translate crowdin Home_Sisters_Room_Event01_1fcdf067:
-msgid "[@jazz@] Yeah, Danny, lick my clit…Haaaahhh…"
-msgstr "[@jazz@] Yeah, Danny, lick my clit…Haaaahhh…"
+msgid "[_jazz_] Yeah, Danny, lick my clit…Haaaahhh…"
+msgstr "[_jazz_] Yeah, Danny, lick my clit…Haaaahhh…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:541 #-#-# translate crowdin Home_Sisters_Room_Event01_65146011:
-msgid "[@jazz@] Your tongue feels so good there…"
-msgstr "[@jazz@] Your tongue feels so good there…"
+msgid "[_jazz_] Your tongue feels so good there…"
+msgstr "[_jazz_] Your tongue feels so good there…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:542 #-#-# translate crowdin Home_Sisters_Room_Event01_c6ea44e5:
-msgid "[@jazz@] See how hard it is? Nnngaahhh!! L-Lick it more…"
-msgstr "[@jazz@] See how hard it is? Nnngaahhh!! L-Lick it more…"
+msgid "[_jazz_] See how hard it is? Nnngaahhh!! L-Lick it more…"
+msgstr "[_jazz_] See how hard it is? Nnngaahhh!! L-Lick it more…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:546 #-#-# translate crowdin Home_Sisters_Room_Event01_69277439:
-msgid "[@jazz@] I-It's too good… my mind is going blank…"
-msgstr "[@jazz@] I-It's too good… my mind is going blank…"
+msgid "[_jazz_] I-It's too good… my mind is going blank…"
+msgstr "[_jazz_] I-It's too good… my mind is going blank…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:548 #-#-# translate crowdin Home_Sisters_Room_Event01_c8858a0b:
-msgid "[@jazz@] I love it… The feel of your cock in me…"
-msgstr "[@jazz@] I love it… The feel of your cock in me…"
+msgid "[_jazz_] I love it… The feel of your cock in me…"
+msgstr "[_jazz_] I love it… The feel of your cock in me…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:550 #-#-# translate crowdin Home_Sisters_Room_Event01_2307488e:
-msgid "[@jazz@] Mnnnn… you're sucking my tits…"
-msgstr "[@jazz@] Mnnnn… you're sucking my tits…"
+msgid "[_jazz_] Mnnnn… you're sucking my tits…"
+msgstr "[_jazz_] Mnnnn… you're sucking my tits…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:552 #-#-# translate crowdin Home_Sisters_Room_Event01_00d92333:
-msgid "[@jazz@] You naughty boy… suck on it more…"
-msgstr "[@jazz@] You naughty boy… suck on it more…"
+msgid "[_jazz_] You naughty boy… suck on it more…"
+msgstr "[_jazz_] You naughty boy… suck on it more…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:554 #-#-# translate crowdin Home_Sisters_Room_Event01_f931d9e4:
-msgid "[@danny@] I think I'm getting really horny from watching Jazz masturbate."
-msgstr "[@danny@] I think I'm getting really horny from watching Jazz masturbate."
+msgid "[_danny_] I think I'm getting really horny from watching Jazz masturbate."
+msgstr "[_danny_] I think I'm getting really horny from watching Jazz masturbate."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:555 #-#-# translate crowdin Home_Sisters_Room_Event01_58e1bc21:
-msgid "[@danny@] Her pussy is so sexy and inviting…"
-msgstr "[@danny@] Her pussy is so sexy and inviting…"
+msgid "[_danny_] Her pussy is so sexy and inviting…"
+msgstr "[_danny_] Her pussy is so sexy and inviting…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:556 #-#-# translate crowdin Home_Sisters_Room_Event01_ed6234b9:
-msgid "[@danny@] Maybe I could bang her as a ghost?"
-msgstr "[@danny@] Maybe I could bang her as a ghost?"
+msgid "[_danny_] Maybe I could bang her as a ghost?"
+msgstr "[_danny_] Maybe I could bang her as a ghost?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:557 #-#-# translate crowdin Home_Sisters_Room_Event01_d54b2534:
-msgid "[@danny@] …"
-msgstr "[@danny@] …"
+msgid "[_danny_] …"
+msgstr "[_danny_] …"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:558 #-#-# translate crowdin Home_Sisters_Room_Event01_7620cd57:
-msgid "[@danny@] Nah, I don't have enough control for that yet."
-msgstr "[@danny@] Nah, I don't have enough control for that yet."
+msgid "[_danny_] Nah, I don't have enough control for that yet."
+msgstr "[_danny_] Nah, I don't have enough control for that yet."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:559 #-#-# translate crowdin Home_Sisters_Room_Event01_b7f094ec:
-msgid "[@danny@] I guess I'll keep watching for now… I want to see her cum."
-msgstr "[@danny@] I guess I'll keep watching for now… I want to see her cum."
+msgid "[_danny_] I guess I'll keep watching for now… I want to see her cum."
+msgstr "[_danny_] I guess I'll keep watching for now… I want to see her cum."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:562 #-#-# translate crowdin Home_Sisters_Room_Event01_2c0cd6bb:
-msgid "[@jazz@] Nghh… it's coming…it's comingggg…"
-msgstr "[@jazz@] Nghh… it's coming…it's comingggg…"
+msgid "[_jazz_] Nghh… it's coming…it's comingggg…"
+msgstr "[_jazz_] Nghh… it's coming…it's comingggg…"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:564 #-#-# translate crowdin Home_Sisters_Room_Event01_167f536f:
-msgid "[@jazz@] Nnnn!! You're cumming too, Danny?"
-msgstr "[@jazz@] Nnnn!! You're cumming too, Danny?"
+msgid "[_jazz_] Nnnn!! You're cumming too, Danny?"
+msgstr "[_jazz_] Nnnn!! You're cumming too, Danny?"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:565 #-#-# translate crowdin Home_Sisters_Room_Event01_be9c7485:
-msgid "[@jazz@] Then cum with me… together!!"
-msgstr "[@jazz@] Then cum with me… together!!"
+msgid "[_jazz_] Then cum with me… together!!"
+msgstr "[_jazz_] Then cum with me… together!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:573 #-#-# translate crowdin Home_Sisters_Room_Event01_31644116:
-msgid "[@jazz@] Hn..hnnn..Hn…C-Cumming!!"
-msgstr "[@jazz@] Hn..hnnn..Hn…C-Cumming!!"
+msgid "[_jazz_] Hn..hnnn..Hn…C-Cumming!!"
+msgstr "[_jazz_] Hn..hnnn..Hn…C-Cumming!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:575 #-#-# translate crowdin Home_Sisters_Room_Event01_1a61517a:
-msgid "[@jazz@] Hnnnn!!!!!!!!"
-msgstr "[@jazz@] Hnnnn!!!!!!!!"
+msgid "[_jazz_] Hnnnn!!!!!!!!"
+msgstr "[_jazz_] Hnnnn!!!!!!!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:582 #-#-# translate crowdin Home_Sisters_Room_Event01_ea0c87bf:
-msgid "[@danny@] Whoa she squirted all over her chair… that was so hot."
-msgstr "[@danny@] Whoa she squirted all over her chair… that was so hot."
+msgid "[_danny_] Whoa she squirted all over her chair… that was so hot."
+msgstr "[_danny_] Whoa she squirted all over her chair… that was so hot."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:585 #-#-# translate crowdin Home_Sisters_Room_Event01_fa055f5b:
-msgid "[@jazz@] *pant*… *pant*… That was soo good…."
-msgstr "[@jazz@] *pant*… *pant*… That was soo good…."
+msgid "[_jazz_] *pant*… *pant*… That was soo good…."
+msgstr "[_jazz_] *pant*… *pant*… That was soo good…."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:591 #-#-# translate crowdin Home_Sisters_Room_Event01_f3164e23:
-msgid "[@jazz@] I'd better clean up though."
-msgstr "[@jazz@] I'd better clean up though."
+msgid "[_jazz_] I'd better clean up though."
+msgstr "[_jazz_] I'd better clean up though."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:600 #-#-# translate crowdin Home_Sisters_Room_Event01_7e3c97ab:
-msgid "[@danny@] Oops, I think it's high time for me to leave."
-msgstr "[@danny@] Oops, I think it's high time for me to leave."
+msgid "[_danny_] Oops, I think it's high time for me to leave."
+msgstr "[_danny_] Oops, I think it's high time for me to leave."
 
 #§translate crowdin strings: #|#|# # game/code/episodes/episode_4/episode_4_p_phantom.rpy:122
 msgid "Did you give Dash Jazz's panties?"

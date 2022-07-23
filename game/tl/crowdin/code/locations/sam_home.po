@@ -1,44 +1,44 @@
 ﻿# TODO: Translation updated at 2022-07-19 21:03
 
 # game/code/locations/sam_home.rpy:12 #-#-# translate crowdin sam_conversation_d0e5db44:
-msgid "[@danny_$_talk_happy_$_rise_one@] Hey Sam! How's it hanging?"
-msgstr "[@danny_$_talk_happy_$_rise_one@] Hey Sam! How's it hanging?"
+msgid "[_danny_s_talk_happy_s_rise_one_] Hey Sam! How's it hanging?"
+msgstr "[_danny_s_talk_happy_s_rise_one_] Hey Sam! How's it hanging?"
 
 # game/code/locations/sam_home.rpy:14 #-#-# translate crowdin sam_conversation_40ca4e45:
-msgid "[@sam_$_talk_happy_$_sad@] Oh, ya know, the usual gloom and doom. What's up?"
-msgstr "[@sam_$_talk_happy_$_sad@] Oh, ya know, the usual gloom and doom. What's up?"
+msgid "[_sam_s_talk_happy_s_sad_] Oh, ya know, the usual gloom and doom. What's up?"
+msgstr "[_sam_s_talk_happy_s_sad_] Oh, ya know, the usual gloom and doom. What's up?"
 
 # game/code/locations/sam_home.rpy:28 #-#-# translate crowdin talk_to_Sam_about_aa089d4a:
-msgid "[@danny_$_talk_happy_2_$_sad_2@] Hey, Sam, Tucker got me this new PDA and I'm getting people's contacts again to put in it."
-msgstr "[@danny_$_talk_happy_2_$_sad_2@] Hey, Sam, Tucker got me this new PDA and I'm getting people's contacts again to put in it."
+msgid "[_danny_s_talk_happy_2_s_sad_2_] Hey, Sam, Tucker got me this new PDA and I'm getting people's contacts again to put in it."
+msgstr "[_danny_s_talk_happy_2_s_sad_2_] Hey, Sam, Tucker got me this new PDA and I'm getting people's contacts again to put in it."
 
 # game/code/locations/sam_home.rpy:29 #-#-# translate crowdin talk_to_Sam_about_2d92ae1d:
-msgid "[@danny_$_neutral_$_talk_happy@] Do you mind if I get yours again?"
-msgstr "[@danny_$_neutral_$_talk_happy@] Do you mind if I get yours again?"
+msgid "[_danny_s_neutral_s_talk_happy_] Do you mind if I get yours again?"
+msgstr "[_danny_s_neutral_s_talk_happy_] Do you mind if I get yours again?"
 
 # game/code/locations/sam_home.rpy:31 #-#-# translate crowdin talk_to_Sam_about_b2f9b57f:
-msgid "[@sam_$_talk_happy@] Oh sure, it's no trouble. Here, I'll write it in on this slip of paper for you."
-msgstr "[@sam_$_talk_happy@] Oh sure, it's no trouble. Here, I'll write it in on this slip of paper for you."
+msgid "[_sam_s_talk_happy_] Oh sure, it's no trouble. Here, I'll write it in on this slip of paper for you."
+msgstr "[_sam_s_talk_happy_] Oh sure, it's no trouble. Here, I'll write it in on this slip of paper for you."
 
 # game/code/locations/sam_home.rpy:38 #-#-# translate crowdin talk_to_Sam_about_07d332cc:
-msgid "[@sam_$_closed_$_talk_happy_$_confused@] There you go."
-msgstr "[@sam_$_closed_$_talk_happy_$_confused@] There you go."
+msgid "[_sam_s_closed_s_talk_happy_s_confused_] There you go."
+msgstr "[_sam_s_closed_s_talk_happy_s_confused_] There you go."
 
 # game/code/locations/sam_home.rpy:41 #-#-# translate crowdin talk_to_Sam_about_43b61fb0:
-msgid "[@danny_$_talk_happy_$_neutral@] Cool, thanks!"
-msgstr "[@danny_$_talk_happy_$_neutral@] Cool, thanks!"
+msgid "[_danny_s_talk_happy_s_neutral_] Cool, thanks!"
+msgstr "[_danny_s_talk_happy_s_neutral_] Cool, thanks!"
 
 # game/code/locations/sam_home.rpy:45 #-#-# translate crowdin talk_to_Sam_about_71591366:
-msgid "[@sam_$_talk_happy@] Anything else you wanted to ask or talk about?"
-msgstr "[@sam_$_talk_happy@] Anything else you wanted to ask or talk about?"
+msgid "[_sam_s_talk_happy_] Anything else you wanted to ask or talk about?"
+msgstr "[_sam_s_talk_happy_] Anything else you wanted to ask or talk about?"
 
 # game/code/locations/sam_home.rpy:53 #-#-# translate crowdin talk_to_Sam_about_c2134bb5:
-msgid "[@danny_$_talk_happy_$_rise_one@] I probably should get going! Catch you later?"
-msgstr "[@danny_$_talk_happy_$_rise_one@] I probably should get going! Catch you later?"
+msgid "[_danny_s_talk_happy_s_rise_one_] I probably should get going! Catch you later?"
+msgstr "[_danny_s_talk_happy_s_rise_one_] I probably should get going! Catch you later?"
 
 # game/code/locations/sam_home.rpy:55 #-#-# translate crowdin talk_to_Sam_about_169ff22c:
-msgid "[@sam_$_talk_happy_$_sad@] Yeah, sure, pop by anytime! Thanks for stopping in."
-msgstr "[@sam_$_talk_happy_$_sad@] Yeah, sure, pop by anytime! Thanks for stopping in."
+msgid "[_sam_s_talk_happy_s_sad_] Yeah, sure, pop by anytime! Thanks for stopping in."
+msgstr "[_sam_s_talk_happy_s_sad_] Yeah, sure, pop by anytime! Thanks for stopping in."
 
 #§translate crowdin strings: #|#|# # game/code/locations/sam_home.rpy:21
 msgid "Hmm... what should I talk about with Sam?"

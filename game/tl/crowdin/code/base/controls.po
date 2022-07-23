@@ -5,16 +5,16 @@ msgid "So be it. There's no turning back now."
 msgstr "So be it. There's no turning back now."
 
 # game/code/base/controls.rpy:191 #-#-# translate crowdin menu_Ghost_Choice_fceed870:
-msgid "[@danny_$_f_$_offscreen_$_at_player_$_wondering_$_smile@] I should give the guitar to Ember in the morning."
-msgstr "[@danny_$_f_$_offscreen_$_at_player_$_wondering_$_smile@] I should give the guitar to Ember in the morning."
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_smile_] I should give the guitar to Ember in the morning."
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_smile_] I should give the guitar to Ember in the morning."
 
 # game/code/base/controls.rpy:194 #-#-# translate crowdin menu_Ghost_Choice_e132bb66:
-msgid "[@danny_$_f_$_offscreen_$_at_player_$_wondering_$_distraught@] I should get the guitar before I talk to Ember again."
-msgstr "[@danny_$_f_$_offscreen_$_at_player_$_wondering_$_distraught@] I should get the guitar before I talk to Ember again."
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] I should get the guitar before I talk to Ember again."
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] I should get the guitar before I talk to Ember again."
 
 # game/code/base/controls.rpy:199 #-#-# translate crowdin menu_Ghost_Choice_c9cefaf3:
-msgid "[@danny_$_f_$_offscreen_$_at_player_$_wondering_$_distraught@] I better leave Ember alone for now."
-msgstr "[@danny_$_f_$_offscreen_$_at_player_$_wondering_$_distraught@] I better leave Ember alone for now."
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] I better leave Ember alone for now."
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] I better leave Ember alone for now."
 
 #§translate crowdin strings: #|#|# # game/code/base/controls.rpy:182
 msgid "Desiree"
