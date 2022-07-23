@@ -1,404 +1,406 @@
-﻿# TODO: Translation updated at 2022-07-19 HH:HH# game/code/base/screens.rpy:461 ## translate crowdin 16d9a82f:
-msgid@] frame: vbox: xpos 0"
-msgstr@] frame: vbox: xpos 0"
-
-# game/code/base/screens.rpy:461 ## translate crowdin a830a7ee:
-msgid@] ypos 25"
-msgstr@] ypos 25"
-
-# game/code/base/screens.rpy:461 ## translate crowdin 025b4ae1:
-msgid@] spacing 0"
-msgstr@] spacing 0"
-
-# game/code/base/screens.rpy:461 ## translate crowdin 727f6ef2:
-msgid@] add \"gui/game_title.png\""
-msgstr@] add \"gui/game_title.png\""
-
-# game/code/base/screens.rpy:461 ## translate crowdin b58bcc89:
-msgid@] null height 25"
-msgstr@] null height 25"
-
-# game/code/base/screens.rpy:461 ## translate crowdin ee65f368:
-msgid@] imagebutton: idle \"gui/buttons/start_button idle.png\" hover \"gui/buttons/start_button hover.png\" focus_mask True xalign 0.5 yalign 0.5 action Start()"
-msgstr@] imagebutton: idle \"gui/buttons/start_button idle.png\" hover \"gui/buttons/start_button hover.png\" focus_mask True xalign 0.5 yalign 0.5 action Start()"
-
-# game/code/base/screens.rpy:461 ## translate crowdin 0b71498f:
-msgid@] imagebutton: idle \"gui/buttons/load_button idle.png\" hover \"gui/buttons/load_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"load\")"
-msgstr@] imagebutton: idle \"gui/buttons/load_button idle.png\" hover \"gui/buttons/load_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"load\")"
-
-# game/code/base/screens.rpy:461 ## translate crowdin d287a808:
-msgid@] imagebutton: idle \"gui/buttons/options_button idle.png\" hover \"gui/buttons/options_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"preferences\")"
-msgstr@] imagebutton: idle \"gui/buttons/options_button idle.png\" hover \"gui/buttons/options_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"preferences\")"
-
-# game/code/base/screens.rpy:461 ## translate crowdin 303f1a39:
-msgid@] imagebutton: idle \"gui/buttons/about_button idle.png\" hover \"gui/buttons/about_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"about\")"
-msgstr@] imagebutton: idle \"gui/buttons/about_button idle.png\" hover \"gui/buttons/about_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"about\")"
-
-# game/code/base/screens.rpy:461 ## translate crowdin 8327e5bc:
-msgid@] if renpy.variant(\"pc\"):"
-msgstr@] if renpy.variant(\"pc\"):"
-
-# game/code/base/screens.rpy:461 ## translate crowdin 3904d94b:
-msgid@] imagebutton: idle \"gui/buttons/exit_button idle.png\" hover \"gui/buttons/exit_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action Quit(confirm=not main_menu)"
-msgstr@] imagebutton: idle \"gui/buttons/exit_button idle.png\" hover \"gui/buttons/exit_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action Quit(confirm=not main_menu)"
-
-# XXtranslate crowdin strings:XX# XX## game/code/base/screens.rpy:298
-msgid "[mschoice] Back"
-msgstr "[mschoice] Back"
-
-# XX## game/code/base/screens.rpy:299
-msgid "[mschoice] History"
-msgstr "[mschoice] History"
-
-# XX## game/code/base/screens.rpy:300
-msgid "[mschoice] Skip"
-msgstr "[mschoice] Skip"
-
-# XX## game/code/base/screens.rpy:301
-msgid "[mschoice] Auto"
-msgstr "[mschoice] Auto"
-
-# XX## game/code/base/screens.rpy:302
-msgid "[mschoice] Save"
-msgstr "[mschoice] Save"
-
-# XX## game/code/base/screens.rpy:303
-msgid "[mschoice] Q.Save"
-msgstr "[mschoice] Q.Save"
-
-# XX## game/code/base/screens.rpy:304
-msgid "[mschoice] Q.Load"
-msgstr "[mschoice] Q.Load"
-
-# XX## game/code/base/screens.rpy:305
-msgid "[mschoice] Prefs"
-msgstr "[mschoice] Prefs"
-
-# XX## game/code/base/screens.rpy:306
-msgid "[mschoice] Hide D."
-msgstr "[mschoice] Hide D."
-
-# XX## game/code/base/screens.rpy:347
-msgid "[mschoice] Start"
-msgstr "[mschoice] Start"
-
-# XX## game/code/base/screens.rpy:355
-msgid "[mschoice] Load"
-msgstr "[mschoice] Load"
-
-# XX## game/code/base/screens.rpy:357
-msgid "[mschoice] Options"
-msgstr "[mschoice] Options"
-
-# XX## game/code/base/screens.rpy:365
-msgid "[mschoice] End Replay"
-msgstr "[mschoice] End Replay"
-
-# XX## game/code/base/screens.rpy:369
-msgid "[mschoice] Main Menu"
-msgstr "[mschoice] Main Menu"
-
-# XX## game/code/base/screens.rpy:371
-msgid "[mschoice] Credits"
-msgstr "[mschoice] Credits"
-
-# XX## game/code/base/screens.rpy:373
-msgid "[mschoice] About"
-msgstr "[mschoice] About"
-
-# XX## game/code/base/screens.rpy:378
-msgid "[mschoice] Help"
-msgstr "[mschoice] Help"
-
-# XX## game/code/base/screens.rpy:381
-msgid "[mschoice] Quit"
-msgstr "[mschoice] Quit"
-
-# XX## game/code/base/screens.rpy:690
-msgid "[mschoice] Version [config.version!t]\n"
-msgstr "[mschoice] Version [config.version!t]\n"
-
-# XX## game/code/base/screens.rpy:696
-msgid "[mschoice] Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-msgstr "[mschoice] Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-
-# XX## game/code/base/screens.rpy:733
-msgid "[mschoice] {b}Credits{/b}"
-msgstr "[mschoice] {b}Credits{/b}"
-
-# XX## game/code/base/screens.rpy:734
-msgid "[mschoice] Created by:  {b}{a=https://www.patreon.com/GZone_Art}GZone{/a}{/b}, Project Manager\n"
-msgstr "[mschoice] Created by:  {b}{a=https://www.patreon.com/GZone_Art}GZone{/a}{/b}, Project Manager\n"
-
-# XX## game/code/base/screens.rpy:735
-msgid "[mschoice]                      {b}{a=https://twitter.com/MorahZamora}MorahZamora{/a}{/b}, Background Artist, Script Reviser\n"
-msgstr "[mschoice]                      {b}{a=https://twitter.com/MorahZamora}MorahZamora{/a}{/b}, Background Artist, Script Reviser\n"
-
-# XX## game/code/base/screens.rpy:736
-msgid "[mschoice]                      {b}FraMe{/b}, Animator\n"
-msgstr "[mschoice]                      {b}FraMe{/b}, Animator\n"
-
-# XX## game/code/base/screens.rpy:737
-msgid "[mschoice]                      {b}Psymind{/b}, Artist\n"
-msgstr "[mschoice]                      {b}Psymind{/b}, Artist\n"
-
-# XX## game/code/base/screens.rpy:738
-msgid "[mschoice]                      {b}Epadder{/b}, Programmer\n"
-msgstr "[mschoice]                      {b}Epadder{/b}, Programmer\n"
-
-# XX## game/code/base/screens.rpy:739
-msgid "[mschoice]                      {b}Lostraven{/b}, Writer\n"
-msgstr "[mschoice]                      {b}Lostraven{/b}, Writer\n"
-
-# XX## game/code/base/screens.rpy:742
-msgid "[mschoice] {b}Special Thanks:{/b}"
-msgstr "[mschoice] {b}Special Thanks:{/b}"
-
-# XX## game/code/base/screens.rpy:743
-msgid "[mschoice] Our deepest appreciation and gratitude to Rhonin, {a=https://www.youtube.com/c/puritysin}Purity Sin{/a}, Headmaster1988, TheDevian, thomasxlong, SrPani and {a=https://www.deviantart.com/dltoon}DLT{/a} for helping us improve the game in a variety of ways."
-msgstr "[mschoice] Our deepest appreciation and gratitude to Rhonin, {a=https://www.youtube.com/c/puritysin}Purity Sin{/a}, Headmaster1988, TheDevian, thomasxlong, SrPani and {a=https://www.deviantart.com/dltoon}DLT{/a} for helping us improve the game in a variety of ways."
-
-# XX## game/code/base/screens.rpy:746
-msgid "[mschoice] And a big thank you to all the many loyal supporters on Patreon and Discord! This project wouldn't be possible without you guys.\n "
-msgstr "[mschoice] And a big thank you to all the many loyal supporters on Patreon and Discord! This project wouldn't be possible without you guys.\n "
-
-# XX## game/code/base/screens.rpy:819
-msgid "[mschoice] {#file_time}%A, %B %d %Y, %H:%M"
-msgstr "[mschoice] {#file_time}%A, %B %d %Y, %H:%M"
-
-# XX## game/code/base/screens.rpy:819
-msgid "[mschoice] empty slot"
-msgstr "[mschoice] empty slot"
-
-# XX## game/code/base/screens.rpy:839
-msgid "[mschoice] {#auto_page}A"
-msgstr "[mschoice] {#auto_page}A"
-
-# XX## game/code/base/screens.rpy:842
-msgid "[mschoice] {#quick_page}Q"
-msgstr "[mschoice] {#quick_page}Q"
-
-# XX## game/code/base/screens.rpy:905
-msgid "[mschoice] Display"
-msgstr "[mschoice] Display"
-
-# XX## game/code/base/screens.rpy:906
-msgid "[mschoice] Window"
-msgstr "[mschoice] Window"
-
-# XX## game/code/base/screens.rpy:907
-msgid "[mschoice] Fullscreen"
-msgstr "[mschoice] Fullscreen"
-
-# XX## game/code/base/screens.rpy:911
-msgid "[mschoice] Rollback Side"
-msgstr "[mschoice] Rollback Side"
-
-# XX## game/code/base/screens.rpy:912
-msgid "[mschoice] Disable"
-msgstr "[mschoice] Disable"
-
-# XX## game/code/base/screens.rpy:913
-msgid "[mschoice] Left"
-msgstr "[mschoice] Left"
-
-# XX## game/code/base/screens.rpy:914
-msgid "[mschoice] Right"
-msgstr "[mschoice] Right"
-
-# XX## game/code/base/screens.rpy:919
-msgid "[mschoice] Unseen Text"
-msgstr "[mschoice] Unseen Text"
-
-# XX## game/code/base/screens.rpy:920
-msgid "[mschoice] After Choices"
-msgstr "[mschoice] After Choices"
-
-# XX## game/code/base/screens.rpy:921
-msgid "[mschoice] Transitions"
-msgstr "[mschoice] Transitions"
-
-# XX## game/code/base/screens.rpy:925
-msgid "[mschoice] Quest Updates"
-msgstr "[mschoice] Quest Updates"
-
-# XX## game/code/base/screens.rpy:926
-msgid "[mschoice] On"
-msgstr "[mschoice] On"
-
-# XX## game/code/base/screens.rpy:940
-msgid "[mschoice] Text Speed"
-msgstr "[mschoice] Text Speed"
-
-# XX## game/code/base/screens.rpy:944
-msgid "[mschoice] Auto-Forward Time"
-msgstr "[mschoice] Auto-Forward Time"
-
-# XX## game/code/base/screens.rpy:951
-msgid "[mschoice] Music Volume"
-msgstr "[mschoice] Music Volume"
-
-# XX## game/code/base/screens.rpy:958
-msgid "[mschoice] Sound Volume"
-msgstr "[mschoice] Sound Volume"
-
-# XX## game/code/base/screens.rpy:964
-msgid "[mschoice] Test"
-msgstr "[mschoice] Test"
-
-# XX## game/code/base/screens.rpy:968
-msgid "[mschoice] Voice Volume"
-msgstr "[mschoice] Voice Volume"
-
-# XX## game/code/base/screens.rpy:979
-msgid "[mschoice] Mute All"
-msgstr "[mschoice] Mute All"
-
-# XX## game/code/base/screens.rpy:1096
-msgid "[mschoice] The dialogue history is empty."
-msgstr "[mschoice] The dialogue history is empty."
-
-# XX## game/code/base/screens.rpy:1166
-msgid "[mschoice] Keyboard"
-msgstr "[mschoice] Keyboard"
-
-# XX## game/code/base/screens.rpy:1167
-msgid "[mschoice] Mouse"
-msgstr "[mschoice] Mouse"
-
-# XX## game/code/base/screens.rpy:1170
-msgid "[mschoice] Gamepad"
-msgstr "[mschoice] Gamepad"
-
-# XX## game/code/base/screens.rpy:1183
-msgid "[mschoice] Enter"
-msgstr "[mschoice] Enter"
-
-# XX## game/code/base/screens.rpy:1184
-msgid "[mschoice] Advances dialogue and activates the interface."
-msgstr "[mschoice] Advances dialogue and activates the interface."
-
-# XX## game/code/base/screens.rpy:1187
-msgid "[mschoice] Space"
-msgstr "[mschoice] Space"
-
-# XX## game/code/base/screens.rpy:1188
-msgid "[mschoice] Advances dialogue without selecting choices."
-msgstr "[mschoice] Advances dialogue without selecting choices."
-
-# XX## game/code/base/screens.rpy:1191
-msgid "[mschoice] Arrow Keys"
-msgstr "[mschoice] Arrow Keys"
-
-# XX## game/code/base/screens.rpy:1192
-msgid "[mschoice] Navigate the interface."
-msgstr "[mschoice] Navigate the interface."
-
-# XX## game/code/base/screens.rpy:1195
-msgid "[mschoice] Escape"
-msgstr "[mschoice] Escape"
-
-# XX## game/code/base/screens.rpy:1196
-msgid "[mschoice] Accesses the game menu."
-msgstr "[mschoice] Accesses the game menu."
-
-# XX## game/code/base/screens.rpy:1199
-msgid "[mschoice] Ctrl"
-msgstr "[mschoice] Ctrl"
-
-# XX## game/code/base/screens.rpy:1200
-msgid "[mschoice] Skips dialogue while held down."
-msgstr "[mschoice] Skips dialogue while held down."
-
-# XX## game/code/base/screens.rpy:1203
-msgid "[mschoice] Tab"
-msgstr "[mschoice] Tab"
-
-# XX## game/code/base/screens.rpy:1204
-msgid "[mschoice] Toggles dialogue skipping."
-msgstr "[mschoice] Toggles dialogue skipping."
-
-# XX## game/code/base/screens.rpy:1207
-msgid "[mschoice] Page Up"
-msgstr "[mschoice] Page Up"
-
-# XX## game/code/base/screens.rpy:1208
-msgid "[mschoice] Rolls back to earlier dialogue."
-msgstr "[mschoice] Rolls back to earlier dialogue."
-
-# XX## game/code/base/screens.rpy:1211
-msgid "[mschoice] Page Down"
-msgstr "[mschoice] Page Down"
-
-# XX## game/code/base/screens.rpy:1212
-msgid "[mschoice] Rolls forward to later dialogue."
-msgstr "[mschoice] Rolls forward to later dialogue."
-
-# XX## game/code/base/screens.rpy:1216
-msgid "[mschoice] Hides the user interface."
-msgstr "[mschoice] Hides the user interface."
-
-# XX## game/code/base/screens.rpy:1220
-msgid "[mschoice] Takes a screenshot."
-msgstr "[mschoice] Takes a screenshot."
-
-# XX## game/code/base/screens.rpy:1224
-msgid "[mschoice] Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgstr "[mschoice] Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-
-# XX## game/code/base/screens.rpy:1230
-msgid "[mschoice] Left Click"
-msgstr "[mschoice] Left Click"
-
-# XX## game/code/base/screens.rpy:1234
-msgid "[mschoice] Middle Click"
-msgstr "[mschoice] Middle Click"
-
-# XX## game/code/base/screens.rpy:1238
-msgid "[mschoice] Right Click"
-msgstr "[mschoice] Right Click"
-
-# XX## game/code/base/screens.rpy:1242
-msgid "[mschoice] Mouse Wheel Up\nClick Rollback Side"
-msgstr "[mschoice] Mouse Wheel Up\nClick Rollback Side"
-
-# XX## game/code/base/screens.rpy:1246
-msgid "[mschoice] Mouse Wheel Down"
-msgstr "[mschoice] Mouse Wheel Down"
-
-# XX## game/code/base/screens.rpy:1253
-msgid "[mschoice] Right Trigger\nA/Bottom Button"
-msgstr "[mschoice] Right Trigger\nA/Bottom Button"
-
-# XX## game/code/base/screens.rpy:1257
-msgid "[mschoice] Left Trigger\nLeft Shoulder"
-msgstr "[mschoice] Left Trigger\nLeft Shoulder"
-
-# XX## game/code/base/screens.rpy:1261
-msgid "[mschoice] Right Shoulder"
-msgstr "[mschoice] Right Shoulder"
-
-# XX## game/code/base/screens.rpy:1266
-msgid "[mschoice] D-Pad, Sticks"
-msgstr "[mschoice] D-Pad, Sticks"
-
-# XX## game/code/base/screens.rpy:1270
-msgid "[mschoice] Start, Guide"
-msgstr "[mschoice] Start, Guide"
-
-# XX## game/code/base/screens.rpy:1274
-msgid "[mschoice] Y/Top Button"
-msgstr "[mschoice] Y/Top Button"
-
-# XX## game/code/base/screens.rpy:1277
-msgid "[mschoice] Calibrate"
-msgstr "[mschoice] Calibrate"
-
-# XX## game/code/base/screens.rpy:1395
-msgid "[mschoice] Skipping"
-msgstr "[mschoice] Skipping"
-
-# XX## game/code/base/screens.rpy:1745
-msgid "[mschoice] Menu"
-msgstr "[mschoice] Menu"
+﻿# TODO: Translation updated at 2022-07-19 21:03
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin 16d9a82f:
+msgid "frame: vbox: xpos 0"
+msgstr "frame: vbox: xpos 0"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin a830a7ee:
+msgid "ypos 25"
+msgstr "ypos 25"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin 025b4ae1:
+msgid "spacing 0"
+msgstr "spacing 0"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin 727f6ef2:
+msgid "add \"gui/game_title.png\""
+msgstr "add \"gui/game_title.png\""
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin b58bcc89:
+msgid "null height 25"
+msgstr "null height 25"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin ee65f368:
+msgid "imagebutton: idle \"gui/buttons/start_button idle.png\" hover \"gui/buttons/start_button hover.png\" focus_mask True xalign 0.5 yalign 0.5 action Start()"
+msgstr "imagebutton: idle \"gui/buttons/start_button idle.png\" hover \"gui/buttons/start_button hover.png\" focus_mask True xalign 0.5 yalign 0.5 action Start()"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin 0b71498f:
+msgid "imagebutton: idle \"gui/buttons/load_button idle.png\" hover \"gui/buttons/load_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"load\")"
+msgstr "imagebutton: idle \"gui/buttons/load_button idle.png\" hover \"gui/buttons/load_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"load\")"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin d287a808:
+msgid "imagebutton: idle \"gui/buttons/options_button idle.png\" hover \"gui/buttons/options_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"preferences\")"
+msgstr "imagebutton: idle \"gui/buttons/options_button idle.png\" hover \"gui/buttons/options_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"preferences\")"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin 303f1a39:
+msgid "imagebutton: idle \"gui/buttons/about_button idle.png\" hover \"gui/buttons/about_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"about\")"
+msgstr "imagebutton: idle \"gui/buttons/about_button idle.png\" hover \"gui/buttons/about_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"about\")"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin 8327e5bc:
+msgid "if renpy.variant(\"pc\"):"
+msgstr "if renpy.variant(\"pc\"):"
+
+# game/code/base/screens.rpy:461 #-#-# translate crowdin 3904d94b:
+msgid "imagebutton: idle \"gui/buttons/exit_button idle.png\" hover \"gui/buttons/exit_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action Quit(confirm=not main_menu)"
+msgstr "imagebutton: idle \"gui/buttons/exit_button idle.png\" hover \"gui/buttons/exit_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action Quit(confirm=not main_menu)"
+
+#§translate crowdin strings: #|#|# # game/code/base/screens.rpy:298
+msgid "Back"
+msgstr "Back"
+
+# game/code/base/screens.rpy:299
+msgid "History"
+msgstr "History"
+
+# game/code/base/screens.rpy:300
+msgid "Skip"
+msgstr "Skip"
+
+# game/code/base/screens.rpy:301
+msgid "Auto"
+msgstr "Auto"
+
+# game/code/base/screens.rpy:302
+msgid "Save"
+msgstr "Save"
+
+# game/code/base/screens.rpy:303
+msgid "Q.Save"
+msgstr "Q.Save"
+
+# game/code/base/screens.rpy:304
+msgid "Q.Load"
+msgstr "Q.Load"
+
+# game/code/base/screens.rpy:305
+msgid "Prefs"
+msgstr "Prefs"
+
+# game/code/base/screens.rpy:306
+msgid "Hide D."
+msgstr "Hide D."
+
+# game/code/base/screens.rpy:347
+msgid "Start"
+msgstr "Start"
+
+# game/code/base/screens.rpy:355
+msgid "Load"
+msgstr "Load"
+
+# game/code/base/screens.rpy:357
+msgid "Options"
+msgstr "Options"
+
+# game/code/base/screens.rpy:365
+msgid "End Replay"
+msgstr "End Replay"
+
+# game/code/base/screens.rpy:369
+msgid "Main Menu"
+msgstr "Main Menu"
+
+# game/code/base/screens.rpy:371
+msgid "Credits"
+msgstr "Credits"
+
+# game/code/base/screens.rpy:373
+msgid "About"
+msgstr "About"
+
+# game/code/base/screens.rpy:378
+msgid "Help"
+msgstr "Help"
+
+# game/code/base/screens.rpy:381
+msgid "Quit"
+msgstr "Quit"
+
+# game/code/base/screens.rpy:690
+msgid "Version [config.version!t]\n"
+msgstr "Version [config.version!t]\n"
+
+# game/code/base/screens.rpy:696
+msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+msgstr "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+
+# game/code/base/screens.rpy:733
+msgid "{b}Credits{/b} "
+msgstr "{b}Credits{/b} "
+
+# game/code/base/screens.rpy:734
+msgid "Created by:  {b}{a=https://www.patreon.com/GZone_Art}GZone{/a}{/b}, Project Manager\n"
+msgstr "Created by:  {b}{a=https://www.patreon.com/GZone_Art}GZone{/a}{/b}, Project Manager\n"
+
+# game/code/base/screens.rpy:735
+msgid "                     {b}{a=https://twitter.com/MorahZamora}MorahZamora{/a}{/b}, Background Artist, Script Reviser\n"
+msgstr "                     {b}{a=https://twitter.com/MorahZamora}MorahZamora{/a}{/b}, Background Artist, Script Reviser\n"
+
+# game/code/base/screens.rpy:736
+msgid "                     {b}FraMe{/b}, Animator\n"
+msgstr "                     {b}FraMe{/b}, Animator\n"
+
+# game/code/base/screens.rpy:737
+msgid "                     {b}Psymind{/b}, Artist\n"
+msgstr "                     {b}Psymind{/b}, Artist\n"
+
+# game/code/base/screens.rpy:738
+msgid "                     {b}Epadder{/b}, Programmer\n"
+msgstr "                     {b}Epadder{/b}, Programmer\n"
+
+# game/code/base/screens.rpy:739
+msgid "                     {b}Lostraven{/b}, Writer\n"
+msgstr "                     {b}Lostraven{/b}, Writer\n"
+
+# game/code/base/screens.rpy:742
+msgid "{b}Special Thanks:{/b}"
+msgstr "{b}Special Thanks:{/b}"
+
+# game/code/base/screens.rpy:743
+msgid "Our deepest appreciation and gratitude to Rhonin, {a=https://www.youtube.com/c/puritysin}Purity Sin{/a}, Headmaster1988, TheDevian, thomasxlong, SrPani and {a=https://www.deviantart.com/dltoon}DLT{/a} for helping us improve the game in a variety of ways."
+msgstr "Our deepest appreciation and gratitude to Rhonin, {a=https://www.youtube.com/c/puritysin}Purity Sin{/a}, Headmaster1988, TheDevian, thomasxlong, SrPani and {a=https://www.deviantart.com/dltoon}DLT{/a} for helping us improve the game in a variety of ways."
+
+# game/code/base/screens.rpy:746
+msgid "And a big thank you to all the many loyal supporters on Patreon and Discord! This project wouldn't be possible without you guys.\n  "
+msgstr "And a big thank you to all the many loyal supporters on Patreon and Discord! This project wouldn't be possible without you guys.\n  "
+
+# game/code/base/screens.rpy:819
+msgid "{#file_time}%A, %B %d %Y, %H:%M"
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
+
+# game/code/base/screens.rpy:819
+msgid "empty slot"
+msgstr "empty slot"
+
+# game/code/base/screens.rpy:839
+msgid "{#auto_page}A"
+msgstr "{#auto_page}A"
+
+# game/code/base/screens.rpy:842
+msgid "{#quick_page}Q"
+msgstr "{#quick_page}Q"
+
+# game/code/base/screens.rpy:905
+msgid "Display"
+msgstr "Display"
+
+# game/code/base/screens.rpy:906
+msgid "Window"
+msgstr "Window"
+
+# game/code/base/screens.rpy:907
+msgid "Fullscreen"
+msgstr "Fullscreen"
+
+# game/code/base/screens.rpy:911
+msgid "Rollback Side"
+msgstr "Rollback Side"
+
+# game/code/base/screens.rpy:912
+msgid "Disable"
+msgstr "Disable"
+
+# game/code/base/screens.rpy:913
+msgid "Left"
+msgstr "Left"
+
+# game/code/base/screens.rpy:914
+msgid "Right"
+msgstr "Right"
+
+# game/code/base/screens.rpy:919
+msgid "Unseen Text"
+msgstr "Unseen Text"
+
+# game/code/base/screens.rpy:920
+msgid "After Choices"
+msgstr "After Choices"
+
+# game/code/base/screens.rpy:921
+msgid "Transitions"
+msgstr "Transitions"
+
+# game/code/base/screens.rpy:925
+msgid "Quest Updates"
+msgstr "Quest Updates"
+
+# game/code/base/screens.rpy:926
+msgid "On"
+msgstr "On"
+
+# game/code/base/screens.rpy:940
+msgid "Text Speed"
+msgstr "Text Speed"
+
+# game/code/base/screens.rpy:944
+msgid "Auto-Forward Time"
+msgstr "Auto-Forward Time"
+
+# game/code/base/screens.rpy:951
+msgid "Music Volume"
+msgstr "Music Volume"
+
+# game/code/base/screens.rpy:958
+msgid "Sound Volume"
+msgstr "Sound Volume"
+
+# game/code/base/screens.rpy:964
+msgid "Test"
+msgstr "Test"
+
+# game/code/base/screens.rpy:968
+msgid "Voice Volume"
+msgstr "Voice Volume"
+
+# game/code/base/screens.rpy:979
+msgid "Mute All"
+msgstr "Mute All"
+
+# game/code/base/screens.rpy:1096
+msgid "The dialogue history is empty."
+msgstr "The dialogue history is empty."
+
+# game/code/base/screens.rpy:1166
+msgid "Keyboard"
+msgstr "Keyboard"
+
+# game/code/base/screens.rpy:1167
+msgid "Mouse"
+msgstr "Mouse"
+
+# game/code/base/screens.rpy:1170
+msgid "Gamepad"
+msgstr "Gamepad"
+
+# game/code/base/screens.rpy:1183
+msgid "Enter"
+msgstr "Enter"
+
+# game/code/base/screens.rpy:1184
+msgid "Advances dialogue and activates the interface."
+msgstr "Advances dialogue and activates the interface."
+
+# game/code/base/screens.rpy:1187
+msgid "Space"
+msgstr "Space"
+
+# game/code/base/screens.rpy:1188
+msgid "Advances dialogue without selecting choices."
+msgstr "Advances dialogue without selecting choices."
+
+# game/code/base/screens.rpy:1191
+msgid "Arrow Keys"
+msgstr "Arrow Keys"
+
+# game/code/base/screens.rpy:1192
+msgid "Navigate the interface."
+msgstr "Navigate the interface."
+
+# game/code/base/screens.rpy:1195
+msgid "Escape"
+msgstr "Escape"
+
+# game/code/base/screens.rpy:1196
+msgid "Accesses the game menu."
+msgstr "Accesses the game menu."
+
+# game/code/base/screens.rpy:1199
+msgid "Ctrl"
+msgstr "Ctrl"
+
+# game/code/base/screens.rpy:1200
+msgid "Skips dialogue while held down."
+msgstr "Skips dialogue while held down."
+
+# game/code/base/screens.rpy:1203
+msgid "Tab"
+msgstr "Tab"
+
+# game/code/base/screens.rpy:1204
+msgid "Toggles dialogue skipping."
+msgstr "Toggles dialogue skipping."
+
+# game/code/base/screens.rpy:1207
+msgid "Page Up"
+msgstr "Page Up"
+
+# game/code/base/screens.rpy:1208
+msgid "Rolls back to earlier dialogue."
+msgstr "Rolls back to earlier dialogue."
+
+# game/code/base/screens.rpy:1211
+msgid "Page Down"
+msgstr "Page Down"
+
+# game/code/base/screens.rpy:1212
+msgid "Rolls forward to later dialogue."
+msgstr "Rolls forward to later dialogue."
+
+# game/code/base/screens.rpy:1216
+msgid "Hides the user interface."
+msgstr "Hides the user interface."
+
+# game/code/base/screens.rpy:1220
+msgid "Takes a screenshot."
+msgstr "Takes a screenshot."
+
+# game/code/base/screens.rpy:1224
+msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgstr "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+
+# game/code/base/screens.rpy:1230
+msgid "Left Click"
+msgstr "Left Click"
+
+# game/code/base/screens.rpy:1234
+msgid "Middle Click"
+msgstr "Middle Click"
+
+# game/code/base/screens.rpy:1238
+msgid "Right Click"
+msgstr "Right Click"
+
+# game/code/base/screens.rpy:1242
+msgid "Mouse Wheel Up\nClick Rollback Side"
+msgstr "Mouse Wheel Up\nClick Rollback Side"
+
+# game/code/base/screens.rpy:1246
+msgid "Mouse Wheel Down"
+msgstr "Mouse Wheel Down"
+
+# game/code/base/screens.rpy:1253
+msgid "Right Trigger\nA/Bottom Button"
+msgstr "Right Trigger\nA/Bottom Button"
+
+# game/code/base/screens.rpy:1257
+msgid "Left Trigger\nLeft Shoulder"
+msgstr "Left Trigger\nLeft Shoulder"
+
+# game/code/base/screens.rpy:1261
+msgid "Right Shoulder"
+msgstr "Right Shoulder"
+
+# game/code/base/screens.rpy:1266
+msgid "D-Pad, Sticks"
+msgstr "D-Pad, Sticks"
+
+# game/code/base/screens.rpy:1270
+msgid "Start, Guide"
+msgstr "Start, Guide"
+
+# game/code/base/screens.rpy:1274
+msgid "Y/Top Button"
+msgstr "Y/Top Button"
+
+# game/code/base/screens.rpy:1277
+msgid "Calibrate"
+msgstr "Calibrate"
+
+# game/code/base/screens.rpy:1395
+msgid "Skipping"
+msgstr "Skipping"
+
+# game/code/base/screens.rpy:1745
+msgid "Menu"
+msgstr "Menu"
 

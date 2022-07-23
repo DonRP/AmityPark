@@ -54,6 +54,14 @@ def replacetext(search_text, replace_text, pathFile):
     # Replace the target string
     # filedata = filedata.replace(search_text, replace_text)
     filedata = re.sub(search_text, replace_text, filedata)
+    filedata = re.sub(r'\[@(.*?)\b (.*?)@\]', r'[@\1_$_\2@]', filedata)
+    filedata = re.sub(r'\[@(.*?)\b (.*?)@\]', r'[@\1_$_\2@]', filedata)
+    filedata = re.sub(r'\[@(.*?)\b (.*?)@\]', r'[@\1_$_\2@]', filedata)
+    filedata = re.sub(r'\[@(.*?)\b (.*?)@\]', r'[@\1_$_\2@]', filedata)
+    filedata = re.sub(r'\[@(.*?)\b (.*?)@\]', r'[@\1_$_\2@]', filedata)
+    filedata = re.sub(r'\[@(.*?)\b (.*?)@\]', r'[@\1_$_\2@]', filedata)
+    filedata = re.sub(r'\[@(.*?)\b (.*?)@\]', r'[@\1_$_\2@]', filedata)
+    filedata = re.sub(r'\[@(.*?)\b (.*?)@\]', r'[@\1_$_\2@]', filedata)
 
     # Write the file out again
     with open(pathFile, 'w', encoding="utf8") as file:

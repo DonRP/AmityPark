@@ -1,296 +1,304 @@
-﻿# TODO: Translation updated at 2022-07-19 HH:HH# game/code/misc/spookchat_tucker.rpy:35 ## translate crowdin tucker_chat_1_76b2fe88:
-msgid "[@nvl clear
-msgstr "[@nvl clear
+﻿# TODO: Translation updated at 2022-07-19 21:03
 
-# game/code/misc/spookchat_tucker.rpy:38 ## translate crowdin tucker_chat_1_85256417:
+# game/code/misc/spookchat_tucker.rpy:35 #-#-# translate crowdin tucker_chat_1_76b2fe88:
+
+# nvl clear
+    nvl clear
+
+# game/code/misc/spookchat_tucker.rpy:38 #-#-# translate crowdin tucker_chat_1_85256417:
 msgid "[@dannyspook@] Hey Tucker, you there?"
 msgstr "[@dannyspook@] Hey Tucker, you there?"
 
-# game/code/misc/spookchat_tucker.rpy:40 ## translate crowdin tucker_chat_1_a4914aa8:
+# game/code/misc/spookchat_tucker.rpy:40 #-#-# translate crowdin tucker_chat_1_a4914aa8:
 msgid "[@tuckerspook@] Ya man, I'm just chillin. Wuddup dude?."
 msgstr "[@tuckerspook@] Ya man, I'm just chillin. Wuddup dude?."
 
-# game/code/misc/spookchat_tucker.rpy:63 ## translate crowdin tucker_chat_2_76b2fe88:
-msgid "[@nvl clear
-msgstr "[@nvl clear
+# game/code/misc/spookchat_tucker.rpy:63 #-#-# translate crowdin tucker_chat_2_76b2fe88:
 
-# game/code/misc/spookchat_tucker.rpy:66 ## translate crowdin tucker_chat_2_35ae126d:
+# nvl clear
+    nvl clear
+
+# game/code/misc/spookchat_tucker.rpy:66 #-#-# translate crowdin tucker_chat_2_35ae126d:
 msgid "[@dannyspook@] Whatcha working on, Tuck?"
 msgstr "[@dannyspook@] Whatcha working on, Tuck?"
 
-# game/code/misc/spookchat_tucker.rpy:67 ## translate crowdin tucker_chat_2_71781077:
+# game/code/misc/spookchat_tucker.rpy:67 #-#-# translate crowdin tucker_chat_2_71781077:
 msgid "[@tuckerspook@] Honestly, not much. Just developing some small software programs."
 msgstr "[@tuckerspook@] Honestly, not much. Just developing some small software programs."
 
-# game/code/misc/spookchat_tucker.rpy:68 ## translate crowdin tucker_chat_2_7f6f9b43:
+# game/code/misc/spookchat_tucker.rpy:68 #-#-# translate crowdin tucker_chat_2_7f6f9b43:
 msgid "[@dannyspook@] Woah, that doesn't sound like \"not much\" to me. What's it for?"
 msgstr "[@dannyspook@] Woah, that doesn't sound like \"not much\" to me. What's it for?"
 
-# game/code/misc/spookchat_tucker.rpy:69 ## translate crowdin tucker_chat_2_ab6d8832:
+# game/code/misc/spookchat_tucker.rpy:69 #-#-# translate crowdin tucker_chat_2_ab6d8832:
 msgid "[@tuckerspook@] Well, I won't ruin the surprise just yet, but when it's fully ready, I'll have you take a look at it."
 msgstr "[@tuckerspook@] Well, I won't ruin the surprise just yet, but when it's fully ready, I'll have you take a look at it."
 
-# game/code/misc/spookchat_tucker.rpy:70 ## translate crowdin tucker_chat_2_32c74a91:
+# game/code/misc/spookchat_tucker.rpy:70 #-#-# translate crowdin tucker_chat_2_32c74a91:
 msgid "[@tuckerspook@] It's just been something I've been whipping up to help us \"single bachelors\" out."
 msgstr "[@tuckerspook@] It's just been something I've been whipping up to help us \"single bachelors\" out."
 
-# game/code/misc/spookchat_tucker.rpy:71 ## translate crowdin tucker_chat_2_e37276d2:
+# game/code/misc/spookchat_tucker.rpy:71 #-#-# translate crowdin tucker_chat_2_e37276d2:
 msgid "[@dannyspook@] Alright, I'll take your word on it. Sounds pretty cool already, Tuck, I'm excited to see it."
 msgstr "[@dannyspook@] Alright, I'll take your word on it. Sounds pretty cool already, Tuck, I'm excited to see it."
 
-# game/code/misc/spookchat_tucker.rpy:72 ## translate crowdin tucker_chat_2_b70fa9dd:
+# game/code/misc/spookchat_tucker.rpy:72 #-#-# translate crowdin tucker_chat_2_b70fa9dd:
 msgid "[@tuckerspook@] Yeah, just a bit more QA testing needing to be done on it. Man, you wouldn't {i}believe{/i} how long that can take."
 msgstr "[@tuckerspook@] Yeah, just a bit more QA testing needing to be done on it. Man, you wouldn't {i}believe{/i} how long that can take."
 
-# game/code/misc/spookchat_tucker.rpy:73 ## translate crowdin tucker_chat_2_c1f13aba:
+# game/code/misc/spookchat_tucker.rpy:73 #-#-# translate crowdin tucker_chat_2_c1f13aba:
 msgid "[@dannyspook@] Hah, again, I'll take your word for it."
 msgstr "[@dannyspook@] Hah, again, I'll take your word for it."
 
-# game/code/misc/spookchat_tucker.rpy:74 ## translate crowdin tucker_chat_2_f07e689e:
+# game/code/misc/spookchat_tucker.rpy:74 #-#-# translate crowdin tucker_chat_2_f07e689e:
 msgid "[@tuckerspook@] The wait will be worth it though, I promise."
 msgstr "[@tuckerspook@] The wait will be worth it though, I promise."
 
-# game/code/misc/spookchat_tucker.rpy:85 ## translate crowdin tucker_chat_2_76b2fe88_1:
-msgid "[@nvl clear
-msgstr "[@nvl clear
+# game/code/misc/spookchat_tucker.rpy:85 #-#-# translate crowdin tucker_chat_2_76b2fe88_1:
 
-# game/code/misc/spookchat_tucker.rpy:88 ## translate crowdin tucker_chat_2_c7af398a:
+# nvl clear
+    nvl clear
+
+# game/code/misc/spookchat_tucker.rpy:88 #-#-# translate crowdin tucker_chat_2_c7af398a:
 msgid "[@dannyspook@] Do ghosts worry you at all?"
 msgstr "[@dannyspook@] Do ghosts worry you at all?"
 
-# game/code/misc/spookchat_tucker.rpy:89 ## translate crowdin tucker_chat_2_54f47913:
+# game/code/misc/spookchat_tucker.rpy:89 #-#-# translate crowdin tucker_chat_2_54f47913:
 msgid "[@tuckerspook@] Ehh, not really I guess. The way I figure, the best thing we can do to learn more about the universe is to experience everything it has to offer openly."
 msgstr "[@tuckerspook@] Ehh, not really I guess. The way I figure, the best thing we can do to learn more about the universe is to experience everything it has to offer openly."
 
-# game/code/misc/spookchat_tucker.rpy:90 ## translate crowdin tucker_chat_2_742b096e:
+# game/code/misc/spookchat_tucker.rpy:90 #-#-# translate crowdin tucker_chat_2_742b096e:
 msgid "[@tuckerspook@] ...even at the expense of potentially getting molested by the supernatural."
 msgstr "[@tuckerspook@] ...even at the expense of potentially getting molested by the supernatural."
 
-# game/code/misc/spookchat_tucker.rpy:91 ## translate crowdin tucker_chat_2_862a51c1:
+# game/code/misc/spookchat_tucker.rpy:91 #-#-# translate crowdin tucker_chat_2_862a51c1:
 msgid "[@dannyspook@] That's actually pretty admirable on your part, Tuck."
 msgstr "[@dannyspook@] That's actually pretty admirable on your part, Tuck."
 
-# game/code/misc/spookchat_tucker.rpy:92 ## translate crowdin tucker_chat_2_d1ac664b:
+# game/code/misc/spookchat_tucker.rpy:92 #-#-# translate crowdin tucker_chat_2_d1ac664b:
 msgid "[@tuckerspook@] The price of scientific discovery is pretty high, but I'm willing to pay it."
 msgstr "[@tuckerspook@] The price of scientific discovery is pretty high, but I'm willing to pay it."
 
-# game/code/misc/spookchat_tucker.rpy:93 ## translate crowdin tucker_chat_2_03a0bdbd:
+# game/code/misc/spookchat_tucker.rpy:93 #-#-# translate crowdin tucker_chat_2_03a0bdbd:
 msgid "[@dannyspook@] Seriously?"
 msgstr "[@dannyspook@] Seriously?"
 
-# game/code/misc/spookchat_tucker.rpy:94 ## translate crowdin tucker_chat_2_de301b20:
+# game/code/misc/spookchat_tucker.rpy:94 #-#-# translate crowdin tucker_chat_2_de301b20:
 msgid "[@tuckerspook@] {i}Heeeeell{/i} no, dude. If I ever see a real ghost, I'm tripping up both you {i}and{/i} Sam to give myself some proper getaway time. Lol"
 msgstr "[@tuckerspook@] {i}Heeeeell{/i} no, dude. If I ever see a real ghost, I'm tripping up both you {i}and{/i} Sam to give myself some proper getaway time. Lol"
 
-# game/code/misc/spookchat_tucker.rpy:95 ## translate crowdin tucker_chat_2_a7c38e8f:
+# game/code/misc/spookchat_tucker.rpy:95 #-#-# translate crowdin tucker_chat_2_a7c38e8f:
 msgid "[@dannyspook@] Yeah, that sounds about right with you. Cowardice, thy name is Foley. Ha hah"
 msgstr "[@dannyspook@] Yeah, that sounds about right with you. Cowardice, thy name is Foley. Ha hah"
 
-# game/code/misc/spookchat_tucker.rpy:96 ## translate crowdin tucker_chat_2_70ad2eeb:
+# game/code/misc/spookchat_tucker.rpy:96 #-#-# translate crowdin tucker_chat_2_70ad2eeb:
 msgid "[@tuckerspook@] Don't shame me for my honed survival skills."
 msgstr "[@tuckerspook@] Don't shame me for my honed survival skills."
 
-# game/code/misc/spookchat_tucker.rpy:97 ## translate crowdin tucker_chat_2_b690868f:
+# game/code/misc/spookchat_tucker.rpy:97 #-#-# translate crowdin tucker_chat_2_b690868f:
 msgid "[@tuckerspook@] If the wide plethora of notable horror movies has taught me anything?"
 msgstr "[@tuckerspook@] If the wide plethora of notable horror movies has taught me anything?"
 
-# game/code/misc/spookchat_tucker.rpy:98 ## translate crowdin tucker_chat_2_e38bd1cf:
+# game/code/misc/spookchat_tucker.rpy:98 #-#-# translate crowdin tucker_chat_2_e38bd1cf:
 msgid "[@tuckerspook@] It's that {i}my{/i} best chance of survival depends on getting my butt out of the horrifying situation {u}first{/u}."
 msgstr "[@tuckerspook@] It's that {i}my{/i} best chance of survival depends on getting my butt out of the horrifying situation {u}first{/u}."
 
-# game/code/misc/spookchat_tucker.rpy:99 ## translate crowdin tucker_chat_2_06301a8a:
+# game/code/misc/spookchat_tucker.rpy:99 #-#-# translate crowdin tucker_chat_2_06301a8a:
 msgid "[@dannyspook@] Touché, Mr. Foley. Touché."
 msgstr "[@dannyspook@] Touché, Mr. Foley. Touché."
 
-# game/code/misc/spookchat_tucker.rpy:100 ## translate crowdin tucker_chat_2_7e291f77:
+# game/code/misc/spookchat_tucker.rpy:100 #-#-# translate crowdin tucker_chat_2_7e291f77:
 msgid "[@tuckerspook@] Why thank you, good sir. Was there something else on your mind?"
 msgstr "[@tuckerspook@] Why thank you, good sir. Was there something else on your mind?"
 
-# game/code/misc/spookchat_tucker.rpy:112 ## translate crowdin tucker_chat_2_76b2fe88_2:
-msgid "[@nvl clear
-msgstr "[@nvl clear
+# game/code/misc/spookchat_tucker.rpy:112 #-#-# translate crowdin tucker_chat_2_76b2fe88_2:
 
-# game/code/misc/spookchat_tucker.rpy:115 ## translate crowdin tucker_chat_2_277e78d8:
+# nvl clear
+    nvl clear
+
+# game/code/misc/spookchat_tucker.rpy:115 #-#-# translate crowdin tucker_chat_2_277e78d8:
 msgid "[@dannyspook@] What do you think about Sam?"
 msgstr "[@dannyspook@] What do you think about Sam?"
 
-# game/code/misc/spookchat_tucker.rpy:116 ## translate crowdin tucker_chat_2_7c1e8ce8:
+# game/code/misc/spookchat_tucker.rpy:116 #-#-# translate crowdin tucker_chat_2_7c1e8ce8:
 msgid "[@tuckerspook@] What do you mean?"
 msgstr "[@tuckerspook@] What do you mean?"
 
-# game/code/misc/spookchat_tucker.rpy:117 ## translate crowdin tucker_chat_2_20fd229d:
+# game/code/misc/spookchat_tucker.rpy:117 #-#-# translate crowdin tucker_chat_2_20fd229d:
 msgid "[@dannyspook@] Like, what do you think of her, overall?"
 msgstr "[@dannyspook@] Like, what do you think of her, overall?"
 
-# game/code/misc/spookchat_tucker.rpy:118 ## translate crowdin tucker_chat_2_a66211b4:
+# game/code/misc/spookchat_tucker.rpy:118 #-#-# translate crowdin tucker_chat_2_a66211b4:
 msgid "[@tuckerspook@] Hmmm... I guess if I had to say anything... I'd say she's a good friend, of course, with some predominant gothic overtones."
 msgstr "[@tuckerspook@] Hmmm... I guess if I had to say anything... I'd say she's a good friend, of course, with some predominant gothic overtones."
 
-# game/code/misc/spookchat_tucker.rpy:119 ## translate crowdin tucker_chat_2_f66f7ded:
+# game/code/misc/spookchat_tucker.rpy:119 #-#-# translate crowdin tucker_chat_2_f66f7ded:
 msgid "[@dannyspook@] That's... I mean, pretty accurate, and all... but not exactly what I'm asking."
 msgstr "[@dannyspook@] That's... I mean, pretty accurate, and all... but not exactly what I'm asking."
 
-# game/code/misc/spookchat_tucker.rpy:120 ## translate crowdin tucker_chat_2_fc239907:
+# game/code/misc/spookchat_tucker.rpy:120 #-#-# translate crowdin tucker_chat_2_fc239907:
 msgid "[@tuckerspook@] Well, what do you mean exactly?"
 msgstr "[@tuckerspook@] Well, what do you mean exactly?"
 
-# game/code/misc/spookchat_tucker.rpy:121 ## translate crowdin tucker_chat_2_1ec20c63:
+# game/code/misc/spookchat_tucker.rpy:121 #-#-# translate crowdin tucker_chat_2_1ec20c63:
 msgid "[@dannyspook@] I guess what I'm saying is... is she someone you'd wanna date?"
 msgstr "[@dannyspook@] I guess what I'm saying is... is she someone you'd wanna date?"
 
-# game/code/misc/spookchat_tucker.rpy:122 ## translate crowdin tucker_chat_2_1eec15a6:
+# game/code/misc/spookchat_tucker.rpy:122 #-#-# translate crowdin tucker_chat_2_1eec15a6:
 msgid "[@tuckerspook@] Oh!! What her ranking of {i}bangability{/i} is, you mean! Gotcha. Hmmm, let me think..."
 msgstr "[@tuckerspook@] Oh!! What her ranking of {i}bangability{/i} is, you mean! Gotcha. Hmmm, let me think..."
 
-# game/code/misc/spookchat_tucker.rpy:123 ## translate crowdin tucker_chat_2_e4b6320a:
+# game/code/misc/spookchat_tucker.rpy:123 #-#-# translate crowdin tucker_chat_2_e4b6320a:
 msgid "[@dannyspook@] WTF! No, I mean, like, do you think she's cute or not?"
 msgstr "[@dannyspook@] WTF! No, I mean, like, do you think she's cute or not?"
 
-# game/code/misc/spookchat_tucker.rpy:124 ## translate crowdin tucker_chat_2_818de0e8:
+# game/code/misc/spookchat_tucker.rpy:124 #-#-# translate crowdin tucker_chat_2_818de0e8:
 msgid "[@tuckerspook@] Tomato, {i}tomahto{/i}, dude. Honestly, I'd say she's a definite sleeper hit for sure. She's got all the features I'd find banging, anyway."
 msgstr "[@tuckerspook@] Tomato, {i}tomahto{/i}, dude. Honestly, I'd say she's a definite sleeper hit for sure. She's got all the features I'd find banging, anyway."
 
-# game/code/misc/spookchat_tucker.rpy:125 ## translate crowdin tucker_chat_2_47c4de48:
+# game/code/misc/spookchat_tucker.rpy:125 #-#-# translate crowdin tucker_chat_2_47c4de48:
 msgid "[@tuckerspook@] But obviously, even for a perv like me, crossing that very odd \"friendship line\" is a little too out there. Don't you think so?"
 msgstr "[@tuckerspook@] But obviously, even for a perv like me, crossing that very odd \"friendship line\" is a little too out there. Don't you think so?"
 
-# game/code/misc/spookchat_tucker.rpy:126 ## translate crowdin tucker_chat_2_d5f74762:
+# game/code/misc/spookchat_tucker.rpy:126 #-#-# translate crowdin tucker_chat_2_d5f74762:
 msgid "[@dannyspook@] No yeah, I get that... I guess that's fair."
 msgstr "[@dannyspook@] No yeah, I get that... I guess that's fair."
 
-# game/code/misc/spookchat_tucker.rpy:127 ## translate crowdin tucker_chat_2_d6a97d0e:
+# game/code/misc/spookchat_tucker.rpy:127 #-#-# translate crowdin tucker_chat_2_d6a97d0e:
 msgid "[@tuckerspook@] Weird question Lol. Anyway, anything else you wanted to talk 'bout?"
 msgstr "[@tuckerspook@] Weird question Lol. Anyway, anything else you wanted to talk 'bout?"
 
-# game/code/misc/spookchat_tucker.rpy:138 ## translate crowdin tucker_chat_2_76b2fe88_3:
-msgid "[@nvl clear
-msgstr "[@nvl clear
+# game/code/misc/spookchat_tucker.rpy:138 #-#-# translate crowdin tucker_chat_2_76b2fe88_3:
 
-# game/code/misc/spookchat_tucker.rpy:141 ## translate crowdin tucker_chat_2_51366239:
+# nvl clear
+    nvl clear
+
+# game/code/misc/spookchat_tucker.rpy:141 #-#-# translate crowdin tucker_chat_2_51366239:
 msgid "[@dannyspook@] One question: Paulina or Star?"
 msgstr "[@dannyspook@] One question: Paulina or Star?"
 
-# game/code/misc/spookchat_tucker.rpy:142 ## translate crowdin tucker_chat_2_23a1f165:
+# game/code/misc/spookchat_tucker.rpy:142 #-#-# translate crowdin tucker_chat_2_23a1f165:
 msgid "[@tuckerspook@] Oof! That is a tough one. I would say..."
 msgstr "[@tuckerspook@] Oof! That is a tough one. I would say..."
 
-# game/code/misc/spookchat_tucker.rpy:143 ## translate crowdin tucker_chat_2_786796e5:
+# game/code/misc/spookchat_tucker.rpy:143 #-#-# translate crowdin tucker_chat_2_786796e5:
 msgid "[@tuckerspook@] I mean, obviously, there are a few more reasonably realistic options, like Valerie or Jazz..."
 msgstr "[@tuckerspook@] I mean, obviously, there are a few more reasonably realistic options, like Valerie or Jazz..."
 
-# game/code/misc/spookchat_tucker.rpy:144 ## translate crowdin tucker_chat_2_688f9104:
+# game/code/misc/spookchat_tucker.rpy:144 #-#-# translate crowdin tucker_chat_2_688f9104:
 msgid "[@dannyspook@] Wait, what?!"
 msgstr "[@dannyspook@] Wait, what?!"
 
-# game/code/misc/spookchat_tucker.rpy:145 ## translate crowdin tucker_chat_2_d95bfd69:
+# game/code/misc/spookchat_tucker.rpy:145 #-#-# translate crowdin tucker_chat_2_d95bfd69:
 msgid "[@tuckerspook@] Wuddup?"
 msgstr "[@tuckerspook@] Wuddup?"
 
-# game/code/misc/spookchat_tucker.rpy:146 ## translate crowdin tucker_chat_2_bf8000aa:
+# game/code/misc/spookchat_tucker.rpy:146 #-#-# translate crowdin tucker_chat_2_bf8000aa:
 msgid "[@dannyspook@] Dude, Jazz? Come on man, she's my sister! You wouldn't actually try and pick her up, would you?"
 msgstr "[@dannyspook@] Dude, Jazz? Come on man, she's my sister! You wouldn't actually try and pick her up, would you?"
 
-# game/code/misc/spookchat_tucker.rpy:147 ## translate crowdin tucker_chat_2_fc740a75:
+# game/code/misc/spookchat_tucker.rpy:147 #-#-# translate crowdin tucker_chat_2_fc740a75:
 msgid "[@tuckerspook@] Danny, at our age, as long as we've known each other, we've reasonably surpassed the \"hands off my sister\" boundary."
 msgstr "[@tuckerspook@] Danny, at our age, as long as we've known each other, we've reasonably surpassed the \"hands off my sister\" boundary."
 
-# game/code/misc/spookchat_tucker.rpy:148 ## translate crowdin tucker_chat_2_22ae4623:
+# game/code/misc/spookchat_tucker.rpy:148 #-#-# translate crowdin tucker_chat_2_22ae4623:
 msgid "[@dannyspook@] What, no way!! We haven't surpassed anything!"
 msgstr "[@dannyspook@] What, no way!! We haven't surpassed anything!"
 
-# game/code/misc/spookchat_tucker.rpy:149 ## translate crowdin tucker_chat_2_afde7d65:
+# game/code/misc/spookchat_tucker.rpy:149 #-#-# translate crowdin tucker_chat_2_afde7d65:
 msgid "[@tuckerspook@] Haven't we, Daniel? Haven't we?"
 msgstr "[@tuckerspook@] Haven't we, Daniel? Haven't we?"
 
-# game/code/misc/spookchat_tucker.rpy:150 ## translate crowdin tucker_chat_2_d43bebe8:
+# game/code/misc/spookchat_tucker.rpy:150 #-#-# translate crowdin tucker_chat_2_d43bebe8:
 msgid "[@dannyspook@] No! That'd just be... totally weird, and too close to the vest for me."
 msgstr "[@dannyspook@] No! That'd just be... totally weird, and too close to the vest for me."
 
-# game/code/misc/spookchat_tucker.rpy:151 ## translate crowdin tucker_chat_2_0c7de61f:
+# game/code/misc/spookchat_tucker.rpy:151 #-#-# translate crowdin tucker_chat_2_0c7de61f:
 msgid "[@tuckerspook@] Well hey man, I don't want you to get too worked up over this. In that {i}particular{/i} case, I wouldn't try anything too skeevy, I promise."
 msgstr "[@tuckerspook@] Well hey man, I don't want you to get too worked up over this. In that {i}particular{/i} case, I wouldn't try anything too skeevy, I promise."
 
-# game/code/misc/spookchat_tucker.rpy:152 ## translate crowdin tucker_chat_2_85a83e15:
+# game/code/misc/spookchat_tucker.rpy:152 #-#-# translate crowdin tucker_chat_2_85a83e15:
 msgid "[@tuckerspook@] Now {i}if{/i} I was interested in Jazz, and {i}if{/i} Jazz agreed to go out on a date, it'd be actually pretty traditional."
 msgstr "[@tuckerspook@] Now {i}if{/i} I was interested in Jazz, and {i}if{/i} Jazz agreed to go out on a date, it'd be actually pretty traditional."
 
-# game/code/misc/spookchat_tucker.rpy:153 ## translate crowdin tucker_chat_2_abdb6aa8:
+# game/code/misc/spookchat_tucker.rpy:153 #-#-# translate crowdin tucker_chat_2_abdb6aa8:
 msgid "[@tuckerspook@] We'd see a movie at the Googolplex first, then a trip to Nasty Burger where we'd share a shake. I'm a true romantic at heart, I promise you."
 msgstr "[@tuckerspook@] We'd see a movie at the Googolplex first, then a trip to Nasty Burger where we'd share a shake. I'm a true romantic at heart, I promise you."
 
-# game/code/misc/spookchat_tucker.rpy:154 ## translate crowdin tucker_chat_2_99e8c394:
+# game/code/misc/spookchat_tucker.rpy:154 #-#-# translate crowdin tucker_chat_2_99e8c394:
 msgid "[@dannyspook@] Movie on a first date? Rookie mistake dude, Lol"
 msgstr "[@dannyspook@] Movie on a first date? Rookie mistake dude, Lol"
 
-# game/code/misc/spookchat_tucker.rpy:155 ## translate crowdin tucker_chat_2_c67d1ad0:
+# game/code/misc/spookchat_tucker.rpy:155 #-#-# translate crowdin tucker_chat_2_c67d1ad0:
 msgid "[@tuckerspook@] The only rookie mistake is devaluing the pursuit of a movie on the first date."
 msgstr "[@tuckerspook@] The only rookie mistake is devaluing the pursuit of a movie on the first date."
 
-# game/code/misc/spookchat_tucker.rpy:156 ## translate crowdin tucker_chat_2_78d3c48f:
+# game/code/misc/spookchat_tucker.rpy:156 #-#-# translate crowdin tucker_chat_2_78d3c48f:
 msgid "[@tuckerspook@] You then immediately have something to talk about besides awkwardly giving tidbits about your job or lack thereof."
 msgstr "[@tuckerspook@] You then immediately have something to talk about besides awkwardly giving tidbits about your job or lack thereof."
 
-# game/code/misc/spookchat_tucker.rpy:157 ## translate crowdin tucker_chat_2_c9d4cce1:
+# game/code/misc/spookchat_tucker.rpy:157 #-#-# translate crowdin tucker_chat_2_c9d4cce1:
 msgid "[@tuckerspook@] The key is the dinner right afterwards. Someplace you can talk openly while also getting to know the other person's peculiar eating habits."
 msgstr "[@tuckerspook@] The key is the dinner right afterwards. Someplace you can talk openly while also getting to know the other person's peculiar eating habits."
 
-# game/code/misc/spookchat_tucker.rpy:158 ## translate crowdin tucker_chat_2_3c7128d0:
+# game/code/misc/spookchat_tucker.rpy:158 #-#-# translate crowdin tucker_chat_2_3c7128d0:
 msgid "[@dannyspook@] Yeah, you wouldn't wanna let some poor girl marry you, totally unaware of that weird thing you do with pickle slices."
 msgstr "[@dannyspook@] Yeah, you wouldn't wanna let some poor girl marry you, totally unaware of that weird thing you do with pickle slices."
 
-# game/code/misc/spookchat_tucker.rpy:159 ## translate crowdin tucker_chat_2_8a5d0bee:
+# game/code/misc/spookchat_tucker.rpy:159 #-#-# translate crowdin tucker_chat_2_8a5d0bee:
 msgid "[@tuckerspook@] {i}Anyway{/i}, to answer your original question: Paulina."
 msgstr "[@tuckerspook@] {i}Anyway{/i}, to answer your original question: Paulina."
 
-# game/code/misc/spookchat_tucker.rpy:160 ## translate crowdin tucker_chat_2_6e3eb064:
+# game/code/misc/spookchat_tucker.rpy:160 #-#-# translate crowdin tucker_chat_2_6e3eb064:
 msgid "[@dannyspook@] Classic choice."
 msgstr "[@dannyspook@] Classic choice."
 
-# game/code/misc/spookchat_tucker.rpy:161 ## translate crowdin tucker_chat_2_d146508d:
+# game/code/misc/spookchat_tucker.rpy:161 #-#-# translate crowdin tucker_chat_2_d146508d:
 msgid "[@tuckerspook@] So anything else you wanted to ask?"
 msgstr "[@tuckerspook@] So anything else you wanted to ask?"
 
-# game/code/misc/spookchat_tucker.rpy:171 ## translate crowdin tucker_chat_2_76b2fe88_4:
-msgid "[@nvl clear
-msgstr "[@nvl clear
+# game/code/misc/spookchat_tucker.rpy:171 #-#-# translate crowdin tucker_chat_2_76b2fe88_4:
 
-# game/code/misc/spookchat_tucker.rpy:174 ## translate crowdin tucker_chat_2_3339fa2f:
+# nvl clear
+    nvl clear
+
+# game/code/misc/spookchat_tucker.rpy:174 #-#-# translate crowdin tucker_chat_2_3339fa2f:
 msgid "[@dannyspook@] Good talking to you, Tuck."
 msgstr "[@dannyspook@] Good talking to you, Tuck."
 
-# game/code/misc/spookchat_tucker.rpy:175 ## translate crowdin tucker_chat_2_b0b87b83:
+# game/code/misc/spookchat_tucker.rpy:175 #-#-# translate crowdin tucker_chat_2_b0b87b83:
 msgid "[@tuckerspook@] Sure dude, whenever you wanna message! I'm gonna play some Doomed right now. Laterz."
 msgstr "[@tuckerspook@] Sure dude, whenever you wanna message! I'm gonna play some Doomed right now. Laterz."
 
-# XXtranslate crowdin strings:XX# XX## game/code/misc/spookchat_tucker.rpy:29
-msgid "[mschoice] Message Tucker."
-msgstr "[mschoice] Message Tucker."
+#§translate crowdin strings: #|#|# # game/code/misc/spookchat_tucker.rpy:29
+msgid "Message Tucker."
+msgstr "Message Tucker."
 
-# XX## game/code/misc/spookchat_tucker.rpy:51
-msgid "[mschoice] What do I wanna message Tucker about?"
-msgstr "[mschoice] What do I wanna message Tucker about?"
+# game/code/misc/spookchat_tucker.rpy:51
+msgid "What do I wanna message Tucker about?"
+msgstr "What do I wanna message Tucker about?"
 
-# XX## game/code/misc/spookchat_tucker.rpy:51
-msgid "[mschoice] {i}(Look at Paulina's picture){/i}"
-msgstr "[mschoice] {i}(Look at Paulina's picture){/i}"
+# game/code/misc/spookchat_tucker.rpy:51
+msgid "{i}(Look at Paulina's picture){/i}"
+msgstr "{i}(Look at Paulina's picture){/i}"
 
-# XX## game/code/misc/spookchat_tucker.rpy:51
-msgid "[mschoice] Whatcha working on, Tuck?"
-msgstr "[mschoice] Whatcha working on, Tuck?"
+# game/code/misc/spookchat_tucker.rpy:51
+msgid "Whatcha working on, Tuck?"
+msgstr "Whatcha working on, Tuck?"
 
-# XX## game/code/misc/spookchat_tucker.rpy:51
-msgid "[mschoice] Do ghosts worry you at all?"
-msgstr "[mschoice] Do ghosts worry you at all?"
+# game/code/misc/spookchat_tucker.rpy:51
+msgid "Do ghosts worry you at all?"
+msgstr "Do ghosts worry you at all?"
 
-# XX## game/code/misc/spookchat_tucker.rpy:51
-msgid "[mschoice] What do you think about Sam?"
-msgstr "[mschoice] What do you think about Sam?"
+# game/code/misc/spookchat_tucker.rpy:51
+msgid "What do you think about Sam?"
+msgstr "What do you think about Sam?"
 
-# XX## game/code/misc/spookchat_tucker.rpy:51
-msgid "[mschoice] One question: Paulina or Star?"
-msgstr "[mschoice] One question: Paulina or Star?"
+# game/code/misc/spookchat_tucker.rpy:51
+msgid "One question: Paulina or Star?"
+msgstr "One question: Paulina or Star?"
 
-# XX## game/code/misc/spookchat_tucker.rpy:51
-msgid "[mschoice] I'll talk to you later, Tuck."
-msgstr "[mschoice] I'll talk to you later, Tuck."
+# game/code/misc/spookchat_tucker.rpy:51
+msgid "I'll talk to you later, Tuck."
+msgstr "I'll talk to you later, Tuck."
 

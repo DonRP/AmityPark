@@ -1,104 +1,108 @@
-﻿# TODO: Translation updated at 2022-07-19 HH:HH# game/code/character_events/paulina/paulina_spookchat.rpy:23 ## translate crowdin paulina_selfie_shot_event_bb271ba9:
+﻿# TODO: Translation updated at 2022-07-19 21:03
+
+# game/code/character_events/paulina/paulina_spookchat.rpy:23 #-#-# translate crowdin paulina_selfie_shot_event_bb271ba9:
 msgid "[@phone@] {i}Bzzt{/i} {i}Bzzt{/i}"
 msgstr "[@phone@] {i}Bzzt{/i} {i}Bzzt{/i}"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:26 ## translate crowdin paulina_selfie_shot_event_c1bbbada:
+# game/code/character_events/paulina/paulina_spookchat.rpy:26 #-#-# translate crowdin paulina_selfie_shot_event_c1bbbada:
 msgid "[@danny@] Oh, hey, a text from Paulina, sweet."
 msgstr "[@danny@] Oh, hey, a text from Paulina, sweet."
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:32 ## translate crowdin paulina_selfie_shot_event_76b2fe88:
-msgid "[@nvl clear
-msgstr "[@nvl clear
+# game/code/character_events/paulina/paulina_spookchat.rpy:32 #-#-# translate crowdin paulina_selfie_shot_event_76b2fe88:
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:35 ## translate crowdin paulina_selfie_shot_event_1e8c695f:
+# nvl clear
+    nvl clear
+
+# game/code/character_events/paulina/paulina_spookchat.rpy:35 #-#-# translate crowdin paulina_selfie_shot_event_1e8c695f:
 msgid "[@paulinaspook@] Helloo Ghost Boy! How are you doing today?"
 msgstr "[@paulinaspook@] Helloo Ghost Boy! How are you doing today?"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:36 ## translate crowdin paulina_selfie_shot_event_db99443c:
+# game/code/character_events/paulina/paulina_spookchat.rpy:36 #-#-# translate crowdin paulina_selfie_shot_event_db99443c:
 msgid "[@billspook@] Hey Paulina! Doing okay. Same old nasty ghosts to beat up, as usual. :P"
 msgstr "[@billspook@] Hey Paulina! Doing okay. Same old nasty ghosts to beat up, as usual. :P"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:37 ## translate crowdin paulina_selfie_shot_event_d6e03c2c:
+# game/code/character_events/paulina/paulina_spookchat.rpy:37 #-#-# translate crowdin paulina_selfie_shot_event_d6e03c2c:
 msgid "[@paulinaspook@] Ugh, that sucks! But I'm so glad your keeping us all safe! U rule <3"
 msgstr "[@paulinaspook@] Ugh, that sucks! But I'm so glad your keeping us all safe! U rule <3"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:38 ## translate crowdin paulina_selfie_shot_event_06090104:
+# game/code/character_events/paulina/paulina_spookchat.rpy:38 #-#-# translate crowdin paulina_selfie_shot_event_06090104:
 msgid "[@billspook@] All in a days work, no worries. B^)"
 msgstr "[@billspook@] All in a days work, no worries. B^)"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:39 ## translate crowdin paulina_selfie_shot_event_72229306:
+# game/code/character_events/paulina/paulina_spookchat.rpy:39 #-#-# translate crowdin paulina_selfie_shot_event_72229306:
 msgid "[@billspook@] So, what are you up to?"
 msgstr "[@billspook@] So, what are you up to?"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:40 ## translate crowdin paulina_selfie_shot_event_5daa031b:
+# game/code/character_events/paulina/paulina_spookchat.rpy:40 #-#-# translate crowdin paulina_selfie_shot_event_5daa031b:
 msgid "[@paulinaspook@] Well..."
 msgstr "[@paulinaspook@] Well..."
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:41 ## translate crowdin paulina_selfie_shot_event_96d40e8b:
+# game/code/character_events/paulina/paulina_spookchat.rpy:41 #-#-# translate crowdin paulina_selfie_shot_event_96d40e8b:
 msgid "[@paulinaspook@] Right before cheerleading practice today, I was just like Omg, I look pretty dang hot today!"
 msgstr "[@paulinaspook@] Right before cheerleading practice today, I was just like Omg, I look pretty dang hot today!"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:42 ## translate crowdin paulina_selfie_shot_event_e96fb45b:
+# game/code/character_events/paulina/paulina_spookchat.rpy:42 #-#-# translate crowdin paulina_selfie_shot_event_e96fb45b:
 msgid "[@billspook@] Is that right?"
 msgstr "[@billspook@] Is that right?"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:43 ## translate crowdin paulina_selfie_shot_event_79127a2a:
+# game/code/character_events/paulina/paulina_spookchat.rpy:43 #-#-# translate crowdin paulina_selfie_shot_event_79127a2a:
 msgid "[@paulinaspook@] Oh yeah."
 msgstr "[@paulinaspook@] Oh yeah."
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:47 ## translate crowdin paulina_selfie_shot_event_76b2fe88_1:
-msgid "[@nvl clear
-msgstr "[@nvl clear
+# game/code/character_events/paulina/paulina_spookchat.rpy:47 #-#-# translate crowdin paulina_selfie_shot_event_76b2fe88_1:
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:65 ## translate crowdin paulina_selfie_shot_event_1193004d:
+# nvl clear
+    nvl clear
+
+# game/code/character_events/paulina/paulina_spookchat.rpy:65 #-#-# translate crowdin paulina_selfie_shot_event_1193004d:
 msgid "[@paulinaspook@] Thought you might want to see 4 yourself..."
 msgstr "[@paulinaspook@] Thought you might want to see 4 yourself..."
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:67 ## translate crowdin paulina_selfie_shot_event_89306758:
+# game/code/character_events/paulina/paulina_spookchat.rpy:67 #-#-# translate crowdin paulina_selfie_shot_event_89306758:
 msgid "[@billspook@] !!!!!"
 msgstr "[@billspook@] !!!!!"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:68 ## translate crowdin paulina_selfie_shot_event_5edf02a1:
+# game/code/character_events/paulina/paulina_spookchat.rpy:68 #-#-# translate crowdin paulina_selfie_shot_event_5edf02a1:
 msgid "[@paulinaspook@] Hehehhe you like??"
 msgstr "[@paulinaspook@] Hehehhe you like??"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:69 ## translate crowdin paulina_selfie_shot_event_ae533f54:
+# game/code/character_events/paulina/paulina_spookchat.rpy:69 #-#-# translate crowdin paulina_selfie_shot_event_ae533f54:
 msgid "[@billspook@] Believe me, I so do."
 msgstr "[@billspook@] Believe me, I so do."
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:70 ## translate crowdin paulina_selfie_shot_event_bdddcfc8:
+# game/code/character_events/paulina/paulina_spookchat.rpy:70 #-#-# translate crowdin paulina_selfie_shot_event_bdddcfc8:
 msgid "[@billspook@] Wow, thank you for making my day so much better..."
 msgstr "[@billspook@] Wow, thank you for making my day so much better..."
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:71 ## translate crowdin paulina_selfie_shot_event_3c1dcac0:
+# game/code/character_events/paulina/paulina_spookchat.rpy:71 #-#-# translate crowdin paulina_selfie_shot_event_3c1dcac0:
 msgid "[@paulinaspook@] Just thought you'd like to be reminded of what it is your helping to protect from those other nasty ghosts... >:)"
 msgstr "[@paulinaspook@] Just thought you'd like to be reminded of what it is your helping to protect from those other nasty ghosts... >:)"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:72 ## translate crowdin paulina_selfie_shot_event_2efbf010:
+# game/code/character_events/paulina/paulina_spookchat.rpy:72 #-#-# translate crowdin paulina_selfie_shot_event_2efbf010:
 msgid "[@billspook@] Oh yeah, I definitely feel a lot more motivated now."
 msgstr "[@billspook@] Oh yeah, I definitely feel a lot more motivated now."
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:73 ## translate crowdin paulina_selfie_shot_event_91f26e0d:
+# game/code/character_events/paulina/paulina_spookchat.rpy:73 #-#-# translate crowdin paulina_selfie_shot_event_91f26e0d:
 msgid "[@billspook@] Thanks a million Paulina"
 msgstr "[@billspook@] Thanks a million Paulina"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:74 ## translate crowdin paulina_selfie_shot_event_8a9bb817:
+# game/code/character_events/paulina/paulina_spookchat.rpy:74 #-#-# translate crowdin paulina_selfie_shot_event_8a9bb817:
 msgid "[@paulinaspook@] Anytime, Ghost Boy ;)"
 msgstr "[@paulinaspook@] Anytime, Ghost Boy ;)"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:84 ## translate crowdin paulina_selfie_shot_event_74af6199:
+# game/code/character_events/paulina/paulina_spookchat.rpy:84 #-#-# translate crowdin paulina_selfie_shot_event_74af6199:
 msgid "[@danny@] (Man... I would have never thought in a million years that something like this would he happening...)"
 msgstr "[@danny@] (Man... I would have never thought in a million years that something like this would he happening...)"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:86 ## translate crowdin paulina_selfie_shot_event_dc9ed1e8:
+# game/code/character_events/paulina/paulina_spookchat.rpy:86 #-#-# translate crowdin paulina_selfie_shot_event_dc9ed1e8:
 msgid "[@danny@] (Chalk one up for Inviso-Bill!)"
 msgstr "[@danny@] (Chalk one up for Inviso-Bill!)"
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:88 ## translate crowdin paulina_selfie_shot_event_d57e43bd:
+# game/code/character_events/paulina/paulina_spookchat.rpy:88 #-#-# translate crowdin paulina_selfie_shot_event_d57e43bd:
 msgid "[@danny@] . . ."
 msgstr "[@danny@] . . ."
 
-# game/code/character_events/paulina/paulina_spookchat.rpy:90 ## translate crowdin paulina_selfie_shot_event_e271d23d:
+# game/code/character_events/paulina/paulina_spookchat.rpy:90 #-#-# translate crowdin paulina_selfie_shot_event_e271d23d:
 msgid "[@danny@] (Nah, still sounds stupid, even when I'm celebrating lewd photos saying it...)"
 msgstr "[@danny@] (Nah, still sounds stupid, even when I'm celebrating lewd photos saying it...)"
 

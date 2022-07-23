@@ -1,36 +1,38 @@
-﻿# TODO: Translation updated at 2022-07-19 HH:HH# game/code/character_events/jack/jack_training_machine.rpy:12 ## translate crowdin training_machine_intro_d12f4c99:
-msgid "[@jack towards sad talk_happy@] {i}Ah{/i}, Danny! How can I help you son?"
-msgstr "[@jack towards sad talk_happy@] {i}Ah{/i}, Danny! How can I help you son?"
+﻿# TODO: Translation updated at 2022-07-19 21:03
 
-# game/code/character_events/jack/jack_training_machine.rpy:14 ## translate crowdin training_machine_intro_f95edeca:
-msgid "[@danny towards rise talk_frown@] Nothing, Dad, I'm good. Actually I was just wondering how you are doing after that... {i}uhhh{/i}, freak Ghost accident the other night."
-msgstr "[@danny towards rise talk_frown@] Nothing, Dad, I'm good. Actually I was just wondering how you are doing after that... {i}uhhh{/i}, freak Ghost accident the other night."
+# game/code/character_events/jack/jack_training_machine.rpy:12 #-#-# translate crowdin training_machine_intro_d12f4c99:
+msgid "[@jack_$_towards_$_sad_$_talk_happy@] {i}Ah{/i}, Danny! How can I help you son?"
+msgstr "[@jack_$_towards_$_sad_$_talk_happy@] {i}Ah{/i}, Danny! How can I help you son?"
 
-# game/code/character_events/jack/jack_training_machine.rpy:16 ## translate crowdin training_machine_intro_c421bc1b:
-msgid "[@jack closed sad talk_happy@] Oh, that? Why don't worry about that son, I've been worse, belive me! Your old man is still right as rain!"
-msgstr "[@jack closed sad talk_happy@] Oh, that? Why don't worry about that son, I've been worse, belive me! Your old man is still right as rain!"
+# game/code/character_events/jack/jack_training_machine.rpy:14 #-#-# translate crowdin training_machine_intro_f95edeca:
+msgid "[@danny_$_towards_$_rise_$_talk_frown@] Nothing, Dad, I'm good. Actually I was just wondering how you are doing after that... {i}uhhh{/i}, freak Ghost accident the other night."
+msgstr "[@danny_$_towards_$_rise_$_talk_frown@] Nothing, Dad, I'm good. Actually I was just wondering how you are doing after that... {i}uhhh{/i}, freak Ghost accident the other night."
 
-# game/code/character_events/jack/jack_training_machine.rpy:18 ## translate crowdin training_machine_intro_66506d61:
-msgid "[@danny closed sad talk_happy@] That's good to hear. Well then, I got to go and..."
-msgstr "[@danny closed sad talk_happy@] That's good to hear. Well then, I got to go and..."
+# game/code/character_events/jack/jack_training_machine.rpy:16 #-#-# translate crowdin training_machine_intro_c421bc1b:
+msgid "[@jack_$_closed_$_sad_$_talk_happy@] Oh, that? Why don't worry about that son, I've been worse, belive me! Your old man is still right as rain!"
+msgstr "[@jack_$_closed_$_sad_$_talk_happy@] Oh, that? Why don't worry about that son, I've been worse, belive me! Your old man is still right as rain!"
 
-# game/code/character_events/jack/jack_training_machine.rpy:20 ## translate crowdin training_machine_intro_bfc7a71e:
-msgid "[@jack towards rise talk_displeased@] Oh, Danny! Before you go, take a look at my latest invention!{p}I call it the {b}Fenton Battle Simulator{/b}!"
-msgstr "[@jack towards rise talk_displeased@] Oh, Danny! Before you go, take a look at my latest invention!{p}I call it the {b}Fenton Battle Simulator{/b}!"
+# game/code/character_events/jack/jack_training_machine.rpy:18 #-#-# translate crowdin training_machine_intro_66506d61:
+msgid "[@danny_$_closed_$_sad_$_talk_happy@] That's good to hear. Well then, I got to go and..."
+msgstr "[@danny_$_closed_$_sad_$_talk_happy@] That's good to hear. Well then, I got to go and..."
 
-# game/code/character_events/jack/jack_training_machine.rpy:22 ## translate crowdin training_machine_intro_76e60fc6:
-msgid "[@jack stare angry talk_happy@] This little baby will help me prepare myself against any future ghost encounters. That nasty Ectopus won't get the better of me next time we met!"
-msgstr "[@jack stare angry talk_happy@] This little baby will help me prepare myself against any future ghost encounters. That nasty Ectopus won't get the better of me next time we met!"
+# game/code/character_events/jack/jack_training_machine.rpy:20 #-#-# translate crowdin training_machine_intro_bfc7a71e:
+msgid "[@jack_$_towards_$_rise_$_talk_displeased@] Oh, Danny! Before you go, take a look at my latest invention!{p}I call it the {b}Fenton Battle Simulator{/b}!"
+msgstr "[@jack_$_towards_$_rise_$_talk_displeased@] Oh, Danny! Before you go, take a look at my latest invention!{p}I call it the {b}Fenton Battle Simulator{/b}!"
 
-# game/code/character_events/jack/jack_training_machine.rpy:24 ## translate crowdin training_machine_intro_0f07cdae:
-msgid "[@danny towards sad talk_happy@] Sounds great, I'll let you go back to it then. Bye dad."
-msgstr "[@danny towards sad talk_happy@] Sounds great, I'll let you go back to it then. Bye dad."
+# game/code/character_events/jack/jack_training_machine.rpy:22 #-#-# translate crowdin training_machine_intro_76e60fc6:
+msgid "[@jack_$_stare_$_angry_$_talk_happy@] This little baby will help me prepare myself against any future ghost encounters. That nasty Ectopus won't get the better of me next time we met!"
+msgstr "[@jack_$_stare_$_angry_$_talk_happy@] This little baby will help me prepare myself against any future ghost encounters. That nasty Ectopus won't get the better of me next time we met!"
 
-# game/code/character_events/jack/jack_training_machine.rpy:27 ## translate crowdin training_machine_intro_18c9b7d3:
-msgid "[@danny at_player idle smile@] (Well, Dad sure is in high spirits. Glad he's not upset he got knocked out. Guess I didn't have to worry after all.)"
-msgstr "[@danny at_player idle smile@] (Well, Dad sure is in high spirits. Glad he's not upset he got knocked out. Guess I didn't have to worry after all.)"
+# game/code/character_events/jack/jack_training_machine.rpy:24 #-#-# translate crowdin training_machine_intro_0f07cdae:
+msgid "[@danny_$_towards_$_sad_$_talk_happy@] Sounds great, I'll let you go back to it then. Bye dad."
+msgstr "[@danny_$_towards_$_sad_$_talk_happy@] Sounds great, I'll let you go back to it then. Bye dad."
 
-# game/code/character_events/jack/jack_training_machine.rpy:29 ## translate crowdin training_machine_intro_9588b93c:
-msgid "[@danny towards rise frown@] ({i}Hmm{/i}... the Fenton Battle Simulator... maybe it could help me out as well?){p}(Let's give it a try later at night, once everyone is asleep...)"
-msgstr "[@danny towards rise frown@] ({i}Hmm{/i}... the Fenton Battle Simulator... maybe it could help me out as well?){p}(Let's give it a try later at night, once everyone is asleep...)"
+# game/code/character_events/jack/jack_training_machine.rpy:27 #-#-# translate crowdin training_machine_intro_18c9b7d3:
+msgid "[@danny_$_at_player_$_idle_$_smile@] (Well, Dad sure is in high spirits. Glad he's not upset he got knocked out. Guess I didn't have to worry after all.)"
+msgstr "[@danny_$_at_player_$_idle_$_smile@] (Well, Dad sure is in high spirits. Glad he's not upset he got knocked out. Guess I didn't have to worry after all.)"
+
+# game/code/character_events/jack/jack_training_machine.rpy:29 #-#-# translate crowdin training_machine_intro_9588b93c:
+msgid "[@danny_$_towards_$_rise_$_frown@] ({i}Hmm{/i}... the Fenton Battle Simulator... maybe it could help me out as well?){p}(Let's give it a try later at night, once everyone is asleep...)"
+msgstr "[@danny_$_towards_$_rise_$_frown@] ({i}Hmm{/i}... the Fenton Battle Simulator... maybe it could help me out as well?){p}(Let's give it a try later at night, once everyone is asleep...)"
 

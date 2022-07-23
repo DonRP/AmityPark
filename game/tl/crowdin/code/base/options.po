@@ -1,4 +1,6 @@
-﻿# TODO: Translation updated at 2022-07-19 HH:HH# XXtranslate crowdin strings:XX# XX## game/code/base/options.rpy:15
-msgid "[mschoice] Amity Park"
-msgstr "[mschoice] Amity Park"
+﻿# TODO: Translation updated at 2022-07-19 21:03
+
+#§translate crowdin strings: #|#|# # game/code/base/options.rpy:15
+msgid "Amity Park"
+msgstr "Amity Park"
 

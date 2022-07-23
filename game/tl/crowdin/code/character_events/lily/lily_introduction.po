@@ -1,264 +1,266 @@
-﻿# TODO: Translation updated at 2022-07-19 HH:HH# game/code/character_events/lily/lily_introduction.rpy:13 ## translate crowdin lily_introduction_bf7b03eb:
-msgid "[@danny towards rise smile@] ({i}Hmmm...{/i} help wanted, huh? For fifty bucks a shift? I could always use the spare change lying around.)"
-msgstr "[@danny towards rise smile@] ({i}Hmmm...{/i} help wanted, huh? For fifty bucks a shift? I could always use the spare change lying around.)"
-
-# game/code/character_events/lily/lily_introduction.rpy:16 ## translate crowdin lily_introduction_1ddc6fa3:
-msgid "[@lily towards idle talk_happy@] Welcome to Nasty Burger, home of the Nasty Burger, can I take your order?"
-msgstr "[@lily towards idle talk_happy@] Welcome to Nasty Burger, home of the Nasty Burger, can I take your order?"
-
-# game/code/character_events/lily/lily_introduction.rpy:19 ## translate crowdin lily_introduction_137d8bbb:
-msgid "[@danny towards idle talk_happy@] Well, actually, I noticed your sign on the side here."
-msgstr "[@danny towards idle talk_happy@] Well, actually, I noticed your sign on the side here."
-
-# game/code/character_events/lily/lily_introduction.rpy:22 ## translate crowdin lily_introduction_11cec765:
-msgid "[@lily towards idle talk_displeased@] Huh? Oh yeah, the open positions. Yeah, our shift manager {b}Irving{/b} cut a bunch of the staff we had on hand."
-msgstr "[@lily towards idle talk_displeased@] Huh? Oh yeah, the open positions. Yeah, our shift manager {b}Irving{/b} cut a bunch of the staff we had on hand."
-
-# game/code/character_events/lily/lily_introduction.rpy:25 ## translate crowdin lily_introduction_a079dea7:
-msgid "[@danny towards rise talk_displeased@] Was it because of the rats they found?"
-msgstr "[@danny towards rise talk_displeased@] Was it because of the rats they found?"
-
-# game/code/character_events/lily/lily_introduction.rpy:28 ## translate crowdin lily_introduction_bb618734:
-msgid "[@lily towards angry talk_displeased@] No, the rats were all let in when Irving opened the back door to air the place out!"
-msgstr "[@lily towards angry talk_displeased@] No, the rats were all let in when Irving opened the back door to air the place out!"
-
-# game/code/character_events/lily/lily_introduction.rpy:31 ## translate crowdin lily_introduction_c63590ab:
-msgid "[@lily towards sad talk_displeased@] So of course he didn't get the boot, go figure."
-msgstr "[@lily towards sad talk_displeased@] So of course he didn't get the boot, go figure."
-
-# game/code/character_events/lily/lily_introduction.rpy:34 ## translate crowdin lily_introduction_dddbd884:
-msgid "[@lily towards rise talk_displeased@] Now, everybody else got let go because of the high demands and expectations he started setting after his mistake!"
-msgstr "[@lily towards rise talk_displeased@] Now, everybody else got let go because of the high demands and expectations he started setting after his mistake!"
-
-# game/code/character_events/lily/lily_introduction.rpy:37 ## translate crowdin lily_introduction_89de0309:
-msgid "[@lily towards angry talk_displeased@] Like, what a douche. Not everybody can work holidays or during family funerals, y'know?"
-msgstr "[@lily towards angry talk_displeased@] Like, what a douche. Not everybody can work holidays or during family funerals, y'know?"
-
-# game/code/character_events/lily/lily_introduction.rpy:40 ## translate crowdin lily_introduction_5541e306:
-msgid "[@danny towards angry talk_consternation@] Jeez, guy sounds like a real piece of work."
-msgstr "[@danny towards angry talk_consternation@] Jeez, guy sounds like a real piece of work."
-
-# game/code/character_events/lily/lily_introduction.rpy:43 ## translate crowdin lily_introduction_0bc2a582:
-msgid "[@lily towards sad talk_displeased@] Yeah, he sucks, but you should be fine. The sign's just offering some part time shifts, not a full time gig."
-msgstr "[@lily towards sad talk_displeased@] Yeah, he sucks, but you should be fine. The sign's just offering some part time shifts, not a full time gig."
-
-# game/code/character_events/lily/lily_introduction.rpy:46 ## translate crowdin lily_introduction_5456c88e:
-msgid "[@lily towards idle talk_displeased@] We're always in need of help now because of that, but it's not like you'd really have to deal with him much."
-msgstr "[@lily towards idle talk_displeased@] We're always in need of help now because of that, but it's not like you'd really have to deal with him much."
-
-# game/code/character_events/lily/lily_introduction.rpy:49 ## translate crowdin lily_introduction_fd98a1bb:
-msgid "[@lily towards rise talk_happy@] ...in fact, I can pretty much hire you on my own if I wanted to."
-msgstr "[@lily towards rise talk_happy@] ...in fact, I can pretty much hire you on my own if I wanted to."
-
-# game/code/character_events/lily/lily_introduction.rpy:52 ## translate crowdin lily_introduction_2c4c3c15:
-msgid "[@danny towards wondering talk_happy@] Oh, seriously? That's awesome, I could definitely use the extra money."
-msgstr "[@danny towards wondering talk_happy@] Oh, seriously? That's awesome, I could definitely use the extra money."
-
-# game/code/character_events/lily/lily_introduction.rpy:55 ## translate crowdin lily_introduction_72bd1763:
-msgid "[@lily away idle talk_happy@] I mean like, if I wanted to, that is.{p}That has yet to be decided."
-msgstr "[@lily away idle talk_happy@] I mean like, if I wanted to, that is.{p}That has yet to be decided."
-
-# game/code/character_events/lily/lily_introduction.rpy:58 ## translate crowdin lily_introduction_3ee3558f:
-msgid "[@danny towards sad talk_displeased@] O-oh, okay then."
-msgstr "[@danny towards sad talk_displeased@] O-oh, okay then."
-
-# game/code/character_events/lily/lily_introduction.rpy:61 ## translate crowdin lily_introduction_44c70db4:
-msgid "[@lily towards rise talk_happy@] Well first off, you'll have to go through my personal hiring process interview."
-msgstr "[@lily towards rise talk_happy@] Well first off, you'll have to go through my personal hiring process interview."
-
-# game/code/character_events/lily/lily_introduction.rpy:64 ## translate crowdin lily_introduction_9c77f886:
-msgid "[@danny towards idle talk_happy@] Sure, I'm down for that."
-msgstr "[@danny towards idle talk_happy@] Sure, I'm down for that."
-
-# game/code/character_events/lily/lily_introduction.rpy:67 ## translate crowdin lily_introduction_4e2c4a2c:
-msgid "[@lily towards idle talk_displeased@] Alright, cool.{p}So, first question:{p}Have you ever stolen money from a place of employment before?"
-msgstr "[@lily towards idle talk_displeased@] Alright, cool.{p}So, first question:{p}Have you ever stolen money from a place of employment before?"
-
-# game/code/character_events/lily/lily_introduction.rpy:70 ## translate crowdin lily_introduction_c3b99a35:
-msgid "[@danny towards idle talk_displeased@] No, I haven't."
-msgstr "[@danny towards idle talk_displeased@] No, I haven't."
-
-# game/code/character_events/lily/lily_introduction.rpy:73 ## translate crowdin lily_introduction_151562ad:
-msgid "[@lily towards idle talk_happy@] Nice. Well alright then, you're hired."
-msgstr "[@lily towards idle talk_happy@] Nice. Well alright then, you're hired."
-
-# game/code/character_events/lily/lily_introduction.rpy:76 ## translate crowdin lily_introduction_f9f47c46:
-msgid "[@danny towards rise talk_displeased@] ...really, that's it?"
-msgstr "[@danny towards rise talk_displeased@] ...really, that's it?"
-
-# game/code/character_events/lily/lily_introduction.rpy:79 ## translate crowdin lily_introduction_2dbe5a14:
-msgid "[@lily towards sad talk_happy@] Yeah, I mean, that's really the only important thing I need to worry about when hiring someone on."
-msgstr "[@lily towards sad talk_happy@] Yeah, I mean, that's really the only important thing I need to worry about when hiring someone on."
-
-# game/code/character_events/lily/lily_introduction.rpy:82 ## translate crowdin lily_introduction_9fd22780:
-msgid "[@lily towards angry talk_happy@] If I hire somebody on who dips their hands into the cash drawer, that's on me, and then I'd have to beat your face in."
-msgstr "[@lily towards angry talk_happy@] If I hire somebody on who dips their hands into the cash drawer, that's on me, and then I'd have to beat your face in."
-
-# game/code/character_events/lily/lily_introduction.rpy:85 ## translate crowdin lily_introduction_693b157e:
-msgid "[@lily towards idle talk_happy@] But other than that, this job's not exactly rocket science. Put meat on the grill, mop the spills up, scrub the toilets like every Thursday or so..."
-msgstr "[@lily towards idle talk_happy@] But other than that, this job's not exactly rocket science. Put meat on the grill, mop the spills up, scrub the toilets like every Thursday or so..."
-
-# game/code/character_events/lily/lily_introduction.rpy:88 ## translate crowdin lily_introduction_1e16fa7c:
-msgid "[@lily towards rise talk_displeased@] ...and like, wash your hands, obviously, but I don't even know if I need to bring that up."
-msgstr "[@lily towards rise talk_displeased@] ...and like, wash your hands, obviously, but I don't even know if I need to bring that up."
-
-# game/code/character_events/lily/lily_introduction.rpy:91 ## translate crowdin lily_introduction_6cce1540:
-msgid "[@danny towards idle talk_happy@] No, I get that, that's pretty much the basics."
-msgstr "[@danny towards idle talk_happy@] No, I get that, that's pretty much the basics."
-
-# game/code/character_events/lily/lily_introduction.rpy:94 ## translate crowdin lily_introduction_570f23e4:
-msgid "[@lily towards angry talk_displeased@] I mean, you'd have to be a serious degenerate to not wash your hands at least twice a day anyway..."
-msgstr "[@lily towards angry talk_displeased@] I mean, you'd have to be a serious degenerate to not wash your hands at least twice a day anyway..."
-
-# game/code/character_events/lily/lily_introduction.rpy:97 ## translate crowdin lily_introduction_84c7f15a:
-msgid "[@lily towards rise talk_displeased@] ...let alone when eating or handling greasy, fatty foods all day long, y'know?"
-msgstr "[@lily towards rise talk_displeased@] ...let alone when eating or handling greasy, fatty foods all day long, y'know?"
-
-# game/code/character_events/lily/lily_introduction.rpy:100 ## translate crowdin lily_introduction_29a0eee1:
-msgid "[@danny towards idle displeased@] . . ."
-msgstr "[@danny towards idle displeased@] . . ."
-
-# game/code/character_events/lily/lily_introduction.rpy:103 ## translate crowdin lily_introduction_b28ce958:
-msgid "[@danny at_player rise displeased@] . . ."
-msgstr "[@danny at_player rise displeased@] . . ."
-
-# game/code/character_events/lily/lily_introduction.rpy:106 ## translate crowdin lily_introduction_1ba1d0bf:
-msgid "[@danny towards rise talk_happy@] ...but of course."
-msgstr "[@danny towards rise talk_happy@] ...but of course."
-
-# game/code/character_events/lily/lily_introduction.rpy:109 ## translate crowdin lily_introduction_4fd700c6:
-msgid "[@lily towards idle talk_happy@] Anyway, yeah, their should be a spare uniform in the-"
-msgstr "[@lily towards idle talk_happy@] Anyway, yeah, their should be a spare uniform in the-"
-
-# game/code/character_events/lily/lily_introduction.rpy:113 ## translate crowdin lily_introduction_23b5f42d:
-msgid "[@valerie offscreen uniform towards sad talk_displeased@] Hey Lily, sorry I'm late. One of my friends called me while I was changing asking where I was, so I had to come up with a-"
-msgstr "[@valerie offscreen uniform towards sad talk_displeased@] Hey Lily, sorry I'm late. One of my friends called me while I was changing asking where I was, so I had to come up with a-"
-
-# game/code/character_events/lily/lily_introduction.rpy:124 ## translate crowdin lily_introduction_3b5747eb:
-msgid "[@valerie uniform towards sad talk_happy@] ...believable excuse..."
-msgstr "[@valerie uniform towards sad talk_happy@] ...believable excuse..."
-
-# game/code/character_events/lily/lily_introduction.rpy:128 ## translate crowdin lily_introduction_2268ad0d:
-msgid "[@valerie uniform closed sad displeased@] . . ."
-msgstr "[@valerie uniform closed sad displeased@] . . ."
-
-# game/code/character_events/lily/lily_introduction.rpy:139 ## translate crowdin lily_introduction_69c9ef7a:
-msgid "[@valerie uniform_point towards angry distraught@] {i}...!!{/i}"
-msgstr "[@valerie uniform_point towards angry distraught@] {i}...!!{/i}"
-
-# game/code/character_events/lily/lily_introduction.rpy:143 ## translate crowdin lily_introduction_f9a48a29:
-msgid "[@danny towards rise talk_displeased@] Valerie? You work here?"
-msgstr "[@danny towards rise talk_displeased@] Valerie? You work here?"
-
-# game/code/character_events/lily/lily_introduction.rpy:147 ## translate crowdin lily_introduction_e558535a:
-msgid "[@valerie uniform_point towards_wide angry talk_distraught@] F-F-Fenton!! What the, why are you-"
-msgstr "[@valerie uniform_point towards_wide angry talk_distraught@] F-F-Fenton!! What the, why are you-"
-
-# game/code/character_events/lily/lily_introduction.rpy:151 ## translate crowdin lily_introduction_74c559a8:
-msgid "[@lily towards rise talk_displeased@] Your name is \"Fenton\"?"
-msgstr "[@lily towards rise talk_displeased@] Your name is \"Fenton\"?"
-
-# game/code/character_events/lily/lily_introduction.rpy:155 ## translate crowdin lily_introduction_bc87aa2b:
-msgid "[@danny towards sad talk_happy@] No, that's my last name, my name's Da-"
-msgstr "[@danny towards sad talk_happy@] No, that's my last name, my name's Da-"
-
-# game/code/character_events/lily/lily_introduction.rpy:159 ## translate crowdin lily_introduction_eaaee54b:
-msgid "[@valerie uniform_up towards angry talk_displeased@] {i}FENTON!!{/i}{p}What the heck are you doing here?"
-msgstr "[@valerie uniform_up towards angry talk_displeased@] {i}FENTON!!{/i}{p}What the heck are you doing here?"
-
-# game/code/character_events/lily/lily_introduction.rpy:163 ## translate crowdin lily_introduction_ba05f8e7:
-msgid "[@danny towards rise talk_consternation@] ...in a fast food restaurant? Jeez Val, take a guess."
-msgstr "[@danny towards rise talk_consternation@] ...in a fast food restaurant? Jeez Val, take a guess."
-
-# game/code/character_events/lily/lily_introduction.rpy:167 ## translate crowdin lily_introduction_48fc2535:
-msgid "[@valerie uniform_point towards angry talk_distraught@] Look, you didn't see {u}anything{/u}, Fenton! If you know what's good for you."
-msgstr "[@valerie uniform_point towards angry talk_distraught@] Look, you didn't see {u}anything{/u}, Fenton! If you know what's good for you."
-
-# game/code/character_events/lily/lily_introduction.rpy:171 ## translate crowdin lily_introduction_82417584:
-msgid "[@lily towards rise talk_displeased@] Valerie, why are you yelling?"
-msgstr "[@lily towards rise talk_displeased@] Valerie, why are you yelling?"
-
-# game/code/character_events/lily/lily_introduction.rpy:178 ## translate crowdin lily_introduction_59c14058:
-msgid "[@valerie uniform_up towards rise talk_displeased@] Lily, I don't want him around here?"
-msgstr "[@valerie uniform_up towards rise talk_displeased@] Lily, I don't want him around here?"
-
-# game/code/character_events/lily/lily_introduction.rpy:182 ## translate crowdin lily_introduction_5b384bca:
-msgid "[@lily towards sad talk_displeased@] Why not?"
-msgstr "[@lily towards sad talk_displeased@] Why not?"
-
-# game/code/character_events/lily/lily_introduction.rpy:186 ## translate crowdin lily_introduction_ea4687c6:
-msgid "[@valerie uniform away angry talk_displeased@] Cause the loser goes to my school!!"
-msgstr "[@valerie uniform away angry talk_displeased@] Cause the loser goes to my school!!"
-
-# game/code/character_events/lily/lily_introduction.rpy:190 ## translate crowdin lily_introduction_e39d9c43:
-msgid "[@lily towards idle talk_happy@] You do?"
-msgstr "[@lily towards idle talk_happy@] You do?"
-
-# game/code/character_events/lily/lily_introduction.rpy:194 ## translate crowdin lily_introduction_815e3eea:
-msgid "[@danny towards idle talk_displeased@] Yeah..."
-msgstr "[@danny towards idle talk_displeased@] Yeah..."
-
-# game/code/character_events/lily/lily_introduction.rpy:198 ## translate crowdin lily_introduction_037a86b7:
-msgid "[@lily towards rise talk_displeased@] Well, that's not really an excuse not to hire the guy..."
-msgstr "[@lily towards rise talk_displeased@] Well, that's not really an excuse not to hire the guy..."
-
-# game/code/character_events/lily/lily_introduction.rpy:202 ## translate crowdin lily_introduction_62b881c9:
-msgid "[@valerie uniform_point towards angry talk_distraught@] Lilian, if you hire him, I quit!"
-msgstr "[@valerie uniform_point towards angry talk_distraught@] Lilian, if you hire him, I quit!"
-
-# game/code/character_events/lily/lily_introduction.rpy:207 ## translate crowdin lily_introduction_123f09c9:
-msgid "[@lily towards idle talk_displeased@] Didn't you say you are in serious need of money since your Dad lost his job?"
-msgstr "[@lily towards idle talk_displeased@] Didn't you say you are in serious need of money since your Dad lost his job?"
-
-# game/code/character_events/lily/lily_introduction.rpy:211 ## translate crowdin lily_introduction_853e075e:
-msgid "[@valerie uniform closed sad distraught@] {i}...!{/i}"
-msgstr "[@valerie uniform closed sad distraught@] {i}...!{/i}"
-
-# game/code/character_events/lily/lily_introduction.rpy:215 ## translate crowdin lily_introduction_192c9958:
-msgid "[@valerie uniform towards sad talk_distraught@] D-don't go around talking about that!"
-msgstr "[@valerie uniform towards sad talk_distraught@] D-don't go around talking about that!"
-
-# game/code/character_events/lily/lily_introduction.rpy:219 ## translate crowdin lily_introduction_417d49d4:
-msgid "[@valerie uniform closed angry talk_displeased@] {i}Ugh!{/i} Fine! Do whatever you want."
-msgstr "[@valerie uniform closed angry talk_displeased@] {i}Ugh!{/i} Fine! Do whatever you want."
-
-# game/code/character_events/lily/lily_introduction.rpy:228 ## translate crowdin lily_introduction_dccc8885:
-msgid "[@valerie uniform_point towards angry talk_displeased@] Just don't tell {u}anybody{/u} about this Fenton...{p}...or you're dead!"
-msgstr "[@valerie uniform_point towards angry talk_displeased@] Just don't tell {u}anybody{/u} about this Fenton...{p}...or you're dead!"
-
-# game/code/character_events/lily/lily_introduction.rpy:232 ## translate crowdin lily_introduction_29afd622:
-msgid "[@danny towards rise consternation@] ...?"
-msgstr "[@danny towards rise consternation@] ...?"
-
-# game/code/character_events/lily/lily_introduction.rpy:241 ## translate crowdin lily_introduction_53a4b846:
-msgid "[@lily towards sad talk_displeased@] ...{i}okaayyy{/i}... well I suppose I don't need to introduce you to Valerie..."
-msgstr "[@lily towards sad talk_displeased@] ...{i}okaayyy{/i}... well I suppose I don't need to introduce you to Valerie..."
-
-# game/code/character_events/lily/lily_introduction.rpy:244 ## translate crowdin lily_introduction_5571be57:
-msgid "[@danny towards rise talk_consternation@] Nah, we're obviously well acquainted."
-msgstr "[@danny towards rise talk_consternation@] Nah, we're obviously well acquainted."
-
-# game/code/character_events/lily/lily_introduction.rpy:247 ## translate crowdin lily_introduction_38b3342d:
-msgid "[@danny towards idle talk_happy@] So, anytime I can start?"
-msgstr "[@danny towards idle talk_happy@] So, anytime I can start?"
-
-# game/code/character_events/lily/lily_introduction.rpy:250 ## translate crowdin lily_introduction_c3fdc347:
-msgid "[@lily towards idle talk_happy@] Pretty much anytime we're open, really."
-msgstr "[@lily towards idle talk_happy@] Pretty much anytime we're open, really."
-
-# game/code/character_events/lily/lily_introduction.rpy:253 ## translate crowdin lily_introduction_a8eb031c:
-msgid "[@lily towards rise talk_happy@] Although, due to our policy, we can't have students working in the early portion of school hours, like right in the morning."
-msgstr "[@lily towards rise talk_happy@] Although, due to our policy, we can't have students working in the early portion of school hours, like right in the morning."
-
-# game/code/character_events/lily/lily_introduction.rpy:256 ## translate crowdin lily_introduction_7bcf3202:
-msgid "[@lily towards idle talk_happy@] So just stop by any other time if you're looking for some quick cash, I guess."
-msgstr "[@lily towards idle talk_happy@] So just stop by any other time if you're looking for some quick cash, I guess."
-
-# game/code/character_events/lily/lily_introduction.rpy:259 ## translate crowdin lily_introduction_8d8821f4:
-msgid "[@danny closed wondering talk_happy@] Awesome, thanks Lily!"
-msgstr "[@danny closed wondering talk_happy@] Awesome, thanks Lily!"
-
-# game/code/character_events/lily/lily_introduction.rpy:262 ## translate crowdin lily_introduction_484826d1:
-msgid "[@lily towards idle talk_happy@] Sure, no problem."
-msgstr "[@lily towards idle talk_happy@] Sure, no problem."
+﻿# TODO: Translation updated at 2022-07-19 21:03
+
+# game/code/character_events/lily/lily_introduction.rpy:13 #-#-# translate crowdin lily_introduction_bf7b03eb:
+msgid "[@danny_$_towards_$_rise_$_smile@] ({i}Hmmm...{/i} help wanted, huh? For fifty bucks a shift? I could always use the spare change lying around.)"
+msgstr "[@danny_$_towards_$_rise_$_smile@] ({i}Hmmm...{/i} help wanted, huh? For fifty bucks a shift? I could always use the spare change lying around.)"
+
+# game/code/character_events/lily/lily_introduction.rpy:16 #-#-# translate crowdin lily_introduction_1ddc6fa3:
+msgid "[@lily_$_towards_$_idle_$_talk_happy@] Welcome to Nasty Burger, home of the Nasty Burger, can I take your order?"
+msgstr "[@lily_$_towards_$_idle_$_talk_happy@] Welcome to Nasty Burger, home of the Nasty Burger, can I take your order?"
+
+# game/code/character_events/lily/lily_introduction.rpy:19 #-#-# translate crowdin lily_introduction_137d8bbb:
+msgid "[@danny_$_towards_$_idle_$_talk_happy@] Well, actually, I noticed your sign on the side here."
+msgstr "[@danny_$_towards_$_idle_$_talk_happy@] Well, actually, I noticed your sign on the side here."
+
+# game/code/character_events/lily/lily_introduction.rpy:22 #-#-# translate crowdin lily_introduction_11cec765:
+msgid "[@lily_$_towards_$_idle_$_talk_displeased@] Huh? Oh yeah, the open positions. Yeah, our shift manager {b}Irving{/b} cut a bunch of the staff we had on hand."
+msgstr "[@lily_$_towards_$_idle_$_talk_displeased@] Huh? Oh yeah, the open positions. Yeah, our shift manager {b}Irving{/b} cut a bunch of the staff we had on hand."
+
+# game/code/character_events/lily/lily_introduction.rpy:25 #-#-# translate crowdin lily_introduction_a079dea7:
+msgid "[@danny_$_towards_$_rise_$_talk_displeased@] Was it because of the rats they found?"
+msgstr "[@danny_$_towards_$_rise_$_talk_displeased@] Was it because of the rats they found?"
+
+# game/code/character_events/lily/lily_introduction.rpy:28 #-#-# translate crowdin lily_introduction_bb618734:
+msgid "[@lily_$_towards_$_angry_$_talk_displeased@] No, the rats were all let in when Irving opened the back door to air the place out!"
+msgstr "[@lily_$_towards_$_angry_$_talk_displeased@] No, the rats were all let in when Irving opened the back door to air the place out!"
+
+# game/code/character_events/lily/lily_introduction.rpy:31 #-#-# translate crowdin lily_introduction_c63590ab:
+msgid "[@lily_$_towards_$_sad_$_talk_displeased@] So of course he didn't get the boot, go figure."
+msgstr "[@lily_$_towards_$_sad_$_talk_displeased@] So of course he didn't get the boot, go figure."
+
+# game/code/character_events/lily/lily_introduction.rpy:34 #-#-# translate crowdin lily_introduction_dddbd884:
+msgid "[@lily_$_towards_$_rise_$_talk_displeased@] Now, everybody else got let go because of the high demands and expectations he started setting after his mistake!"
+msgstr "[@lily_$_towards_$_rise_$_talk_displeased@] Now, everybody else got let go because of the high demands and expectations he started setting after his mistake!"
+
+# game/code/character_events/lily/lily_introduction.rpy:37 #-#-# translate crowdin lily_introduction_89de0309:
+msgid "[@lily_$_towards_$_angry_$_talk_displeased@] Like, what a douche. Not everybody can work holidays or during family funerals, y'know?"
+msgstr "[@lily_$_towards_$_angry_$_talk_displeased@] Like, what a douche. Not everybody can work holidays or during family funerals, y'know?"
+
+# game/code/character_events/lily/lily_introduction.rpy:40 #-#-# translate crowdin lily_introduction_5541e306:
+msgid "[@danny_$_towards_$_angry_$_talk_consternation@] Jeez, guy sounds like a real piece of work."
+msgstr "[@danny_$_towards_$_angry_$_talk_consternation@] Jeez, guy sounds like a real piece of work."
+
+# game/code/character_events/lily/lily_introduction.rpy:43 #-#-# translate crowdin lily_introduction_0bc2a582:
+msgid "[@lily_$_towards_$_sad_$_talk_displeased@] Yeah, he sucks, but you should be fine. The sign's just offering some part time shifts, not a full time gig."
+msgstr "[@lily_$_towards_$_sad_$_talk_displeased@] Yeah, he sucks, but you should be fine. The sign's just offering some part time shifts, not a full time gig."
+
+# game/code/character_events/lily/lily_introduction.rpy:46 #-#-# translate crowdin lily_introduction_5456c88e:
+msgid "[@lily_$_towards_$_idle_$_talk_displeased@] We're always in need of help now because of that, but it's not like you'd really have to deal with him much."
+msgstr "[@lily_$_towards_$_idle_$_talk_displeased@] We're always in need of help now because of that, but it's not like you'd really have to deal with him much."
+
+# game/code/character_events/lily/lily_introduction.rpy:49 #-#-# translate crowdin lily_introduction_fd98a1bb:
+msgid "[@lily_$_towards_$_rise_$_talk_happy@] ...in fact, I can pretty much hire you on my own if I wanted to."
+msgstr "[@lily_$_towards_$_rise_$_talk_happy@] ...in fact, I can pretty much hire you on my own if I wanted to."
+
+# game/code/character_events/lily/lily_introduction.rpy:52 #-#-# translate crowdin lily_introduction_2c4c3c15:
+msgid "[@danny_$_towards_$_wondering_$_talk_happy@] Oh, seriously? That's awesome, I could definitely use the extra money."
+msgstr "[@danny_$_towards_$_wondering_$_talk_happy@] Oh, seriously? That's awesome, I could definitely use the extra money."
+
+# game/code/character_events/lily/lily_introduction.rpy:55 #-#-# translate crowdin lily_introduction_72bd1763:
+msgid "[@lily_$_away_$_idle_$_talk_happy@] I mean like, if I wanted to, that is.{p}That has yet to be decided."
+msgstr "[@lily_$_away_$_idle_$_talk_happy@] I mean like, if I wanted to, that is.{p}That has yet to be decided."
+
+# game/code/character_events/lily/lily_introduction.rpy:58 #-#-# translate crowdin lily_introduction_3ee3558f:
+msgid "[@danny_$_towards_$_sad_$_talk_displeased@] O-oh, okay then."
+msgstr "[@danny_$_towards_$_sad_$_talk_displeased@] O-oh, okay then."
+
+# game/code/character_events/lily/lily_introduction.rpy:61 #-#-# translate crowdin lily_introduction_44c70db4:
+msgid "[@lily_$_towards_$_rise_$_talk_happy@] Well first off, you'll have to go through my personal hiring process interview."
+msgstr "[@lily_$_towards_$_rise_$_talk_happy@] Well first off, you'll have to go through my personal hiring process interview."
+
+# game/code/character_events/lily/lily_introduction.rpy:64 #-#-# translate crowdin lily_introduction_9c77f886:
+msgid "[@danny_$_towards_$_idle_$_talk_happy@] Sure, I'm down for that."
+msgstr "[@danny_$_towards_$_idle_$_talk_happy@] Sure, I'm down for that."
+
+# game/code/character_events/lily/lily_introduction.rpy:67 #-#-# translate crowdin lily_introduction_4e2c4a2c:
+msgid "[@lily_$_towards_$_idle_$_talk_displeased@] Alright, cool.{p}So, first question:{p}Have you ever stolen money from a place of employment before?"
+msgstr "[@lily_$_towards_$_idle_$_talk_displeased@] Alright, cool.{p}So, first question:{p}Have you ever stolen money from a place of employment before?"
+
+# game/code/character_events/lily/lily_introduction.rpy:70 #-#-# translate crowdin lily_introduction_c3b99a35:
+msgid "[@danny_$_towards_$_idle_$_talk_displeased@] No, I haven't."
+msgstr "[@danny_$_towards_$_idle_$_talk_displeased@] No, I haven't."
+
+# game/code/character_events/lily/lily_introduction.rpy:73 #-#-# translate crowdin lily_introduction_151562ad:
+msgid "[@lily_$_towards_$_idle_$_talk_happy@] Nice. Well alright then, you're hired."
+msgstr "[@lily_$_towards_$_idle_$_talk_happy@] Nice. Well alright then, you're hired."
+
+# game/code/character_events/lily/lily_introduction.rpy:76 #-#-# translate crowdin lily_introduction_f9f47c46:
+msgid "[@danny_$_towards_$_rise_$_talk_displeased@] ...really, that's it?"
+msgstr "[@danny_$_towards_$_rise_$_talk_displeased@] ...really, that's it?"
+
+# game/code/character_events/lily/lily_introduction.rpy:79 #-#-# translate crowdin lily_introduction_2dbe5a14:
+msgid "[@lily_$_towards_$_sad_$_talk_happy@] Yeah, I mean, that's really the only important thing I need to worry about when hiring someone on."
+msgstr "[@lily_$_towards_$_sad_$_talk_happy@] Yeah, I mean, that's really the only important thing I need to worry about when hiring someone on."
+
+# game/code/character_events/lily/lily_introduction.rpy:82 #-#-# translate crowdin lily_introduction_9fd22780:
+msgid "[@lily_$_towards_$_angry_$_talk_happy@] If I hire somebody on who dips their hands into the cash drawer, that's on me, and then I'd have to beat your face in."
+msgstr "[@lily_$_towards_$_angry_$_talk_happy@] If I hire somebody on who dips their hands into the cash drawer, that's on me, and then I'd have to beat your face in."
+
+# game/code/character_events/lily/lily_introduction.rpy:85 #-#-# translate crowdin lily_introduction_693b157e:
+msgid "[@lily_$_towards_$_idle_$_talk_happy@] But other than that, this job's not exactly rocket science. Put meat on the grill, mop the spills up, scrub the toilets like every Thursday or so..."
+msgstr "[@lily_$_towards_$_idle_$_talk_happy@] But other than that, this job's not exactly rocket science. Put meat on the grill, mop the spills up, scrub the toilets like every Thursday or so..."
+
+# game/code/character_events/lily/lily_introduction.rpy:88 #-#-# translate crowdin lily_introduction_1e16fa7c:
+msgid "[@lily_$_towards_$_rise_$_talk_displeased@] ...and like, wash your hands, obviously, but I don't even know if I need to bring that up."
+msgstr "[@lily_$_towards_$_rise_$_talk_displeased@] ...and like, wash your hands, obviously, but I don't even know if I need to bring that up."
+
+# game/code/character_events/lily/lily_introduction.rpy:91 #-#-# translate crowdin lily_introduction_6cce1540:
+msgid "[@danny_$_towards_$_idle_$_talk_happy@] No, I get that, that's pretty much the basics."
+msgstr "[@danny_$_towards_$_idle_$_talk_happy@] No, I get that, that's pretty much the basics."
+
+# game/code/character_events/lily/lily_introduction.rpy:94 #-#-# translate crowdin lily_introduction_570f23e4:
+msgid "[@lily_$_towards_$_angry_$_talk_displeased@] I mean, you'd have to be a serious degenerate to not wash your hands at least twice a day anyway..."
+msgstr "[@lily_$_towards_$_angry_$_talk_displeased@] I mean, you'd have to be a serious degenerate to not wash your hands at least twice a day anyway..."
+
+# game/code/character_events/lily/lily_introduction.rpy:97 #-#-# translate crowdin lily_introduction_84c7f15a:
+msgid "[@lily_$_towards_$_rise_$_talk_displeased@] ...let alone when eating or handling greasy, fatty foods all day long, y'know?"
+msgstr "[@lily_$_towards_$_rise_$_talk_displeased@] ...let alone when eating or handling greasy, fatty foods all day long, y'know?"
+
+# game/code/character_events/lily/lily_introduction.rpy:100 #-#-# translate crowdin lily_introduction_29a0eee1:
+msgid "[@danny_$_towards_$_idle_$_displeased@] . . ."
+msgstr "[@danny_$_towards_$_idle_$_displeased@] . . ."
+
+# game/code/character_events/lily/lily_introduction.rpy:103 #-#-# translate crowdin lily_introduction_b28ce958:
+msgid "[@danny_$_at_player_$_rise_$_displeased@] . . ."
+msgstr "[@danny_$_at_player_$_rise_$_displeased@] . . ."
+
+# game/code/character_events/lily/lily_introduction.rpy:106 #-#-# translate crowdin lily_introduction_1ba1d0bf:
+msgid "[@danny_$_towards_$_rise_$_talk_happy@] ...but of course."
+msgstr "[@danny_$_towards_$_rise_$_talk_happy@] ...but of course."
+
+# game/code/character_events/lily/lily_introduction.rpy:109 #-#-# translate crowdin lily_introduction_4fd700c6:
+msgid "[@lily_$_towards_$_idle_$_talk_happy@] Anyway, yeah, their should be a spare uniform in the-"
+msgstr "[@lily_$_towards_$_idle_$_talk_happy@] Anyway, yeah, their should be a spare uniform in the-"
+
+# game/code/character_events/lily/lily_introduction.rpy:113 #-#-# translate crowdin lily_introduction_23b5f42d:
+msgid "[@valerie_$_offscreen_$_uniform_$_towards_$_sad_$_talk_displeased@] Hey Lily, sorry I'm late. One of my friends called me while I was changing asking where I was, so I had to come up with a-"
+msgstr "[@valerie_$_offscreen_$_uniform_$_towards_$_sad_$_talk_displeased@] Hey Lily, sorry I'm late. One of my friends called me while I was changing asking where I was, so I had to come up with a-"
+
+# game/code/character_events/lily/lily_introduction.rpy:124 #-#-# translate crowdin lily_introduction_3b5747eb:
+msgid "[@valerie_$_uniform_$_towards_$_sad_$_talk_happy@] ...believable excuse..."
+msgstr "[@valerie_$_uniform_$_towards_$_sad_$_talk_happy@] ...believable excuse..."
+
+# game/code/character_events/lily/lily_introduction.rpy:128 #-#-# translate crowdin lily_introduction_2268ad0d:
+msgid "[@valerie_$_uniform_$_closed_$_sad_$_displeased@] . . ."
+msgstr "[@valerie_$_uniform_$_closed_$_sad_$_displeased@] . . ."
+
+# game/code/character_events/lily/lily_introduction.rpy:139 #-#-# translate crowdin lily_introduction_69c9ef7a:
+msgid "[@valerie_$_uniform_point_$_towards_$_angry_$_distraught@] {i}...!!{/i}"
+msgstr "[@valerie_$_uniform_point_$_towards_$_angry_$_distraught@] {i}...!!{/i}"
+
+# game/code/character_events/lily/lily_introduction.rpy:143 #-#-# translate crowdin lily_introduction_f9a48a29:
+msgid "[@danny_$_towards_$_rise_$_talk_displeased@] Valerie? You work here?"
+msgstr "[@danny_$_towards_$_rise_$_talk_displeased@] Valerie? You work here?"
+
+# game/code/character_events/lily/lily_introduction.rpy:147 #-#-# translate crowdin lily_introduction_e558535a:
+msgid "[@valerie_$_uniform_point_$_towards_wide_$_angry_$_talk_distraught@] F-F-Fenton!! What the, why are you-"
+msgstr "[@valerie_$_uniform_point_$_towards_wide_$_angry_$_talk_distraught@] F-F-Fenton!! What the, why are you-"
+
+# game/code/character_events/lily/lily_introduction.rpy:151 #-#-# translate crowdin lily_introduction_74c559a8:
+msgid "[@lily_$_towards_$_rise_$_talk_displeased@] Your name is \"Fenton\"?"
+msgstr "[@lily_$_towards_$_rise_$_talk_displeased@] Your name is \"Fenton\"?"
+
+# game/code/character_events/lily/lily_introduction.rpy:155 #-#-# translate crowdin lily_introduction_bc87aa2b:
+msgid "[@danny_$_towards_$_sad_$_talk_happy@] No, that's my last name, my name's Da-"
+msgstr "[@danny_$_towards_$_sad_$_talk_happy@] No, that's my last name, my name's Da-"
+
+# game/code/character_events/lily/lily_introduction.rpy:159 #-#-# translate crowdin lily_introduction_eaaee54b:
+msgid "[@valerie_$_uniform_up_$_towards_$_angry_$_talk_displeased@] {i}FENTON!!{/i}{p}What the heck are you doing here?"
+msgstr "[@valerie_$_uniform_up_$_towards_$_angry_$_talk_displeased@] {i}FENTON!!{/i}{p}What the heck are you doing here?"
+
+# game/code/character_events/lily/lily_introduction.rpy:163 #-#-# translate crowdin lily_introduction_ba05f8e7:
+msgid "[@danny_$_towards_$_rise_$_talk_consternation@] ...in a fast food restaurant? Jeez Val, take a guess."
+msgstr "[@danny_$_towards_$_rise_$_talk_consternation@] ...in a fast food restaurant? Jeez Val, take a guess."
+
+# game/code/character_events/lily/lily_introduction.rpy:167 #-#-# translate crowdin lily_introduction_48fc2535:
+msgid "[@valerie_$_uniform_point_$_towards_$_angry_$_talk_distraught@] Look, you didn't see {u}anything{/u}, Fenton! If you know what's good for you."
+msgstr "[@valerie_$_uniform_point_$_towards_$_angry_$_talk_distraught@] Look, you didn't see {u}anything{/u}, Fenton! If you know what's good for you."
+
+# game/code/character_events/lily/lily_introduction.rpy:171 #-#-# translate crowdin lily_introduction_82417584:
+msgid "[@lily_$_towards_$_rise_$_talk_displeased@] Valerie, why are you yelling?"
+msgstr "[@lily_$_towards_$_rise_$_talk_displeased@] Valerie, why are you yelling?"
+
+# game/code/character_events/lily/lily_introduction.rpy:178 #-#-# translate crowdin lily_introduction_59c14058:
+msgid "[@valerie_$_uniform_up_$_towards_$_rise_$_talk_displeased@] Lily, I don't want him around here?"
+msgstr "[@valerie_$_uniform_up_$_towards_$_rise_$_talk_displeased@] Lily, I don't want him around here?"
+
+# game/code/character_events/lily/lily_introduction.rpy:182 #-#-# translate crowdin lily_introduction_5b384bca:
+msgid "[@lily_$_towards_$_sad_$_talk_displeased@] Why not?"
+msgstr "[@lily_$_towards_$_sad_$_talk_displeased@] Why not?"
+
+# game/code/character_events/lily/lily_introduction.rpy:186 #-#-# translate crowdin lily_introduction_ea4687c6:
+msgid "[@valerie_$_uniform_$_away_$_angry_$_talk_displeased@] Cause the loser goes to my school!!"
+msgstr "[@valerie_$_uniform_$_away_$_angry_$_talk_displeased@] Cause the loser goes to my school!!"
+
+# game/code/character_events/lily/lily_introduction.rpy:190 #-#-# translate crowdin lily_introduction_e39d9c43:
+msgid "[@lily_$_towards_$_idle_$_talk_happy@] You do?"
+msgstr "[@lily_$_towards_$_idle_$_talk_happy@] You do?"
+
+# game/code/character_events/lily/lily_introduction.rpy:194 #-#-# translate crowdin lily_introduction_815e3eea:
+msgid "[@danny_$_towards_$_idle_$_talk_displeased@] Yeah..."
+msgstr "[@danny_$_towards_$_idle_$_talk_displeased@] Yeah..."
+
+# game/code/character_events/lily/lily_introduction.rpy:198 #-#-# translate crowdin lily_introduction_037a86b7:
+msgid "[@lily_$_towards_$_rise_$_talk_displeased@] Well, that's not really an excuse not to hire the guy..."
+msgstr "[@lily_$_towards_$_rise_$_talk_displeased@] Well, that's not really an excuse not to hire the guy..."
+
+# game/code/character_events/lily/lily_introduction.rpy:202 #-#-# translate crowdin lily_introduction_62b881c9:
+msgid "[@valerie_$_uniform_point_$_towards_$_angry_$_talk_distraught@] Lilian, if you hire him, I quit!"
+msgstr "[@valerie_$_uniform_point_$_towards_$_angry_$_talk_distraught@] Lilian, if you hire him, I quit!"
+
+# game/code/character_events/lily/lily_introduction.rpy:207 #-#-# translate crowdin lily_introduction_123f09c9:
+msgid "[@lily_$_towards_$_idle_$_talk_displeased@] Didn't you say you are in serious need of money since your Dad lost his job?"
+msgstr "[@lily_$_towards_$_idle_$_talk_displeased@] Didn't you say you are in serious need of money since your Dad lost his job?"
+
+# game/code/character_events/lily/lily_introduction.rpy:211 #-#-# translate crowdin lily_introduction_853e075e:
+msgid "[@valerie_$_uniform_$_closed_$_sad_$_distraught@] {i}...!{/i}"
+msgstr "[@valerie_$_uniform_$_closed_$_sad_$_distraught@] {i}...!{/i}"
+
+# game/code/character_events/lily/lily_introduction.rpy:215 #-#-# translate crowdin lily_introduction_192c9958:
+msgid "[@valerie_$_uniform_$_towards_$_sad_$_talk_distraught@] D-don't go around talking about that!"
+msgstr "[@valerie_$_uniform_$_towards_$_sad_$_talk_distraught@] D-don't go around talking about that!"
+
+# game/code/character_events/lily/lily_introduction.rpy:219 #-#-# translate crowdin lily_introduction_417d49d4:
+msgid "[@valerie_$_uniform_$_closed_$_angry_$_talk_displeased@] {i}Ugh!{/i} Fine! Do whatever you want."
+msgstr "[@valerie_$_uniform_$_closed_$_angry_$_talk_displeased@] {i}Ugh!{/i} Fine! Do whatever you want."
+
+# game/code/character_events/lily/lily_introduction.rpy:228 #-#-# translate crowdin lily_introduction_dccc8885:
+msgid "[@valerie_$_uniform_point_$_towards_$_angry_$_talk_displeased@] Just don't tell {u}anybody{/u} about this Fenton...{p}...or you're dead!"
+msgstr "[@valerie_$_uniform_point_$_towards_$_angry_$_talk_displeased@] Just don't tell {u}anybody{/u} about this Fenton...{p}...or you're dead!"
+
+# game/code/character_events/lily/lily_introduction.rpy:232 #-#-# translate crowdin lily_introduction_29afd622:
+msgid "[@danny_$_towards_$_rise_$_consternation@] ...?"
+msgstr "[@danny_$_towards_$_rise_$_consternation@] ...?"
+
+# game/code/character_events/lily/lily_introduction.rpy:241 #-#-# translate crowdin lily_introduction_53a4b846:
+msgid "[@lily_$_towards_$_sad_$_talk_displeased@] ...{i}okaayyy{/i}... well I suppose I don't need to introduce you to Valerie..."
+msgstr "[@lily_$_towards_$_sad_$_talk_displeased@] ...{i}okaayyy{/i}... well I suppose I don't need to introduce you to Valerie..."
+
+# game/code/character_events/lily/lily_introduction.rpy:244 #-#-# translate crowdin lily_introduction_5571be57:
+msgid "[@danny_$_towards_$_rise_$_talk_consternation@] Nah, we're obviously well acquainted."
+msgstr "[@danny_$_towards_$_rise_$_talk_consternation@] Nah, we're obviously well acquainted."
+
+# game/code/character_events/lily/lily_introduction.rpy:247 #-#-# translate crowdin lily_introduction_38b3342d:
+msgid "[@danny_$_towards_$_idle_$_talk_happy@] So, anytime I can start?"
+msgstr "[@danny_$_towards_$_idle_$_talk_happy@] So, anytime I can start?"
+
+# game/code/character_events/lily/lily_introduction.rpy:250 #-#-# translate crowdin lily_introduction_c3fdc347:
+msgid "[@lily_$_towards_$_idle_$_talk_happy@] Pretty much anytime we're open, really."
+msgstr "[@lily_$_towards_$_idle_$_talk_happy@] Pretty much anytime we're open, really."
+
+# game/code/character_events/lily/lily_introduction.rpy:253 #-#-# translate crowdin lily_introduction_a8eb031c:
+msgid "[@lily_$_towards_$_rise_$_talk_happy@] Although, due to our policy, we can't have students working in the early portion of school hours, like right in the morning."
+msgstr "[@lily_$_towards_$_rise_$_talk_happy@] Although, due to our policy, we can't have students working in the early portion of school hours, like right in the morning."
+
+# game/code/character_events/lily/lily_introduction.rpy:256 #-#-# translate crowdin lily_introduction_7bcf3202:
+msgid "[@lily_$_towards_$_idle_$_talk_happy@] So just stop by any other time if you're looking for some quick cash, I guess."
+msgstr "[@lily_$_towards_$_idle_$_talk_happy@] So just stop by any other time if you're looking for some quick cash, I guess."
+
+# game/code/character_events/lily/lily_introduction.rpy:259 #-#-# translate crowdin lily_introduction_8d8821f4:
+msgid "[@danny_$_closed_$_wondering_$_talk_happy@] Awesome, thanks Lily!"
+msgstr "[@danny_$_closed_$_wondering_$_talk_happy@] Awesome, thanks Lily!"
+
+# game/code/character_events/lily/lily_introduction.rpy:262 #-#-# translate crowdin lily_introduction_484826d1:
+msgid "[@lily_$_towards_$_idle_$_talk_happy@] Sure, no problem."
+msgstr "[@lily_$_towards_$_idle_$_talk_happy@] Sure, no problem."
 
