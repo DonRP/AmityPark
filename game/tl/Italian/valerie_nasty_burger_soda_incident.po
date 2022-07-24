@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 16:05\n"
+"PO-Revision-Date: 2022-07-24 18:20\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:57 #-#-# translate crowdin valerie_random_nasty_burger_soda_cb6df6fa:
 msgid "[_lily_s_towards_s_rise_s_talk_displeased_] Hey, Danny, could you help me out over here for a second?"
@@ -442,7 +442,7 @@ msgstr ""
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:612 #-#-# translate crowdin valerie_random_nasty_burger_soda_after_peek_b5994188:
 msgid "[_valerie_] What?!"
-msgstr ""
+msgstr "[_valerie_] Cosa?!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:615 #-#-# translate crowdin valerie_random_nasty_burger_soda_after_peek_e4fd6d85:
 msgid "[_danny_s_burger_s_towards_s_unhappy_s_talk_consternation_] Y-yeah, you still had soda on you, and you were, y'know, looking for a spare uniform to switch out."
