@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 16:08\n"
+"PO-Revision-Date: 2022-07-24 18:22\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/Transition.rpy:140 #-#-# translate crowdin Ghost_Fight_Result_98dec076:
 msgid " Danny has gained [plus_exp] EXP"
@@ -53,9 +53,9 @@ msgid "{color=#4ec253}Congratulations, you have {b}{u}leveled up{/b}{/u} !!{/col
 msgstr ""
 
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 # game/code/base/Transition.rpy:278
 msgid "No"
-msgstr ""
+msgstr "No"
 
