@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 16:08\n"
+"PO-Revision-Date: 2022-07-24 18:22\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -2242,7 +2242,7 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3006 #-#-# translate crowdin The_Great_Out_Doors_scene_13a_7ec0257a:
 msgid "[_maddie_s_talk_happy_2_] Come give me a hug!"
-msgstr ""
+msgstr "[_maddie_s_talk_happy_2_] Vieni a darmi un abbraccio!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3013 #-#-# translate crowdin The_Great_Out_Doors_scene_13a_efc88cc5:
 msgid "[_maddie_s_talk_happy_] Oooh, that's it... you're so {i}big{/i} and strong baby."
@@ -3806,7 +3806,7 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4854 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_3ef1ef94:
 msgid "[_danny_] Yes..."
-msgstr ""
+msgstr "[_danny_] Sì..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4855 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_ca721aed:
 msgid "[_maddie_] I'm not waiting any longer."
@@ -5638,11 +5638,11 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2823
 msgid "Yes."
-msgstr ""
+msgstr "Sì."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2823
 msgid "No."
-msgstr ""
+msgstr "No."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3224
 msgid "Cum down throat."
