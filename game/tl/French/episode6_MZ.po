@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:06\n"
+"PO-Revision-Date: 2022-07-24 18:21\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -5638,11 +5638,11 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2823
 msgid "Yes."
-msgstr ""
+msgstr "Oui."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2823
 msgid "No."
-msgstr ""
+msgstr "Non."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3224
 msgid "Cum down throat."
