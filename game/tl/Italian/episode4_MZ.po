@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 16:08\n"
+"PO-Revision-Date: 2022-07-24 18:22\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode4_MZ.rpy:21 #-#-# translate crowdin Wish_you_the_Best_scene_1_Hallway_0fe9772d:
 msgid "[_danny_s_talk_happy_] Tucker, my man! What's happening?"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:33 #-#-# translate crowdin Wish_you_the_Best_scene_1_Hallway_fab9c1d8:
 msgid "[_danny_s_talk_frown_s_wondering_] What are you talking about?"
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_wondering_] Di cosa stai parlando?"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:36 #-#-# translate crowdin Wish_you_the_Best_scene_1_Hallway_a2f93bb5:
 msgid "[_tucker_s_talk_happy_s_neutral_] Come on Danny, you were there, right?! Paulina's been talking about how she got stripped by that Ectopus monster and that you sprung into action and saved her! Man, did you really see her naked?!"
@@ -606,7 +606,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:588 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_a14691c9:
 msgid "[_danny_tucker_] Let's do it!!"
-msgstr ""
+msgstr "[_danny_tucker_] Facciamolo!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:607 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_3be504c5:
 msgid "[_danny_s_talk_frown_s_sad_] ...and that makes booth number #86! {i}Phew!!{/i}"
@@ -1278,7 +1278,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1249 #-#-# translate crowdin Wish_you_the_Best_after_tucker_phantom_45472b6a:
 msgid "[_danny_s_wondering_s_frown_2_] {i}Hmmm...{/i}"
-msgstr ""
+msgstr "[_danny_s_wondering_s_frown_2_] {i}Hmmm...{/i}"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1251 #-#-# translate crowdin Wish_you_the_Best_after_tucker_phantom_364ebdac:
 msgid "[_danny_s_at_player_s_neutral_s_talk_frown_] ...I should probably still check up on him anyway. Disaster scenario or not, there's no way Tucker's not doing {b}something{/b} pervy right now..."
@@ -2522,7 +2522,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2410 #-#-# translate crowdin Wish_you_the_Best_postfight_4_36a33e40:
 msgid "[_danny_s_talk_frown_2_] Hey..."
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_] Ehi..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2413 #-#-# translate crowdin Wish_you_the_Best_postfight_4_f211e955:
 msgid "[_danny_tucker_] ..."
