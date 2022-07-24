@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 16:05\n"
+"PO-Revision-Date: 2022-07-24 18:21\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/maddie_x_jack.rpy:1409 #-#-# translate crowdin maddie_x_jack_02_440c15b9:
 msgid "[_danny_] (-{u}titties!!{/u})"
@@ -353,7 +353,7 @@ msgstr ""
 
 # game/code/misc/maddie_x_jack.rpy:1428
 msgid "Take a closer look..."
-msgstr ""
+msgstr "Date un'occhiata più da vicino..."
 
 # game/code/misc/maddie_x_jack.rpy:1428
 msgid "Observe from a distance."
