@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-07-24 18:21\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
@@ -966,7 +966,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1173 #-#-# translate crowdin hunting_a_shadow_second_choice_33805b8f:
 msgid "[_sam_s_towards_wide_s_talk_frown_s_sad_2_] What?!"
-msgstr ""
+msgstr "[_sam_s_towards_wide_s_talk_frown_s_sad_2_] ¿Qué?!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1176 #-#-# translate crowdin hunting_a_shadow_second_choice_87c5ab89:
 msgid "[_danny_s_wondering_s_talk_happy_] Relax, Sam, it was just a joke."
@@ -1242,7 +1242,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1567 #-#-# translate crowdin sams_plan_scene_start_2dc2ddb1:
 msgid "[_sam_] What?"
-msgstr ""
+msgstr "[_sam_] ¿¿Qué?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1571 #-#-# translate crowdin sams_plan_scene_start_49c7ad62:
 msgid "[_danny_] That you'd be begging for more... {i}*Chuckles*{/i}"
@@ -1402,7 +1402,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1800 #-#-# translate crowdin sams_plan_scene_start_2bd866eb:
 msgid "[_sam_] Yeah."
-msgstr ""
+msgstr "[_sam_] sí."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1803 #-#-# translate crowdin sams_plan_scene_start_11af0c95:
 msgid "[_danny_] ...should I stop making the look?"
