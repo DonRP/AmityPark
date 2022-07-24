@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 16:04\n"
+"PO-Revision-Date: 2022-07-24 18:19\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -662,7 +662,7 @@ msgstr ""
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1202 #-#-# translate crowdin intro_dinner_910391ca:
 msgid "[_jack_] Yes..."
-msgstr ""
+msgstr "[_jack_] Sì..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1205 #-#-# translate crowdin intro_dinner_78c5821c:
 msgid "[_newscaster_s_7_] ...a man who has come under {i}numerous{/i} scrutinous and critical attacks due to his steadfast belief in ghostly apparitions..."
