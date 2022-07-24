@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 16:06\n"
+"PO-Revision-Date: 2022-07-24 18:20\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/desiree/desiree_affection_scenes.rpy:42 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_8c364de1:
 msgid "[_desiree_] Good morning, master~..."
@@ -314,7 +314,7 @@ msgstr ""
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:558 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_feeb2a36:
 msgid "[_desiree_] Please! ~ ♥"
-msgstr ""
+msgstr "[_desiree_] Per favore! ~ ♥"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:561 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_8766ce5a:
 msgid "[_danny_] {i}Graaahhh!!{/i}"
@@ -382,7 +382,7 @@ msgstr ""
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:638 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_Repeat_feeb2a36:
 msgid "[_desiree_] Please! ~ ♥"
-msgstr ""
+msgstr "[_desiree_] Per favore! ~ ♥"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:641 #-#-# translate crowdin desiree_affection_1_vaginal_cowgirl_Repeat_8766ce5a:
 msgid "[_danny_] {i}Graaahhh!!{/i}"
