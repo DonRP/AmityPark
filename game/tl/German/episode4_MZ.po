@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-07-24 18:22\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode4_MZ.rpy:21 #-#-# translate crowdin Wish_you_the_Best_scene_1_Hallway_0fe9772d:
 msgid "[_danny_s_talk_happy_] Tucker, my man! What's happening?"
@@ -606,7 +606,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:588 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_a14691c9:
 msgid "[_danny_tucker_] Let's do it!!"
-msgstr ""
+msgstr "[_danny_tucker_] Lass es uns tun!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:607 #-#-# translate crowdin Wish_you_the_Best_scene_3_stadium_3be504c5:
 msgid "[_danny_s_talk_frown_s_sad_] ...and that makes booth number #86! {i}Phew!!{/i}"
@@ -2522,7 +2522,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2410 #-#-# translate crowdin Wish_you_the_Best_postfight_4_36a33e40:
 msgid "[_danny_s_talk_frown_2_] Hey..."
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_] Hallo..."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2413 #-#-# translate crowdin Wish_you_the_Best_postfight_4_f211e955:
 msgid "[_danny_tucker_] ..."
