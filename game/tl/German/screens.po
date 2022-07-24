@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-07-24 18:22\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/screens.rpy:461 #-#-# translate crowdin 16d9a82f:
 msgid "frame: vbox: xpos 0"
@@ -62,11 +62,11 @@ msgstr ""
 
 # game/code/base/screens.rpy:299
 msgid "History"
-msgstr ""
+msgstr "Geschichte"
 
 # game/code/base/screens.rpy:300
 msgid "Skip"
-msgstr ""
+msgstr "Überspringen"
 
 # game/code/base/screens.rpy:301
 msgid "Auto"
@@ -74,7 +74,7 @@ msgstr ""
 
 # game/code/base/screens.rpy:302
 msgid "Save"
-msgstr ""
+msgstr "Speichern"
 
 # game/code/base/screens.rpy:303
 msgid "Q.Save"
@@ -86,7 +86,7 @@ msgstr ""
 
 # game/code/base/screens.rpy:305
 msgid "Prefs"
-msgstr ""
+msgstr "Einstellungen"
 
 # game/code/base/screens.rpy:306
 msgid "Hide D."
@@ -94,11 +94,11 @@ msgstr ""
 
 # game/code/base/screens.rpy:347
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 # game/code/base/screens.rpy:355
 msgid "Load"
-msgstr ""
+msgstr "Laden"
 
 # game/code/base/screens.rpy:357
 msgid "Options"
@@ -114,7 +114,7 @@ msgstr ""
 
 # game/code/base/screens.rpy:371
 msgid "Credits"
-msgstr ""
+msgstr "Mitwirkende"
 
 # game/code/base/screens.rpy:373
 msgid "About"
@@ -122,20 +122,21 @@ msgstr ""
 
 # game/code/base/screens.rpy:378
 msgid "Help"
-msgstr ""
+msgstr "Hilfe"
 
 # game/code/base/screens.rpy:381
 msgid "Quit"
-msgstr ""
+msgstr "Beenden"
 
 # game/code/base/screens.rpy:690
 msgid "Version [config.version!t]\n"
-msgstr ""
+msgstr "Version [config.version!t]\n"
 
 # game/code/base/screens.rpy:696
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "Erstellt mit {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
 
 # game/code/base/screens.rpy:733
 msgid "{b}Credits{/b} "
@@ -180,7 +181,7 @@ msgstr ""
 
 # game/code/base/screens.rpy:819
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
 
 # game/code/base/screens.rpy:819
 msgid "empty slot"
@@ -196,15 +197,15 @@ msgstr ""
 
 # game/code/base/screens.rpy:905
 msgid "Display"
-msgstr ""
+msgstr "Anzeige"
 
 # game/code/base/screens.rpy:906
 msgid "Window"
-msgstr ""
+msgstr "Fenster"
 
 # game/code/base/screens.rpy:907
 msgid "Fullscreen"
-msgstr ""
+msgstr "Vollbildmodus"
 
 # game/code/base/screens.rpy:911
 msgid "Rollback Side"
@@ -216,11 +217,11 @@ msgstr ""
 
 # game/code/base/screens.rpy:913
 msgid "Left"
-msgstr ""
+msgstr "Links"
 
 # game/code/base/screens.rpy:914
 msgid "Right"
-msgstr ""
+msgstr "Rechts"
 
 # game/code/base/screens.rpy:919
 msgid "Unseen Text"
@@ -244,7 +245,7 @@ msgstr ""
 
 # game/code/base/screens.rpy:940
 msgid "Text Speed"
-msgstr ""
+msgstr "Textgeschwindigkeit"
 
 # game/code/base/screens.rpy:944
 msgid "Auto-Forward Time"
@@ -264,11 +265,11 @@ msgstr ""
 
 # game/code/base/screens.rpy:968
 msgid "Voice Volume"
-msgstr ""
+msgstr "Stimmen Lautstärke"
 
 # game/code/base/screens.rpy:979
 msgid "Mute All"
-msgstr ""
+msgstr "Alles stumm schalten"
 
 # game/code/base/screens.rpy:1096
 msgid "The dialogue history is empty."
@@ -419,5 +420,5 @@ msgstr ""
 
 # game/code/base/screens.rpy:1745
 msgid "Menu"
-msgstr ""
+msgstr "Menü"
 
