@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:05\n"
+"PO-Revision-Date: 2022-07-24 18:20\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/maddie/maddie_tv.rpy:14 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_f84d361d:
 msgid "[_danny_s_f_s_offscreen_s_idle_s_displeased_] ({i}Jeez{/i}... Mom must have been exhausted, she just passed out here with the TV still on.)"
@@ -298,7 +298,7 @@ msgstr ""
 
 # game/code/character_events/maddie/maddie_tv.rpy:265 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_9fe8f8d9:
 msgid "[_danny_] Really?"
-msgstr ""
+msgstr "[_danny_] Vraiment?"
 
 # game/code/character_events/maddie/maddie_tv.rpy:269 #-#-# translate crowdin maddie_sunday_tv_sleep_first_time_post_climax_4cf50cc7:
 msgid "[_maddie_] {i}Mmhmmm{/i}, there just happened to be a rather fun activity I was in the middle of in my dream, along with..."
