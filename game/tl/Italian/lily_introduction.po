@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 16:04\n"
+"PO-Revision-Date: 2022-07-24 18:19\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/lily/lily_introduction.rpy:13 #-#-# translate crowdin lily_introduction_bf7b03eb:
 msgid "[_danny_s_towards_s_rise_s_smile_] ({i}Hmmm...{/i} help wanted, huh? For fifty bucks a shift? I could always use the spare change lying around.)"
@@ -210,7 +210,7 @@ msgstr ""
 
 # game/code/character_events/lily/lily_introduction.rpy:194 #-#-# translate crowdin lily_introduction_815e3eea:
 msgid "[_danny_s_towards_s_idle_s_talk_displeased_] Yeah..."
-msgstr ""
+msgstr "[_danny_s_towards_s_idle_s_talk_displeased_] Sì..."
 
 # game/code/character_events/lily/lily_introduction.rpy:198 #-#-# translate crowdin lily_introduction_037a86b7:
 msgid "[_lily_s_towards_s_rise_s_talk_displeased_] Well, that's not really an excuse not to hire the guy..."
