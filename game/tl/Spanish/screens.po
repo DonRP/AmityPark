@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-07-24 18:22\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/screens.rpy:461 #-#-# translate crowdin 16d9a82f:
 msgid "frame: vbox: xpos 0"
@@ -130,7 +130,7 @@ msgstr ""
 
 # game/code/base/screens.rpy:690
 msgid "Version [config.version!t]\n"
-msgstr ""
+msgstr "Versión [config.version!t]\n"
 
 # game/code/base/screens.rpy:696
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
@@ -360,7 +360,7 @@ msgstr ""
 
 # game/code/base/screens.rpy:1224
 msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgstr ""
+msgstr "Alterna asistencial {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
 # game/code/base/screens.rpy:1230
 msgid "Left Click"
