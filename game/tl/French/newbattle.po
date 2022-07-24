@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:06\n"
+"PO-Revision-Date: 2022-07-24 18:21\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
@@ -114,11 +114,11 @@ msgstr ""
 
 # game/code/battleoverhaul/newbattle.rpy:91 #-#-# translate crowdin newbattletutorial_28da2033:
 msgid "[_danny_s_stare_s_rise_s_talk_happy_] Really?"
-msgstr ""
+msgstr "[_danny_s_stare_s_rise_s_talk_happy_] Vraiment?"
 
 # game/code/battleoverhaul/newbattle.rpy:94 #-#-# translate crowdin newbattletutorial_d64ddac7:
 msgid "[_epa_] Really!"
-msgstr ""
+msgstr "[_epa_] Vraiment!"
 
 # game/code/battleoverhaul/newbattle.rpy:97 #-#-# translate crowdin newbattletutorial_f9aa21b2:
 msgid "[_epa_] Now every time you gain enough experience to increase your current {b}Level{/b} you will automatically become stronger, increasing your Maximum Health, Maximum Ecto-Power, Maximum Strength, and Maximum Orgone Capacity."
@@ -146,7 +146,7 @@ msgstr ""
 
 # game/code/battleoverhaul/newbattle.rpy:111 #-#-# translate crowdin newbattletutorial_28da2033_1:
 msgid "[_danny_s_stare_s_rise_s_talk_happy_] Really?"
-msgstr ""
+msgstr "[_danny_s_stare_s_rise_s_talk_happy_] Vraiment?"
 
 # game/code/battleoverhaul/newbattle.rpy:114 #-#-# translate crowdin newbattletutorial_4bd8f9bf:
 msgid "[_epa_] Really! Again!"
