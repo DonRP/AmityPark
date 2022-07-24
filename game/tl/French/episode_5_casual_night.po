@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:05\n"
+"PO-Revision-Date: 2022-07-24 18:20\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:18 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_db41006a:
 msgid "[_danny_s_sad_] (Oh, Mom's here... I hope she's still not upset about the whole jumpsuit wardrobe malfunction the other day...)"
@@ -722,7 +722,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:560 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_c62cfc09:
 msgid "[_danny_s_blank_stare_s_rise_one_s_talk_frown_] No, I don't think so..."
-msgstr ""
+msgstr "[_danny_s_blank_stare_s_rise_one_s_talk_frown_] Non, je ne pense pas..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:562 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_e03306f1:
 msgid "[_maddie_s_closed_s_sad_2_s_talk_happy_] Great! Oh, this'll be perfect! I'll pop it in right now! Grab a seat, honey!"
@@ -1254,7 +1254,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:869 #-#-# translate crowdin cummy_mummy_ce838279:
 msgid "[_maddie_] Hmmm..."
-msgstr ""
+msgstr "[_maddie_] Hmmm..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:871 #-#-# translate crowdin cummy_mummy_42d47df6:
 msgid "[_maddie_] He sure did, sweetie... he sure did..."
