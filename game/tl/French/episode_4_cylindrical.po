@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:06\n"
+"PO-Revision-Date: 2022-07-24 18:21\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_cylindrical.rpy:15 #-#-# translate crowdin cylindrical_container_scene_1_lab_10096f14:
 msgid "[_danny_s_rise_one_s_talk_happy_] Hey Mom, how 'zit hanging?"
@@ -70,7 +70,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:59 #-#-# translate crowdin cylindrical_container_scene_1_lab_6a2928b7:
 msgid "[_maddie_] Huh? What?"
-msgstr ""
+msgstr "[_maddie_] Huh ? Quoi ?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:61 #-#-# translate crowdin cylindrical_container_scene_1_lab_252da6c3:
 msgid "[_danny_s_talk_happy_s_sad_2_] I mean, it just sorta sounds like an arc reactor, like in the \"Iron Man\" movies. It's just a small thing that generates an infinite amount of power, basically."
@@ -238,7 +238,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:182 #-#-# translate crowdin cylindrical_container_scene_2_mystery_shop_c782adfa:
 msgid "[_danny_] What do you mean?"
-msgstr ""
+msgstr "[_danny_] Que veux-tu dire?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:183 #-#-# translate crowdin cylindrical_container_scene_2_mystery_shop_a8dfc922:
 msgid "[_box_ghost_s_talk_frown_2_s_sad_2_] {b}Zone-Mart{/b} hails from a place so {b}mysterious{/b}... and {i}so{/i} {b}strange{/b}... that some say that those who embark upon the journey to visit it... {u}never{/u} make it back..."
@@ -422,7 +422,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:374 #-#-# translate crowdin cylindrical_container_scene_4_mystery_shop_dbfafb10:
 msgid "[_box_ghost_s_talk_frown_] Huh? For what?"
-msgstr ""
+msgstr "[_box_ghost_s_talk_frown_] Huh? Pour quoi?"
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:376 #-#-# translate crowdin cylindrical_container_scene_4_mystery_shop_06c12044:
 msgid "[_danny_] ...for my package I ordered? The whole \"Box-O-Parts\" thing, I paid for it a couple days ago?"
@@ -550,7 +550,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:428 #-#-# translate crowdin cylindrical_container_scene_4_mystery_shop_5b88961f:
 msgid "[_danny_] Uhm..."
-msgstr ""
+msgstr "[_danny_] Uhm..."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:429 #-#-# translate crowdin cylindrical_container_scene_4_mystery_shop_1599a52d:
 msgid "[_danny_] ...this is a {b}joke{/ib} right?"
@@ -774,7 +774,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:617 #-#-# translate crowdin cylindrical_container_scene_5_lab_ce838279:
 msgid "[_maddie_] Hmmm..."
-msgstr ""
+msgstr "[_maddie_] Hmmm..."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:621 #-#-# translate crowdin cylindrical_container_scene_5_lab_2fb7c9f6:
 msgid "[_danny_s_talk_happy_2_s_sad_2_] P-plus, the guy I ordered it from owes me a favor for not outing him to the mall security."
@@ -1322,7 +1322,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:1017 #-#-# translate crowdin cylindrical_container_scene_5_lab_dae1c429:
 msgid "[_jack_] Hmmm..."
-msgstr ""
+msgstr "[_jack_] Hmmm..."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:1020 #-#-# translate crowdin cylindrical_container_scene_5_lab_67c648d2:
 msgid "[_jack_] Well... I assumed it had to do with these sudden..."
