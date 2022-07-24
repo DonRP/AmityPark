@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 16:08\n"
+"PO-Revision-Date: 2022-07-24 18:22\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
@@ -1086,7 +1086,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1329 #-#-# translate crowdin sams_plan_cocky_ending_f67e0583:
 msgid "[_danny_s_talk_frown_s_wondering_] What do you mean?"
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_wondering_] Cosa vuoi dire?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1332 #-#-# translate crowdin sams_plan_cocky_ending_35a00710:
 msgid "[_sam_s_talk_happy_s_sad_2_] To me, you're like... {b}totally{/b} different."
@@ -1242,7 +1242,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1567 #-#-# translate crowdin sams_plan_scene_start_2dc2ddb1:
 msgid "[_sam_] What?"
-msgstr ""
+msgstr "[_sam_] Cosa?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1571 #-#-# translate crowdin sams_plan_scene_start_49c7ad62:
 msgid "[_danny_] That you'd be begging for more... {i}*Chuckles*{/i}"
@@ -1274,7 +1274,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1597 #-#-# translate crowdin sams_plan_scene_start_1989719c:
 msgid "[_danny_] What was that?"
-msgstr ""
+msgstr "[_danny_] Cos'era quello?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1601 #-#-# translate crowdin sams_plan_scene_start_30cf9762:
 msgid "[_sam_] Please cum on me with your cock, Danny."
@@ -1346,7 +1346,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1747 #-#-# translate crowdin sams_plan_scene_start_b728b981:
 msgid "[_danny_] No, of course not."
-msgstr ""
+msgstr "[_danny_] No, certo che no."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1750 #-#-# translate crowdin sams_plan_scene_start_2989c2f5:
 msgid "[_sam_] …well then... yeah... I'm actually {b}really{/b} turned on."
@@ -1402,7 +1402,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1800 #-#-# translate crowdin sams_plan_scene_start_2bd866eb:
 msgid "[_sam_] Yeah."
-msgstr ""
+msgstr "[_sam_] Sì."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1803 #-#-# translate crowdin sams_plan_scene_start_11af0c95:
 msgid "[_danny_] ...should I stop making the look?"
@@ -1946,7 +1946,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2530 #-#-# translate crowdin kates_hero_blowjob_85888335:
 msgid "[_kate_] I love it."
-msgstr ""
+msgstr "[_kate_] Lo adoro."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2532 #-#-# translate crowdin kates_hero_blowjob_6563d433:
 msgid "[_danny_] "
@@ -2466,7 +2466,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3152 #-#-# translate crowdin kittys_revange_cheer_interview_99fb68f5:
 msgid "[_danny_s_talk_frown_s_wondering_] No, of course not!"
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_wondering_] No, certo che no!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3155 #-#-# translate crowdin kittys_revange_cheer_interview_96531a8f:
 msgid "[_tucker_s_ahegao_s_talk_happy_s_sad_] Speak for yourself, man."
@@ -2805,7 +2805,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1992
 msgid "Never mind."
-msgstr ""
+msgstr "Non importa."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:2000
 msgid "What do I wanna know about Kate's life?"
