@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:05\n"
+"PO-Revision-Date: 2022-07-24 18:20\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/home/house_misc.rpy:8 #-#-# translate crowdin locked_34880f71:
 msgid "[_danny_] (Jazz keeps her door locked most of the time. She doesn't like me snooping in on her. Whatever, like I'd even care!)"
@@ -66,7 +66,7 @@ msgstr ""
 
 # game/code/locations/home/house_misc.rpy:236 #-#-# translate crowdin pre_door_peep_62a8f603:
 msgid "[_danny_] Hmm...."
-msgstr ""
+msgstr "[_danny_] Hmm...."
 
 # game/code/locations/home/house_misc.rpy:249 #-#-# translate crowdin after_shower_peep_3c1d1673:
 msgid "[_danny_] No, that's it for tonight! I had actually better go to bed for now."
