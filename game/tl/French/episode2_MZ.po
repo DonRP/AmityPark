@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:06\n"
+"PO-Revision-Date: 2022-07-24 18:21\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode2_MZ.rpy:12 #-#-# translate crowdin ectopuss_fishing_intro_95fac4b9:
 msgid "[_danny_] Man... yesterday was seriously {i}crazy{/i}! Ghosts are actually real, and I'm somehow {u}part{/u} one now!!"
@@ -1486,7 +1486,7 @@ msgstr ""
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1668 #-#-# translate crowdin master_plan_postfight_f1ee27ef:
 msgid "[_ectopuss_s_7_] You again?!"
-msgstr ""
+msgstr "[_ectopuss_s_7_] Toi encore?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1673 #-#-# translate crowdin master_plan_postfight_cd09e7a5:
 msgid "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] That's right, and it's time for you to go back into your cage, wicked creature!"
@@ -1526,7 +1526,7 @@ msgstr ""
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1721 #-#-# translate crowdin master_plan_postscene_391aad02:
 msgid "[_ectopuss_s_11_] You?!"
-msgstr ""
+msgstr "[_ectopuss_s_11_] Vous?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1725 #-#-# translate crowdin master_plan_postscene_692b8816:
 msgid "[_vlad_s_thermos_s_towards_wide_s_neutral_s_talk_happy_] Yes, me! Back in your cage, foul beast!"
