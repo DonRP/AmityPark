@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:05\n"
+"PO-Revision-Date: 2022-07-24 18:20\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/AbYss_MZ.rpy:12 #-#-# translate crowdin buy_outfits_1abeb31e:
 msgid "[_sales_lady_s_talk_happy_s_at_player_2_s_wondering_] Hi there, welcome to AbYss! How can I help you today?"
@@ -109,7 +109,7 @@ msgstr ""
 
 # game/code/locations/AbYss_MZ.rpy:49
 msgid "Back."
-msgstr ""
+msgstr "Retour."
 
 # game/code/locations/AbYss_MZ.rpy:78
 msgid "What color might suit on Desiree?"
