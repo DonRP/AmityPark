@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 16:08\n"
+"PO-Revision-Date: 2022-07-24 18:22\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_tucker.rpy:35 #-#-# translate crowdin tucker_chat_1_76b2fe88:
 msgid "[nvl_clear]"
@@ -130,7 +130,7 @@ msgstr ""
 
 # game/code/misc/spookchat_tucker.rpy:116 #-#-# translate crowdin tucker_chat_2_7c1e8ce8:
 msgid "[_tuckerspook_] What do you mean?"
-msgstr ""
+msgstr "[_tuckerspook_] Cosa vuoi dire?"
 
 # game/code/misc/spookchat_tucker.rpy:117 #-#-# translate crowdin tucker_chat_2_20fd229d:
 msgid "[_dannyspook_] Like, what do you think of her, overall?"
@@ -194,7 +194,7 @@ msgstr ""
 
 # game/code/misc/spookchat_tucker.rpy:144 #-#-# translate crowdin tucker_chat_2_688f9104:
 msgid "[_dannyspook_] Wait, what?!"
-msgstr ""
+msgstr "[_dannyspook_] Aspetta, cosa?!"
 
 # game/code/misc/spookchat_tucker.rpy:145 #-#-# translate crowdin tucker_chat_2_d95bfd69:
 msgid "[_tuckerspook_] Wuddup?"
