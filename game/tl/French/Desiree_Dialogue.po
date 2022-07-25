@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:06\n"
+"PO-Revision-Date: 2022-07-25 01:18\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/Desiree_Dialogue.rpy:38 #-#-# translate crowdin desiree_released_start_86417235:
 msgid "[_danny_s_closed_s_sad_s_talk_happy_2_] Oh magic Genie, your gracious master is here! I've come for my wishes, {i}he heh he{/i}!"
@@ -326,7 +326,7 @@ msgstr ""
 
 # game/code/misc/Desiree_Dialogue.rpy:1684 #-#-# translate crowdin ask_about_ghosts_about_desiree_070a1a85:
 msgid "[_desiree_s_talk_frown_s_closed_s_sad_2_] Well, if you insist..."
-msgstr ""
+msgstr "[_desiree_s_talk_frown_s_closed_s_sad_2_] Eh bien, si vous insistez..."
 
 # game/code/misc/Desiree_Dialogue.rpy:1686 #-#-# translate crowdin ask_about_ghosts_about_desiree_a8586130:
 msgid "[_desiree_s_towards_2_s_talk_frown_2_s_neutral_] My main interests relate to wishes which mainly work doublefold as unfortunate and unexpected curses."
