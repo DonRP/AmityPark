@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-07-25 01:18\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -3806,7 +3806,7 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4854 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_3ef1ef94:
 msgid "[_danny_] Yes..."
-msgstr ""
+msgstr "[_danny_] Si..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4855 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_ca721aed:
 msgid "[_maddie_] I'm not waiting any longer."
