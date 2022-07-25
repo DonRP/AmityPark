@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 16:08\n"
+"PO-Revision-Date: 2022-07-25 01:19\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:17 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_a29726b8:
 msgid "[_danny_s_talk_happy_s_rise_one_] Whaddup, gothic butt?"
@@ -2002,7 +2002,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1540 #-#-# translate crowdin twinkle_twinkle_little_star_star_bj_ffa4d4c2:
 msgid "[_danny_] I'm about to..."
-msgstr ""
+msgstr "[_danny_] Sto per..."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1541 #-#-# translate crowdin twinkle_twinkle_little_star_star_bj_b4dd0b0c:
 msgid "[_danny_] Oh... oh Star... I'm gonna..."
