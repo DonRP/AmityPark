@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-07-25 01:18\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -3334,7 +3334,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4248 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_Sex_49c40cb2:
 msgid "[_danny_] Huh?"
-msgstr ""
+msgstr "[_danny_] ¿Eh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4250 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_Sex_e6feb739:
 msgid "[_kate_] {i}Ow ow ow!!{/i}{p}Dick!{p}Out of ass!{p}Now please!"
@@ -10738,7 +10738,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13784 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_f46feabd:
 msgid "[_tall_goon_] Huh?"
-msgstr ""
+msgstr "[_tall_goon_] ¿Eh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13794 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_fe2b7c08:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_happy_] Tucker?"
@@ -11318,7 +11318,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14704 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_d77c552b:
 msgid "[_sam_] Huh?"
-msgstr ""
+msgstr "[_sam_] ¿Eh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14706 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_42f5546d:
 msgid "[_sam_] Oh! S-sorry Danny!"
