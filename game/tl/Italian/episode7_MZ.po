@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 16:08\n"
+"PO-Revision-Date: 2022-07-25 01:19\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -2982,7 +2982,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3822 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_c7b77883:
 msgid "[_sam_s_co_s_towards_s_confused_s_talk_happy_] Yeah?"
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_confused_s_talk_happy_] Sì?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:3825 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_9_Sam_Bedoom_Afternoon_Original_2_girls_version_d3e16909:
 msgid "[_danny_s_beatenup_s_towards_s_unhappy_s_talk_amused_] ...I'll visit again when I've recovered, okay?"
@@ -3202,7 +3202,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4141 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_Sex_baa8da5a:
 msgid "[_danny_] Really?!"
-msgstr ""
+msgstr "[_danny_] Davvero?!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4142 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_Sex_aece3765:
 msgid "[_kate_] Yeah, I do like being taken control of... makes it that much better."
@@ -3334,7 +3334,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4248 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_Sex_49c40cb2:
 msgid "[_danny_] Huh?"
-msgstr ""
+msgstr "[_danny_] Huh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4250 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_Orgone_Scene_Bedroom_Sex_e6feb739:
 msgid "[_kate_] {i}Ow ow ow!!{/i}{p}Dick!{p}Out of ass!{p}Now please!"
@@ -4302,7 +4302,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:5458 #-#-# translate crowdin A_Nightmare_Called_Ember_Maddie_anal_scene_f8462773:
 msgid "[_danny_] You mean-"
-msgstr ""
+msgstr "[_danny_] Vuoi dire-"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:5461 #-#-# translate crowdin A_Nightmare_Called_Ember_Maddie_anal_scene_a2b0ace2:
 msgid "[_maddie_] Come closer Danny."
@@ -8298,7 +8298,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:10424 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_6_mc_home_party_evening_2af653db:
 msgid "[_desiree_] What do you think?"
-msgstr ""
+msgstr "[_desiree_] Cosa ne pensi?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:10436 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_continued_6_mc_home_party_evening_33077cdc:
 msgid "[_danny_s_towards_wide_s_wondering_s_talk_amused_] Wow! You look amazing!"
@@ -10738,7 +10738,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13784 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_f46feabd:
 msgid "[_tall_goon_] Huh?"
-msgstr ""
+msgstr "[_tall_goon_] Huh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13794 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_13_Park_Evening_Original_Trap_event_fe2b7c08:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_happy_] Tucker?"
@@ -11310,7 +11310,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14700 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_46c269f9:
 msgid "[_danny_] Mmmmm!"
-msgstr ""
+msgstr "[_danny_] Mmmmm!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14702 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_dad59f57:
 msgid "[_danny_] (Can't... breathe!)"
@@ -11318,7 +11318,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14704 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_d77c552b:
 msgid "[_sam_] Huh?"
-msgstr ""
+msgstr "[_sam_] Huh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14706 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_42f5546d:
 msgid "[_sam_] Oh! S-sorry Danny!"
@@ -11434,7 +11434,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14801 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_f2f6dc7f:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] I'll see you soon?"
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Ci vediamo presto?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14804 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_a211805d:
 msgid "[_sam_s_co_s_towards_wide_s_sad_s_talk_happy_] Uhuh, yeah! Gonna go crash on that couch! S-see yah!"
@@ -11546,7 +11546,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14910 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_5dd428d8:
 msgid "[_danny_s_towards_s_rise_s_talk_happy_] Yeah?"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_happy_] Sì?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14913 #-#-# translate crowdin A_Nightmare_Called_Ember_Sam_69_scene_c2f4041f:
 msgid "[_sam_s_co_s_towards_s_angry_s_talk_happy_] Kick her ass!"
@@ -12758,7 +12758,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16326 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_23_Danny_Bedroom_afternoon_b79b8ae2:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] What do you mean?"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] Cosa vuoi dire?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16329 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_23_Danny_Bedroom_afternoon_f214f868:
 msgid "[_ember_s_disguised_s_jazz_s_towards_s_idle_s_talk_distraught_] You won, I get it."
@@ -12858,7 +12858,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16427 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_24_Danny_Bedroom_Morning_98b66069:
 msgid "[_danny_s_towards_s_angry_s_talk_happy_] Language."
-msgstr ""
+msgstr "[_danny_s_towards_s_angry_s_talk_happy_] Linguaggio."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16430 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_24_Danny_Bedroom_Morning_edf748f2:
 msgid "[_ember_s_towards_s_confused_s_talk_distraught_] And you don't expect anything for it?"
@@ -14226,7 +14226,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17959 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_43ff9b38:
 msgid "[_ember_s_towards_s_idle_s_talk_happy_] Yeah?"
-msgstr ""
+msgstr "[_ember_s_towards_s_idle_s_talk_happy_] Sì?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:17962 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_da6677f9:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_sad_s_talk_displeased_] ...about that song you sing."
@@ -14718,7 +14718,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18542 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_7a214295:
 msgid "[_danny_] Sorry!!"
-msgstr ""
+msgstr "[_danny_] Scusa!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18560 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_df8ee2e4:
 msgid "[_danny_s_at_player_s_sad_s_talk_displeased_] Well, that certainly sucked."
@@ -14730,7 +14730,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18572 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_97e7e9bc:
 msgid "[_ember_s_towards_s_rise_s_talk_amused_] Well, well, well..."
-msgstr ""
+msgstr "[_ember_s_towards_s_rise_s_talk_amused_] Bene, bene, bene..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18575 #-#-# translate crowdin A_Nightmare_Called_Ember_jazz_shower_scene_5e967067:
 msgid "[_danny_s_towards_s_sad_s_talk_distraught_] Ember! Uh, hey, good morning... how're you doing...?"
@@ -14829,7 +14829,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4660
 msgid "Not right now."
-msgstr ""
+msgstr "Non in questo momento."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13251
 msgid "Star & Paulina."
