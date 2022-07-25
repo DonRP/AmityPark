@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:06\n"
+"PO-Revision-Date: 2022-07-25 01:18\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:17 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_a29726b8:
 msgid "[_danny_s_talk_happy_s_rise_one_] Whaddup, gothic butt?"
@@ -70,7 +70,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:49 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_1f9a1ecd:
 msgid "[_sam_s_-blush_2_s_talk_frown_3_] S-sorry..."
-msgstr ""
+msgstr "[_sam_s_-blush_2_s_talk_frown_3_] D-Désolé..."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:51 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_6e352068:
 msgid "[_danny_s_-blush_2_s_talk_happy_] {i}Anyway{/i}, the point I'm making is that I don't think my powers are what's making me feel good lately."
@@ -2002,7 +2002,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1540 #-#-# translate crowdin twinkle_twinkle_little_star_star_bj_ffa4d4c2:
 msgid "[_danny_] I'm about to..."
-msgstr ""
+msgstr "[_danny_] Non je ne le suis pas!"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1541 #-#-# translate crowdin twinkle_twinkle_little_star_star_bj_b4dd0b0c:
 msgid "[_danny_] Oh... oh Star... I'm gonna..."
