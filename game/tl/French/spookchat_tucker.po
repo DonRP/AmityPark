@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:06\n"
+"PO-Revision-Date: 2022-07-25 01:18\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_tucker.rpy:35 #-#-# translate crowdin tucker_chat_1_76b2fe88:
 msgid "[nvl_clear]"
@@ -90,7 +90,7 @@ msgstr ""
 
 # game/code/misc/spookchat_tucker.rpy:93 #-#-# translate crowdin tucker_chat_2_03a0bdbd:
 msgid "[_dannyspook_] Seriously?"
-msgstr ""
+msgstr "[_dannyspook_] Sérieusement ?"
 
 # game/code/misc/spookchat_tucker.rpy:94 #-#-# translate crowdin tucker_chat_2_de301b20:
 msgid "[_tuckerspook_] {i}Heeeeell{/i} no, dude. If I ever see a real ghost, I'm tripping up both you {i}and{/i} Sam to give myself some proper getaway time. Lol"
@@ -130,7 +130,7 @@ msgstr ""
 
 # game/code/misc/spookchat_tucker.rpy:116 #-#-# translate crowdin tucker_chat_2_7c1e8ce8:
 msgid "[_tuckerspook_] What do you mean?"
-msgstr ""
+msgstr "[_tuckerspook_] Que veux-tu dire?"
 
 # game/code/misc/spookchat_tucker.rpy:117 #-#-# translate crowdin tucker_chat_2_20fd229d:
 msgid "[_dannyspook_] Like, what do you think of her, overall?"
@@ -194,7 +194,7 @@ msgstr ""
 
 # game/code/misc/spookchat_tucker.rpy:144 #-#-# translate crowdin tucker_chat_2_688f9104:
 msgid "[_dannyspook_] Wait, what?!"
-msgstr ""
+msgstr "[_dannyspook_] Attends, quoi?!"
 
 # game/code/misc/spookchat_tucker.rpy:145 #-#-# translate crowdin tucker_chat_2_d95bfd69:
 msgid "[_tuckerspook_] Wuddup?"
