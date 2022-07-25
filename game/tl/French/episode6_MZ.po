@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-24 18:21\n"
+"PO-Revision-Date: 2022-07-25 01:18\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -1694,7 +1694,7 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2430 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Return_884d706f:
 msgid "[_delvo_s_towards_s_wondering_s_talk_frown_] Is that..."
-msgstr ""
+msgstr "[_delvo_s_towards_s_wondering_s_talk_frown_] Est-ce..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:2433 #-#-# translate crowdin The_Great_Out_Doors_scene_10_Return_869dbf85:
 msgid "[_danny_s_towards_s_unhappy_s_talk_distraught_] Yes."
@@ -2238,11 +2238,11 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3003 #-#-# translate crowdin The_Great_Out_Doors_scene_13a_9ee2fd68:
 msgid "[_danny_s_talk_frown_] What are you-"
-msgstr ""
+msgstr "[_danny_s_talk_frown_] Qu'est-ce que tu-"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3006 #-#-# translate crowdin The_Great_Out_Doors_scene_13a_7ec0257a:
 msgid "[_maddie_s_talk_happy_2_] Come give me a hug!"
-msgstr ""
+msgstr "[_maddie_s_talk_happy_2_] Viens me faire un câlin!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3013 #-#-# translate crowdin The_Great_Out_Doors_scene_13a_efc88cc5:
 msgid "[_maddie_s_talk_happy_] Oooh, that's it... you're so {i}big{/i} and strong baby."
@@ -3806,7 +3806,7 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4854 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_3ef1ef94:
 msgid "[_danny_] Yes..."
-msgstr ""
+msgstr "[_danny_] Oui..."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4855 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_ca721aed:
 msgid "[_maddie_] I'm not waiting any longer."
@@ -4014,7 +4014,7 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5010 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_378fab77:
 msgid "[_danny_] Are you okay?"
-msgstr ""
+msgstr "[_danny_] Vous allez bien ?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:5012 #-#-# translate crowdin The_Great_Out_Doors_h_scene_missionary_217e25d6:
 msgid "[_maddie_s_missionary_s_after_s_d_smile_s_m_sad_s_m_talk_happy2_] Yes baby, just... just a little overwhelmed."
@@ -4850,7 +4850,7 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6250 #-#-# translate crowdin The_Great_Out_Doors_scene_23_Danny_Bedroom_I_76b54484:
 msgid "[_danny_s_towards_s_unhappy_s_talk_frown_] What do you mean?"
-msgstr ""
+msgstr "[_danny_s_towards_s_unhappy_s_talk_frown_] Que veux-tu dire?"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6253 #-#-# translate crowdin The_Great_Out_Doors_scene_23_Danny_Bedroom_I_2c2f5e11:
 msgid "[_maddie_s_towards_s_sad_s_talk_displeased_] Well it's just, now that we're home, and you can see the girls you go to school with, I'd understand if you wanted to forget about everything that's happened."
@@ -5282,7 +5282,7 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6761 #-#-# translate crowdin The_Great_Out_Doors_h_scene_cowgirl_0c30788a:
 msgid "[_maddie_] Mmmm!"
-msgstr ""
+msgstr "[_maddie_] Mmmm!"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6764 #-#-# translate crowdin The_Great_Out_Doors_h_scene_cowgirl_117f929a:
 msgid "[_danny_] This is incredible! I don't know how much longer I can hold on!"
@@ -5306,7 +5306,7 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6778 #-#-# translate crowdin The_Great_Out_Doors_h_scene_cowgirl_9addcc02:
 msgid "[_danny_] I'm gonna cum!"
-msgstr ""
+msgstr "[_danny_] Ouais, je suis presque sûr que ce n'est pas une chose normal."
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6781 #-#-# translate crowdin The_Great_Out_Doors_h_scene_cowgirl_911201be:
 msgid "[_maddie_] AAAAAAAH! ME TOO!"
@@ -5346,7 +5346,7 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6829 #-#-# translate crowdin The_Great_Out_Doors_h_scene_cowgirl_8752dc66:
 msgid "[_danny_] Do it!"
-msgstr ""
+msgstr "[_danny_] Fais-le !"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6832 #-#-# translate crowdin The_Great_Out_Doors_h_scene_cowgirl_f9c046dc:
 msgid "[_maddie_] Mmm, whatever you want {i}sir.{/i}"
