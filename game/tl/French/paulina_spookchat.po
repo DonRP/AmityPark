@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:06\n"
+"PO-Revision-Date: 2022-07-25 01:18\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/paulina/paulina_spookchat.rpy:23 #-#-# translate crowdin paulina_selfie_shot_event_bb271ba9:
 msgid "[_phone_] {i}Bzzt{/i} {i}Bzzt{/i}"
@@ -46,7 +46,7 @@ msgstr ""
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:40 #-#-# translate crowdin paulina_selfie_shot_event_5daa031b:
 msgid "[_paulinaspook_] Well..."
-msgstr ""
+msgstr "[_paulinaspook_] Bien..."
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:41 #-#-# translate crowdin paulina_selfie_shot_event_96d40e8b:
 msgid "[_paulinaspook_] Right before cheerleading practice today, I was just like Omg, I look pretty dang hot today!"
@@ -54,7 +54,7 @@ msgstr ""
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:42 #-#-# translate crowdin paulina_selfie_shot_event_e96fb45b:
 msgid "[_billspook_] Is that right?"
-msgstr ""
+msgstr "[_billspook_] Est-ce exact?"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:43 #-#-# translate crowdin paulina_selfie_shot_event_79127a2a:
 msgid "[_paulinaspook_] Oh yeah."
