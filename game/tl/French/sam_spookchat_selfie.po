@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:06\n"
+"PO-Revision-Date: 2022-07-25 01:18\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/sam/sam_spookchat_selfie.rpy:20 #-#-# translate crowdin sam_selfie_shot_event_bb271ba9:
 msgid "[_phone_] {i}Bzzt{/i} {i}Bzzt{/i}"
@@ -86,7 +86,7 @@ msgstr ""
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:70 #-#-# translate crowdin sam_selfie_shot_event_1cd84cdd:
 msgid "[_dannyspook_] I won't."
-msgstr ""
+msgstr "[_dannyspook_] Je ne le ferais pas."
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:71 #-#-# translate crowdin sam_selfie_shot_event_14d40335:
 msgid "[_dannyspook_] Thanks a million Sam"
