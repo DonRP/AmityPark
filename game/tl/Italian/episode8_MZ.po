@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-24 18:22\n"
+"PO-Revision-Date: 2022-07-25 01:19\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -79,7 +79,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:123 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_8d75fe60:
 msgid "[_danny_tucker_] Right!"
-msgstr ""
+msgstr "[_danny_tucker_] A destra!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:147 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_2e579289:
 msgid "[_ishiyama_s_speech_s_face_front_s_up_s_neutral_s_talk_happy_] Okay everyone, settle down, let's take our seats... thank you, good afternoon."
@@ -3523,7 +3523,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4398 #-#-# translate crowdin Episode_8_stage_205_school_mainhall_morning_pursue_ghost_cc6acd30:
 msgid "[_extend_] Just a second!"
-msgstr ""
+msgstr "[_extend_] Solo un secondo!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:4404 #-#-# translate crowdin Episode_8_stage_205_school_mainhall_morning_pursue_ghost_a033395e:
 msgid "[_penelope_s_arms_up_s_talk_amused_s_rise_] Yes, how can I help you?"
@@ -4948,7 +4948,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6835 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_ae076275:
 msgid "[_danny_] Got it!"
-msgstr ""
+msgstr "[_danny_] C'è!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6846 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_3bbf1637:
 msgid "[_spectra_] That's quite enough! It's time I put an end to our little chit chats!"
@@ -5128,7 +5128,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7137 #-#-# translate crowdin Episode_8_stage_260_school_entrance_afterwards_41b792c3:
 msgid "[_jazz_] Yeah?"
-msgstr ""
+msgstr "[_jazz_] Sì?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7140 #-#-# translate crowdin Episode_8_stage_260_school_entrance_afterwards_0b0b7a70:
 msgid "[_danny_] I'm just... I'm glad to hear from you."
@@ -5292,7 +5292,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7350 #-#-# translate crowdin Episode_8_stage_270_bedroom_morning_back_home_19e90745:
 msgid "[_extend_] Me?"
-msgstr ""
+msgstr "[_extend_] Io?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7354 #-#-# translate crowdin Episode_8_stage_270_bedroom_morning_back_home_c8508e71:
 msgid "[_danny_] ...y-yeah..."
@@ -5608,7 +5608,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7810 #-#-# translate crowdin Episode_8_stage_280_mall_day_the_new_one_43934aef:
 msgid "[_extend_] Now...?"
-msgstr ""
+msgstr "[_extend_] Ora...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7816 #-#-# translate crowdin Episode_8_stage_280_mall_day_the_new_one_4d46a016:
 msgid "[_star_] Wait, what? Where?!"
@@ -6128,7 +6128,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8541 #-#-# translate crowdin Episode_8_stage_310_bedroom_morning_check_in_8feed3af:
 msgid "[_danny_] Good morning!"
-msgstr ""
+msgstr "[_danny_] Buongiorno!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8545 #-#-# translate crowdin Episode_8_stage_310_bedroom_morning_check_in_d43a2c27:
 msgid "[_penelope_] {i}Tsch{/i}, what's good about it?"
@@ -6168,7 +6168,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8581 #-#-# translate crowdin Episode_8_stage_310_bedroom_morning_check_in_0e9124f5:
 msgid "[_penelope_] No."
-msgstr ""
+msgstr "[_penelope_] No."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8585 #-#-# translate crowdin Episode_8_stage_310_bedroom_morning_check_in_dbb8bfbe:
 msgid "[_penelope_] I simply want to address an issue of mine... in that...{p}{nw}"
@@ -6428,7 +6428,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8975 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_ea3e9830:
 msgid "[_danny_] So..."
-msgstr ""
+msgstr "[_danny_] Allora..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8981 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_e18733ac:
 msgid "[_danny_] If you want to go... you can."
@@ -6724,7 +6724,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9492 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_9bf6b4b2:
 msgid "[_penelope_] What is it?"
-msgstr ""
+msgstr "[_penelope_] Cosa c'è?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9496 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_ca8b65b9:
 msgid "[_danny_] Here."
@@ -6752,7 +6752,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9527 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_0e9124f5:
 msgid "[_penelope_] No."
-msgstr ""
+msgstr "[_penelope_] No."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9538 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_fd9e55ee:
 msgid "[_danny_] Hey, what the hell?"
@@ -7008,7 +7008,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9800 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_323544ad:
 msgid "[_extend_] What is it?"
-msgstr ""
+msgstr "[_extend_] Cosa c'è?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9804 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_29420445:
 msgid "[_danny_] Just watch..."
@@ -7116,7 +7116,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9974 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_41eb9fe1:
 msgid "[_penelope_] What does it look like I'm doing?"
-msgstr ""
+msgstr "[_penelope_] Cosa sembra che stia facendo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9978 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_ec7bd407:
 msgid "[_danny_] ...I'm... I'm sorry about snooping into your past like I did."
@@ -7220,7 +7220,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10086 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d2056d09:
 msgid "[_penelope_] Don't mention it."
-msgstr ""
+msgstr "[_penelope_] Non citarlo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10090 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_4ce10bee:
 msgid "[_danny_] ...did you see things during the war?"
@@ -7352,7 +7352,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10218 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_451ee4e3:
 msgid "[_penelope_] No... not at all..."
-msgstr ""
+msgstr "[_penelope_] No... non per niente..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10222 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_aba9009f:
 msgid "[_danny_] . . .{p}{nw}"
@@ -7556,7 +7556,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10422 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_1e482c23:
 msgid "[_penelope_] What do you mean?"
-msgstr ""
+msgstr "[_penelope_] Cosa vuoi dire?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10426 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d5749880:
 msgid "[_danny_] I mean... okay, your time as a human has passed. That's done, and it clearly didn't work out the way you probably wanted."
@@ -7652,7 +7652,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10547 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_6a47b2f9:
 msgid "[_danny_] Yeah?"
-msgstr ""
+msgstr "[_danny_] Sì?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10572 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d57e43bd_4:
 msgid "[_danny_] . . ."
@@ -7700,7 +7700,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10652 #-#-# translate crowdin Episode_8_stage_375_bedroom_morning_penelope_isolated_e2b903ef:
 msgid "[_danny_] What is it?"
-msgstr ""
+msgstr "[_danny_] Cosa c'è?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10657 #-#-# translate crowdin Episode_8_stage_375_bedroom_morning_penelope_isolated_310a849e:
 msgid "[_desiree_] Miss Spectra? She is... refusing to leave."
@@ -7916,7 +7916,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11256 #-#-# translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_5bcb641d:
 msgid "[_penelope_] Oh my God..."
-msgstr ""
+msgstr "[_penelope_] Oh mio Dio..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11263 #-#-# translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_d57e43bd:
 msgid "[_danny_] . . ."
@@ -8008,7 +8008,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11366 #-#-# translate crowdin Episode_8_stage_390_bedroom_night_penelope_unfurled_6e05e8e5:
 msgid "[_danny_] Huhh...?"
-msgstr ""
+msgstr "[_danny_] Huhh...?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11378 #-#-# translate crowdin Episode_8_stage_390_bedroom_night_penelope_unfurled_74d5e1c3:
 msgid "[_danny_s_towards_s_talk_displeased_s_rise_one_] Penelope?"
@@ -8324,7 +8324,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11699 #-#-# translate crowdin Episode_8_stage_400_bedroom_morning_the_aftermath_59000fba:
 msgid "[_danny_] Will do!"
-msgstr ""
+msgstr "[_danny_] Lo farò!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11702 #-#-# translate crowdin Episode_8_stage_400_bedroom_morning_the_aftermath_d57e43bd:
 msgid "[_danny_] . . ."
@@ -8660,7 +8660,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12125 #-#-# translate crowdin Episode_8_stage_420_penelope_domination_218f701c:
 msgid "[_penelope_] I'm cumming!!"
-msgstr ""
+msgstr "[_penelope_] Sto piombando!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12132 #-#-# translate crowdin Episode_8_stage_420_penelope_domination_ef8acf73:
 msgid "[_penelope_] {i}Mmmmmph!!{/i} Goodness..."
@@ -8708,7 +8708,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12194 #-#-# translate crowdin Episode_8_stage_425_caught_in_the_act_ee2f8d6f:
 msgid "[_danny_] How...!!"
-msgstr ""
+msgstr "[_danny_] Come...!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12198 #-#-# translate crowdin Episode_8_stage_425_caught_in_the_act_9df6386c:
 msgid "[_extend_] How long have you both been stood there like that?!"
@@ -9400,7 +9400,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12900 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_6764ae41:
 msgid "[_danny_] I'm gonna-!"
-msgstr ""
+msgstr "[_danny_] Io sono-!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12909 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_f6f88631:
 msgid "[_penelope_] {i}*Huff* *Huff* *Huff*{i}{p}{nw}"
@@ -9448,7 +9448,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12957 #-#-# translate crowdin Episode_8_stage_445_spectra_anal_chair_49c40cb2:
 msgid "[_danny_] Huh?"
-msgstr ""
+msgstr "[_danny_] Huh?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12973 #-#-# translate crowdin Episode_8_stage_445_desiree_and_ember_temptation_005acc7d:
 msgid "[_desiree_] I believe it is {i}our{/i} turn now, Master~"
@@ -9780,7 +9780,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13420 #-#-# translate crowdin Episode_8_stage_480_after_threesome_ad412701:
 msgid "[_extend_] Oh... right."
-msgstr ""
+msgstr "[_extend_] Oh... destra."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13423 #-#-# translate crowdin Episode_8_stage_480_after_threesome_57b09d92:
 msgid "[_danny_] {i}*Ahem* Uhm{/i}, girls...?"
@@ -9956,7 +9956,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13660 #-#-# translate crowdin Episode_8_stage_480_after_threesome_49c40cb2:
 msgid "[_danny_] Huh?"
-msgstr ""
+msgstr "[_danny_] Huh?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13664 #-#-# translate crowdin Episode_8_stage_480_after_threesome_45cf3979:
 msgid "[_penelope_] I'm saying {u}thank you{/u} for last night!!"
