@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-23 16:08\n"
+"PO-Revision-Date: 2022-07-25 01:19\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -6168,7 +6168,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8581 #-#-# translate crowdin Episode_8_stage_310_bedroom_morning_check_in_0e9124f5:
 msgid "[_penelope_] No."
-msgstr ""
+msgstr "[_penelope_] Nein."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8585 #-#-# translate crowdin Episode_8_stage_310_bedroom_morning_check_in_dbb8bfbe:
 msgid "[_penelope_] I simply want to address an issue of mine... in that...{p}{nw}"
@@ -6428,7 +6428,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8975 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_ea3e9830:
 msgid "[_danny_] So..."
-msgstr ""
+msgstr "[_danny_] So..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8981 #-#-# translate crowdin Episode_8_stage_330_bedroom_morning_freedom_offered_e18733ac:
 msgid "[_danny_] If you want to go... you can."
@@ -6752,7 +6752,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9527 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_0e9124f5:
 msgid "[_penelope_] No."
-msgstr ""
+msgstr "[_penelope_] Nein."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9538 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_fd9e55ee:
 msgid "[_danny_] Hey, what the hell?"
@@ -7116,7 +7116,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9974 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_41eb9fe1:
 msgid "[_penelope_] What does it look like I'm doing?"
-msgstr ""
+msgstr "[_penelope_] Was denkst du, was ich hier mache?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9978 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_ec7bd407:
 msgid "[_danny_] ...I'm... I'm sorry about snooping into your past like I did."
