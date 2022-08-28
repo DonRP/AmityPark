@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-08-28 09:08\n"
+"PO-Revision-Date: 2022-08-28 14:33\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/school/school_misc.rpy:6 #-#-# translate crowdin schools_closed_6d531cde:
 msgid "[_danny_] The school's closing soon, I need to get out of here before I get locked in."
@@ -26,7 +26,7 @@ msgstr "[_danny_] Probabilmente finirei in un sacco per cadaveri se qualcuno, co
 
 # game/code/locations/school/school_misc.rpy:43 #-#-# translate crowdin girl_toilet_locked_4e635638:
 msgid "[_danny_] (That's the girl's bathroom, I can't go in there. Not without getting slapped with a suspension.)"
-msgstr ""
+msgstr "[_danny_] (Questo è il bagno della ragazza, non posso andare lì dentro. Non senza essere schiaffeggiato con una sospensione.)"
 
 # game/code/locations/school/school_misc.rpy:54 #-#-# translate crowdin sams_locker_locked_011424b3:
 msgid "[_danny_] This is Sam's locker. Her locker number's \"130\", but she once complained to the school administration that they were being unfair for not accepting her request..."
