@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-25 01:19\n"
+"PO-Revision-Date: 2022-08-28 09:09\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -299,7 +299,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:388 #-#-# translate crowdin Episode_8_stage_30_school_classroom_morning_interruption_d610e779:
 msgid "[_doorsound_] {i}*Knock* *Knock* *Knock*{/i}"
-msgstr ""
+msgstr "[_doorsound_] {i}*Knock* *Knock* *Knock* *Knock*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:390 #-#-# translate crowdin Episode_8_stage_30_school_classroom_morning_interruption_c2fc8ff3:
 msgid "[_lancer_s_towards_s_neutral_s_talk_displeased_] Yes, come in!"
@@ -923,7 +923,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1194 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_d2d69bdc:
 msgid "[_danny_] {i}...!{/i}"
-msgstr ""
+msgstr "[_danny_] {i}...!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1197 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_c55027c2:
 msgid "[_jazz_] . . ."
@@ -1067,7 +1067,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1428 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_d57e43bd:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1431 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_f893a3a9:
 msgid "[_danny_] Wow, they're still going at it, huh?"
@@ -1079,7 +1079,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1436 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_d57e43bd_1:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1440 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_cef7d1b1:
 msgid "[_jazz_] Come on Danny, let's get out of here."
@@ -4003,7 +4003,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:5396 #-#-# translate crowdin Episode_8_stage_230_bedroom_jazz_sneaks_in_d57e43bd:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:5397 #-#-# translate crowdin Episode_8_stage_230_bedroom_jazz_sneaks_in_80d48361:
 msgid "[_danny_] (..huh?)"
@@ -4063,7 +4063,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:5446 #-#-# translate crowdin Episode_8_stage_230_bedroom_jazz_sneaks_in_d57e43bd_1:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:5450 #-#-# translate crowdin Episode_8_stage_230_bedroom_jazz_sneaks_in_5bd70c4f:
 msgid "[_jazz_] {i}Mmmh{/i}.. wow... I can feel your dick getting even bigger in my hand."
@@ -4988,7 +4988,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6957 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_d57e43bd:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:6962 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_f63e9f45:
 msgid "[_danny_] ...{i}Phew{/i} ...it's finally over..."
@@ -5320,7 +5320,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7378 #-#-# translate crowdin Episode_8_stage_270_bedroom_morning_back_home_6a67bf7d:
 msgid "[_danny_] H-huh?"
-msgstr ""
+msgstr "[_danny_] H-huh?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7382 #-#-# translate crowdin Episode_8_stage_270_bedroom_morning_back_home_c6558da5:
 msgid "[_spectra_] If you really think I'm going to stay here a second longer while you try and pick my brain like some sort of uncertified hack-"
@@ -5884,7 +5884,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8187 #-#-# translate crowdin Episode_8_stage_290_food_court_again_d57e43bd:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8191 #-#-# translate crowdin Episode_8_stage_290_food_court_again_194ef934:
 msgid "[_penelope_] Exactly. Danny, your problem is that you {i}love{/i} all of this. The power, the mystique, the Orgone boosting."
@@ -6248,7 +6248,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8669 #-#-# translate crowdin Episode_8_stage_310_bedroom_morning_check_in_d57e43bd:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8672 #-#-# translate crowdin Episode_8_stage_310_bedroom_morning_check_in_d93e3130:
 msgid "[_danny_] {i}*Sigh*{/i} I hope this wasn't a mistake..."
@@ -6832,11 +6832,11 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9620 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_d57e43bd:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9623 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_d2d69bdc:
 msgid "[_danny_] {i}...!{/i}"
-msgstr ""
+msgstr "[_danny_] {i}...!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9626 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_5771821c:
 msgid "[_danny_] {i}Gahhh!!{/i}"
@@ -7204,7 +7204,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10062 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d57e43bd:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10066 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_9feb21e3:
 msgid "[_penelope_] I imagine you sort've know what that's like, right? Playing second fiddle to your alter ego most of the time?"
@@ -7252,7 +7252,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10118 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d57e43bd_1:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10122 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_aeb63291:
 msgid "[_penelope_] The truth is... {i}I never really cared about helping people after the war.{/i}"
@@ -7412,7 +7412,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10278 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d57e43bd_2:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10282 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_57972b76:
 msgid "[_penelope_] I was privately paid to endorse it, of course... I didn't believe the procedure was of any true worth for treatment, I simply..."
@@ -7504,7 +7504,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10370 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d57e43bd_3:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10374 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_f1856cef:
 msgid "[_penelope_] Listen to me Danny."
@@ -7656,7 +7656,7 @@ msgstr "[_danny_] Sì?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10572 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d57e43bd_4:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10576 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_03b1ff12:
 msgid "[_penelope_] {i}*Ahem*{/i}"
@@ -7836,7 +7836,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11037 #-#-# translate crowdin Episode_8_stage_380_bedroom_morning_doing_research_d2d69bdc:
 msgid "[_danny_] {i}...!{/i}"
-msgstr ""
+msgstr "[_danny_] {i}...!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11154 #-#-# translate crowdin Episode_8_stage_380_bedroom_morning_doing_research_a168ffdb:
 msgid "[_danny_s_towards_s_rise_one_s_smile_] (This might be it... a piece of the story to help me break through to Penelope...)"
@@ -7920,7 +7920,7 @@ msgstr "[_penelope_] Oh mio Dio..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11263 #-#-# translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_d57e43bd:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11267 #-#-# translate crowdin Episode_8_stage_385_bedroom_night_bringing_closure_1b10f6a6:
 msgid "[_danny_] \"...I've seen you on the news and heard your radio appearances. I am so glad the world is treating you properly in the field of medicinal aid!\""
@@ -8216,7 +8216,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11562 #-#-# translate crowdin Episode_8_stage_400_bedroom_morning_the_aftermath_d610e779:
 msgid "[_doorsound_] {i}*Knock* *Knock* *Knock*{/i}"
-msgstr ""
+msgstr "[_doorsound_] {i}*Knock* *Knock* *Knock* *Knock*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11565 #-#-# translate crowdin Episode_8_stage_400_bedroom_morning_the_aftermath_5fedce9d:
 msgid "[_jazz_] Hey dork, you up yet? Are you busy?"
@@ -8328,7 +8328,7 @@ msgstr "[_danny_] Lo farò!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11702 #-#-# translate crowdin Episode_8_stage_400_bedroom_morning_the_aftermath_d57e43bd:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11705 #-#-# translate crowdin Episode_8_stage_400_bedroom_morning_the_aftermath_ecfe222a:
 msgid "[_danny_] Okay, you can stop hiding now."
@@ -8448,7 +8448,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11860 #-#-# translate crowdin Episode_8_stage_415_living_room_watching_tv_d57e43bd:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11863 #-#-# translate crowdin Episode_8_stage_415_living_room_watching_tv_767393c6:
 msgid "Male Lead A [special_delimiter] Oh my goodness! They're... eating her brains! Out of the poor girl's scalp!"
@@ -8796,7 +8796,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12333 #-#-# translate crowdin Episode_8_stage_430_present_prep_d57e43bd:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12336 #-#-# translate crowdin Episode_8_stage_430_present_prep_27c1a1e2:
 msgid "[_danny_] Hello...?{p}{nw}"
@@ -8856,7 +8856,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12385 #-#-# translate crowdin Episode_8_stage_430_present_prep_d57e43bd_1:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12388 #-#-# translate crowdin Episode_8_stage_430_present_prep_f1e59f72:
 msgid "[_danny_] (...annnd I guess not!)"
@@ -9768,7 +9768,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13411 #-#-# translate crowdin Episode_8_stage_480_after_threesome_d57e43bd:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13414 #-#-# translate crowdin Episode_8_stage_480_after_threesome_bcb0be2c:
 msgid "[_danny_] {i}...!!{/i}"
@@ -9980,7 +9980,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13691 #-#-# translate crowdin Episode_8_stage_480_after_threesome_d57e43bd_1:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13695 #-#-# translate crowdin Episode_8_stage_480_after_threesome_1748948c:
 msgid "[_danny_] \"Ta-ta for now\"? Really? What a weird way to end things..."
@@ -9988,15 +9988,15 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13725 #-#-# translate crowdin episode_8_afterward_cd9cb06a:
 msgid "Thanks for playing the most recent version of Amity Park."
-msgstr ""
+msgstr "Grazie per aver giocato alla versione più recente di Amity Park."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13726 #-#-# translate crowdin episode_8_afterward_e17babb7:
 msgid "Please feel free to share your opinions about the game and please visit our Patreon or Discord."
-msgstr ""
+msgstr "Sentitevi liberi di condividere le vostre opinioni sul gioco e visitate il nostro Patreon o Discord."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13727 #-#-# translate crowdin episode_8_afterward_a439f609:
 msgid "Until next time. -GZone "
-msgstr ""
+msgstr "Alla prossima volta. -GZone "
 
 msgid "Buy the coffee beans for ($200) ?"
 msgstr ""
