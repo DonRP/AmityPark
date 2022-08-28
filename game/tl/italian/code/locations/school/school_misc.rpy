@@ -22,7 +22,7 @@ translate italian girl_locker_locked_90c821b4:
 translate italian girl_toilet_locked_4e635638:
 
     # danny "(That's the girl's bathroom, I can't go in there. Not without getting slapped with a suspension.)"
-    ""
+    danny "(Questo è il bagno della ragazza, non posso andare lì dentro. Non senza essere schiaffeggiato con una sospensione.)"
 
 # game/code/locations/school/school_misc.rpy:54
 translate italian sams_locker_locked_011424b3:
