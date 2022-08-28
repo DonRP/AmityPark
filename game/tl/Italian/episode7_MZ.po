@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-25 01:19\n"
+"PO-Revision-Date: 2022-08-28 09:09\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -5486,7 +5486,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6946 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_6a67bf7d:
 msgid "[_danny_] H-huh?"
-msgstr ""
+msgstr "[_danny_] H-huh?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6949 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_8_danny_bedroom_sex_0d2da9a7:
 msgid "[_star_] Just do it! Tell me my pussy's better than any other girl's in this town!"
@@ -5690,7 +5690,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7178 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7182 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_0ce5950d:
 msgid "[_billspook_] Hey Paulina, it's Billy, the Ghost Boy."
@@ -8750,7 +8750,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11085 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_d610e779:
 msgid "[_doorsound_] {i}*Knock* *Knock* *Knock*{/i}"
-msgstr ""
+msgstr "[_doorsound_] {i}*Knock* *Knock* *Knock* *Knock*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:11097 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_7_party_bda8e90e:
 msgid "[_desiree_] Oh, look everyone! It's the, {i}ehrm{/i}, most \"super cool\", and {i}totally{/i} \"bitchin'\" superhero... Inviso-Bill!"
@@ -10422,7 +10422,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13382 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_12_Sam_House_Evening_d610e779:
 msgid "[_doorsound_] {i}*Knock* *Knock* *Knock*{/i}"
-msgstr ""
+msgstr "[_doorsound_] {i}*Knock* *Knock* *Knock* *Knock*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:13392 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_12_Sam_House_Evening_bebdb3cb:
 msgid "[_sam_s_co_s_towards_s_confused_s_talk_happy_] Oh hey. You're here."
@@ -11154,7 +11154,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14535 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_16_Danny_Bedroom_Evening_b88d642d:
 msgid "[_danny_] ..."
-msgstr ""
+msgstr "[_danny_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14538 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_16_Danny_Bedroom_Evening_bb62ab16:
 msgid "[_sam_] ...{i}suck{/i} your... \"thing\"..."
@@ -11654,7 +11654,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15053 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_18_Concert_Evening_1d67a930:
 msgid "[_danny_] I'm going ghost!"
-msgstr ""
+msgstr "[_danny_] Vado a fare il fantasma!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15068 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_18_Concert_Evening_a3cc27dd:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_angry_s_talk_displeased_] Ember!"
@@ -12202,7 +12202,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15725 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_20_Hallway_Jazz_d610e779:
 msgid "[_doorsound_] {i}*Knock* *Knock* *Knock*{/i}"
-msgstr ""
+msgstr "[_doorsound_] {i}*Knock* *Knock* *Knock* *Knock*{/i}"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:15735 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_20_Hallway_Jazz_999c9e45:
 msgid "[_jazz_s_towards_s_rise_s_talk_frown_] Huh? Oh, Danny. What do you want?"
@@ -14430,7 +14430,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18119 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_b88d642d:
 msgid "[_danny_] ..."
-msgstr ""
+msgstr "[_danny_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18151 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_1c5d2dbe:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_amused_s_blush_] E-Ember..."
