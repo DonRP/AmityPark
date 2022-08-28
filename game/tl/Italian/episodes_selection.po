@@ -10,40 +10,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 10:06\n"
+"PO-Revision-Date: 2022-08-28 09:09\n"
 
 msgid "Paulina was in trouble! What did I do?!"
-msgstr ""
+msgstr "Paulina era nei guai! Che cosa ho fatto?"
 
 # game/code/episodes/episodes_selection.rpy:202
 msgid "Saved her immediately!"
-msgstr ""
+msgstr "L'ha salvata immediatamente!"
 
 # game/code/episodes/episodes_selection.rpy:202
 msgid "Waited to see what happens..."
-msgstr ""
+msgstr "Aspettando di vedere cosa succede..."
 
 # game/code/episodes/episodes_selection.rpy:245
 msgid "Did I save Maddie from Ectopuss in the basement?"
-msgstr ""
+msgstr "Ho salvato Maddie da Ectopuss nel seminterrato?"
 
 # game/code/episodes/episodes_selection.rpy:330
 msgid "Did I prank Sam at Star's request?"
-msgstr ""
+msgstr "Ho fatto uno scherzo a Sam su richiesta di Star?"
 
 # game/code/episodes/episodes_selection.rpy:366
 msgid "Who did I take to the school dance?"
-msgstr ""
+msgstr "Chi ho portato al ballo della scuola?"
 
 # game/code/episodes/episodes_selection.rpy:366
 msgid "Sam"
-msgstr ""
+msgstr "Sam"
 
 # game/code/episodes/episodes_selection.rpy:406
 msgid "Did I get romantically involved with Maddie?"
-msgstr ""
+msgstr "Ho avuto una relazione sentimentale con Maddie?"
 
 # game/code/episodes/episodes_selection.rpy:440
 msgid "Who did I get my second orgone charge from?"
-msgstr ""
+msgstr "Da chi ho ricevuto la mia seconda carica orgonica?"
 
