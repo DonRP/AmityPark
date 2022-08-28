@@ -146,13 +146,3 @@ game/images
 game/gui
 game/music
 game/archive.rpa
-*.zip
-*.ttf
-*.otf
-game/monika.chr
-game/script_version.txt
-*.exe
-AmityPark.sh
-AmityPark.py
-ap_log.txt
-/renpy
