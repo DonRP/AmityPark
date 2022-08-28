@@ -115,12 +115,12 @@ msgid "[_starspook_] Experienced... ;) Lmao"
 msgstr "[_starspook_] Experienced... ;) Lmao"
 
 # game/code/misc/spookchat_star.rpy:114 #-#-# translate crowdin star_chat_2_2c81b6e2:
-msgid "[_billspook_] Oh, yeah, I know what you mean." (multiple=2)
-msgstr "[_billspook_] Oh, yeah, I know what you mean." (multiple=2)
+msgid "[_billspook_] Oh, yeah, I know what you mean. [multiple2]"
+msgstr "[_billspook_] Oh, yeah, I know what you mean. [multiple2]"
 
 # game/code/misc/spookchat_star.rpy:115 #-#-# translate crowdin star_chat_2_98e71948:
-msgid "[_danny_] (I think, anyway.)" (multiple=2)
-msgstr "[_danny_] (I think, anyway.)" (multiple=2)
+msgid "[_danny_] (I think, anyway.) [multiple2]"
+msgstr "[_danny_] (I think, anyway.) [multiple2]"
 
 # game/code/misc/spookchat_star.rpy:126 #-#-# translate crowdin star_chat_2_76b2fe88_3:
 msgid "[nvl_clear]"
@@ -147,12 +147,12 @@ msgid "[_starspook_] This girl he's definitely sleeping with. Ugh, I just know s
 msgstr "[_starspook_] This girl he's definitely sleeping with. Ugh, I just know she doesn't properly bathe herself."
 
 # game/code/misc/spookchat_star.rpy:134 #-#-# translate crowdin star_chat_2_b558041a:
-msgid "[_starspook_] In the human world, Billy, goth is just another code word for \"unhygenic\"." (multiple=2)
-msgstr "[_starspook_] In the human world, Billy, goth is just another code word for \"unhygenic\"." (multiple=2)
+msgid "[_starspook_] In the human world, Billy, goth is just another code word for \"unhygenic\". [multiple2]"
+msgstr "[_starspook_] In the human world, Billy, goth is just another code word for \"unhygenic\". [multiple2]"
 
 # game/code/misc/spookchat_star.rpy:135 #-#-# translate crowdin star_chat_2_d1da5159:
-msgid "[_danny_] (Sam doesn't smell at all! She smells... really nice actually.)" (multiple=2)
-msgstr "[_danny_] (Sam doesn't smell at all! She smells... really nice actually.)" (multiple=2)
+msgid "[_danny_] (Sam doesn't smell at all! She smells... really nice actually.) [multiple2]"
+msgstr "[_danny_] (Sam doesn't smell at all! She smells... really nice actually.) [multiple2]"
 
 # game/code/misc/spookchat_star.rpy:136 #-#-# translate crowdin star_chat_2_4292c128:
 msgid "[_starspook_] Beyond that though, I don't really know much about him, nor do I care to know more. Lol"
@@ -187,12 +187,12 @@ msgid "[nvl_clear]"
 msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_star.rpy:190 #-#-# translate crowdin first_chat_star_686019d7:
-msgid "[_billspook_] Hey, this is the Amity Park Ghost Boy. Is this Star?" (multiple=2)
-msgstr "[_billspook_] Hey, this is the Amity Park Ghost Boy. Is this Star?" (multiple=2)
+msgid "[_billspook_] Hey, this is the Amity Park Ghost Boy. Is this Star? [multiple2]"
+msgstr "[_billspook_] Hey, this is the Amity Park Ghost Boy. Is this Star? [multiple2]"
 
 # game/code/misc/spookchat_star.rpy:195 #-#-# translate crowdin first_chat_star_ef600634:
-msgid "[_danny_] (Alrighty, now we just wait and see if she'll actually respond bac-)" (multiple=2)
-msgstr "[_danny_] (Alrighty, now we just wait and see if she'll actually respond bac-)" (multiple=2)
+msgid "[_danny_] (Alrighty, now we just wait and see if she'll actually respond bac-) [multiple2]"
+msgstr "[_danny_] (Alrighty, now we just wait and see if she'll actually respond bac-) [multiple2]"
 
 # game/code/misc/spookchat_star.rpy:198 #-#-# translate crowdin first_chat_star_8c316a95:
 msgid "[_danny_s_down_s_idle_s_displeased_] ..."
@@ -263,12 +263,12 @@ msgid "[nvl_clear]"
 msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_star.rpy:260 #-#-# translate crowdin first_chat_star_0993f316:
-msgid "[_starspook_] OMG!!! Okay, wow! I'm sorry I didn't believe you!! This is so crazy. Lol. Hi, I'm Star!!" (multiple=2)
-msgstr "[_starspook_] OMG!!! Okay, wow! I'm sorry I didn't believe you!! This is so crazy. Lol. Hi, I'm Star!!" (multiple=2)
+msgid "[_starspook_] OMG!!! Okay, wow! I'm sorry I didn't believe you!! This is so crazy. Lol. Hi, I'm Star!! [multiple2]"
+msgstr "[_starspook_] OMG!!! Okay, wow! I'm sorry I didn't believe you!! This is so crazy. Lol. Hi, I'm Star!! [multiple2]"
 
 # game/code/misc/spookchat_star.rpy:261 #-#-# translate crowdin first_chat_star_fa12cab6:
-msgid "[_danny_] ({i}Heh heh{/i}... hook, line, and sinker.)" (multiple=2)
-msgstr "[_danny_] ({i}Heh heh{/i}... hook, line, and sinker.)" (multiple=2)
+msgid "[_danny_] ({i}Heh heh{/i}... hook, line, and sinker.) [multiple2]"
+msgstr "[_danny_] ({i}Heh heh{/i}... hook, line, and sinker.) [multiple2]"
 
 # game/code/misc/spookchat_star.rpy:262 #-#-# translate crowdin first_chat_star_e2a315bc:
 msgid "[_billspook_] Hey, no problem! So, I heard you wanted to talk or something?"

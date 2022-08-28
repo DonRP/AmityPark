@@ -4991,12 +4991,12 @@ msgid "[nvl_clear]"
 msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4297 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6c_paulinaphone_6d7f393b:
-msgid "[_billspook_] Hey, Paulina. You got a minute?" (multiple=2)
-msgstr "[_billspook_] Hey, Paulina. You got a minute?" (multiple=2)
+msgid "[_billspook_] Hey, Paulina. You got a minute? [multiple2]"
+msgstr "[_billspook_] Hey, Paulina. You got a minute? [multiple2]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4300 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6c_paulinaphone_1672c189:
-msgid "[_danny_] ..." (multiple=2)
-msgstr "[_danny_] ..." (multiple=2)
+msgid "[_danny_] ... [multiple2]"
+msgstr "[_danny_] ... [multiple2]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4303 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6c_paulinaphone_d0e03ae4:
 msgid "[_paulinaspook_] Heyy Ghost Boy, how're you today?? It's so good to hear from you! :)"
@@ -7243,12 +7243,12 @@ msgid "[nvl_clear]"
 msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5972 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6d_starphone_a792add9:
-msgid "[_billspook_] Hey, Star." (multiple=2)
-msgstr "[_billspook_] Hey, Star." (multiple=2)
+msgid "[_billspook_] Hey, Star. [multiple2]"
+msgstr "[_billspook_] Hey, Star. [multiple2]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5973 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6d_starphone_1672c189:
-msgid "[_danny_] ..." (multiple=2)
-msgstr "[_danny_] ..." (multiple=2)
+msgid "[_danny_] ... [multiple2]"
+msgstr "[_danny_] ... [multiple2]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5974 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6d_starphone_6808148d:
 msgid "[_billspook_] Ayyee Star. You there?"

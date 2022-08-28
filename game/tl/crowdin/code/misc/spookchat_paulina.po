@@ -63,20 +63,20 @@ msgid "[_billspook_] Oh har harr, I see what you did there..."
 msgstr "[_billspook_] Oh har harr, I see what you did there..."
 
 # game/code/misc/spookchat_paulina.rpy:83 #-#-# translate crowdin paulina_chat_2_b44167df:
-msgid "[_paulinaspook_] Ha hah! I couldn't help myself! Hehee... :3 " (multiple=2)
-msgstr "[_paulinaspook_] Ha hah! I couldn't help myself! Hehee... :3 " (multiple=2)
+msgid "[_paulinaspook_] Ha hah! I couldn't help myself! Hehee... :3  [multiple2]"
+msgstr "[_paulinaspook_] Ha hah! I couldn't help myself! Hehee... :3  [multiple2]"
 
 # game/code/misc/spookchat_paulina.rpy:84 #-#-# translate crowdin paulina_chat_2_d88cc1fa:
-msgid "[_danny_] ({i}Hmmm{/i}... these would look nice on my desktop computer as well...)" (multiple=2)
-msgstr "[_danny_] ({i}Hmmm{/i}... these would look nice on my desktop computer as well...)" (multiple=2)
+msgid "[_danny_] ({i}Hmmm{/i}... these would look nice on my desktop computer as well...) [multiple2]"
+msgstr "[_danny_] ({i}Hmmm{/i}... these would look nice on my desktop computer as well...) [multiple2]"
 
 # game/code/misc/spookchat_paulina.rpy:85 #-#-# translate crowdin paulina_chat_2_efbeec2c:
-msgid "[_billspook_] Well thanks, those assets are certainly something I won't forget soon." (multiple=2)
-msgstr "[_billspook_] Well thanks, those assets are certainly something I won't forget soon." (multiple=2)
+msgid "[_billspook_] Well thanks, those assets are certainly something I won't forget soon. [multiple2]"
+msgstr "[_billspook_] Well thanks, those assets are certainly something I won't forget soon. [multiple2]"
 
 # game/code/misc/spookchat_paulina.rpy:86 #-#-# translate crowdin paulina_chat_2_97588c7b:
-msgid "[_phone_] {i}*Woosh* Pictures Successfully Sent to {b}Desktop{/b}{/i}" (multiple=2)
-msgstr "[_phone_] {i}*Woosh* Pictures Successfully Sent to {b}Desktop{/b}{/i}" (multiple=2)
+msgid "[_phone_] {i}*Woosh* Pictures Successfully Sent to {b}Desktop{/b}{/i} [multiple2]"
+msgstr "[_phone_] {i}*Woosh* Pictures Successfully Sent to {b}Desktop{/b}{/i} [multiple2]"
 
 # game/code/misc/spookchat_paulina.rpy:91 #-#-# translate crowdin paulina_chat_2_3fc58d9b:
 msgid "[_paulinaspook_] I'd hope not. ;) "
@@ -115,12 +115,12 @@ msgid "[_paulinaspook_] Well... if you say so, Ghost Boy..."
 msgstr "[_paulinaspook_] Well... if you say so, Ghost Boy..."
 
 # game/code/misc/spookchat_paulina.rpy:124 #-#-# translate crowdin paulina_chat_2_32622c42:
-msgid "[_paulinaspook_] I'm still not talking to him. He's better just being another one of my lackeys like Kwan and Dash. Lol" (multiple=2)
-msgstr "[_paulinaspook_] I'm still not talking to him. He's better just being another one of my lackeys like Kwan and Dash. Lol" (multiple=2)
+msgid "[_paulinaspook_] I'm still not talking to him. He's better just being another one of my lackeys like Kwan and Dash. Lol [multiple2]"
+msgstr "[_paulinaspook_] I'm still not talking to him. He's better just being another one of my lackeys like Kwan and Dash. Lol [multiple2]"
 
 # game/code/misc/spookchat_paulina.rpy:125 #-#-# translate crowdin paulina_chat_2_c9cd5d62:
-msgid "[_danny_] (Hmmm... I'll have to find some way to get her to take more interest in \"Danny Fenton\" some more, instead of just \"Inviso-Bill\".)" (multiple=2)
-msgstr "[_danny_] (Hmmm... I'll have to find some way to get her to take more interest in \"Danny Fenton\" some more, instead of just \"Inviso-Bill\".)" (multiple=2)
+msgid "[_danny_] (Hmmm... I'll have to find some way to get her to take more interest in \"Danny Fenton\" some more, instead of just \"Inviso-Bill\".) [multiple2]"
+msgstr "[_danny_] (Hmmm... I'll have to find some way to get her to take more interest in \"Danny Fenton\" some more, instead of just \"Inviso-Bill\".) [multiple2]"
 
 # game/code/misc/spookchat_paulina.rpy:138 #-#-# translate crowdin paulina_chat_2_76b2fe88_3:
 msgid "[nvl_clear]"
