@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 16:08\n"
+"PO-Revision-Date: 2022-08-28 09:08\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/training_machine.rpy:9 #-#-# translate crowdin use_training_machine_f90d9f68:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_frown_] Seems the training machine is out of commission at the moment."
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_frown_] Sembra che la macchina per l'allenamento sia fuori uso al momento."
 
 # game/code/battleoverhaul/training_machine.rpy:69 #-#-# translate crowdin functionlabel_TrainingMachineCheat_24267549:
 msgid "Congratulations you are now level [dannyCombat[Level]] and earned a passive point through training!"
-msgstr ""
+msgstr "Congratulazioni, ora sei di livello [dannyCombat[Level]] e hai guadagnato un punto passivo con l'allenamento!"
 
