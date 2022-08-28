@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-24 18:22\n"
+"PO-Revision-Date: 2022-08-28 09:09\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_tucker.rpy:35 #-#-# translate crowdin tucker_chat_1_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_tucker.rpy:38 #-#-# translate crowdin tucker_chat_1_85256417:
 msgid "[_dannyspook_] Hey Tucker, you there?"
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/code/misc/spookchat_tucker.rpy:63 #-#-# translate crowdin tucker_chat_2_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_tucker.rpy:66 #-#-# translate crowdin tucker_chat_2_35ae126d:
 msgid "[_dannyspook_] Whatcha working on, Tuck?"
@@ -66,7 +66,7 @@ msgstr ""
 
 # game/code/misc/spookchat_tucker.rpy:85 #-#-# translate crowdin tucker_chat_2_76b2fe88_1:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_tucker.rpy:88 #-#-# translate crowdin tucker_chat_2_c7af398a:
 msgid "[_dannyspook_] Do ghosts worry you at all?"
@@ -122,7 +122,7 @@ msgstr ""
 
 # game/code/misc/spookchat_tucker.rpy:112 #-#-# translate crowdin tucker_chat_2_76b2fe88_2:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_tucker.rpy:115 #-#-# translate crowdin tucker_chat_2_277e78d8:
 msgid "[_dannyspook_] What do you think about Sam?"
@@ -178,7 +178,7 @@ msgstr ""
 
 # game/code/misc/spookchat_tucker.rpy:138 #-#-# translate crowdin tucker_chat_2_76b2fe88_3:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_tucker.rpy:141 #-#-# translate crowdin tucker_chat_2_51366239:
 msgid "[_dannyspook_] One question: Paulina or Star?"
@@ -266,7 +266,7 @@ msgstr ""
 
 # game/code/misc/spookchat_tucker.rpy:171 #-#-# translate crowdin tucker_chat_2_76b2fe88_4:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_tucker.rpy:174 #-#-# translate crowdin tucker_chat_2_3339fa2f:
 msgid "[_dannyspook_] Good talking to you, Tuck."
