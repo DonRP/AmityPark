@@ -10,37 +10,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-08-31 21:10\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battle/fight_ghost_bathroom.rpy:155 #-#-# translate crowdin start_fight_bathroom_79c20c76:
 msgid "[_danny_] Creepy ghost, you're going down!"
-msgstr ""
+msgstr "[_danny_] Fantôme effrayant, tu descends!"
 
 # game/code/battle/fight_ghost_bathroom.rpy:166 #-#-# translate crowdin fight_main_bath_1c69cde2:
 msgid "[_danny_] It's stronger than I thought!"
-msgstr ""
+msgstr "[_danny_] C'est plus fort que je ne le pensais!"
 
 # game/code/battle/fight_ghost_bathroom.rpy:170 #-#-# translate crowdin fight_main_bath_d15020d9:
 msgid "[_danny_] It's time to end this!"
-msgstr ""
+msgstr "[_danny_] Il est temps d'en finir!"
 
 # game/code/battle/fight_ghost_bathroom.rpy:209 #-#-# translate crowdin t_ghost_turn_bath_d58590d1:
 msgid "[_danny_] nothing happened."
-msgstr ""
+msgstr "[_danny_] il ne s'est rien passé."
 
 # game/code/battle/fight_ghost_bathroom.rpy:345 #-#-# translate crowdin player_invisible_bath_6dedd31d:
 msgid "[_danny_] I don't have enough energy for this."
-msgstr ""
+msgstr "[_danny_] Je n'ai pas assez d'énergie pour ça."
 
 # game/code/battle/fight_ghost_bathroom.rpy:405 #-#-# translate crowdin player_ghost_ray_bath_6dedd31d:
 msgid "[_danny_] I don't have enough energy for this."
-msgstr ""
+msgstr "[_danny_] Je n'ai pas assez d'énergie pour ça."
 
 # game/code/battle/fight_ghost_bathroom.rpy:541 #-#-# translate crowdin ghost_attack_bath_cedae1c8:
 msgid "[_danny_] I need to be more careful!"
-msgstr ""
+msgstr "[_danny_] Je dois faire plus attention!"
 
 # game/code/battle/fight_ghost_bathroom.rpy:625 #-#-# translate crowdin stop_Running_away_2_bath_1e9873ae:
 msgid "You can't just run away. Jazz needs you."
-msgstr ""
+msgstr "Tu ne peux pas t'enfuir. Jazz a besoin de toi."
 
