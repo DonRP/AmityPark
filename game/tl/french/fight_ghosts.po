@@ -10,41 +10,41 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-08-31 21:10\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battle/fight_ghosts.rpy:59 #-#-# translate crowdin start_fight_2223361c:
 msgid "[_danny_] I'm taking you down, creep!"
-msgstr ""
+msgstr "[_danny_] Je vais te battre!"
 
 # game/code/battle/fight_ghosts.rpy:70 #-#-# translate crowdin fight_main_1c69cde2:
 msgid "[_danny_] It's stronger than I thought!"
-msgstr ""
+msgstr "[_danny_] C'est plus fort que je ne le pensais!"
 
 # game/code/battle/fight_ghosts.rpy:74 #-#-# translate crowdin fight_main_d15020d9:
 msgid "[_danny_] It's time to end this!"
-msgstr ""
+msgstr "[_danny_] Il est temps d'en finir!"
 
 # game/code/battle/fight_ghosts.rpy:113 #-#-# translate crowdin t_ghost_turn_d58590d1:
 msgid "[_danny_] nothing happened."
-msgstr ""
+msgstr "[_danny_] il ne s'est rien passé."
 
 # game/code/battle/fight_ghosts.rpy:249 #-#-# translate crowdin player_invisible_6dedd31d:
 msgid "[_danny_] I don't have enough energy for this."
-msgstr ""
+msgstr "[_danny_] Je n'ai pas assez d'énergie pour ça."
 
 # game/code/battle/fight_ghosts.rpy:309 #-#-# translate crowdin player_ghost_ray_6dedd31d:
 msgid "[_danny_] I don't have enough energy for this."
-msgstr ""
+msgstr "[_danny_] Je n'ai pas assez d'énergie pour ça."
 
 # game/code/battle/fight_ghosts.rpy:455 #-#-# translate crowdin ghost_attack_cedae1c8:
 msgid "[_danny_] I need to be more careful!"
-msgstr ""
+msgstr "[_danny_] Je dois faire plus attention!"
 
 # game/code/battle/fight_ghosts.rpy:539 #-#-# translate crowdin stop_Running_away_6c2938ff:
 msgid "You can't run away from this battle. Be a man and fight! Paulina needs you!"
-msgstr ""
+msgstr "Vous ne pouvez pas fuir cette bataille. Soyez un homme et combattez ! Paulina a besoin de vous !"
 
 # game/code/battle/fight_ghosts.rpy:545 #-#-# translate crowdin stop_Running_away_2_1352e896:
 msgid "You can't run away from this battle. Amity Park needs you."
-msgstr ""
+msgstr "Vous ne pouvez pas fuir cette bataille. Amity Park a besoin de vous."
 
