@@ -11,51 +11,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-24 18:21\n"
+"PO-Revision-Date: 2022-08-31 21:10\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/screens.rpy:461 #-#-# translate crowdin 16d9a82f:
 msgid "frame: vbox: xpos 0"
-msgstr ""
+msgstr "frame: vbox: xpos 0"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin a830a7ee:
 msgid "ypos 25"
-msgstr ""
+msgstr "ypos 25"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 025b4ae1:
 msgid "spacing 0"
-msgstr ""
+msgstr "spacing 0"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 727f6ef2:
 msgid "add \"gui/game_title.png\""
-msgstr ""
+msgstr "add \"gui/game_title.png\""
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin b58bcc89:
 msgid "null height 25"
-msgstr ""
+msgstr "null height 25"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin ee65f368:
 msgid "imagebutton: idle \"gui/buttons/start_button idle.png\" hover \"gui/buttons/start_button hover.png\" focus_mask True xalign 0.5 yalign 0.5 action Start()"
-msgstr ""
+msgstr "imagebutton: idle \"gui/buttons/start_button idle.png\" hover \"gui/buttons/start_button hover.png\" focus_mask True xalign 0.5 yalign 0.5 action Start()"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 0b71498f:
 msgid "imagebutton: idle \"gui/buttons/load_button idle.png\" hover \"gui/buttons/load_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"load\")"
-msgstr ""
+msgstr "imagebutton: idle \"gui/buttons/load_button idle.png\" hover \"gui/buttons/load_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"load\")"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin d287a808:
 msgid "imagebutton: idle \"gui/buttons/options_button idle.png\" hover \"gui/buttons/options_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"preferences\")"
-msgstr ""
+msgstr "imagebutton: idle \"gui/buttons/options_button idle.png\" hover \"gui/buttons/options_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"preferences\")"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 303f1a39:
 msgid "imagebutton: idle \"gui/buttons/about_button idle.png\" hover \"gui/buttons/about_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"about\")"
-msgstr ""
+msgstr "imagebutton: idle \"gui/buttons/about_button idle.png\" hover \"gui/buttons/about_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"about\")"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 8327e5bc:
 msgid "if renpy.variant(\"pc\"):"
-msgstr ""
+msgstr "if renpy.variant(\"pc\"):"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 3904d94b:
 msgid "imagebutton: idle \"gui/buttons/exit_button idle.png\" hover \"gui/buttons/exit_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action Quit(confirm=not main_menu)"
-msgstr ""
+msgstr "imagebutton: idle \"gui/buttons/exit_button idle.png\" hover \"gui/buttons/exit_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action Quit(confirm=not main_menu)"
 
 msgid "Back"
 msgstr "Retour"
@@ -90,7 +90,7 @@ msgstr "Préf"
 
 # game/code/base/screens.rpy:306
 msgid "Hide D."
-msgstr ""
+msgstr "Hide D."
 
 # game/code/base/screens.rpy:347
 msgid "Start"
@@ -102,7 +102,7 @@ msgstr "Charger"
 
 # game/code/base/screens.rpy:357
 msgid "Options"
-msgstr ""
+msgstr "Options"
 
 # game/code/base/screens.rpy:365
 msgid "End Replay"
@@ -140,44 +140,45 @@ msgstr "Fait avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n
 
 # game/code/base/screens.rpy:733
 msgid "{b}Credits{/b} "
-msgstr ""
+msgstr "{b}Crédits {/b} "
 
 # game/code/base/screens.rpy:734
 msgid "Created by:  {b}{a=https://www.patreon.com/GZone_Art}GZone{/a}{/b}, Project Manager\n"
-msgstr ""
+msgstr "Crée par:  {b}{a=https://www.patreon.com/GZone_Art}GZone{/a}{/b}, Project Manager\n"
 
 # game/code/base/screens.rpy:735
 msgid "                     {b}{a=https://twitter.com/MorahZamora}MorahZamora{/a}{/b}, Background Artist, Script Reviser\n"
-msgstr ""
+msgstr "                     {b}{a=https://twitter.com/MorahZamora}MorahZamora{/a}{/b}, Background Artist, Script Reviser\n"
 
 # game/code/base/screens.rpy:736
 msgid "                     {b}FraMe{/b}, Animator\n"
-msgstr ""
+msgstr "                     {b}FraMe{/b}, Animator\n"
 
 # game/code/base/screens.rpy:737
 msgid "                     {b}Psymind{/b}, Artist\n"
-msgstr ""
+msgstr "                     {b}Psymind{/b}, Artist\n"
 
 # game/code/base/screens.rpy:738
 msgid "                     {b}Epadder{/b}, Programmer\n"
-msgstr ""
+msgstr "                     {b}Epadder{/b}, Programmer\n"
 
 # game/code/base/screens.rpy:739
 msgid "                     {b}Lostraven{/b}, Writer\n"
-msgstr ""
+msgstr "                     {b}Lostraven{/b}, Writer\n"
 
 # game/code/base/screens.rpy:742
 msgid "{b}Special Thanks:{/b}"
-msgstr ""
+msgstr "{b}Special Thanks:{/b}"
 
 # game/code/base/screens.rpy:743
 msgid "Our deepest appreciation and gratitude to Rhonin, {a=https://www.youtube.com/c/puritysin}Purity Sin{/a}, Headmaster1988, TheDevian, thomasxlong, SrPani and {a=https://www.deviantart.com/dltoon}DLT{/a} for helping us improve the game in a variety of ways."
-msgstr ""
+msgstr "Nos plus sincères remerciements et notre gratitude à Rhonin, {a=https://www.youtube.com/c/puritysin}Purity Sin{/a}, Headmaster1988, TheDevian, thomasxlong, SrPani et {a=https://www.deviantart.com/dltoon}DLT{/a} pour nous avoir aidés à améliorer le jeu de diverses manières."
 
 # game/code/base/screens.rpy:746
 msgid "And a big thank you to all the many loyal supporters on Patreon and Discord! This project wouldn't be possible without you guys.\n"
 "  "
-msgstr ""
+msgstr "Et un grand merci à tous les nombreux fidèles supporters sur Patreon et Discord! Ce projet ne serait pas possible sans vous les gars.\n"
+"  "
 
 # game/code/base/screens.rpy:819
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
@@ -237,11 +238,11 @@ msgstr "Transitions"
 
 # game/code/base/screens.rpy:925
 msgid "Quest Updates"
-msgstr ""
+msgstr "Quête mise à jour"
 
 # game/code/base/screens.rpy:926
 msgid "On"
-msgstr ""
+msgstr "Activé"
 
 # game/code/base/screens.rpy:940
 msgid "Text Speed"
