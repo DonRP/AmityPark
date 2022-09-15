@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-24 18:21\n"
+"PO-Revision-Date: 2022-09-15 08:39\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/newbattle.rpy:8 #-#-# translate crowdin newbattletutorial_2aa052d7:
 msgid "[_epa_] (This update is introducing a {b}brand new battle system{/b}. Would you like to know what's new and test things out?) [nointeract]"
-msgstr ""
+msgstr "[_epa_] (Cette mise à jour introduit un {b}tout nouveau système de combat{/b}. Voulez-vous savoir ce qu'il y a de nouveau et tester les choses ?) [nointeract]"
 
 # game/code/battleoverhaul/newbattle.rpy:30 #-#-# translate crowdin newbattletutorial_e69fb817:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] Jeez, what's with all the loud noise I've been hearing down here lately? Dad? You in the Lab?"
-msgstr ""
+msgstr "[_danny_s_at_player_s_unhappy_s_talk_displeased_] Bon sang, c'est quoi tous ces bruits que j'entends ici ces derniers temps ? Papa ? Tu es dans le laboratoire ?"
 
 # game/code/battleoverhaul/newbattle.rpy:33 #-#-# translate crowdin newbattletutorial_7190dfb6:
 msgid "[_epa_] Oh, great, you're finally here Danny! Perfect!{p}Welcome, to the new combat training simulation!"
-msgstr ""
+msgstr "[_epa_] Oh, super, tu es enfin là Danny ! Parfait !{p}Bienvenue, à la nouvelle simulation d'entraînement au combat !"
 
 # game/code/battleoverhaul/newbattle.rpy:35 #-#-# translate crowdin newbattletutorial_cadfb817:
 msgid "[_danny_s_at_player_s_rise_s_talk_distraught_] The... the what? What are you talking about, and who are you?"
-msgstr ""
+msgstr "[_danny_s_at_player_s_rise_s_talk_distraught_] Le... le quoi ? De quoi parlez-vous, et qui êtes-vous ?"
 
 # game/code/battleoverhaul/newbattle.rpy:38 #-#-# translate crowdin newbattletutorial_5e74f432:
 msgid "[_epa_] Who I am isn't important Danny, what's {i}important{/i} is that I've been hearing the cries about your fighting techniques being \"Overly Buggy\" and just \"Too Dang Hard\" at times.{p}Well hopefully, all that will change starting today!"
-msgstr ""
+msgstr "[_epa_] Qui je suis n'est pas important Danny, ce qui est {i}important{/i} c'est que j'ai entendu les cris à propos de vos techniques de combat qui sont \"trop buggys\" et juste \"trop dures\" parfois.{p}Eh bien, espérons que tout cela va changer à partir d'aujourd'hui !"
 
 # game/code/battleoverhaul/newbattle.rpy:40 #-#-# translate crowdin newbattletutorial_8fbd33fc:
 msgid "[_danny_s_down_s_angry_s_talk_displeased_] {i}*Grumble*{/i} Well sheesh, I thought I was doing a pretty good job all on my own. {i}*Grumble*{/i}"
