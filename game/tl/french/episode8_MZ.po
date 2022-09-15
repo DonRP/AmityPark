@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-25 01:18\n"
+"PO-Revision-Date: 2022-09-15 14:36\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -923,7 +923,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1194 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_d2d69bdc:
 msgid "[_danny_] {i}...!{/i}"
-msgstr ""
+msgstr "[_danny_] {i}...!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:1197 #-#-# translate crowdin Episode_8_stage_60_mall_movies_turn_spicy_c55027c2:
 msgid "[_jazz_] . . ."
@@ -6836,7 +6836,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9623 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_d2d69bdc:
 msgid "[_danny_] {i}...!{/i}"
-msgstr ""
+msgstr "[_danny_] {i}...!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9626 #-#-# translate crowdin Episode_8_stage_350_bedroom_night_gift_5771821c:
 msgid "[_danny_] {i}Gahhh!!{/i}"
@@ -7836,7 +7836,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11037 #-#-# translate crowdin Episode_8_stage_380_bedroom_morning_doing_research_d2d69bdc:
 msgid "[_danny_] {i}...!{/i}"
-msgstr ""
+msgstr "[_danny_] {i}...!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11154 #-#-# translate crowdin Episode_8_stage_380_bedroom_morning_doing_research_a168ffdb:
 msgid "[_danny_s_towards_s_rise_one_s_smile_] (This might be it... a piece of the story to help me break through to Penelope...)"
