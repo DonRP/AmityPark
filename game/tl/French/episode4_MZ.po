@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-24 18:21\n"
+"PO-Revision-Date: 2022-09-15 14:36\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode4_MZ.rpy:21 #-#-# translate crowdin Wish_you_the_Best_scene_1_Hallway_0fe9772d:
 msgid "[_danny_s_talk_happy_] Tucker, my man! What's happening?"
@@ -2346,7 +2346,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2203 #-#-# translate crowdin Wish_you_the_Best_scene_7_mall_e4b43cbb:
 msgid "(Orgone Boost Available!)"
-msgstr ""
+msgstr "(Orgone Boost disponible !)"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2225 #-#-# translate crowdin Wish_you_the_Best_postfight_3_f365f9d5:
 msgid "[_danny_s_angry_s_talk_frown_2_] Now stand down, Tucker! Don't try to move your body anymore!"
