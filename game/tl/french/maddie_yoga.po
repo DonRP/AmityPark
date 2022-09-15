@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:05\n"
+"PO-Revision-Date: 2022-09-15 14:36\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/maddie/maddie_yoga.rpy:11 #-#-# translate crowdin maddie_sunday_yoga_first_time_e164560b:
 msgid "[_danny_s_f_s_offscreen_s_aheago_s_idle_s_bite_] (Jeez, Mom's butt sure looks, {i}*Ahem*{/i}, \"well rounded\" in those spandex pants...)"
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_aheago_s_idle_s_bite_] (Bon sang, les fesses de maman ont l'air, {i}*Ahem*{/i}, \"bien rondes\" dans ce pantalon en spandex...)"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:13 #-#-# translate crowdin maddie_sunday_yoga_first_time_9bf91e5b:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_rise_s_bite_] (Definitely comes from all the yoga she does... helps her stay limber, I guess...)"
@@ -158,7 +158,7 @@ msgstr ""
 
 # game/code/character_events/maddie/maddie_yoga.rpy:200 #-#-# translate crowdin maddie_sunday_yoga_lewd_d2d69bdc:
 msgid "[_danny_] {i}...!{/i}"
-msgstr ""
+msgstr "[_danny_] {i}...!{/i}"
 
 # game/code/character_events/maddie/maddie_yoga.rpy:206 #-#-# translate crowdin maddie_sunday_yoga_lewd_7c88d435:
 msgid "[_maddie_] {i}Mmm~{/i} That's it sweetie, just like that..."
