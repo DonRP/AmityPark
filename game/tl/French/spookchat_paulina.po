@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-28 14:40\n"
+"PO-Revision-Date: 2022-09-20 13:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_paulina.rpy:29 #-#-# translate crowdin paulina_chat_1_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:32 #-#-# translate crowdin paulina_chat_1_f3b7a0b5:
 msgid "[_billspook_] Hey Paulina, it's the ghost boy. You there?"
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/code/misc/spookchat_paulina.rpy:53 #-#-# translate crowdin paulina_chat_2_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:55 #-#-# translate crowdin paulina_chat_2_74f53061:
 msgid "[_billspook_] This might sound forward, but do you wanna hang out sometime?"
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/code/misc/spookchat_paulina.rpy:66 #-#-# translate crowdin paulina_chat_2_76b2fe88_1:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:78 #-#-# translate crowdin paulina_chat_2_4b06f1ae:
 msgid "[_billspook_] Oh wow! Yeah, you're really cute, just like I remember! Thanks for that. :) "
@@ -98,7 +98,7 @@ msgstr ""
 
 # game/code/misc/spookchat_paulina.rpy:114 #-#-# translate crowdin paulina_chat_2_76b2fe88_2:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:117 #-#-# translate crowdin paulina_chat_2_b16681b0:
 msgid "[_billspook_] Danny Fenton's a pretty cool guy, right?"
@@ -138,7 +138,7 @@ msgstr ""
 
 # game/code/misc/spookchat_paulina.rpy:138 #-#-# translate crowdin paulina_chat_2_76b2fe88_3:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:141 #-#-# translate crowdin paulina_chat_2_cd55dc79:
 msgid "[_billspook_] I'll talk to you later, Paulina. But it was nice chatting with you!"
