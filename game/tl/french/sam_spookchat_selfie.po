@@ -10,31 +10,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-25 01:18\n"
+"PO-Revision-Date: 2022-09-20 13:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/sam/sam_spookchat_selfie.rpy:20 #-#-# translate crowdin sam_selfie_shot_event_bb271ba9:
 msgid "[_phone_] {i}Bzzt{/i} {i}Bzzt{/i}"
-msgstr ""
+msgstr "[_phone_] {i}Bzzt{/i} {i}Bzzt{/i}"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:23 #-#-# translate crowdin sam_selfie_shot_event_011e2579:
 msgid "[_danny_] Huh- Who could this be at this hour?"
-msgstr ""
+msgstr "[_danny_] Huh- Qui ça peut être à cette heure-ci ?"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:30 #-#-# translate crowdin sam_selfie_shot_event_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:33 #-#-# translate crowdin sam_selfie_shot_event_1a9a3d78:
 msgid "[_samspook_] Danny? Are you there yet?"
-msgstr ""
+msgstr "[_samspook_] Danny ? Tu es déjà là ?"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:34 #-#-# translate crowdin sam_selfie_shot_event_2d5ca562:
 msgid "[_dannyspook_] No, not yet. What's up?"
-msgstr ""
+msgstr "[_dannyspook_] Non, pas encore. Qu'est-ce qu'il y a ?"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:35 #-#-# translate crowdin sam_selfie_shot_event_0e62d454:
 msgid "[_samspook_] It's nothing. I was thinking about you and you know.."
-msgstr ""
+msgstr "[_samspook_] C'est rien. Je pensais à toi et tu sais.."
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:36 #-#-# translate crowdin sam_selfie_shot_event_5177c0ab:
 msgid "[_dannyspook_] Don't worry Sam, I'm going to win this time!)"
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:42 #-#-# translate crowdin sam_selfie_shot_event_76b2fe88_1:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:61 #-#-# translate crowdin sam_selfie_shot_event_68f2f620:
 msgid "[_samspook_] Maybe this could give you some extra Orgone as well."
