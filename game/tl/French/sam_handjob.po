@@ -10,97 +10,97 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:04\n"
+"PO-Revision-Date: 2022-09-20 19:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/sam_handjob.rpy:19 #-#-# translate crowdin Sam_Handjob_at_living_room_03038bb7:
 msgid "[_danny_] Oh... man.... what a sight this is..."
-msgstr ""
+msgstr "[_danny_] Oh... man.... quel spectacle c'est..."
 
 # game/code/misc/sam_handjob.rpy:21 #-#-# translate crowdin Sam_Handjob_at_living_room_354337f9:
 msgid "[_sam_s_talk_happy_] Heheh, you like seeing me on my knees, huh?"
-msgstr ""
+msgstr "[_sam_s_talk_happy_] Heheh, tu aimes me voir à genoux, hein ?"
 
 # game/code/misc/sam_handjob.rpy:23 #-#-# translate crowdin Sam_Handjob_at_living_room_f4737258:
 msgid "[_danny_] Yeah... I'm glad I get to watch you beat me off, too..."
-msgstr ""
+msgstr "[_danny_] Ouais... Je suis content de pouvoir te regarder me battre, aussi..."
 
 # game/code/misc/sam_handjob.rpy:24 #-#-# translate crowdin Sam_Handjob_at_living_room_dbc47632:
 msgid "[_sam_s_talk_happy_] Oooh, I actually really like touching you like this... your dick's so warm, and I get to feel it in my whole hands..."
-msgstr ""
+msgstr "[_sam_s_talk_happy_] Oooh, en fait, j'aime vraiment te toucher comme ça... ta queue est si chaude, et je peux la sentir dans toutes mes mains..."
 
 # game/code/misc/sam_handjob.rpy:25 #-#-# translate crowdin Sam_Handjob_at_living_room_e52c6297:
 msgid "[_sam_s_talk_frown_1_] God, you really are big, Danny... like for real..."
-msgstr ""
+msgstr "[_sam_s_talk_frown_1_] Mon dieu, tu es vraiment grand, Danny... pour de vrai..."
 
 # game/code/misc/sam_handjob.rpy:27 #-#-# translate crowdin Sam_Handjob_at_living_room_aec359b1:
 msgid "[_danny_] God, I could watch you do this all night..."
-msgstr ""
+msgstr "[_danny_] Mon Dieu, je pourrais te regarder faire ça toute la nuit..."
 
 # game/code/misc/sam_handjob.rpy:29 #-#-# translate crowdin Sam_Handjob_at_living_room_e85a6db1:
 msgid "[_sam_s_talk_happy_] Mmm, I don't know if you could last that long, Danny... not with my hands at work..."
-msgstr ""
+msgstr "[_sam_s_talk_happy_] Mmm, je ne sais pas si tu pourrais tenir aussi longtemps, Danny... pas avec mes mains au travail..."
 
 # game/code/misc/sam_handjob.rpy:30 #-#-# translate crowdin Sam_Handjob_at_living_room_7c988bad:
 msgid "[_sam_] I really like to do this with you. Makes me feel... naughty, and dirty... just watching you squirm as I jerk you off..."
-msgstr ""
+msgstr "[_sam_] J'aime vraiment faire ça avec toi. Ça me fait me sentir... vilain, et sale... juste te regarder te tortiller pendant que je te branle..."
 
 # game/code/misc/sam_handjob.rpy:32 #-#-# translate crowdin Sam_Handjob_at_living_room_776ec6e8:
 msgid "[_danny_] Oh yeah? You get off on touching my dirty cock with your pretty little hands?"
-msgstr ""
+msgstr "[_danny_] Ah oui ? Tu prends ton pied en touchant ma sale bite avec tes jolies petites mains ?"
 
 # game/code/misc/sam_handjob.rpy:33 #-#-# translate crowdin Sam_Handjob_at_living_room_14de88e8:
 msgid "[_sam_s_talk_frown_1_] Yeah, it gets me so horny... pleasing you like this..."
-msgstr ""
+msgstr "[_sam_s_talk_frown_1_] Oui, ça m'excite tellement... de te plaire comme ça..."
 
 # game/code/misc/sam_handjob.rpy:34 #-#-# translate crowdin Sam_Handjob_at_living_room_977d4528:
 msgid "[_sam_s_talk_happy_] Mmmm... ooh, it almost looks good enough to just wrap my mouth around... mmmm, get it nice and wet... I bet you'd like that..."
-msgstr ""
+msgstr "[_sam_s_talk_happy_] Mmmm... ooh, ça a presque l'air assez bon pour que je l'entoure de ma bouche... mmmm, que ce soit bien mouillé... Je parie que tu aimerais ça..."
 
 # game/code/misc/sam_handjob.rpy:36 #-#-# translate crowdin Sam_Handjob_at_living_room_edb352b0:
 msgid "[_danny_] Oh man, are you gonna...?"
-msgstr ""
+msgstr "[_danny_] Oh mec, tu vas...?"
 
 # game/code/misc/sam_handjob.rpy:37 #-#-# translate crowdin Sam_Handjob_at_living_room_41f6167e:
 msgid "[_sam_s_talk_frown_2_] Oh, would you, like me to do that? To have me taste your cock? To gobble up your big hard shaft in my wet, tight little throat, huh?"
-msgstr ""
+msgstr "[_sam_s_talk_frown_2_] Oh, voudrais-tu que je fasse ça ? Que je goûte à ta bite ? Que j'engloutisse ta grosse queue dure dans ma petite gorge humide et serrée, hein ?"
 
 # game/code/misc/sam_handjob.rpy:39 #-#-# translate crowdin Sam_Handjob_at_living_room_7fcbf223:
 msgid "[_danny_] Uhhh... I-I mean, I- that'd be-"
-msgstr ""
+msgstr "[_danny_] Uhhh... Je-je veux dire, je- ce serait-"
 
 # game/code/misc/sam_handjob.rpy:40 #-#-# translate crowdin Sam_Handjob_at_living_room_a7328512:
 msgid "[_sam_s_talk_happy_] Hmmm, too bad, I just don't know if I'm quite ready for that, yet... I'm still in control here afterall..."
-msgstr ""
+msgstr "[_sam_s_talk_happy_] Hmmm, c'est dommage, je ne sais pas si je suis prêt pour ça, encore... Je suis toujours en contrôle ici après tout..."
 
 # game/code/misc/sam_handjob.rpy:42 #-#-# translate crowdin Sam_Handjob_at_living_room_53a5a1da:
 msgid "[_danny_] Ohh, dammit... don't... don't work me up like that..."
-msgstr ""
+msgstr "[_danny_] Ohh, bon sang... ne... ne me travaillez pas comme ça..."
 
 # game/code/misc/sam_handjob.rpy:43 #-#-# translate crowdin Sam_Handjob_at_living_room_54d73163:
 msgid "[_sam_s_talk_frown_2_] Huh? Am I doing something to get you worked up? Oh, I'm so sowwy..."
-msgstr ""
+msgstr "[_sam_s_talk_frown_2_] Hein ? Est-ce que je fais quelque chose pour t'énerver ? Oh, je suis tellement..."
 
 # game/code/misc/sam_handjob.rpy:45 #-#-# translate crowdin Sam_Handjob_at_living_room_87b28764:
 msgid "[_danny_] Heh... you know... exactly what... you're..."
-msgstr ""
+msgstr "[_danny_] Heh... tu sais... exactement ce que... tu es..."
 
 # game/code/misc/sam_handjob.rpy:46 #-#-# translate crowdin Sam_Handjob_at_living_room_ed43852a:
 msgid "[_sam_s_talk_happy_] Honestly, I don't know what you mean... why don't you show me how I'm making you feel?"
-msgstr ""
+msgstr "[_sam_s_talk_happy_] Honnêtement, je ne sais pas ce que tu veux dire... pourquoi ne pas me montrer ce que je te fais ressentir ?"
 
 # game/code/misc/sam_handjob.rpy:47 #-#-# translate crowdin Sam_Handjob_at_living_room_ec6596fc:
 msgid "[_sam_] C'mon Danny... lemme have it..."
-msgstr ""
+msgstr "[_sam_] Allez Danny... laisse-moi l'avoir..."
 
 # game/code/misc/sam_handjob.rpy:48 #-#-# translate crowdin Sam_Handjob_at_living_room_034dd27d:
 msgid "[_sam_s_talk_frown_1_] I want it all over my face... and all over my lips... give it to me..."
-msgstr ""
+msgstr "[_sam_s_talk_frown_1_] Je le veux sur tout mon visage... et sur toutes mes lèvres... Donne-le moi..."
 
 # game/code/misc/sam_handjob.rpy:50 #-#-# translate crowdin Sam_Handjob_at_living_room_4c637a39:
 msgid "[_danny_] Oh... then... {i}ahhh{/i} here... here it comes, Saaam!!~~"
-msgstr ""
+msgstr "[_danny_] Oh... alors... {i}ahhh{/i} voilà... voilà, Saaam ! !! ~~"
 
 # game/code/misc/sam_handjob.rpy:57 #-#-# translate crowdin Sam_Handjob_at_living_room_142aec4a:
 msgid "[_danny_] Hah...!! Hah...!! Whooo! Oh man, you pulled out all the stops for me... thank you, Sam."
-msgstr ""
+msgstr "[_danny_] Hah... !! Hah... !! Whooo ! Oh mec, tu as sorti le grand jeu pour moi... merci, Sam."
 
