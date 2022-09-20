@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-20 13:13\n"
+"PO-Revision-Date: 2022-09-20 19:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -7534,7 +7534,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6159 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_b88d642d:
 msgid "[_danny_] ..."
-msgstr ""
+msgstr "[_danny_] ..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6160 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_0459aa1d:
 msgid "[_star_] Okay, turn around."
@@ -7578,7 +7578,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6190 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_b88d642d_1:
 msgid "[_danny_] ..."
-msgstr ""
+msgstr "[_danny_] ..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6197 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_3bb4643a:
 msgid "[_star_s_bluedress_s_towards_s_neutral_s_talk_frown_s_noblush_] Alright, what do you think of this one?"
@@ -7626,7 +7626,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6222 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_b88d642d_2:
 msgid "[_danny_] ..."
-msgstr ""
+msgstr "[_danny_] ..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6223 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_f11350cc:
 msgid "[_star_] Heh he..."
@@ -7646,7 +7646,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6231 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_b88d642d_3:
 msgid "[_danny_] ..."
-msgstr ""
+msgstr "[_danny_] ..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:6232 #-#-# translate crowdin A_Stroke_After_Midnight_scene_7d_mall_0459aa1d_1:
 msgid "[_star_] Okay, turn around."
