@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-20 13:13\n"
+"PO-Revision-Date: 2022-09-20 19:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:17 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_a29726b8:
 msgid "[_danny_s_talk_happy_s_rise_one_] Whaddup, gothic butt?"
@@ -894,7 +894,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:632 #-#-# translate crowdin decide_star_prank_b88d642d:
 msgid "[_danny_] ..."
-msgstr ""
+msgstr "[_danny_] ..."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:634 #-#-# translate crowdin decide_star_prank_abdd86d9:
 msgid "[_danny_] (Okay, but do I {i}really{/i} wanna do this?)"
@@ -930,7 +930,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:680 #-#-# translate crowdin last_chance_b88d642d:
 msgid "[_danny_] ..."
-msgstr ""
+msgstr "[_danny_] ..."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:681 #-#-# translate crowdin last_chance_58309785:
 msgid "[_phone_] [[{i}*Bzzt*{/i} {i}*Bzzt*{/i}]"
@@ -990,7 +990,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:756 #-#-# translate crowdin twinkle_twinkle_little_star_prank_the_prankster_b88d642d:
 msgid "[_danny_] ..."
-msgstr ""
+msgstr "[_danny_] ..."
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:757 #-#-# translate crowdin twinkle_twinkle_little_star_prank_the_prankster_58309785:
 msgid "[_phone_] [[{i}*Bzzt*{/i} {i}*Bzzt*{/i}]"
