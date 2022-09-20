@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-25 01:18\n"
+"PO-Revision-Date: 2022-09-20 13:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -5690,7 +5690,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7178 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:7182 #-#-# translate crowdin A_Nightmare_Called_Ember_paulina_1_continued_0ce5950d:
 msgid "[_billspook_] Hey Paulina, it's Billy, the Ghost Boy."
