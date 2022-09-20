@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-02 13:40\n"
+"PO-Revision-Date: 2022-09-20 19:12\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/AbYss_MZ.rpy:12 #-#-# translate crowdin buy_outfits_1abeb31e:
 msgid "[_sales_lady_s_talk_happy_s_at_player_2_s_wondering_] Hi there, welcome to AbYss! How can I help you today?"
@@ -62,50 +62,50 @@ msgstr "[_danny_] (Super, j'ai la robe pour Desiree maintenant. J'espère qu'ell
 
 # game/code/locations/AbYss_MZ.rpy:352 #-#-# translate crowdin item_bought_2_fc0c241b:
 msgid "[_danny_] (Now to attend this shindig and show off my hot date to everyone!)"
-msgstr ""
+msgstr "[_danny_] (Maintenant, je dois assister à cette fête et montrer mon rendez-vous sexy à tout le monde !)"
 
 msgid "What do I need to do at AbYss?"
-msgstr ""
+msgstr "Que dois-je faire à AbYss ?"
 
 # game/code/locations/AbYss_MZ.rpy:16
 msgid "Ask about a 'gift' for Jazz."
-msgstr ""
+msgstr "Demandez un \"cadeau\" pour Jazz."
 
 # game/code/locations/AbYss_MZ.rpy:16
 msgid "Pay for the 'special' package. (120 $)"
-msgstr ""
+msgstr "Payez pour le paquet \"spécial\". (120 $)"
 
 # game/code/locations/AbYss_MZ.rpy:16
 msgid "Ask to pick up the cheerleader outfit for Sam."
-msgstr ""
+msgstr "Demande à récupérer la tenue de pom-pom girl pour Sam."
 
 # game/code/locations/AbYss_MZ.rpy:16
 msgid "Shop at AbYss."
-msgstr ""
+msgstr "Achetez chez AbYss."
 
 # game/code/locations/AbYss_MZ.rpy:16
 msgid "Nothing, leave."
-msgstr ""
+msgstr "Rien, partir."
 
 # game/code/locations/AbYss_MZ.rpy:49
 msgid "What do you want to buy?"
-msgstr ""
+msgstr "Que voulez-vous acheter ?"
 
 # game/code/locations/AbYss_MZ.rpy:49
 msgid "Buy some expensive cloth for {b}Maddie{/b} -150$"
-msgstr ""
+msgstr "Achetez des vêtements coûteux pour {b}Maddie{/b} -150$"
 
 # game/code/locations/AbYss_MZ.rpy:49
 msgid "\"Casper Chill Formal\" Suit ($300)"
-msgstr ""
+msgstr "Costume \"Casper Chill Formal\" (300 $)"
 
 # game/code/locations/AbYss_MZ.rpy:49
 msgid "\"Casper Chill Formal\" Dress for Desiree ($200)"
-msgstr ""
+msgstr "Robe \"Casper Chill Formal\" pour Desiree (200 $)"
 
 # game/code/locations/AbYss_MZ.rpy:49
 msgid "For Desiree."
-msgstr ""
+msgstr "Pour Desiree."
 
 # game/code/locations/AbYss_MZ.rpy:49
 msgid "Back."
@@ -113,93 +113,93 @@ msgstr "Retour."
 
 # game/code/locations/AbYss_MZ.rpy:78
 msgid "What color might suit on Desiree?"
-msgstr ""
+msgstr "Quelle couleur irait bien à Desiree ?"
 
 # game/code/locations/AbYss_MZ.rpy:78
 msgid "Red Dress"
-msgstr ""
+msgstr "Robe rouge"
 
 # game/code/locations/AbYss_MZ.rpy:78
 msgid "Blue Dress"
-msgstr ""
+msgstr "Robe bleue"
 
 # game/code/locations/AbYss_MZ.rpy:103
 msgid "What might Desiree like to wear?"
-msgstr ""
+msgstr "Que pourrait porter Desiree ?"
 
 # game/code/locations/AbYss_MZ.rpy:103
 msgid "Top"
-msgstr ""
+msgstr "Top"
 
 # game/code/locations/AbYss_MZ.rpy:103
 msgid "Bottom"
-msgstr ""
+msgstr "Bas"
 
 # game/code/locations/AbYss_MZ.rpy:103
 msgid "Accessory"
-msgstr ""
+msgstr "Accessoire"
 
 # game/code/locations/AbYss_MZ.rpy:103
 msgid "Outfits"
-msgstr ""
+msgstr "Ensemble"
 
 # game/code/locations/AbYss_MZ.rpy:106
 msgid "Black Bra ($20)"
-msgstr ""
+msgstr "Soutien-gorge noir (20 $)"
 
 # game/code/locations/AbYss_MZ.rpy:106
 msgid "Mini Bra ($30)"
-msgstr ""
+msgstr "Mini soutien-gorge (30 $)"
 
 # game/code/locations/AbYss_MZ.rpy:106
 msgid "Swimsuit ($50)"
-msgstr ""
+msgstr "Maillot de bain (50 $)"
 
 # game/code/locations/AbYss_MZ.rpy:106
 msgid "School Top ($50)"
-msgstr ""
+msgstr "Top d'école (50 $)"
 
 # game/code/locations/AbYss_MZ.rpy:144
 msgid "Skirt ($20)"
-msgstr ""
+msgstr "Jupe (20 $)"
 
 # game/code/locations/AbYss_MZ.rpy:144
 msgid "School Skirt ($30)"
-msgstr ""
+msgstr "Jupe d'écolière (30 $)"
 
 # game/code/locations/AbYss_MZ.rpy:144
 msgid "Mini Panties ($40)"
-msgstr ""
+msgstr "Mini culotte (40 $)"
 
 # game/code/locations/AbYss_MZ.rpy:173
 msgid "Stockings ($20)"
-msgstr ""
+msgstr "Bas (20 $)"
 
 # game/code/locations/AbYss_MZ.rpy:173
 msgid "Garter Belt ($40)"
-msgstr ""
+msgstr "Porte-jarretelles (40 $)"
 
 # game/code/locations/AbYss_MZ.rpy:199
 msgid "She-Hulk ($50)"
-msgstr ""
+msgstr "She-Hulk (50 $)"
 
 # game/code/locations/AbYss_MZ.rpy:199
 msgid "Jeannie ($100)"
-msgstr ""
+msgstr "Jeannie (100 $)"
 
 # game/code/locations/AbYss_MZ.rpy:199
 msgid "Origa ($100)"
-msgstr ""
+msgstr "Origa (100 $)"
 
 # game/code/locations/AbYss_MZ.rpy:199
 msgid "Harley Quinn ($150)"
-msgstr ""
+msgstr "Harley Quinn (150 $)"
 
 # game/code/locations/AbYss_MZ.rpy:199
 msgid "Chel ($200)"
-msgstr ""
+msgstr "Chel (200 $)"
 
 # game/code/locations/AbYss_MZ.rpy:199
 msgid "Slave Leia ($400)"
-msgstr ""
+msgstr "Esclave Leia (400 $)"
 
