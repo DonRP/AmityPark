@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-28 14:40\n"
+"PO-Revision-Date: 2022-09-20 13:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -5002,7 +5002,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4293 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6c_paulinaphone_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:4297 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6c_paulinaphone_6d7f393b:
 msgid "[_billspook_] Hey, Paulina. You got a minute? [multiple2]"
@@ -7254,7 +7254,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5969 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6d_starphone_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5972 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6d_starphone_a792add9:
 msgid "[_billspook_] Hey, Star. [multiple2]"
@@ -8950,7 +8950,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7157 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7161 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_9d034bdc:
 msgid "[_starspook_] Hey Billy thanks again for today! ;) "
@@ -9010,7 +9010,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7185 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_76b2fe88_1:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7188 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_80411932:
 msgid "[_starspook_] I just thought you deserved something special for today. For your eyes only of course. :P "
