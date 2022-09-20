@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-24 18:21\n"
+"PO-Revision-Date: 2022-09-20 19:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_cylindrical.rpy:15 #-#-# translate crowdin cylindrical_container_scene_1_lab_10096f14:
 msgid "[_danny_s_rise_one_s_talk_happy_] Hey Mom, how 'zit hanging?"
@@ -266,7 +266,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:195 #-#-# translate crowdin cylindrical_container_scene_2_mystery_shop_b88d642d:
 msgid "[_danny_] ..."
-msgstr ""
+msgstr "[_danny_] ..."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:196 #-#-# translate crowdin cylindrical_container_scene_2_mystery_shop_0ed3aabf:
 msgid "[_box_ghost_s_frown_] ..."
@@ -1150,7 +1150,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:910 #-#-# translate crowdin cylindrical_container_scene_5_lab_254dd6aa:
 msgid "[_maddie_] ..."
-msgstr ""
+msgstr "[_maddie_] ..."
 
 # game/code/episodes/episode_4/episode_4_cylindrical.rpy:912 #-#-# translate crowdin cylindrical_container_scene_5_lab_7a3866de:
 msgid "[_maddie_s_idle__s_towards_wide_] ..."
