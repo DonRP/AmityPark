@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-20 13:13\n"
+"PO-Revision-Date: 2022-09-20 19:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -11154,7 +11154,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14535 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_16_Danny_Bedroom_Evening_b88d642d:
 msgid "[_danny_] ..."
-msgstr ""
+msgstr "[_danny_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:14538 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_16_Danny_Bedroom_Evening_bb62ab16:
 msgid "[_sam_] ...{i}suck{/i} your... \"thing\"..."
@@ -14430,7 +14430,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18119 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_b88d642d:
 msgid "[_danny_] ..."
-msgstr ""
+msgstr "[_danny_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:18151 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_31_House_Evening_1c5d2dbe:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_s_rise_s_talk_amused_s_blush_] E-Ember..."
