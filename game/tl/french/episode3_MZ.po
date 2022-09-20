@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-15 14:36\n"
+"PO-Revision-Date: 2022-09-20 19:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
@@ -230,7 +230,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:218 #-#-# translate crowdin a_masterful_speech_school_964d8051:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] What do you mean?"
-msgstr ""
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] Que veux-tu dire?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:220 #-#-# translate crowdin a_masterful_speech_school_7a643dfb:
 msgid "[_sam_s_talk_happy_2_s_angry_] Aren't they the {b}coolest{/b}?! I don't think even Dash ditches class. Plus, Johnny even has his own motorcycle!"
@@ -262,7 +262,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:259 #-#-# translate crowdin a_masterful_speech_classroom_1729c1be:
 msgid "[_bellsound_] {i}*Riiing* *Riiing*{/i}"
-msgstr ""
+msgstr "[_bellsound_] {i}*Riiing* *Riiing*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:265 #-#-# translate crowdin a_masterful_speech_classroom_0c61a1a0:
 msgid "[_lancer_s_talk_frown_] Mr. Fenton, we find you arriving late {u}yet{/u} again. Color me {b}not{/b} shocked."
@@ -470,7 +470,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:505 #-#-# translate crowdin a_masterful_speech_speech_131f84e5:
 msgid "[_v_thermos_] {i}*Wum* *Wum* *Choooooo*{/i}"
-msgstr ""
+msgstr "[_v_thermos_] {i}*Wum* *Wum* *Choooooo*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:509 #-#-# translate crowdin a_masterful_speech_speech_fb7fcd39:
 msgid "[_ectopuss_] What happened? Where am I?! Where'd that hot jumpsuit lady go?!"
@@ -478,7 +478,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:511 #-#-# translate crowdin a_masterful_speech_speech_131f84e5_1:
 msgid "[_v_thermos_] {i}*Wum* *Wum* *Choooooo*{/i}"
-msgstr ""
+msgstr "[_v_thermos_] {i}*Wum* *Wum* *Choooooo*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:514 #-#-# translate crowdin a_masterful_speech_speech_0c1ec652:
 msgid "[_vlad_] There you have it, the first successfully captured ghost in history!"
