@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-21 07:42\n"
+"PO-Revision-Date: 2022-09-21 13:38\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -9988,15 +9988,15 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13725 #-#-# translate crowdin episode_8_afterward_cd9cb06a:
 msgid "Thanks for playing the most recent version of Amity Park."
-msgstr ""
+msgstr "Merci de jouer la version la plus récente d'Amity Park."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13726 #-#-# translate crowdin episode_8_afterward_e17babb7:
 msgid "Please feel free to share your opinions about the game and please visit our Patreon or Discord."
-msgstr ""
+msgstr "N'hésitez pas à partager vos opinions sur le jeu et à visiter notre Patreon ou Discord."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:13727 #-#-# translate crowdin episode_8_afterward_a439f609:
 msgid "Until next time. -GZone "
-msgstr ""
+msgstr "A la prochaine fois. -GZone "
 
 msgid "Buy the coffee beans for ($200) ?"
 msgstr ""
