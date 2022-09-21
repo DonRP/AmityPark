@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-21 07:42\n"
+"PO-Revision-Date: 2022-09-21 19:40\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -3566,7 +3566,7 @@ msgstr ""
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4539 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_1_Text_About_Package_58309785:
 msgid "[_phone_] [[{i}*Bzzt*{/i} {i}*Bzzt*{/i}]"
-msgstr ""
+msgstr "[_phone_] [[{i}*Bzzt*{/i} {i}*Bzzt*{/i}]]"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4541 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_Continued_1_Text_About_Package_58026e53:
 msgid "[_danny_s_at_player_s_rise_s_smile_] (Huh? Oh, it's Mom's message.{p}It just says I need to pick up a package she ordered from the Mall for her.)"
