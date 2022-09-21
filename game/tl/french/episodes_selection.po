@@ -10,40 +10,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 10:05\n"
+"PO-Revision-Date: 2022-09-21 19:40\n"
 
 msgid "Paulina was in trouble! What did I do?!"
-msgstr ""
+msgstr "Paulina avait des problèmes ! Qu'est-ce que j'ai fait ?"
 
 # game/code/episodes/episodes_selection.rpy:202
 msgid "Saved her immediately!"
-msgstr ""
+msgstr "La sauver immédiatement !"
 
 # game/code/episodes/episodes_selection.rpy:202
 msgid "Waited to see what happens..."
-msgstr ""
+msgstr "J'ai attendu de voir ce qui se passe..."
 
 # game/code/episodes/episodes_selection.rpy:245
 msgid "Did I save Maddie from Ectopuss in the basement?"
-msgstr ""
+msgstr "Est-ce que j'ai sauvé Maddie d'Ectopuss dans le sous-sol ?"
 
 # game/code/episodes/episodes_selection.rpy:330
 msgid "Did I prank Sam at Star's request?"
-msgstr ""
+msgstr "Est-ce que j'ai fait une blague à Sam à la demande de Star ?"
 
 # game/code/episodes/episodes_selection.rpy:366
 msgid "Who did I take to the school dance?"
-msgstr ""
+msgstr "Qui ai-je emmené au bal de l'école ?"
 
 # game/code/episodes/episodes_selection.rpy:366
 msgid "Sam"
-msgstr ""
+msgstr "Sam"
 
 # game/code/episodes/episodes_selection.rpy:406
 msgid "Did I get romantically involved with Maddie?"
-msgstr ""
+msgstr "Est-ce que j'ai eu une relation amoureuse avec Maddie ?"
 
 # game/code/episodes/episodes_selection.rpy:440
 msgid "Who did I get my second orgone charge from?"
-msgstr ""
+msgstr "Qui m'a donné ma deuxième charge d'orgone ?"
 
