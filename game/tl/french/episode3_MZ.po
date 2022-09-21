@@ -10,207 +10,207 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-20 19:13\n"
+"PO-Revision-Date: 2022-09-21 07:42\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
-msgstr ""
+msgstr "[_danny_s_at_self_s_neutral_s_talk_consternation_] Après la nuit dernière, j'ai le sentiment que Ectopus creep ne sera pas le {b}dernier{/b} fantôme maléfique que je devrai affronter à partir de maintenant."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:23 #-#-# translate crowdin a_masterful_speech_intro_3b4ba0c8:
 msgid "[_danny_s_at_player_wide_s_unhappy_s_talk_consternation_] Also, what's up with this Orgone stuff it was talking about?"
-msgstr ""
+msgstr "[_danny_s_at_player_wide_s_unhappy_s_talk_consternation_] Et aussi, c'est quoi ce truc d'Orgone dont il parlait ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:24 #-#-# translate crowdin a_masterful_speech_intro_f405c7a8:
 msgid "[_danny_s_at_player_s_wondering_s_talk_distraught_] It might be the thing that explains why he seemed to be a lot stronger..."
-msgstr ""
+msgstr "[_danny_s_at_player_s_wondering_s_talk_distraught_] C'est peut-être ce qui explique pourquoi il semblait être plus fort..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:25 #-#-# translate crowdin a_masterful_speech_intro_ce21c2f1:
 msgid "[_danny_s_down_s_angry_s_talk_consternation_] If that's the case, I should probably get my hands on some Orgone for myself! But how am I gonna get some sorta... \"ghost goo\" if I don't even know what it is or how to collect it?"
-msgstr ""
+msgstr "[_danny_s_down_s_angry_s_talk_consternation_] Si c'est le cas, je devrais probablement mettre la main sur de l'Orgone pour moi ! Mais comment vais-je obtenir une sorte de... \"ghost goo\" si je ne sais même pas ce que c'est ou comment le collecter ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:26 #-#-# translate crowdin a_masterful_speech_intro_acdc13f9:
 msgid "[_danny_s_down_s_wondering_s_talk_consternation_] Oh well, maybe I can ask Mom or Dad about it later, but for now, I had better make my way over to school."
-msgstr ""
+msgstr "[_danny_s_down_s_wondering_s_talk_consternation_] Je pourrai peut-être demander à maman ou à papa plus tard, mais pour l'instant, je dois me rendre à l'école."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:30 #-#-# translate crowdin a_masterful_speech_intro_d610e779:
 msgid "[_doorsound_] {i}*Knock* *Knock* *Knock*{/i}"
-msgstr ""
+msgstr "[_doorsound_] {i}*Toc* *Toc* *Toc*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:36 #-#-# translate crowdin a_masterful_speech_intro_b39fa35e:
 msgid "[_vlad_s_towards_s_unhappy_s_talk_happy_] Why hello, Daniel! A fine \"good morning\" to you!"
-msgstr ""
+msgstr "[_vlad_s_towards_s_unhappy_s_talk_happy_] Bonjour, Daniel ! Un bon \"bonjour\" à vous !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:38 #-#-# translate crowdin a_masterful_speech_intro_ce1c9e30:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] Oh, umm, hey Mr. Masters, sure just... let yourself in, why not?"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Oh, umm, hey M. Masters, bien sûr... entrez, pourquoi pas ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:40 #-#-# translate crowdin a_masterful_speech_intro_ca440b96:
 msgid "[_vlad_s_closed_s_unhappy_s_talk_happy_] Oh please, Daniel, call me Uncle Vlad!"
-msgstr ""
+msgstr "[_vlad_s_closed_s_unhappy_s_talk_happy_] Oh s'il te plaît, Daniel, appelle-moi Oncle Vlad !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:42 #-#-# translate crowdin a_masterful_speech_intro_ff63fb2b:
 msgid "[_danny_s_towards_wide_s_wondering_s_talk_happy_] {i}Uhm{/i}, how about just Vlad, for now?"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] {i}Et si on se contentait de Vlad, pour le moment ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:44 #-#-# translate crowdin a_masterful_speech_intro_e9a71706:
 msgid "[_vlad_s_towards_s_rise_s_talk_happy_] {i}*Chuckles* Well{/i}, I suppose that works too. Suppose it's only right that I try to {i}earn{/i} your trust first, aye?{p}So then, how did we sleep last night, {i}hmmm?{/i}"
-msgstr ""
+msgstr "[_vlad_s_towards_s_rise_s_talk_happy_] {i}*Eh bien, je suppose que ça marche aussi. Je suppose qu'il est juste que j'essaie de {i}gagner ta confiance d'abord, d'accord ?{p}Alors, comment avons-nous dormi la nuit dernière, {i}hmmm?{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:46 #-#-# translate crowdin a_masterful_speech_intro_89086bdb:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Alright I guess. Uhm, if you happen to know at all, could you tell me about what those noises last night were in the lab? I sorta snuck away after a certain point into your little get together..."
-msgstr ""
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] D'accord, je suppose. Euh, si tu le sais, tu pourrais me dire ce qu'étaient ces bruits hier soir dans le labo ? Je me suis en quelque sorte faufilé après un certain temps dans votre petite réunion..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:48 #-#-# translate crowdin a_masterful_speech_intro_7586d955:
 msgid "[_vlad_s_closed_s_unhappy_s_talk_happy_] Ahh, yes, I noticed that myself, and good thing that you did, young man! Things certainly got a {b}bit{/b} crazy indeed after you left!"
-msgstr ""
+msgstr "[_vlad_s_closed_s_unhappy_s_talk_happy_] Ahh, oui, je l'ai remarqué moi-même, et c'est une bonne chose que tu l'aies fait, jeune homme ! Les choses sont certainement devenues un {b}peu{/b} folles après ton départ !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:49 #-#-# translate crowdin a_masterful_speech_intro_aaedb38d:
 msgid "[_vlad_s_towards_s_rise_s_talk_happy_] Nothing to worry about too much, obviously, just an accidental miscommunication from me to your mother about what button to push..."
-msgstr ""
+msgstr "[_vlad_s_towards_s_rise_s_talk_happy_] Pas de quoi s'inquiéter outre mesure, évidemment, juste un malentendu accidentel entre moi et ta mère sur le bouton à presser..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:50 #-#-# translate crowdin a_masterful_speech_intro_1ecf3af9:
 msgid "[_vlad_s_towards_s_unhappy_s_talk_frown_] Now Daniel, let me ask you... how do you feel about ghosts?"
-msgstr ""
+msgstr "[_vlad_s_towards_s_unhappy_s_talk_frown_] Maintenant Daniel, laisse-moi te demander... que penses-tu des fantômes ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:52 #-#-# translate crowdin a_masterful_speech_intro_cbaf0744:
 msgid "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Uhm, well... they're... {b}bad{/b}, right?"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Euh, eh bien... ils sont... {b}mauvais{/b}, non ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:54 #-#-# translate crowdin a_masterful_speech_intro_8f047ab7:
 msgid "[_vlad_s_towards_s_rise_s_talk_frown_] Quite right! These recent apparitions constitute a genuine threat to our civil society! It is our duty to uphold the protected rights of the currently living! These monsters have no place upsetting our day to day lives! I for one will not tolerate it!"
-msgstr ""
+msgstr "[_vlad_s_towards_s_rise_s_talk_frown_] C'est vrai ! Ces apparitions récentes constituent une véritable menace pour notre société civile ! Il est de notre devoir de faire respecter les droits protégés des vivants actuels ! Ces monstres n'ont pas à perturber notre vie quotidienne ! Pour ma part, je ne le tolérerai pas !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:56 #-#-# translate crowdin a_masterful_speech_intro_46682194:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Yeah, right, protected liberties and all that, I getcha... kinda sounds like you're pretty against ghosts, huh? Quite a wordsmith, too!"
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Ouais, c'est vrai, la protection des libertés et tout ça, je comprends... on dirait que tu es plutôt contre les fantômes, non ? Tu es un bon écrivain, aussi !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:58 #-#-# translate crowdin a_masterful_speech_intro_1d33952c:
 msgid "[_vlad_s_closed_s_unhappy_s_talk_happy_] Oh you'll have to excuse me Daniel, I got a bit carried away there. I've simply been practicing for a speech I'm giving later today at the mall. In actuality, while I understand their potential to do harm, ghosts are actually of great personal interest to me!"
-msgstr ""
+msgstr "[_vlad_s_closed_s_unhappy_s_talk_happy_] Oh, excusez-moi Daniel, je me suis un peu emporté. Je m'entraînais simplement pour un discours que je dois faire plus tard dans la journée au centre commercial. En réalité, bien que je comprenne leur potentiel de nuisance, les fantômes sont en fait d'un grand intérêt personnel pour moi !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:60 #-#-# translate crowdin a_masterful_speech_intro_b909f914:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Sure, no worries. Listen Vlad, I gotta get going to get to scho-"
-msgstr ""
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] Bien sûr, pas de soucis. Ecoute Vlad, je dois y aller pour aller à l'école"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:62 #-#-# translate crowdin a_masterful_speech_intro_a46eff74:
 msgid "[_vlad_s_towards_s_rise_s_talk_happy_] You know, I was actually hoping if you wouldn't mind being in attendance today as I presented it in front of the fine people of Amity Park, Daniel? I'm certainly no {b}proper{/b} public speaker, and your support would be of a great help!"
-msgstr ""
+msgstr "[_vlad_s_towards_s_rise_s_talk_happy_] Vous savez, j'espérais en fait que ça ne vous dérangerait pas d'être présent aujourd'hui alors que je le présente devant les gens d'Amity Park, Daniel ? Je ne suis certainement pas {b}orateur correct{/b}, et votre soutien serait d'une grande aide !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:64 #-#-# translate crowdin a_masterful_speech_intro_ffab0989:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] Erm… I guess, if I have to?"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Erm… je suppose, si je dois le faire ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:67 #-#-# translate crowdin a_masterful_speech_intro_af4758dd:
 msgid "[_vlad_s_closed_s_unhappy_s_talk_happy_] Excellent! I'll reserve you a view from the front row!"
-msgstr ""
+msgstr "[_vlad_s_closed_s_unhappy_s_talk_happy_] Excellent ! Je vous réserve une vue du premier rang !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:70 #-#-# translate crowdin a_masterful_speech_intro_76458d31:
 msgid "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_] But, erh, what is it even for-"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_] Mais, euh, à quoi ça sert"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:72 #-#-# translate crowdin a_masterful_speech_intro_2d834cab:
 msgid "[_vlad_s_towards_s_neutral_s_talk_happy_] Sorry my boy, have to dash for now. Remember, the mall's main presentation space, right after school!"
-msgstr ""
+msgstr "[_vlad_s_towards_s_neutral_s_talk_happy_] Désolé mon garçon, je dois y aller pour le moment. Rappelez-vous, l'espace de présentation principal du centre commercial, juste après l'école !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:75 #-#-# translate crowdin a_masterful_speech_intro_3172de59:
 msgid "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_] Wait, but I'm not sure I actually wanna…"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_] Attends, mais je ne suis pas sûr de vouloir…"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:76 #-#-# translate crowdin a_masterful_speech_intro_05553684:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] …awe, crap. You know, Vlad seems like a nice enough guy and all, but he's really aloof about actually listening to others... guess I'm going now!"
-msgstr ""
+msgstr "[_danny_s_at_self_s_neutral_s_talk_consternation_] …awe, merde. Vous savez, Vlad semble être un gars assez sympa et tout, mais il est vraiment distant pour ce qui est d'écouter les autres... Je suppose que je vais y aller maintenant !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:78 #-#-# translate crowdin a_masterful_speech_intro_d271f335:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_consternation_] Oh.. this reminds me, I am wondering how Dad is doing after this whole incident, he got hit pretty hard. Maybe I should check on him, too."
-msgstr ""
+msgstr "[_danny_s_at_player_s_unhappy_s_talk_consternation_] Oh... ça me fait penser, je me demande comment va papa après tout cet incident, il a été durement touché. Peut-être que je devrais aller voir comment il va, aussi."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:123 #-#-# translate crowdin a_masterful_speech_school_7b739c10:
 msgid "[_sam_s_talk_happy_] Danny! Hey, over here!"
-msgstr ""
+msgstr "[_sam_s_talk_happy_] Danny ! Hé, par ici !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:129 #-#-# translate crowdin a_masterful_speech_school_dd4a7136:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Hey Sam! What's going on?"
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Hé Sam ! Qu'est-ce qu'il y a ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:131 #-#-# translate crowdin a_masterful_speech_school_9b67c2a0:
 msgid "[_sam_s_talk_happy_s_sad_] C'mon, I want to introduce you to some cool new people I met!!"
-msgstr ""
+msgstr "[_sam_s_talk_happy_s_sad_] Allez, je veux vous présenter à de nouvelles personnes que j'ai rencontrées !!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:133 #-#-# translate crowdin a_masterful_speech_school_7191b91c:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] What? Oh, Sam, no, I'm {i}really{/i} not interested in trying to be matched up with any of your poetry slam friends..."
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Quoi ? Oh, Sam, non, je suis {i}vraiment{/i} pas intéressé à essayer d'être jumelé avec un de tes amis de poésie..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:135 #-#-# translate crowdin a_masterful_speech_school_2937e403:
 msgid "[_sam_s_talk_happy_] No, they're the new kids at school! They're {b}way{/b} cooler than goth kids... they're actually {b}punk rock{/b}!! They're what I aspire to be! Come on, they're hanging over here!"
-msgstr ""
+msgstr "[_sam_s_talk_happy_] Non, ce sont les nouveaux de l'école ! Ils sont {b}bien plus cool que les gothiques... ils sont en fait {b}punk rock{/b} !! Ils sont ce que j'aspire à être ! Allez, ils sont accrochés par ici !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:137 #-#-# translate crowdin a_masterful_speech_school_87c4ed65:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Alright, just calm down a bit, Sam."
-msgstr ""
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] D'accord, calme-toi un peu, Sam."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:146 #-#-# translate crowdin a_masterful_speech_school_ff62975c:
 msgid "[_sam_s_talk_happy_] Danny, I want you to meet Kitty and her boyfriend, Johnny \"Thirteen\". Johnny's nickname is cause he's crashed his motorcycle a buncha times! Ugh, they're just so cool!"
-msgstr ""
+msgstr "[_sam_s_talk_happy_] Danny, je veux te présenter Kitty et son petit ami, Johnny \"Treize\". Johnny est surnommé ainsi parce qu'il s'est écrasé en moto un paquet de fois ! Ugh, ils sont juste trop cool !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:148 #-#-# translate crowdin a_masterful_speech_school_4c75d4b7:
 msgid "[_johnny_s_talk_happy_] Hey, sup, dude?"
-msgstr ""
+msgstr "[_johnny_s_talk_happy_] Hey, sup, mec ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:152 #-#-# translate crowdin a_masterful_speech_school_9aa0e280:
 msgid "[_kitty_s_talk_happy_] Hey kiddo, nice to meet ‘cha!"
-msgstr ""
+msgstr "[_kitty_s_talk_happy_] Hey gamin, ravi de te rencontrer !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:156 #-#-# translate crowdin a_masterful_speech_school_4cb313ae:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Nice to meet you too. So, where are you guys from?"
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Ravi de vous rencontrer aussi. Alors, d'où venez-vous ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:159 #-#-# translate crowdin a_masterful_speech_school_40c7afc0:
 msgid "[_kitty_s_talk_happy_s_neutral_2_] Uhm... Wisconsin? Yeah, Wisconsin..."
-msgstr ""
+msgstr "[_kitty_s_talk_happy_s_neutral_2_] Uhm... Wisconsin ? Ouais, le Wisconsin..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:162 #-#-# translate crowdin a_masterful_speech_school_b0440ff7:
 msgid "[_johnny_s_confused_2_s_talk_happy_s_towards_] Uhh, yeah, we just transferred in today, actually."
-msgstr ""
+msgstr "[_johnny_s_confused_2_s_talk_happy_s_towards_] Euh, ouais, nous venons d'être transférés aujourd'hui, en fait."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:166 #-#-# translate crowdin a_masterful_speech_school_c1ec7250:
 msgid "[_kitty_s_talk_frown_s_rise_one_] But honestly, we're probably going to ditch class today, this place is pretty lame so far."
-msgstr ""
+msgstr "[_kitty_s_talk_frown_s_rise_one_] Mais honnêtement, on va probablement sécher les cours aujourd'hui, cet endroit est plutôt nul jusqu'à présent."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:170 #-#-# translate crowdin a_masterful_speech_school_0ba7e7c9:
 msgid "[_sam_s_talk_happy_s_confused_] Yeah, totally! {b}Super{/b} lame, amirite?"
-msgstr ""
+msgstr "[_sam_s_talk_happy_s_confused_] Ouais, carrément ! {b}Super nul, n'est-ce pas ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:174 #-#-# translate crowdin a_masterful_speech_school_b4c6aa9d:
 msgid "[_johnny_s_talk_happy_2_] Oh, well hey, do you want to come with us then, maybe?"
-msgstr ""
+msgstr "[_johnny_s_talk_happy_2_] Oh, eh bien, tu veux venir avec nous alors, peut-être ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:178 #-#-# translate crowdin a_masterful_speech_school_8b7350f4:
 msgid "[_kitty_s_mad_s_angry_s_towards_right_2_s_talk_frown_] Johnny! We were supposed to have some {i}alone{/i} time today!"
-msgstr ""
+msgstr "[_kitty_s_mad_s_angry_s_towards_right_2_s_talk_frown_] Johnny ! On était censé avoir un peu de {i}temps seul aujourd'hui !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:181 #-#-# translate crowdin a_masterful_speech_school_694c1acb:
 msgid "[_johnny_s_talk_frown_] Chill out, babe, I was just being friendly."
-msgstr ""
+msgstr "[_johnny_s_talk_frown_] Relaxe, bébé, j'étais juste amical."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:186 #-#-# translate crowdin a_masterful_speech_school_1ac0ff9c:
 msgid "[_sam_] No, it's alright honestly, if my parents caught me ditching school, they'd flip out and send me to a military school or something."
-msgstr ""
+msgstr "[_sam_] Non, c'est bon, honnêtement, si mes parents me surprenaient à sécher les cours, ils s'énerveraient et m'enverraient dans une école militaire ou autre."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:191 #-#-# translate crowdin a_masterful_speech_school_c593bb40:
 msgid "[_kitty_s_idle__s_talk_frown_s_towards_] Aww, that's really too bad. {b}Oh well{/b}! Anyway, we're going to split now. Nice meeting ya', Danny! See ya Sam."
-msgstr ""
+msgstr "[_kitty_s_idle__s_talk_frown_s_towards_] Aww, c'est vraiment dommage. {b}Oh bien{/b} ! De toute façon, on va se séparer maintenant. Ravi de t'avoir rencontré, Danny ! A plus tard, Sam."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:195 #-#-# translate crowdin a_masterful_speech_school_ce97b7ed:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Sure thing. Uhh, hey, you guys going to the speech later?"
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] C'est sûr. Uhh, hey, vous allez au discours plus tard ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:197 #-#-# translate crowdin a_masterful_speech_school_a314050c:
 msgid "[_johnny_s_talk_frown_s_confused_] Uhm, what speech?"
-msgstr ""
+msgstr "[_johnny_s_talk_frown_s_confused_] Uhm, quel discours ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:199 #-#-# translate crowdin a_masterful_speech_school_f8353710:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Not sure what it is exactly, but this guy Vlad Masters is delivering it in the afternoon at the mall. Something to do with an announcement or something? He wanted me to go, so I just figured I'd let someone else know about it too."
-msgstr ""
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] Je ne suis pas sûr de ce que c'est exactement, mais ce type Vlad Masters le livre l'après-midi au centre commercial. Quelque chose à voir avec une annonce ou autre ? Il voulait que j'y aille, alors j'ai pensé que je devais le faire savoir à quelqu'un d'autre."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:201 #-#-# translate crowdin a_masterful_speech_school_e19409f0:
 msgid "[_johnny_s_talk_happy_2_s_angry_s_towards_2_] Oh yeah, me and Kitty know Vlad {i}quite{/i} well... cause he's {b}also{/b} from Wisconsin, I mean! So yeah, we might swing by, who knows? I definitely wanted to check out some of the gorgeous {i}sights{/i} at the mall anyway..."
@@ -422,51 +422,51 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:479 #-#-# translate crowdin a_masterful_speech_speech_f983ea62:
 msgid "[_vlad_] But quite frankly, from this day forth, I'd very much like to add a {b}new{/b} and far more {b}important{/b} title to that current list."
-msgstr ""
+msgstr "[_vlad_] Mais très franchement, à partir d'aujourd'hui, j'aimerais beaucoup ajouter un {b}nouveau{/b} et beaucoup plus {b}important{/b} titre à cette liste actuelle."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:481 #-#-# translate crowdin a_masterful_speech_speech_c84186e9:
 msgid "[_vlad_] That is why... I am {b}officially{/b} announcing... my candidacy for the position as {b}mayor{/b} of Amity Park!"
-msgstr ""
+msgstr "[_vlad_] C'est pourquoi... Je suis {b}officiellement{/b} en train d'annoncer... ma candidature au poste de {b}maire{/b} d'Amity Park !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:483 #-#-# translate crowdin a_masterful_speech_speech_e518a5da:
 msgid "[_crowd_] {i}*Ooohs* *Gasps* *Cheers*{/i}"
-msgstr ""
+msgstr "[_crowd_] {i}* Ooohs * * Halètements* * Acclamations * {/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:485 #-#-# translate crowdin a_masterful_speech_speech_e15b37e0:
 msgid "[_vlad_] During my term as mayor, I will assure that there will be no more ghostly encounters to pester you fine citizens."
-msgstr ""
+msgstr "[_vlad_] Pendant mon mandat de maire, je m'assurerai qu'il n'y aura plus de rencontres avec des fantômes pour vous importuner, chers citoyens."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:487 #-#-# translate crowdin a_masterful_speech_speech_c718fb78:
 msgid "[_vlad_] All the people of Amity Park will be safe under my leadership."
-msgstr ""
+msgstr "[_vlad_] Tous les habitants d'Amity Park seront en sécurité sous ma direction."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:489 #-#-# translate crowdin a_masterful_speech_speech_632c8909:
 msgid "[_vlad_] Speaking of which, I'm sure most of you have probably heard of that ghostly octopus looking fellow known as \"Ectopus\", I assume?"
-msgstr ""
+msgstr "[_vlad_] En parlant de ça, je suis sûr que la plupart d'entre vous ont déjà entendu parler de cette pieuvre fantomatique connue sous le nom de \"Ectopus\", je suppose ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:491 #-#-# translate crowdin a_masterful_speech_speech_d8941db1:
 msgid "[_vlad_] Now you might be thinking, 'Where could he possibly be at this very moment?' 'Haunting the neighborhood my dear mother lives in?' 'Still attacking innocent civilians and causing panic in our streets?'"
-msgstr ""
+msgstr "[_vlad_] Vous vous dites peut-être : 'Où peut-il bien être en ce moment même ?\" \"Il hante le quartier où vit ma chère mère ?' 'Il attaque encore des civils innocents et sème la panique dans nos rues ?'"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:495 #-#-# translate crowdin a_masterful_speech_speech_b4bed88f:
 msgid "[_vlad_] Well fear no more good people! For I, {b}Vlad Masters{/b}, have already handled that evil creature and captured him within {b}this{/b} portable device."
-msgstr ""
+msgstr "[_vlad_] Eh bien, n'ayez plus peur, braves gens ! Car moi, {b}Vlad Masters{/b}, j'ai déjà manipulé cette créature maléfique et l'ai capturée dans {b}cet{/b} appareil portable."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:497 #-#-# translate crowdin a_masterful_speech_speech_417b9cff:
 msgid "[_crowd_] {i}*Multitudes of Applause*{/i}"
-msgstr ""
+msgstr "[_crowd_] {i}*Multitudes d'applaudissements*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:499 #-#-# translate crowdin a_masterful_speech_speech_c40ff80b:
 msgid "[_vlad_] Thank you, thank you! This is just the latest piece of ectoplasmic-based capturing ingenuity specialzed for ghosts and phantoms, all created by {i}yours{/i} truly and the fine people at Vladco."
-msgstr ""
+msgstr "[_vlad_] Merci, merci ! Ce n'est que la dernière pièce de l'ingéniosité de capture basée sur l'ectoplasme, spécialisée dans les fantômes et les fantômes, créée par {i}votre{/i} serviteur et les gens de Vladco."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:501 #-#-# translate crowdin a_masterful_speech_speech_b3e2acb7:
 msgid "[_vlad_] Now I know my word is already impeccably good, but perhaps a proper demonstration is in order, aye?"
-msgstr ""
+msgstr "[_vlad_] Je sais que ma parole est déjà impeccable, mais peut-être qu'une démonstration appropriée s'impose, n'est-ce pas ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:503 #-#-# translate crowdin a_masterful_speech_speech_5ed21231:
 msgid "[_vlad_] Say 'hello' to... {b}Ectopus{/b}!"
-msgstr ""
+msgstr "[_vlad_] Dites \"bonjour\" à... {b}Ectopus{/b} !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:505 #-#-# translate crowdin a_masterful_speech_speech_131f84e5:
 msgid "[_v_thermos_] {i}*Wum* *Wum* *Choooooo*{/i}"
@@ -474,7 +474,7 @@ msgstr "[_v_thermos_] {i}*Wum* *Wum* *Choooooo*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:509 #-#-# translate crowdin a_masterful_speech_speech_fb7fcd39:
 msgid "[_ectopuss_] What happened? Where am I?! Where'd that hot jumpsuit lady go?!"
-msgstr ""
+msgstr "[_ectopuss_] Que s'est-il passé ? Où suis-je ? ! Où est passée la femme sexy en combinaison ? ?!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:511 #-#-# translate crowdin a_masterful_speech_speech_131f84e5_1:
 msgid "[_v_thermos_] {i}*Wum* *Wum* *Choooooo*{/i}"
@@ -482,151 +482,151 @@ msgstr "[_v_thermos_] {i}*Wum* *Wum* *Choooooo*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:514 #-#-# translate crowdin a_masterful_speech_speech_0c1ec652:
 msgid "[_vlad_] There you have it, the first successfully captured ghost in history!"
-msgstr ""
+msgstr "[_vlad_] Et voilà, le premier fantôme capturé avec succès dans l'histoire !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:516 #-#-# translate crowdin a_masterful_speech_speech_90456d7b:
 msgid "[_vlad_] Unfortunately, Ectopus likely won't be the {i}last{/i} ghost that Amity Park is going to encounter."
-msgstr ""
+msgstr "[_vlad_] Malheureusement, Ectopus ne sera probablement pas le {i}dernier{/i} fantôme qu'Amity Park va rencontrer."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:518 #-#-# translate crowdin a_masterful_speech_speech_45f953a8:
 msgid "[_vlad_] Therefore, when you vote for Vlad Masters to be your new mayor, you are voting for a better, safer, ghost {i}free{/i} future!"
-msgstr ""
+msgstr "[_vlad_] Par conséquent, lorsque vous votez pour Vlad Masters pour être votre nouveau maire, vous votez pour un avenir meilleur, plus sûr, sans fantômes {i}{/i} !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:520 #-#-# translate crowdin a_masterful_speech_speech_16f5cb9b:
 msgid "[_crowd_] {i}*Multitudes of Applause* *Cheers*{/i}"
-msgstr ""
+msgstr "[_crowd_] {i}* Une multitude d'applaudissements * * Acclamations * {/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:522 #-#-# translate crowdin a_masterful_speech_speech_7e0d133a:
 msgid "[_vlad_] Now then, I believe we have a microphone set up, so if there any questions from the audience today, I'd be glad-"
-msgstr ""
+msgstr "[_vlad_] Maintenant, je crois que nous avons un microphone installé, donc s'il y a des questions du public aujourd'hui, je serais heureux"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:524 #-#-# translate crowdin a_masterful_speech_speech_6c7d4e7a:
 msgid "[_star_] {i}Ahhhhhhhhhh!!!!!!{/i}"
-msgstr ""
+msgstr "[_star_] {i}Ahhhhhhhhh!!!!!!{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:527 #-#-# translate crowdin a_masterful_speech_speech_eebf7728:
 msgid "[_vlad_] Ehh? What's all this commotion about?"
-msgstr ""
+msgstr "[_vlad_] Ehh ? C'est quoi toute cette agitation ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:532 #-#-# translate crowdin a_masterful_speech_speech_c0e4ac44:
 msgid "[_star_s_rised_arm_s_down_wide_s_confused_s_talk_frown_] Oh my God!! Somebody stole my {b}fucking{/b} clothes right off my body!!!"
-msgstr ""
+msgstr "[_star_s_rised_arm_s_down_wide_s_confused_s_talk_frown_] Oh mon Dieu ! Quelqu'un a volé mes {b}putain de vêtements sur mon corps ! !!!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:538 #-#-# translate crowdin a_masterful_speech_speech_9bbf494b:
 msgid "[_vlad_] My word..."
-msgstr ""
+msgstr "[_vlad_] Ma parole..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:546 #-#-# translate crowdin a_masterful_speech_speech_d7ffe644:
 msgid "[_sam_] Beyond having to see the sight of your bare ass with my own eyes, this is a dream come true for me."
-msgstr ""
+msgstr "[_sam_] Au-delà du fait de voir de mes propres yeux la vue de ton cul nu, c'est un rêve qui devient réalité pour moi."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:552 #-#-# translate crowdin a_masterful_speech_speech_b28241c1:
 msgid "[_star_s_talk_frown_s_angry_s_closed_s_blush_2_] Dash give me your jacket!! We are leaving this place, RIGHT NOW!!"
-msgstr ""
+msgstr "[_star_s_talk_frown_s_angry_s_closed_s_blush_2_] Dash, donne-moi ta veste ! Nous quittons cet endroit, MAINTENANT !!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:554 #-#-# translate crowdin a_masterful_speech_speech_50231447:
 msgid "[_dash_] Sure thing babe!"
-msgstr ""
+msgstr "[_dash_] Bien sûr, bébé !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:566 #-#-# translate crowdin a_masterful_speech_speech_76462b91:
 msgid "[_shadow_s_3_] {i}*Growl* *Snarl* *Hisss*{/i}"
-msgstr ""
+msgstr "[_shadow_s_3_] {i}* Grognement* * Grognement* * Sifflement * {/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:573 #-#-# translate crowdin a_masterful_speech_speech_4f60cad9:
 msgid "[_vlad_s_angry_s_talk_frown_s_towards_2_] Now who in blazes do you think you are to interrupt my candidacy announcement, foul spectre?"
-msgstr ""
+msgstr "[_vlad_s_angry_s_talk_frown_s_towards_2_] Pour qui vous prenez-vous pour interrompre l'annonce de ma candidature, épouvantable spectre ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:575 #-#-# translate crowdin a_masterful_speech_speech_b942a549:
 msgid "[_stranger_] OH NOO, IT'S A {b}GHOST{/b}!! QUICK, EVERYONE!! RUN AWAY AS PANICKED AND INCOHERENTLY AS YOU CAN!!"
-msgstr ""
+msgstr "[_stranger_] OH NOO, C'EST UN {b}GHOST{/b} !! VITE, TOUT LE MONDE ! ! FUYEZ AUSSI PANIQUÉS ET INCOHÉRENTS QUE POSSIBLE !!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:578 #-#-# translate crowdin a_masterful_speech_speech_72a61360:
 msgid "[_shadow_s_3_] {i}*Growl* *Snap* *Blehh*{/i}"
-msgstr ""
+msgstr "[_shadow_s_3_] {i}* Grognement * * Claquement* * Blehh*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:582 #-#-# translate crowdin a_masterful_speech_speech_da14d22d:
 msgid "[_vlad_s_talk_frown_s_neutral_s_towards_] Well I guess it doesn't quite matter just {i}who{/i} you are, because {b}Vlad Masters{/b} is going to catch you for good, evil spirit!"
-msgstr ""
+msgstr "[_vlad_s_talk_frown_s_neutral_s_towards_] Eh bien je suppose que ça n'a pas vraiment d'importance {i}qui tu es, parce que {b}Vlad Masters{/b} va t'attraper pour de bon, mauvais esprit !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:586 #-#-# translate crowdin a_masterful_speech_speech_983e8a1a:
 msgid "[_v_thermos_] {i}*Plep* *Plep* *Kapooie*{/i}"
-msgstr ""
+msgstr "[_v_thermos_] {i}*Plep* *Plep* *Kapooie*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:587 #-#-# translate crowdin a_masterful_speech_speech_ff661a54:
 msgid "[_vlad_s_talk_frown_s_sad_2_s_towards_wide_] What the- why doesn't this damn thing work?!"
-msgstr ""
+msgstr "[_vlad_s_talk_frown_s_sad_2_s_towards_wide_] Qu'est-ce que... pourquoi ce satané truc ne marche pas ?!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:591 #-#-# translate crowdin a_masterful_speech_speech_fa45f20e:
 msgid "[_vlad_s_rise_one_s_talk_frown_] Oh right… I haven't quite figured out the {b}charging{/b} issue. My device needs a good amount of time to recharge after every capture."
-msgstr ""
+msgstr "[_vlad_s_rise_one_s_talk_frown_] Ah oui… Je n'ai pas encore résolu le problème du chargement {b}{/b}. Mon appareil a besoin d'un bon temps de recharge après chaque capture."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:593 #-#-# translate crowdin a_masterful_speech_speech_c009069d:
 msgid "[_vlad_s_talk_happy_s_sad_] Well, in that case, please excuse me!"
-msgstr ""
+msgstr "[_vlad_s_talk_happy_s_sad_] Eh bien, dans ce cas, veuillez m'excuser !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:600 #-#-# translate crowdin a_masterful_speech_speech_d84ef458:
 msgid "[_shadow_s_4_] {i}*Snarl* *Slurp*{/i}"
-msgstr ""
+msgstr "[_shadow_s_4_] {i}* Grognement* * Slurp * {/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:602 #-#-# translate crowdin a_masterful_speech_speech_ce078110:
 msgid "[_sam_] Hey, uh, somebody wanna tell me why that thing is looking at me like a… piece of meat?"
-msgstr ""
+msgstr "[_sam_] Hey, euh, quelqu'un veut me dire pourquoi cette chose me regarde comme un morceau de viande… ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:606 #-#-# translate crowdin a_masterful_speech_speech_68ba79fe:
 msgid "[_sam_] Oh no, don't tell me I'm his next target!!"
-msgstr ""
+msgstr "[_sam_] Oh non, ne me dites pas que je suis sa prochaine cible ! !!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:608 #-#-# translate crowdin a_masterful_speech_speech_c39fc6ee:
 msgid "[_sam_] Danny, help!!!"
-msgstr ""
+msgstr "[_sam_] Danny, à l'aide ! !!!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:611 #-#-# translate crowdin a_masterful_speech_speech_9b993d05:
 msgid "[_danny_] (Even though it {i}might{/i} be interesting to see how Sam looks stripped naked, I should probably step in now!)"
-msgstr ""
+msgstr "[_danny_] (Même si cela {i}pourrait{/i} être intéressant de voir comment Sam est déshabillé, je devrais probablement intervenir maintenant !)"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:613 #-#-# translate crowdin a_masterful_speech_speech_c2f21642:
 msgid "[_danny_] (Who knows what a ghost {i}this{/i} nasty might do to her?)"
-msgstr ""
+msgstr "[_danny_] (Qui sait ce qu'un fantôme {i}aussi méchant pourrait lui faire ?)"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:614 #-#-# translate crowdin a_masterful_speech_speech_1d67a930:
 msgid "[_danny_] I'm going ghost!"
-msgstr ""
+msgstr "[_danny_] Je vais devenir un fantôme !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:620 #-#-# translate crowdin a_masterful_speech_speech_5ddce93d:
 msgid "[_danny_s_talk_frown_] Stop right there, dark and ugly! Pick on someone at least {b}half{/b} your species!"
-msgstr ""
+msgstr "[_danny_s_talk_frown_] Arrête-toi là, sombre et moche ! Choisis quelqu'un d'au moins {b}la moitié{/b} de ton espèce !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:658 #-#-# translate crowdin a_masterful_speech_postfight_d5235bcd:
 msgid "[_danny_s_blank_stare_s_talk_frown_2_s_wondering_] Man, that ghost was {i}really{/b} strong... he was practically leagues above me in terms of strength... and he was also able to get away, shoot!"
-msgstr ""
+msgstr "[_danny_s_blank_stare_s_talk_frown_2_s_wondering_] Mec, ce fantôme était {i}vraiment{/b} fort... il était pratiquement des ligues au-dessus de moi en termes de force... et il a aussi été capable de s'enfuir, tire !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:666 #-#-# translate crowdin a_masterful_speech_postfight_4a0d6960:
 msgid "[_sam_s_sad_2_s_talk_frown_s_towards_] Oh my gosh, Danny, are you okay?!"
-msgstr ""
+msgstr "[_sam_s_sad_2_s_talk_frown_s_towards_] Oh mon dieu, Danny, tu vas bien ? ?!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:675 #-#-# translate crowdin a_masterful_speech_postfight_2de23e06:
 msgid "[_danny_s_talk_frown_s_rise_one_s_towards_] A little battered, but overall I'm all right, I think."
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_rise_one_s_towards_] Un peu meurtri, mais dans l'ensemble je vais bien, je pense."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:677 #-#-# translate crowdin a_masterful_speech_postfight_e5588edf:
 msgid "[_sam_s_talk_frown_s_sad_2_] What's with these ghosts, Danny? Why are they {b}only{/b} attacking girls? I'm not crazy right? There's definitely a pattern going on here with the attacks, don't you think?"
-msgstr ""
+msgstr "[_sam_s_talk_frown_s_sad_2_] C'est quoi ces fantômes, Danny ? Pourquoi {b}attaquent-ils seulement les filles ? Je ne suis pas fou, hein ? Il y a définitivement un schéma qui se dégage de ces attaques, tu ne crois pas ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:679 #-#-# translate crowdin a_masterful_speech_postfight_7fc2f735:
 msgid "[_danny_s_talk_frown_s_neutral_] No, you're not crazy, and I'm starting to develop a theory as to why that is..."
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_neutral_] Non, vous n'êtes pas fou, et je commence à développer une théorie sur la raison pour laquelle c'est le cas..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:682 #-#-# translate crowdin a_masterful_speech_postfight_497a883c:
 msgid "[_sam_s_talk_frown_s_confused_] That one seemed to be even stronger than the Ectopus you fought before! Jeez, I guess they only get worse the nastier they seem, huh?"
-msgstr ""
+msgstr "[_sam_s_talk_frown_s_confused_] Celui-là semblait être encore plus fort que l'Ectopus que tu as combattu avant ! Jeez, je suppose que plus ils sont méchants, plus ils deviennent mauvais, hein ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:684 #-#-# translate crowdin a_masterful_speech_postfight_a767ffba:
 msgid "[_danny_s_at_danny_s_talk_frown_s_neutral_] Yeah, and it probably won't be the last time we see that Shadow creep either."
-msgstr ""
+msgstr "[_danny_s_at_danny_s_talk_frown_s_neutral_] Oui, et ce n'est probablement pas la dernière fois que nous voyons cette ombre rampante non plus."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:687 #-#-# translate crowdin a_masterful_speech_postfight_48bad1c6:
 msgid "[_sam_s_talk_frown_s_angry_] Then we're going to need to find a way to make you even stronger, Danny!"
-msgstr ""
+msgstr "[_sam_s_talk_frown_s_angry_] Alors nous allons devoir trouver un moyen de te rendre encore plus fort, Danny !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:689 #-#-# translate crowdin a_masterful_speech_postfight_cd3631ca:
 msgid "[_sam_s_sad_s_talk_bite_] Besides the gadgets Vlad Masters is working on, you might be the only one who has any chance against fighting off these ghost jerks."
@@ -830,139 +830,139 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1017 #-#-# translate crowdin hunting_a_shadow_a0fe6c94:
 msgid "[_danny_s_talk_frown_2_s_at_danny_s_blush_s_wondering_] Well... yeah. It uhm... it sorta comes from... uh... the… erhm… the interactions, with... ehhh, rather the... the, uhhh... {i}*Ahem*{/i}"
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_s_at_danny_s_blush_s_wondering_] Eh bien... oui. Ca uhm... ça vient en quelque sorte de... euh... le… erhm… les interactions, avec... ehhh, plutôt le... le, uhhh... {i}*Ahem*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1020 #-#-# translate crowdin hunting_a_shadow_82d2bacb:
 msgid "[_sam_s_talk_frown_s_angry_s_noblush_] Jeez, just spit it out, Danny! If it's so important, we need to get some before that Shadow thing comes back and attacks some other poor girl!"
-msgstr ""
+msgstr "[_sam_s_talk_frown_s_angry_s_noblush_] Bon sang, crache le morceau, Danny ! Si c'est si important, on doit en avoir avant que l'Ombre revienne et attaque une autre pauvre fille !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1023 #-#-# translate crowdin hunting_a_shadow_41039feb:
 msgid "[_danny_s_talk_frown_2_s_wondering_s_closed_] Well then... to put it bluntly, it comes from absorbing the energies of... different types of... {b}sexual activities{/b}."
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_s_wondering_s_closed_] Eh bien alors... pour dire les choses crûment, ça vient de l'absorption des énergies de... différents types de... {b}activités sexuelles{/b}."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1026 #-#-# translate crowdin hunting_a_shadow_54588c8f:
 msgid "[_sam_s_talk_frown_s_sad_2_s_towards_s_blush_2_] D-Danny, are you- are you asking me what I {b}think{/b} you're asking me?"
-msgstr ""
+msgstr "[_sam_s_talk_frown_s_sad_2_s_towards_s_blush_2_] D-Danny, est-ce que tu... est-ce que tu me demandes ce que je pense que tu me demandes sur {b}?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1029 #-#-# translate crowdin hunting_a_shadow_9868cb1d:
 msgid "[_danny_s_talk_frown_s_rise_one_s_-blush_] We probably don't have to actually, ya' know, {u}do it{/u}, or anything."
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_rise_one_s_-blush_] On n'a probablement pas besoin de le faire, tu sais, {u}ou autre."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1031 #-#-# translate crowdin hunting_a_shadow_b2cb3fda:
 msgid "[_sam_s_talk_frown_] So, what then?"
-msgstr ""
+msgstr "[_sam_s_talk_frown_] Alors, que faire ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1034 #-#-# translate crowdin hunting_a_shadow_b19acea1:
 msgid "[_danny_s_towards_wide_s_wondering_s_talk_frown_] Maybe you could, I don't know, masturbate in front of me?"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_wondering_s_talk_frown_] Peut-être que tu pourrais, je ne sais pas, te masturber devant moi ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1037 #-#-# translate crowdin hunting_a_shadow_983194d0:
 msgid "[_sam_s_towards_wide_s_talk_frown_s_sad_2_] Wha-what?! W-with you... w-watching me do it?!"
-msgstr ""
+msgstr "[_sam_s_towards_wide_s_talk_frown_s_sad_2_] Qu-Quoi ? ! Avec toi... me regardant faire ? ?!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1040 #-#-# translate crowdin hunting_a_shadow_55aacf7c:
 msgid "[_danny_s_talk_frown_2_s_towards_] Yeah, that's the only way it will work. It needs two participants essentially both producing their sexual energies together. Ghosts kind of just soak it up, like a sponge."
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_s_towards_] Oui, c'est le seul moyen pour que ça marche. Il faut essentiellement deux participants qui produisent ensemble leur énergie sexuelle. Les fantômes ne font que l'absorber, comme une éponge."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1043 #-#-# translate crowdin hunting_a_shadow_ca77b57d:
 msgid "[_sam_s_talk_frown_s_towards_] I don't know Danny... how do you know all this anyway?"
-msgstr ""
+msgstr "[_sam_s_talk_frown_s_towards_] Je ne sais pas Danny... comment tu sais tout ça de toute façon ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1052 #-#-# translate crowdin hunting_a_shadow_b3f99eee:
 msgid "[_danny_s_talk_frown_2_s_wondering_s_closed_] Sam... I need you to masturbate right in front of me!"
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_s_wondering_s_closed_] Sam... J'ai besoin que tu te masturbe juste devant moi !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1056 #-#-# translate crowdin hunting_a_shadow_9540d9e5:
 msgid "[_sam_s_talk_frown_s_sad_2_s_towards_s_blush_2_] Uhm… w-wh-what?! Danny, I..."
-msgstr ""
+msgstr "[_sam_s_talk_frown_s_sad_2_s_towards_s_blush_2_] Uhm… w-wh-what ?! Danny, je..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1061 #-#-# translate crowdin hunting_a_shadow_989d77af:
 msgid "[_danny_s_talk_frown_2_s_rise_one_] There's this thing, it's called Orgone. It makes ghosts more powerful. I need to get my hands on some of it to prepare myself to fight that shadow again."
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_s_rise_one_] Il y a cette chose, ça s'appelle Orgone. Ça rend les fantômes plus puissants. Il faut que j'en trouve pour me préparer à combattre cette ombre à nouveau."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1064 #-#-# translate crowdin hunting_a_shadow_1f622160:
 msgid "[_danny_s_talk_frown_s_wondering_] If that Shadow Ghost comes back, I need to be able to defeat it for good!"
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_wondering_] Si ce fantôme de l'ombre revient, je dois être capable de le vaincre pour de bon !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1067 #-#-# translate crowdin hunting_a_shadow_d15fd5ca:
 msgid "[_sam_s_talk_frown_s_neutral_] Right, so… what does this have to do with me masturbating in front of you?!"
-msgstr ""
+msgstr "[_sam_s_talk_frown_s_neutral_] Bon, alors… qu'est-ce que ça a à voir avec le fait que je me masturbe devant toi ?!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1072 #-#-# translate crowdin hunting_a_shadow_be7a7dac:
 msgid "[_danny_s_talk_frown_2_s_wondering_s_closed_] Orgone comes from sexual vibes emanating off two participants. It's the creation of life energy and vitality that is being produced while they are pretty much bumping uglies... essntially, anyway."
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_s_wondering_s_closed_] Orgone provient des vibrations sexuelles émanant de deux participants. C'est la création d'énergie vitale et de vitalité qui est produite alors qu'ils sont en train de se cogner les uns contre les autres... en tout cas de manière essntielle."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1075 #-#-# translate crowdin hunting_a_shadow_ba835f69:
 msgid "[_sam_s_talk_bite_s_sad_] Oh, well, jeez... can't I just, like, show you my tits or something instead?"
-msgstr ""
+msgstr "[_sam_s_talk_bite_s_sad_] Oh, eh bien, bon sang... je ne peux pas juste, genre, te montrer mes seins ou autre chose à la place ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1081 #-#-# translate crowdin hunting_a_shadow_35519ce8:
 msgid "[_danny_s_sad_2_s_talk_frown_2_] No, I don't think that'll be enough. It needs to come from both parties being aroused to produce the Orgone. I don't think it needs to be strictly sex, but just me looking at you won't do it."
-msgstr ""
+msgstr "[_danny_s_sad_2_s_talk_frown_2_] Non, je ne crois pas que ça suffira. Il faut que les deux parties soient excitées pour produire l'Orgone. Je ne pense pas qu'il faille que ce soit strictement sexuel, mais le simple fait que je vous regarde ne suffira pas."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1084 #-#-# translate crowdin hunting_a_shadow_a0952b91:
 msgid "[_sam_s_sad_2_s_talk_frown_] Wait… how do you know any of this anyway?"
-msgstr ""
+msgstr "[_sam_s_sad_2_s_talk_frown_] Attendez… comment savez-vous tout ça de toute façon ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1093 #-#-# translate crowdin hunting_a_shadow_d4d3a7b7:
 msgid "[_danny_s_talk_happy_2_s_sad_] Hey Sam, I'm gonna go. But I'll see ya around."
-msgstr ""
+msgstr "[_danny_s_talk_happy_2_s_sad_] Hey Sam, je vais y aller. Mais je te verrai dans le coin."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1107 #-#-# translate crowdin hunting_a_shadow_second_choice_b7827baf:
 msgid "[_danny_s_talk_frown_2_s_wondering_] Mom told me about it. She did some research on Orgone in college."
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_s_wondering_] Maman m'en a parlé. Elle a fait des recherches sur Orgone à l'université."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1109 #-#-# translate crowdin hunting_a_shadow_second_choice_3b8e8469:
 msgid "[_sam_s_confused_s_talk_frown_s_towards_wide_] Really? So... did she ever... {i}you know{/i}...?"
-msgstr ""
+msgstr "[_sam_s_confused_s_talk_frown_s_towards_wide_] Vraiment ? Alors... a-t-elle déjà... {i}vous savez{/i}... ...?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1111 #-#-# translate crowdin hunting_a_shadow_second_choice_94ad14cb:
 msgid "[_danny_s_talk_frown_s_wondering_s_towards_] If you're asking if she did the dirty with ghosts back in the day, I don't know. I didn't really feel like asking her about all the specific details, or learning the answers, frankly."
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_wondering_s_towards_] Si vous demandez si elle a fait le sale boulot avec les fantômes à l'époque, je ne sais pas. Je n'avais pas vraiment envie de lui demander tous les détails spécifiques, ou d'apprendre les réponses, franchement."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1113 #-#-# translate crowdin hunting_a_shadow_second_choice_df9ab981:
 msgid "[_sam_s_talk_frown_s_sad_2_s_closed_] Yeah, that's understandable. I just... I don't know Danny. This is a {b}lot{/b} to ask..."
-msgstr ""
+msgstr "[_sam_s_talk_frown_s_sad_2_s_closed_] Oui, c'est compréhensible. J'ai juste... Je ne sais pas Danny. C'est beaucoup{/b} à demander sur {b}..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1118 #-#-# translate crowdin hunting_a_shadow_second_choice_54b7a81f:
 msgid "[_danny_s_angry_s_talk_frown_2_] What, you think I might be lying about this? Jeez, Sam, c'mon..."
-msgstr ""
+msgstr "[_danny_s_angry_s_talk_frown_2_] Quoi, vous pensez que je pourrais mentir à ce sujet ? Jeez, Sam, allez..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1121 #-#-# translate crowdin hunting_a_shadow_second_choice_58bac087:
 msgid "[_sam_s_closed_s_angry_s_talk_frown_] No, that's not what I meant! I was just making {i}sure{/i} is all…"
-msgstr ""
+msgstr "[_sam_s_closed_s_angry_s_talk_frown_] Non, ce n'est pas ce que je voulais dire ! Je voulais juste m'assurer que {i}est bien tout…"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1123 #-#-# translate crowdin hunting_a_shadow_second_choice_bb017062:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Look, {b}trust{/b} me, I really wouldn't ask you to do this if I didn't feel I {u}had{/u} to, honestly Sam."
-msgstr ""
+msgstr "[_danny_s_sad_2_s_talk_happy_2_] {u}Ecoute, {b}fais-moi confiance, je ne te demanderais pas de faire ça si je ne pensais pas que je devais le faire, honnêtement Sam."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1126 #-#-# translate crowdin hunting_a_shadow_second_choice_cc206193:
 msgid "[_sam_s_confused_s_talk_frown_] …uhm, what's {b}that{/b} supposed to mean?"
-msgstr ""
+msgstr "[_sam_s_confused_s_talk_frown_] …uhm, qu'est ce que {b}that{/b} est supposé signifier ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1135 #-#-# translate crowdin hunting_a_shadow_second_choice_4c83cf13:
 msgid "[_danny_s_sad_2_s_talk_happy_s_towards_wide_] We're really good friends, and I wouldn't want to abuse your trust. Even if I find you... {b}appealing{/b} to look at, our friendship is far more important to me."
-msgstr ""
+msgstr "[_danny_s_sad_2_s_talk_happy_s_towards_wide_] Nous sommes de très bons amis, et je ne voudrais pas abuser de ta confiance. Même si je te trouve... {b}attirante{/b} à regarder, notre amitié est bien plus importante pour moi."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1141 #-#-# translate crowdin hunting_a_shadow_second_choice_bc15b168:
 msgid "[_danny_s_talk_frown_s_rise_one_] It means I need your help, Sam. Isn't that what friends are for? This is to help protect the town, I don't see the big issue here."
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_rise_one_] Ça veut dire que j'ai besoin de ton aide, Sam. Ce n'est pas à ça que servent les amis ? C'est pour aider à protéger la ville, je ne vois pas le problème."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1144 #-#-# translate crowdin hunting_a_shadow_second_choice_04fabe39:
 msgid "[_sam_s_talk_frown_s_angry_s_towards_] The big {b}issue{/b}, Danny, is that I just don't appreciate being pressured into something like this."
-msgstr ""
+msgstr "[_sam_s_talk_frown_s_angry_s_towards_] Le gros {b}problème{/b}, Danny, c'est que je n'apprécie pas qu'on me pousse à faire quelque chose comme ça."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1148 #-#-# translate crowdin hunting_a_shadow_second_choice_8fdc82fd:
 msgid "[_danny_s_talk_frown_2_] Sorry, I didn't mean to come across that way, but I really do need your help."
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_] Désolé, je ne voulais pas que ça se passe comme ça, mais j'ai vraiment besoin de votre aide."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1151 #-#-# translate crowdin hunting_a_shadow_second_choice_c75787ea:
 msgid "[_sam_s_talk_frown_s_away_s_angry_] Well, you did anyway. Look, you should go for now. We'll talk about this later, just not today.."
-msgstr ""
+msgstr "[_sam_s_talk_frown_s_away_s_angry_] Eh bien, tu l'as fait quand même. Ecoute, tu devrais partir pour le moment. Nous parlerons de ça plus tard, mais pas aujourd'hui.."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1169 #-#-# translate crowdin hunting_a_shadow_second_choice_e44f6de9:
 msgid "[_danny_s_talk_frown_s_rise_one_] You're just not my type is all. It's nothing personal, I just prefer someone with a bit more meat on her chest!"
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_rise_one_] Tu n'es pas mon type, c'est tout. Il n'y a rien de personnel, je préfère juste quelqu'un avec un peu plus de viande sur sa poitrine !"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1173 #-#-# translate crowdin hunting_a_shadow_second_choice_33805b8f:
 msgid "[_sam_s_towards_wide_s_talk_frown_s_sad_2_] What?!"
@@ -970,67 +970,67 @@ msgstr "[_sam_s_towards_wide_s_talk_frown_s_sad_2_] Quoi?!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1176 #-#-# translate crowdin hunting_a_shadow_second_choice_87c5ab89:
 msgid "[_danny_s_wondering_s_talk_happy_] Relax, Sam, it was just a joke."
-msgstr ""
+msgstr "[_danny_s_wondering_s_talk_happy_] Relax, Sam, c'était juste une blague."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1179 #-#-# translate crowdin hunting_a_shadow_second_choice_012f2355:
 msgid "[_sam_s_talk_frown_s_angry_] Uh, sure, real {i}funny{/i}, jerk. Look, you can go now if that's all you're looking for."
-msgstr ""
+msgstr "[_sam_s_talk_frown_s_angry_] Euh, bien sûr, très {i}drôle{/i}, crétin. Ecoutez, vous pouvez partir maintenant si c'est tout ce que vous cherchez."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1182 #-#-# translate crowdin hunting_a_shadow_second_choice_f5e90cc1:
 msgid "[_danny_s_talk_frown_2_s_sad_] Awe come on, Sam, lighten up."
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_s_sad_] Allez, Sam, détends-toi."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1185 #-#-# translate crowdin hunting_a_shadow_second_choice_82c18613:
 msgid "[_sam_s_talk_frown_s_angry_2_s_towards_2_] I'm a {u}goth{/u}, Danny. We don't do \"lighten up\". You're sincerely being a jerk about this, and I just don't appreciate it. So I'd like you to leave, like now."
-msgstr ""
+msgstr "[_sam_s_talk_frown_s_angry_2_s_towards_2_] Je suis un goth {u}, Danny. On ne fait pas de \"lighten up\". Tu fais sincèrement le con à ce sujet, et je n'apprécie pas ça. Donc j'aimerais que tu partes, tout de suite."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1188 #-#-# translate crowdin hunting_a_shadow_second_choice_5e03a83d:
 msgid "[_danny_s_talk_frown_s_wondering_s_towards_wide_] Alright, I'll go... but again, I'm sorry I upset you Sam."
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_wondering_s_towards_wide_] D'accord, je vais y aller... mais encore une fois, je suis désolé de t'avoir contrarié Sam."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1191 #-#-# translate crowdin hunting_a_shadow_second_choice_c9582f1b:
 msgid "[_sam_s_away_s_talk_frown_s_neutral_] Sure. Later."
-msgstr ""
+msgstr "[_sam_s_away_s_talk_frown_s_neutral_] Bien sûr. Plus tard."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1210 #-#-# translate crowdin hunting_a_shadow_second_choice_9ffb9c8c:
 msgid "[_danny_s_talk_happy_s_rise_one_] Ghost instinct, duh."
-msgstr ""
+msgstr "[_danny_s_talk_happy_s_rise_one_] L'instinct du fantôme, bien sûr."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1212 #-#-# translate crowdin hunting_a_shadow_second_choice_003d9719:
 msgid "[_sam_s_confused_s_talk_frown_] Ghost instinct?"
-msgstr ""
+msgstr "[_sam_s_confused_s_talk_frown_] L'instinct du fantôme ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1214 #-#-# translate crowdin hunting_a_shadow_second_choice_23523bfb:
 msgid "[_danny_s_talk_happy_s_sad_] Yeah, ghost instinct, totally."
-msgstr ""
+msgstr "[_danny_s_talk_happy_s_sad_] Ouais, l'instinct du fantôme, totalement."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1216 #-#-# translate crowdin hunting_a_shadow_second_choice_44b61717:
 msgid "[_sam_s_talk_bite_s_confused_] So, why me then?"
-msgstr ""
+msgstr "[_sam_s_talk_bite_s_confused_] Alors, pourquoi moi ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1226 #-#-# translate crowdin hunting_a_shadow_final_choice_c6b7e2da:
 msgid "[_danny_s_talk_happy_s_towards_s_rise_one_] There's nobody else I can trust but you with this mission. You're one of my best friends in the whole world, and I feel that together, we can protect Amity. I'll understand if you don't feel comfortable though, it's always your choice."
-msgstr ""
+msgstr "[_danny_s_talk_happy_s_towards_s_rise_one_] Je ne peux faire confiance à personne d'autre qu'à toi pour cette mission. Tu es l'un de mes meilleurs amis au monde, et je pense qu'ensemble, nous pouvons protéger Amity. Je comprendrai si tu ne te sens pas à l'aise, c'est toujours ton choix."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1235 #-#-# translate crowdin hunting_a_shadow_final_choice_d4cd5e5f:
 msgid "[_danny_s_talk_frown_s_sad_2_] Come on Sam, if you don't help me I'll never be able to fight off the ghosts attacking the town. People might really get hurt if we don't pull this off together."
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_sad_2_] Allez Sam, si tu ne m'aides pas, je ne serai jamais capable de combattre les fantômes qui attaquent la ville. Les gens pourraient vraiment être blessés si on ne le fait pas ensemble."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1244 #-#-# translate crowdin hunting_a_shadow_final_choice_afa67cf7:
 msgid "[_sam_s_closed_s_angry_s_talk_frown_] Uchh, {i}fiiine{/i}. I'll help you. But you have to promise me you won't tell anybody about this, {b}especially{/b} Tucker, okay?"
-msgstr ""
+msgstr "[_sam_s_closed_s_angry_s_talk_frown_] Uchh, {i}fiiine{/i}. Je vais vous aider. Mais tu dois me promettre de ne parler de ça à personne, {b}surtout pas à Tucker. Tucker, d'accord ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1248 #-#-# translate crowdin hunting_a_shadow_final_choice_e88e1120:
 msgid "[_danny_s_talk_happy_2_s_rise_one_] Of course! Promise."
-msgstr ""
+msgstr "[_danny_s_talk_happy_2_s_rise_one_] Bien sûr ! Promis."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1257 #-#-# translate crowdin hunting_a_shadow_final_choice_932cb6e0:
 msgid "[_danny_s_towards_wide_s_neutral_s_talk_happy_] Come on Sam, aren't you looking forward to bragging to all your goth friends about how you seduced a real ghost? I gotta figure that's a more interesting story than the time they tried to summon an imaginary demon or something."
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_neutral_s_talk_happy_] Allez Sam, tu n'as pas envie de te vanter auprès de tous tes amis gothiques de la façon dont tu as séduit un vrai fantôme ? Je pense que c'est une histoire plus intéressante que la fois où ils ont essayé d'invoquer un démon imaginaire ou autre."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1260 #-#-# translate crowdin hunting_a_shadow_final_choice_e99a30ba:
 msgid "[_sam_s_away_s_talk_frown_s_angry_] It'd be more like how I got talked into flicking my clit {i}by{/i} a ghost."
-msgstr ""
+msgstr "[_sam_s_away_s_talk_frown_s_angry_] Ce serait plutôt comme la façon dont un fantôme m'a convaincu de me tripoter le clito {i}."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1263 #-#-# translate crowdin hunting_a_shadow_final_choice_97707f25:
 msgid "[_danny_s_talk_happy_s_rise_one_] Oh, so my natural charm is working afterall then?"
@@ -1238,7 +1238,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1563 #-#-# translate crowdin sams_plan_scene_start_8a98da94:
 msgid "[_danny_] Told you."
-msgstr ""
+msgstr "[_danny_] Je te l'avais dit."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1567 #-#-# translate crowdin sams_plan_scene_start_2dc2ddb1:
 msgid "[_sam_] What?"
@@ -1246,31 +1246,31 @@ msgstr "[_sam_] Quoi?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1571 #-#-# translate crowdin sams_plan_scene_start_49c7ad62:
 msgid "[_danny_] That you'd be begging for more... {i}*Chuckles*{/i}"
-msgstr ""
+msgstr "[_danny_] Que tu en redemanderais... {i}* Rires * {/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1575 #-#-# translate crowdin sams_plan_scene_start_71d1e1af:
 msgid "[_sam_] I'm not b-begging..."
-msgstr ""
+msgstr "[_sam_] Je ne supplie pas..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1579 #-#-# translate crowdin sams_plan_scene_start_a8dd62b9:
 msgid "[_danny_] Then I guess you'd better {b}start{/b}, if you want me to give you my cum, Sam~."
-msgstr ""
+msgstr "[_danny_] Alors je pense que tu ferais mieux de commencer {b}, si tu veux que je te donne mon sperme, Sam~."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1583 #-#-# translate crowdin sams_plan_scene_start_b4e8388a:
 msgid "[_sam_] Come on, this is embarrassing enough... don't make me beg..."
-msgstr ""
+msgstr "[_sam_] Allez, c'est déjà assez embarrassant... ne me faites pas supplier..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1587 #-#-# translate crowdin sams_plan_scene_start_10cf688f:
 msgid "[_danny_] You better hurry… I'm not gonna last much longer…"
-msgstr ""
+msgstr "[_danny_] Tu ferais mieux de te dépêcher… Je ne vais pas tenir longtemps…"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1589 #-#-# translate crowdin sams_plan_scene_start_2187090d:
 msgid "[_sam_] ..."
-msgstr ""
+msgstr "[_sam_] ..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1593 #-#-# translate crowdin sams_plan_scene_start_14281610:
 msgid "[_sam_] ...please cum on me…"
-msgstr ""
+msgstr "[_sam_] ...s'il te plaît, jouis sur moi…"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1597 #-#-# translate crowdin sams_plan_scene_start_1989719c:
 msgid "[_danny_] What was that?"
@@ -1278,27 +1278,27 @@ msgstr "[_danny_] Qu’est-ce que c’est?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1601 #-#-# translate crowdin sams_plan_scene_start_30cf9762:
 msgid "[_sam_] Please cum on me with your cock, Danny."
-msgstr ""
+msgstr "[_sam_] S'il te plaît, jouis sur moi avec ta bite, Danny."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1605 #-#-# translate crowdin sams_plan_scene_start_7e227f0d:
 msgid "[_danny_] Try again."
-msgstr ""
+msgstr "[_danny_] Essayez encore."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1609 #-#-# translate crowdin sams_plan_scene_start_d4b9c0f3:
 msgid "[_sam_] F-fuck... please... shoot your jizz all over me while I cum for you, Danny Fenton!!"
-msgstr ""
+msgstr "[_sam_] Putain de merde... S'il te plaît... tires ton sperme sur moi pendant que je jouis pour toi, Danny Fenton!!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1616 #-#-# translate crowdin sams_plan_scene_start_80694f68:
 msgid "[_danny_] Oh, fuck me, that did it~!!"
-msgstr ""
+msgstr "[_danny_] Oh, putain, ça a marché ! !!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1631 #-#-# translate crowdin sams_plan_scene_start_4e806e42:
 msgid "[_danny_] Oh my God… {i}phew{/i}… now then... what do you say?"
-msgstr ""
+msgstr "[_danny_] Oh mon Dieu… {i}phew{/i}… maintenant alors... qu'en dites-vous ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1635 #-#-# translate crowdin sams_plan_scene_start_14df835f:
 msgid "[_sam_] …th-thank you?"
-msgstr ""
+msgstr "[_sam_] …Merci ?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1639 #-#-# translate crowdin sams_plan_scene_start_0b86e825:
 msgid "[_danny_] Good girl."
@@ -1306,23 +1306,23 @@ msgstr "[_danny_] Bonne fille."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1669 #-#-# translate crowdin sams_plan_scene_start_ad941927:
 msgid "[_sam_] {b}Jeezus, Danny, what the fuck?!? {u}Ask{/u} first!!"
-msgstr ""
+msgstr "[_sam_] {b}Jeezus, Danny, c'est quoi ce bordel ? !? {u}Demande d'abord !!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1673 #-#-# translate crowdin sams_plan_scene_start_279e3ec0:
 msgid "[_danny_] Wh-what, but I just thought that-"
-msgstr ""
+msgstr "[_danny_] Wh-what, mais je pensais juste que"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1677 #-#-# translate crowdin sams_plan_scene_start_f848d52b:
 msgid "[_sam_] No! That's disgusting! You don't just whip it out!!"
-msgstr ""
+msgstr "[_sam_] Non ! C'est dégoûtant ! Tu ne le sors pas comme ça !!"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1681 #-#-# translate crowdin sams_plan_scene_start_a59fdea0:
 msgid "[_danny_] Sorry, I'll put it away, but I thought it might help..."
-msgstr ""
+msgstr "[_danny_] Désolé, je vais le ranger, mais j'ai pensé que ça pourrait aider..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1685 #-#-# translate crowdin sams_plan_scene_start_000629eb:
 msgid "[_sam_] You should... you should just go, Danny. Like now."
-msgstr ""
+msgstr "[_sam_] Tu devrais... tu devrais juste partir, Danny. Comme maintenant."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:1689 #-#-# translate crowdin sams_plan_scene_start_b9214734:
 msgid "[_danny_] Sam, I'm so sorry, I wasn't trying-"
