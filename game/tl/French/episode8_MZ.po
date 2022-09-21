@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-20 13:12\n"
+"PO-Revision-Date: 2022-09-21 07:42\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -299,7 +299,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:388 #-#-# translate crowdin Episode_8_stage_30_school_classroom_morning_interruption_d610e779:
 msgid "[_doorsound_] {i}*Knock* *Knock* *Knock*{/i}"
-msgstr ""
+msgstr "[_doorsound_] {i}*Toc* *Toc* *Toc*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:390 #-#-# translate crowdin Episode_8_stage_30_school_classroom_morning_interruption_c2fc8ff3:
 msgid "[_lancer_s_towards_s_neutral_s_talk_displeased_] Yes, come in!"
@@ -8216,7 +8216,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11562 #-#-# translate crowdin Episode_8_stage_400_bedroom_morning_the_aftermath_d610e779:
 msgid "[_doorsound_] {i}*Knock* *Knock* *Knock*{/i}"
-msgstr ""
+msgstr "[_doorsound_] {i}*Toc* *Toc* *Toc*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11565 #-#-# translate crowdin Episode_8_stage_400_bedroom_morning_the_aftermath_5fedce9d:
 msgid "[_jazz_] Hey dork, you up yet? Are you busy?"
