@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-25 01:18\n"
+"PO-Revision-Date: 2022-09-21 07:42\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -3578,7 +3578,7 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4664 #-#-# translate crowdin The_Great_Out_Doors_scene_19a_d610e779:
 msgid "[_doorsound_] {i}*Knock* *Knock* *Knock*{/i}"
-msgstr ""
+msgstr "[_doorsound_] {i}*Toc* *Toc* *Toc*{/i}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:4666 #-#-# translate crowdin The_Great_Out_Doors_scene_19a_a32d5ff1:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_wondering_s_talk_frown_] What the- who's that?"
@@ -4822,7 +4822,7 @@ msgstr ""
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6223 #-#-# translate crowdin The_Great_Out_Doors_scene_23_Danny_Bedroom_I_d610e779:
 msgid "[_doorsound_] {i}*Knock* *Knock* *Knock*{/i}"
-msgstr ""
+msgstr "[_doorsound_] {i}*Toc* *Toc* *Toc*{/i}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:6225 #-#-# translate crowdin The_Great_Out_Doors_scene_23_Danny_Bedroom_I_807b7d0b:
 msgid "[_danny_s_f_s_offscreen_s_rise_s_talk_pleased_] Huh? Who's there? Mom?"
