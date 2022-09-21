@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-21 13:38\n"
+"PO-Revision-Date: 2022-09-21 19:40\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -8942,7 +8942,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7143 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_58309785:
 msgid "[_phone_] [[{i}*Bzzt*{/i} {i}*Bzzt*{/i}]"
-msgstr ""
+msgstr "[_phone_] [[{i}*Bzzt*{/i} {i}*Bzzt*{/i}]]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7144 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_cf3d5259:
 msgid "[_danny_s_phantom_s_at_danny_s_talk_happy_s_wondering_] Ohh looks like some one just texted me."
@@ -8986,7 +8986,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7175 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_58309785_1:
 msgid "[_phone_] [[{i}*Bzzt*{/i} {i}*Bzzt*{/i}]"
-msgstr ""
+msgstr "[_phone_] [[{i}*Bzzt*{/i} {i}*Bzzt*{/i}]]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7176 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_b6ca2c62:
 msgid "[_danny_] (Oh, cool Star just sent me a JPEG.)"
@@ -9002,11 +9002,11 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7179 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_301857a7:
 msgid "[_phone_] [[{i}*Woosh* Picture Successfully Sent to {b}Desktop{/b}{/i}]"
-msgstr ""
+msgstr "[_phone_] [[{i}*Woosh* Picture Successfully Sent to {b}Desktop{/b}{/i}]]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7180 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_58309785_2:
 msgid "[_phone_] [[{i}*Bzzt*{/i} {i}*Bzzt*{/i}]"
-msgstr ""
+msgstr "[_phone_] [[{i}*Bzzt*{/i} {i}*Bzzt*{/i}]]"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:7185 #-#-# translate crowdin A_Stroke_After_Midnight_scene_14c_starphone_76b2fe88_1:
 msgid "[nvl_clear]"
