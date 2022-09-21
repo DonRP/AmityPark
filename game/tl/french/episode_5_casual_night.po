@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-20 19:13\n"
+"PO-Revision-Date: 2022-09-21 13:38\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:18 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_db41006a:
 msgid "[_danny_s_sad_] (Oh, Mom's here... I hope she's still not upset about the whole jumpsuit wardrobe malfunction the other day...)"
@@ -222,7 +222,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:202 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_b54a514b:
 msgid "[_jazz_] ..."
-msgstr ""
+msgstr "[_jazz_] ..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:204 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_2eeef12a:
 msgid "[_jazz_s_flip_s_towards_s_sad_s_talk_frown_] I needed smaller batteries for something of mine..."
