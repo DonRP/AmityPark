@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-20 19:13\n"
+"PO-Revision-Date: 2022-09-21 07:42\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -6910,7 +6910,7 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5744 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_d610e779:
 msgid "[_doorsound_] {i}*Knock* *Knock* *Knock*{/i}"
-msgstr ""
+msgstr "[_doorsound_] {i}*Toc* *Toc* *Toc*{/i}"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5748 #-#-# translate crowdin A_Stroke_After_Midnight_scene_12c_paulinaroom_069fac1b:
 msgid "[_pauldad_] Paulina? Is that you? Who was that a second ago? I strictly said not a single boy in this room tonight!!"
