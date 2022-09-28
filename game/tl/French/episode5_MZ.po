@@ -10,207 +10,207 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-21 19:40\n"
+"PO-Revision-Date: 2022-09-28 08:32\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
-msgstr ""
+msgstr "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, bonjour le monde ! Un autre jour glorieux pour se réveiller en ayant toujours des pouvoirs de fantôme !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:20 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_9ce1fda6:
 msgid "[_danny_s_towards_s_rise_one_s_talk_happy_] Man, things sure have been looking up for me lately. I must be catching my stride finally!"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_one_s_talk_happy_] Mec, les choses se sont améliorées pour moi ces derniers temps. Je dois enfin retrouver ma vitesse de croisière !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:21 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_43d9bbec:
 msgid "[_danny_s_talk_happy_2_s_sad_] This whole superhero thing ain't too bad, honestly! I get to crack a few jokes, throw some sweet punches, save the day from evil..."
-msgstr ""
+msgstr "[_danny_s_talk_happy_2_s_sad_] Ce truc de super héros n'est pas si mal, honnêtement ! Je peux faire quelques blagues, donner quelques coups de poing, sauver la journée du mal..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:22 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_fe15f67b:
 msgid "[_danny_s_talk_happy_s_neutral_s_closed_] ...and have everyone fall in love with the sweetheart that is Danny Fenton... or, Inviso-Bill at least. Who could ask for more?"
-msgstr ""
+msgstr "[_danny_s_talk_happy_s_neutral_s_closed_] ...et que tout le monde tombe amoureux de l'amour qu'est Danny Fenton... ou, du moins, Inviso-Bill. Qui pourrait en demander plus ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:23 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_3774ff6d:
 msgid "[_danny_s_at_player_s_talk_happy_2_s_wondering_] And with my recent developments with Desiree, I feel more confident than ever to take on the other ghosts out there."
-msgstr ""
+msgstr "[_danny_s_at_player_s_talk_happy_2_s_wondering_] Et avec mes récents développements avec Desiree, je me sens plus confiant que jamais pour affronter les autres fantômes."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:25 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_ae31f80a:
 msgid "[_danny_s_angry_s_talk_happy_s_towards_] So bring it on, world! I'm ready for whatever else you've got in store for me next!"
-msgstr ""
+msgstr "[_danny_s_angry_s_talk_happy_s_towards_] Alors amène-toi, monde ! Je suis prêt pour tout ce que vous avez en réserve pour moi !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:27 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_25c9662a:
 msgid "[_danny_s_towards_wide_s_talk_frown_s_sad_2_] Err, {b}Jinx{/b}!!"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_talk_frown_s_sad_2_] Err, {b}Jinx{/b} !!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:28 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_e22f0f9e:
 msgid "[_danny_s_sad_s_closed_s_talk_happy_] Hah hah, {i}phew{/i}! Now I don't need to worry about screwing myself over with any out loud, overly ironic statements! Everybody knows you're safe if you say jinx though..."
-msgstr ""
+msgstr "[_danny_s_sad_s_closed_s_talk_happy_] Hah hah, {i}phew{/i} ! Maintenant je n'ai plus besoin de m'inquiéter de me foutre en l'air avec des déclarations trop ironiques ! Tout le monde sait qu'on ne risque rien si on dit porte-malheur..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:29 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_f750a0f3:
 msgid "[_danny_s_rise_one_s_at_danny_s_talk_frown_2_] That's... that's how that works right?"
-msgstr ""
+msgstr "[_danny_s_rise_one_s_at_danny_s_talk_frown_2_] C'est... c'est comme ça que ça marche, non ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:30 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_e6a8c1e7:
 msgid "[_danny_s_talk_happy_s_at_player_s_sad_] Yeah, pretty sure! No, yeah, I'm sure!"
-msgstr ""
+msgstr "[_danny_s_talk_happy_s_at_player_s_sad_] Ouais, plutôt sûr ! Non, ouais, je suis sûr !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:57 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_59e8a792:
 msgid "[_danny_s_talk_happy_] Hey guys!"
-msgstr ""
+msgstr "[_danny_s_talk_happy_] Hé les gars !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:61 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_939c5dcb:
 msgid "[_sam_tucker_] \"{i}Ahh, good {b}morrow{/b}, oh wandering spirit boy!{/i}\""
-msgstr ""
+msgstr "[_sam_tucker_] \"{i}Ahh, good {b}morrow{/b}, oh wandering spirit boy!{/i}\""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:64 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_a4fe799b:
 msgid "[_danny_s_towards_s_talk_frown_] Uhm... what's with the regal doofus inflection you guys are speaking with?"
-msgstr ""
+msgstr "[_danny_s_towards_s_talk_frown_] Euh... c'est quoi cette inflexion royale d'abruti avec laquelle vous parlez ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:67 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_59a4a94a:
 msgid "[_sam_s_talk_happy_] Well, we figured you could use some sort've \"Gentleman Ghost\" type vibe to your alter ego, instead of just relying on the old \"angsty teenager with superpowers\" trope."
-msgstr ""
+msgstr "[_sam_s_talk_happy_] Eh bien, nous avons pensé que vous pourriez utiliser une sorte de \"Gentleman Ghost\" pour votre alter ego, au lieu de vous reposer sur le vieux trope de \"l'adolescent angoissé avec des superpouvoirs\"."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:70 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_fa8cf8e6:
 msgid "[_tucker_s_towards_s_talk_happy_s_sad_] Yeah, so if you happen to know how to speak with some sort've posh or British accent, you should try that out!"
-msgstr ""
+msgstr "[_tucker_s_towards_s_talk_happy_s_sad_] Ouais, donc si vous savez comment parler avec une sorte d'accent anglais, vous devriez essayer !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:73 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_964af5f8:
 msgid "[_sam_s_away_s_talk_happy_s_sad_] We've been having fun doing it ourselves for hours now."
-msgstr ""
+msgstr "[_sam_s_away_s_talk_happy_s_sad_] Nous nous sommes amusés à le faire nous-mêmes pendant des heures."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:76 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_1bb76127:
 msgid "[_tucker_s_blank_stare_s_talk_happy_s_neutral_] It's funny talking like a stuffy old dead rich guy."
-msgstr ""
+msgstr "[_tucker_s_blank_stare_s_talk_happy_s_neutral_] C'est drôle de parler comme un vieux riche mort et guindé."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:78 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_30b95425:
 msgid "[_tucker_s_ahegao_s_sad_] \"Wouldn'st thou agreeth as well, madam Manson?\""
-msgstr ""
+msgstr "[_tucker_s_ahegao_s_sad_] \"Vous ne seriez pas d'accord, Madame Manson ?\""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:81 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_6191ec2e:
 msgid "[_sam_s_closed_s_talk_happy_s_sad_] \"Indubitably, Master Foley!!\""
-msgstr ""
+msgstr "[_sam_s_closed_s_talk_happy_s_sad_] \"Indubitablement, Maître Foley !\""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:84 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_bf4cde1b:
 msgid "[_danny_s_towards_s_talk_happy_s_sad_] While I certainly appreciate the creative ideas you guys are trying to put into my silly little hero persona, I really don't think \"primp and proper\" suits ghost fighting."
-msgstr ""
+msgstr "[_danny_s_towards_s_talk_happy_s_sad_] Bien que j'apprécie certainement les idées créatives que vous essayez de mettre dans mon petit personnage de héros idiot, je ne pense vraiment pas que \"primp and proper\" convienne aux combats de fantômes."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:85 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_06429d5a:
 msgid "[_danny_s_closed_s_talk_happy_2_s_wondering_] For now though, I'll stick with the angsty teenager trope."
-msgstr ""
+msgstr "[_danny_s_closed_s_talk_happy_2_s_wondering_] Pour l'instant, je vais m'en tenir au trope de l'adolescent angoissé."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:88 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_71cb52c1:
 msgid "[_sam_s_confused_s_talk_happy_3_] Ehh, suit yourself. It was just a fun little game we liked to play, anyway."
-msgstr ""
+msgstr "[_sam_s_confused_s_talk_happy_3_] Ehh, fais comme tu veux. C'était juste un petit jeu amusant auquel nous aimions jouer, de toute façon."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:91 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_c8aa0741:
 msgid "[_sam_s_talk_frown_2_s_sad_] It's helped to distract from all the posters and stuff they're putting up about the dance."
-msgstr ""
+msgstr "[_sam_s_talk_frown_2_s_sad_] Ça aide à détourner l'attention de toutes les affiches et autres trucs qu'ils mettent en place pour le bal."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:94 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_dd42aa65:
 msgid "[_danny_s_rise_one_s_talk_frown_] Huh? Dance, what dance?"
-msgstr ""
+msgstr "[_danny_s_rise_one_s_talk_frown_] Hein ? La danse, quelle danse ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:96 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_96d30a90:
 msgid "[_tucker_s_talk_happy_s_neutral_s_away_] Jeez Danny, did all this ghost fighting really make you forget about the Casper Chill Formal?"
-msgstr ""
+msgstr "[_tucker_s_talk_happy_s_neutral_s_away_] Bon sang Danny, tous ces combats de fantômes t'ont vraiment fait oublier le Casper Chill Formal ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:98 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_cf63a3e0:
 msgid "[_danny_s_blank_stare_s_sad_s_talk_frown_2_] Oh no, you're right, how could I have let such frivilous things such as gaining superpowers distract me from the far more important matters such as high school dances?"
-msgstr ""
+msgstr "[_danny_s_blank_stare_s_sad_s_talk_frown_2_] Oh non, tu as raison, comment ai-je pu laisser des choses aussi frivoles que l'acquisition de superpouvoirs me distraire de sujets bien plus importants comme les bals du lycée ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:101 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_cf2cb08b:
 msgid "[_sam_s_talk_frown_2_s_away_s_angry_] Well I'm glad to hear {b}you've{/b} been able to forget about it. Lancer and Paulina went around putting those stupid flyers everywhere. You can't escape it!"
-msgstr ""
+msgstr "[_sam_s_talk_frown_2_s_away_s_angry_] Eh bien, je suis heureux d'entendre que {b}tu as réussi à l'oublier. Lancer et Paulina ont mis ces stupides prospectus partout. Tu ne peux pas y échapper !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:104 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_f5746aba:
 msgid "[_tucker_s_talk_frown_s_sad_] Personally, as much as I lack in social skills and the desire to hang with people other than hot babes, I don't see the big issue, what's wrong with some dumb school dance, Sam?"
-msgstr ""
+msgstr "[_tucker_s_talk_frown_s_sad_] Personnellement, même si je manque de compétences sociales et d'envie de fréquenter d'autres personnes que des filles sexy, je ne vois pas le problème, qu'est-ce qui ne va pas avec une stupide danse d'école, Sam ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:106 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_33f9440d:
 msgid "[_sam_s_closed_s_talk_frown_s_sad_] It's the issue I have with {b}most{/b} school related activities: people use the event to put the spotlight on themselves for such selfish purposes..."
-msgstr ""
+msgstr "[_sam_s_closed_s_talk_frown_s_sad_] C'est le problème que j'ai avec {b}la plupart{/b} des activités liées à l'école : les gens utilisent l'événement pour se mettre en avant à des fins tellement égoïstes..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:108 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_4d5f9729:
 msgid "[_sam_s_away_s_neutral_s_talk_frown_2_] ...or to shine it on someone else in a negative light."
-msgstr ""
+msgstr "[_sam_s_away_s_neutral_s_talk_frown_2_] ...ou pour le montrer à quelqu'un d'autre sous un jour négatif."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:112 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_45f7b3e8:
 msgid "[_sam_s_towards_s_talk_frown_] I mean the only reason Paulina's promoting it is just to let everyone know she doesn't want them wearing the same dress as her. {b}God{/b}, she's arrogant..."
-msgstr ""
+msgstr "[_sam_s_towards_s_talk_frown_] La seule raison pour laquelle Paulina en fait la promotion est qu'elle ne veut pas que les gens portent la même robe qu'elle. {b}Mon Dieu, elle est arrogante..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:116 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_0b50c2a6:
 msgid "[_danny_] Let me guess... you think Paulina or Star want to humiliate you if you show up, so you think the best way to get back at them is to just not show up?"
-msgstr ""
+msgstr "[_danny_] Laisse-moi deviner... tu penses que Paulina ou Star veulent t'humilier si tu te montres, donc tu penses que la meilleure façon de te venger d'elles est de ne pas te montrer ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:119 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_6c2fde06:
 msgid "[_sam_s_talk_frown_2_s_angry_] Yeah, exactly! They're so manipulative, why would I want to fall pray to being apart of their stupid little games?"
-msgstr ""
+msgstr "[_sam_s_talk_frown_2_s_angry_] Oui, exactement ! Ils sont tellement manipulateurs, pourquoi je voudrais me faire prier pour faire partie de leurs petits jeux stupides ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:122 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_292cabbf:
 msgid "[_danny_s_talk_frown_2_s_towards_wide_s_rise_one_] ...even though by doing so, you're just giving into their desires to see you isolate yourself from what they consider their social status platform and their moment to shine in something that doesn't ultimately matter?"
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_s_towards_wide_s_rise_one_] ... même si, ce faisant, vous ne faites que céder à leur désir de vous voir vous isoler de ce qu'ils considèrent comme leur plateforme de statut social et leur moment de briller dans quelque chose qui n'a finalement pas d'importance ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:124 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_a05849b7:
 msgid "[_sam_s_talk_frown_2_s_away_s_sad_] We-well, I wouldn't say you've hit it directly on the nose, but I mean-"
-msgstr ""
+msgstr "[_sam_s_talk_frown_2_s_away_s_sad_] Je ne dirais pas que vous l'avez touché en plein dans le mille, mais je veux dire-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:126 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_9e4f226c:
 msgid "[_danny_s_sad_2_s_closed_s_talk_happy_] ...when the best course of action would be to just show up looking as gorgeous as ever, dismissing their stupid little clique games, and to just ignore them!"
-msgstr ""
+msgstr "[_danny_s_sad_2_s_closed_s_talk_happy_] ...alors que la meilleure chose à faire serait de se montrer plus belle que jamais, de rejeter leurs stupides petits jeux de clique, et de les ignorer !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:128 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_4e5fab88:
 msgid "[_sam_s_towards_s_talk_frown_3_s_confused_] ...gorgeous? Really?"
-msgstr ""
+msgstr "[_sam_s_towards_s_talk_frown_3_s_confused_] ...magnifique ? Vraiment ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:130 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_439bc1ac:
 msgid "[_danny_s_towards_wide_s_talk_happy_2_s_sad_] Totally! Come on, you could dress circles around those girls. Right Tuck?"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_talk_happy_2_s_sad_] Totalement ! Allez, tu pourrais habiller des cercles autour de ces filles. Pas vrai Tuck ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:133 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_19cd86ee:
 msgid "[_tucker_s_ahegao_s_talk_happy_s_sad_] I don't know man, you saw the online posts Paulina was putting up of her dress? She sure knows how to accentuate that body..."
-msgstr ""
+msgstr "[_tucker_s_ahegao_s_talk_happy_s_sad_] Je ne sais pas, mec, tu as vu les posts que Paulina a mis en ligne de sa robe ? Elle sait vraiment comment mettre en valeur son corps..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:136 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_7a806046:
 msgid "[_danny_s_angry_s_talk_frown_] Tucker!"
-msgstr ""
+msgstr "[_danny_s_angry_s_talk_frown_] Tucker !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:138 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_1ba18bb1:
 msgid "[_tucker_s_towards_2_s_sad_s_talk_happy_] Oh, but yeah, yo-you'd look really good Sam, de-definitely!"
-msgstr ""
+msgstr "[_tucker_s_towards_2_s_sad_s_talk_happy_] Oh, mais oui, tu serais vraiment bien, Sam, définitivement !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:141 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_c3c04ce6:
 msgid "[_sam_s_talk_bite_s_away_s_sad_] Thanks you guys, but it doesn't matter, I still don't think I should go."
-msgstr ""
+msgstr "[_sam_s_talk_bite_s_away_s_sad_] Merci les gars, mais ça n'a pas d'importance, je ne pense toujours pas que je devrais y aller."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:144 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_8b004da6:
 msgid "[_tucker_s_away_s_talk_frown_s_neutral_] I don't feel like going either, honestly."
-msgstr ""
+msgstr "[_tucker_s_away_s_talk_frown_s_neutral_] Je n'ai pas envie d'y aller non plus, honnêtement."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:146 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_ec0d6fb5:
 msgid "[_danny_s_sad_2_s_talk_frown_2_] Huh? Why not?"
-msgstr ""
+msgstr "[_danny_s_sad_2_s_talk_frown_2_] Hein ? Pourquoi pas ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:149 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_864246b8:
 msgid "[_tucker_s_blank_stare_s_talk_frown_s_sad_] Well for one, none of us have actual dates. For the Casper Chill Formal, that's like showing up to a bake sale with an empty muffin tray. Kinda defeats the whole point."
-msgstr ""
+msgstr "[_tucker_s_blank_stare_s_talk_frown_s_sad_] D'abord, aucun d'entre nous n'a de date réelle. Pour le Casper Chill Formal, c'est comme se présenter à une vente de gâteaux avec un plateau de muffins vide. Ça va à l'encontre du but recherché."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:151 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_ae8ac060:
 msgid "[_tucker_s_closed_s_wondering_] Secondly, I'm pretty certain none of us are gonna be able to even find a date before the time we'll need to. I've run the math, between us three, the likelihood we all get a dance partiner in time is just highly unlikely."
-msgstr ""
+msgstr "[_tucker_s_closed_s_wondering_] Deuxièmement, je suis presque certain qu'aucun de nous ne sera capable de trouver une date avant le moment où nous en aurons besoin. J'ai fait le calcul, à nous trois, la probabilité que nous ayons tous un partenaire de danse à temps est hautement improbable."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:153 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_915e9561:
 msgid "[_danny_s_closed_s_talk_happy_s_sad_] Well, hey, we could all just go together, right?"
-msgstr ""
+msgstr "[_danny_s_closed_s_talk_happy_s_sad_] Eh bien, on pourrait y aller tous ensemble, non ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:156 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_b1471ee0:
 msgid "[_sam_s_towards_s_talk_frown_2_] I don't know Danny, I kinda don't want to fuel the stereotype that we only ever hang out with each other."
-msgstr ""
+msgstr "[_sam_s_towards_s_talk_frown_2_] Je ne sais pas Danny, je ne veux pas alimenter le stéréotype qu'on ne traîne que l'un avec l'autre."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:158 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_ae977e7e:
 msgid "[_danny_s_angry_s_talk_happy_] See, there you go caring what other people think. You're supposed to be the contrarian, Sam!"
-msgstr ""
+msgstr "[_danny_s_angry_s_talk_happy_] Tu vois, tu te soucies de ce que les autres pensent. Tu es censé être l'anticonformiste, Sam !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:160 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_bfc7ff6e:
 msgid "[_sam_s_talk_frown_] I'm {u}always{/u} the contrarian, Danny! I'm the teen rebel, the social outcast, the complete misfit! But... maybe just for one night, I'd maybe like to be..."
-msgstr ""
+msgstr "[_sam_s_talk_frown_] Je suis {u}toujours à contre-courant, Danny ! Je suis l'adolescente rebelle, l'exclue sociale, l'inadaptée complète ! Mais... peut-être que juste pour une nuit, j'aimerais être..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:162 #-#-# translate crowdin A_Stroke_After_Midnight_scene_2_schoolmainhall_ec9410d9:
 msgid "[_sam_s_away_s_talk_frown_2_s_sad_] ...I don't know, exactly... just, sorta normal? Just to see what it's like?"
@@ -414,15 +414,15 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:379 #-#-# translate crowdin A_Stroke_After_Midnight_scene_4_abYss_39790aed:
 msgid "[_sales_lady_s_talk_happy_s_sad_] Hahah! Well, no harm no foul! Alrighty, well, I'll let you get to it then! Holler if you need me, m'kay?"
-msgstr ""
+msgstr "[_sales_lady_s_talk_happy_s_sad_] Hahah ! Eh bien, il n'y a pas de mal à ça ! Très bien, je te laisse t'y mettre alors ! Crie si tu as besoin de moi, m'voyez ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:387 #-#-# translate crowdin A_Stroke_After_Midnight_scene_4_abYss_956a6dba:
 msgid "[_danny_] Alright then, let's see what we've got here..."
-msgstr ""
+msgstr "[_danny_] Très bien, alors, voyons ce que nous avons ici..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:388 #-#-# translate crowdin A_Stroke_After_Midnight_scene_4_abYss_a80345dd:
 msgid "[_danny_] Does this part fold like... this...? Ergh, wait, no, that snaps together... but then this part... is it {b}supposed{/b} to hang loose? Then how do these buttons come into play? What the-"
-msgstr ""
+msgstr "[_danny_] Est-ce que cette partie se plie comme... ça... ? Ergh, attends, non, ça s'assemble par pression... mais cette partie... c'est {b}censé{/b} pendre librement ? Alors comment ces boutons entrent-ils en jeu ? Qu'est-ce que-"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:389 #-#-# translate crowdin A_Stroke_After_Midnight_scene_4_abYss_6e72249e:
 msgid "[_danny_] Oh, wait, alright! Yeah, I see now! Okay, yeah, there we go!"
