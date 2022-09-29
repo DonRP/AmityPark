@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-28 15:24\n"
+"PO-Revision-Date: 2022-09-29 13:57\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -3234,199 +3234,199 @@ msgstr "[_danny_s_closed_s_sad_s_talk_frown_2_] Ecoute, si c'est trop bizarre po
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2724 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_c7d54dd8:
 msgid "[_desiree_s_talk_happy_2_s_sad_] I'd like to go."
-msgstr ""
+msgstr "[_desiree_s_talk_happy_2_s_sad_] J'aimerais y aller."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2726 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_8db33da1:
 msgid "[_danny_s_sad_s_talk_frown_] Really? You would?"
-msgstr ""
+msgstr "[_danny_s_sad_s_talk_frown_] Vraiment ? Vous le feriez ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2728 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_79106889:
 msgid "[_desiree_s_talk_happy_] If I {i}did{/i} want to perhaps attend a visit to your bazaar... would I be allowed to wander?"
-msgstr ""
+msgstr "[_desiree_s_talk_happy_] Si je {i}voulait{/i} peut-être assister à une visite de votre bazar... aurais-je le droit de me promener ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2730 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_ddfa08cf:
 msgid "[_danny_s_talk_frown_2_s_towards_s_neutral_] You'll be with me the whole time, along with the Fenton Thermos."
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_s_towards_s_neutral_] Tu seras avec moi tout le temps, ainsi que le Thermos Fenton."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2732 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_0e8be51b:
 msgid "[_desiree_s_talk_bite_s_sad_] Oh Master [player_name], don't you trust me at all yet?"
-msgstr ""
+msgstr "[_desiree_s_talk_bite_s_sad_] Oh Maître [player_name], vous ne me faites pas encore confiance ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2734 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_9f15cbf2:
 msgid "[_danny_s_angry_s_talk_happy_] At this stage? Are you crazy?"
-msgstr ""
+msgstr "[_danny_s_angry_s_talk_happy_] A ce stade ? Tu es fou ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2736 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_bb48cea5:
 msgid "[_desiree_s_neutral_2_s_talk_frown_] ...fair point. (Truly not as dumb as he looks, shame.)"
-msgstr ""
+msgstr "[_desiree_s_neutral_2_s_talk_frown_] ...point juste. (Vraiment pas aussi bête qu'il en a l'air, dommage.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2738 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_9c9ff255:
 msgid "[_danny_s_sad_s_talk_happy_2_] So, are you up for a little trip out of the house?"
-msgstr ""
+msgstr "[_danny_s_sad_s_talk_happy_2_] Alors, tu es prêt pour une petite sortie hors de la maison ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2740 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_362c25b8:
 msgid "[_desiree_s_towards_2_s_talk_happy_] All things considered, I suppose a change of scenery {i}would{/i} be good for me. I accept your invitation."
-msgstr ""
+msgstr "[_desiree_s_towards_2_s_talk_happy_] Tout bien considéré, je suppose qu'un changement de décor {i}me ferait du bien. J'accepte votre invitation."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2742 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_2651e568:
 msgid "[_danny_s_wondering_s_talk_frown_2_] I'm adding another rule as well though: no harming others or causing chaos while we're out together."
-msgstr ""
+msgstr "[_danny_s_wondering_s_talk_frown_2_] J'ajoute cependant une autre règle : ne pas nuire aux autres ou provoquer le chaos pendant que nous sommes ensemble."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2744 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_e8f35e71:
 msgid "[_desiree_s_closed_s_talk_frown_s_neutral_2_] As you wish, Master [player_name]. (Damn, I could have taken some hostages to bargain for my release...)"
-msgstr ""
+msgstr "[_desiree_s_closed_s_talk_frown_s_neutral_2_] Comme vous le souhaitez, Maître [player_name]. (Mince, j'aurais pu prendre quelques otages pour négocier ma libération...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2746 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_ddbd5c1c:
 msgid "[_danny_s_down_s_talk_frown_s_sad_] Now, to go out, we'll need you in your human form, and if anybody were to ask, you're my cousin from Wisconsin. They're weird enough to be believably dressed like {b}that{/b}."
-msgstr ""
+msgstr "[_danny_s_down_s_talk_frown_s_sad_] Maintenant, pour sortir, nous aurons besoin de toi sous ta forme humaine, et si quelqu'un demande, tu es mon cousin du Wisconsin. Ils sont assez bizarres pour qu'on puisse croire qu'ils sont habillés comme {b}que{/b}."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2747 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_b4c6c291:
 msgid "[_danny_s_neutral_s_talk_happy_s_towards_] Oh, and just call me Danny for now."
-msgstr ""
+msgstr "[_danny_s_neutral_s_talk_happy_s_towards_] Oh, et appelle-moi Danny pour l'instant."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2752 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_77252f07:
 msgid "[_desiree_s_talk_happy_s_towards_] Understood, Danny. Lead the way."
-msgstr ""
+msgstr "[_desiree_s_talk_happy_s_towards_] Compris, Danny. Ouvrez le chemin."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2860 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_85e56f56:
 msgid "[_desiree_s_towards_2_s_talk_frown_s_sad_] My goodness, even while the fool and I were terrorizing it, I never realized just how crowded your bazaar is."
-msgstr ""
+msgstr "[_desiree_s_towards_2_s_talk_frown_s_sad_] Mon Dieu, même pendant que l'idiot et moi le terrorisions, je n'avais jamais réalisé à quel point votre bazar est bondé."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2862 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_d100c3ff:
 msgid "[_danny_s_talk_happy_s_rise_one_] Again, it's a mall. You're how old again? You're {b}allowed{/b} to pick up on new terminology, you know."
-msgstr ""
+msgstr "[_danny_s_talk_happy_s_rise_one_] Encore une fois, c'est un centre commercial. Tu as quel âge déjà ? Tu es {b}autorisé à utiliser une nouvelle terminologie, tu sais."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2864 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_5a88d838:
 msgid "[_desiree_s_angry_s_talk_frown_] I'd prefer {i}not{/i} to discuss my age, Danny."
-msgstr ""
+msgstr "[_desiree_s_angry_s_talk_frown_] Je préférerais que {i}ne parle pas de mon âge, Danny."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2866 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_746677b0:
 msgid "[_danny_s_sad_s_talk_happy_2_] Hey, don't worry, you look great."
-msgstr ""
+msgstr "[_danny_s_sad_s_talk_happy_2_] Hé, ne t'inquiète pas, tu es superbe."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2868 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_18a299f2:
 msgid "[_desiree_s_towards_2_s_talk_frown_2_] Yes, well... why is it so busy here? Does everyone shop at the same time?"
-msgstr ""
+msgstr "[_desiree_s_towards_2_s_talk_frown_2_] Oui, eh bien... pourquoi y a-t-il autant de monde ici ? Est-ce que tout le monde fait ses courses en même temps ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2870 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_aa3876cd:
 msgid "[_danny_s_blank_stare_s_wondering_s_talk_happy_] Well, malls are more than just places to shop, ya know. You can use the space to meet up with friends, go on dates, get a part time job..."
-msgstr ""
+msgstr "[_danny_s_blank_stare_s_wondering_s_talk_happy_] Les centres commerciaux sont plus que des endroits pour faire du shopping, vous savez. Vous pouvez utiliser l'espace pour rencontrer des amis, aller à des rendez-vous, trouver un emploi à temps partiel..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2871 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_8f6ec7d9:
 msgid "[_danny_s_talk_happy_2_s_towards_s_sad_] Plenty of reasons outside of just shopping."
-msgstr ""
+msgstr "[_danny_s_talk_happy_2_s_towards_s_sad_] Plein de raisons en dehors du shopping."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2873 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_9f0a9c70:
 msgid "[_desiree_s_talk_happy_s_neutral_] Hmm... I see, a bazaar that has varying functions and purposes. I think I understand..."
-msgstr ""
+msgstr "[_desiree_s_talk_happy_s_neutral_] Hmm... Je vois, un bazar qui a des fonctions et des objectifs variés. Je pense que je comprends..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2875 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_a2637552:
 msgid "[_desiree_s_at_player_s_pout_] ..."
-msgstr ""
+msgstr "[_desiree_s_at_player_s_pout_] ..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2877 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_b35162ad:
 msgid "[_desiree_s_towards_s_talk_frown_2_] Do you {i}also{/i} feel all the glares of these eyes upon me?"
-msgstr ""
+msgstr "[_desiree_s_towards_s_talk_frown_2_] Est-ce que {i}aussi{/i} tu sens tous les regards de ces yeux sur moi ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2879 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_11d49daa:
 msgid "[_danny_s_talk_happy_s_towards_s_sad_2_] Well, I guess it's not every day that such a... {i}gifted{/i} woman like yourself walks into this type of place."
-msgstr ""
+msgstr "[_danny_s_talk_happy_s_towards_s_sad_2_] Eh bien, je suppose que ce n'est pas tous les jours qu'une femme aussi... {i}douée que vous entre dans ce genre d'endroit."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2881 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_9e813d9d:
 msgid "[_desiree_s_closed_s_talk_frown_2_s_sad_] I suppose so... men are weak willed and have little control over their simple urges."
-msgstr ""
+msgstr "[_desiree_s_closed_s_talk_frown_2_s_sad_] Je suppose que oui... les hommes ont une volonté faible et ont peu de contrôle sur leurs simples pulsions."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2883 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_39b6b91b:
 msgid "[_danny_s_talk_frown_2_s_closed_s_neutral_] Yeah well, that's just {i}most{/i} guys. Not everyone is like that."
-msgstr ""
+msgstr "[_danny_s_talk_frown_2_s_closed_s_neutral_] Ouais, eh bien, c'est juste {i}la plupart des gars. Tout le monde n'est pas comme ça."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2885 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_dd8203c3:
 msgid "[_desiree_s_talk_frown_s_neutral_2_] I find it rather amusing that you subtly insinuate you {i}aren't{/i} one of those types of men, Danny."
-msgstr ""
+msgstr "[_desiree_s_talk_frown_s_neutral_2_] Je trouve plutôt amusant que tu insinues subtilement que tu {i}n'es pas{/i} un de ces types d'hommes, Danny."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2887 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_59e9ef5d:
 msgid "[_danny_s_at_danny_s_talk_frown_s_rise_one_] Uhm, hey, well... uh... y-ya know what..."
-msgstr ""
+msgstr "[_danny_s_at_danny_s_talk_frown_s_rise_one_] Uhm, hey, bien... uh... tu sais quoi..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2889 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_4c82e3f5:
 msgid "[_danny_s_towards_wide_s_talk_happy_s_sad_] {i}*Ahem*{/i} {b}Hey{/b}, let's check out some of the clothes in the AbYss store!"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_talk_happy_s_sad_] {i}*Ahem*{/i} {b}Hey{/b}, allons voir les vêtements de la boutique AbYss !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2891 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_9907ae92:
 msgid "[_desiree_s_talk_happy_s_neutral_] {i}*Chuckles*{/i} Yes, that sounds fine."
-msgstr ""
+msgstr "[_desiree_s_talk_happy_s_neutral_] {i}*Chuckles*{/i} Oui, ça me paraît bien."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:2893 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_31fc80f2:
 msgid "[_desiree_s_towards_2_s_talk_frown_s_neutral_2_] Best to get out of sight from these dogs before they drool all over my attire anyway..."
-msgstr ""
+msgstr "[_desiree_s_towards_2_s_talk_frown_s_neutral_2_] Il vaut mieux se mettre hors de vue de ces chiens avant qu'ils ne bavent sur mes vêtements..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3002 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_626da43a:
 msgid "[_desiree_s_talk_happy_s_sad_] Now {i}this{/i} is rather incredible... such a bounty of cloth and fabrics... all woven together in so many different manners!"
-msgstr ""
+msgstr "[_desiree_s_talk_happy_s_sad_] Maintenant, {i}, ceci{/i} est plutôt incroyable... une telle abondance de tissus et d'étoffes... tous tissés ensemble de tant de manières différentes !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3004 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_9732ab8b:
 msgid "[_danny_s_talk_happy_s_sad_] Hah, well, I'm glad you like the sweaters. You should try on something, see if you like it!"
-msgstr ""
+msgstr "[_danny_s_talk_happy_s_sad_] Hah, eh bien, je suis content que tu aimes les pulls. Tu devrais essayer quelque chose, voir si tu l'aimes !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3006 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_0c7f97dd:
 msgid "[_desiree_s_talk_frown_s_neutral_2_] I don't even know what to pick out first! There's so many different gowns to choose from! Even the Sultan didn't have this many fabrics!!"
-msgstr ""
+msgstr "[_desiree_s_talk_frown_s_neutral_2_] Je ne sais même pas quoi choisir en premier ! Il y a tant de robes différentes à choisir ! Même le Sultan n'a pas eu autant de tissus ! !!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3008 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_d91b369d:
 msgid "[_danny_s_grin_happy_s_sad_] (Man, look at the way her eyes are sparkling... guess it was a good idea to bring her to AbYss... she seems to enjoy material things, like clothes.)"
-msgstr ""
+msgstr "[_danny_s_grin_happy_s_sad_] (Mec, regarde la façon dont ses yeux pétillent... je suppose que c'était une bonne idée de l'amener à AbYss... elle semble apprécier les choses matérielles, comme les vêtements)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3009 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_55e2f55d:
 msgid "[_danny_s_rise_one_s_talk_happy_2_] Anything catch your eye, Des?"
-msgstr ""
+msgstr "[_danny_s_rise_one_s_talk_happy_2_] Quelque chose a attiré ton attention, Des ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3011 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_1b15f7ba:
 msgid "[_desiree_s_towards_s_talk_happy_s_neutral_3_] {i}Hmmm{/i}... I would say... {b}that{/b} outfit looks rather interesting. Very different from what I wore back in my harem days."
-msgstr ""
+msgstr "[_desiree_s_towards_s_talk_happy_s_neutral_3_] {i}Hmmm{/i}... Je dirais... {b}que cette tenue est plutôt intéressante. Très différente de celle que je portais à l'époque du harem."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3013 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_04d9b81b:
 msgid "[_danny_s_closed_s_sad_s_talk_happy_] Well, try it on, see if it's your kinda style."
-msgstr ""
+msgstr "[_danny_s_closed_s_sad_s_talk_happy_] Eh bien, essayez-le, voyez si c'est votre style."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3015 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_80b6fb88:
 msgid "[_desiree_s_towards_s_talk_happy_s_sad_] Alright then, I shall take this into their private areas and change."
-msgstr ""
+msgstr "[_desiree_s_towards_s_talk_happy_s_sad_] Très bien alors, je vais amener ça dans leurs zones privées et me changer."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3024 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_83791e60:
 msgid "[_danny_s_wondering_] (Well, at least she knows not to strip naked in public.)"
-msgstr ""
+msgstr "[_danny_s_wondering_] (Au moins, elle sait qu'il ne faut pas se déshabiller en public)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3025 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_da2772f6:
 msgid "[_danny_s_at_player_s_frown_3_] (That'd definitely cause a scene, I'm sure.)"
-msgstr ""
+msgstr "[_danny_s_at_player_s_frown_3_] (Ça causerait une scène, j'en suis sûr.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3026 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_fc6b5ef0:
 msgid "[_danny_s_towards_s_smile_] (All these clothes must be nice for her. Probably reminds her of having every desire she had taken care of with the Sultan.)"
-msgstr ""
+msgstr "[_danny_s_towards_s_smile_] (Tous ces vêtements doivent être agréables pour elle. Cela lui rappelle probablement que tous ses désirs ont été satisfaits par le sultan)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3027 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_1b7a1e73:
 msgid "[_danny_s_at_danny_s_sad_] (Probably not {i}as{/i} luxurious as that, considering I don't know how much I'll even be able to afford {b}one{/b} outfit, but...)"
-msgstr ""
+msgstr "[_danny_s_at_danny_s_sad_] (Probablement pas {i}aussi{/i} luxueux que ça, vu que je ne sais pas combien je pourrai même me permettre {b}une{/b} tenue, mais...)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3028 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_1aecaac5:
 msgid "[_danny_s_at_player_s_frown_3_] (You know... I'm curious as to how much of that Madam Babazita backstory was even true.)"
-msgstr ""
+msgstr "[_danny_s_at_player_s_frown_3_] (Vous savez... Je suis curieux de savoir quelle part de cette histoire de Madame Babazita était vraie)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3029 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_380762c8:
 msgid "[_danny_s_neutral_s_blank_stare_] (It might be a touchy subject for her, but I should try and ask Desiree about her past even just a little.)"
-msgstr ""
+msgstr "[_danny_s_neutral_s_blank_stare_] (C'est peut-être un sujet délicat pour elle, mais je devrais essayer d'interroger Desiree sur son passé, ne serait-ce qu'un peu)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3030 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_f9e338bc:
 msgid "[_danny_s_towards_s_rise_one_] (Maybe that could help her open up a bit more to me?)"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_one_] (Peut-être que ça pourrait l'aider à s'ouvrir un peu plus à moi ?)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3034 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_450765a6:
 msgid "[_desiree_s_talk_happy_s_sad_] Well, this is it. How do you like it?"
-msgstr ""
+msgstr "[_desiree_s_talk_happy_s_sad_] Voilà, c'est fait. Qu'est-ce que vous en pensez ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3036 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_201951c7:
 msgid "[_danny_s_talk_frown_s_towards_wide_s_rise_one_] Woah! You look incredible! You even changed your hair?!"
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_towards_wide_s_rise_one_] Woah ! Tu as l'air incroyable ! Tu as même changé tes cheveux ? ?!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3038 #-#-# translate crowdin A_Stroke_After_Midnight_scene_6b_bedroom_16a29e70:
 msgid "[_desiree_s_talk_happy_2_s_neutral_2_] Yes, I noticed a portrait of a woman on a wall. I thought I would imitate her look to go with the outfit a bit more."
@@ -3630,115 +3630,115 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3181 #-#-# translate crowdin ask_desiree_02_67c052ec:
 msgid "[_danny_s_talk_frown_s_sad_2_s_towards_down_] So then, what happened?"
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_sad_2_s_towards_down_] Alors, que s'est-il passé ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3183 #-#-# translate crowdin ask_desiree_02_1194e15e:
 msgid "[_desiree_s_towards_2_s_talk_frown_2_s_angry_] It all came to an end with that wretched wife of his... she came and whispered lies into his ear about my faithfulness to him."
-msgstr ""
+msgstr "[_desiree_s_towards_2_s_talk_frown_2_s_angry_] Tout s'est terminé avec sa misérable femme... elle est venue lui murmurer des mensonges à l'oreille sur ma fidélité envers lui."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3185 #-#-# translate crowdin ask_desiree_02_8ec1e7a2:
 msgid "[_desiree_s_towards_s_talk_frown_s_neutral_2_] I was {u}nothing{/u} but faithful to him, Danny. I didn't care that he had a wife, I was happy where I was."
-msgstr ""
+msgstr "[_desiree_s_towards_s_talk_frown_s_neutral_2_] J'étais {u}rien{/u} d'autre que fidèle à lui, Danny. Je me fichais qu'il ait une femme, j'étais heureuse là où j'étais."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3187 #-#-# translate crowdin ask_desiree_02_16507d93:
 msgid "[_desiree_s_closed_s_talk_frown_2_s_angry_] But out of jealousy and fear of being taken out of power, she had him cast me out of his kindgdom to die alone in an endless ocean of sand... I was foolish to think someone like me would ever be so lucky."
-msgstr ""
+msgstr "[_desiree_s_closed_s_talk_frown_2_s_angry_] Mais par jalousie et par peur d'être dépossédée du pouvoir, elle l'a poussé à me chasser de son royaume pour que je meure seule dans un océan de sable sans fin... J'étais stupide de penser que quelqu'un comme moi serait un jour si chanceux."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3189 #-#-# translate crowdin ask_desiree_02_3e3656a3:
 msgid "[_desiree_s_down_2_s_sad_s_talk_frown_] Dying alone was probably the worst part about it... it's the slow {i}knowing{/i} of it all that just... makes it all the worse."
-msgstr ""
+msgstr "[_desiree_s_down_2_s_sad_s_talk_frown_] Mourir seul était probablement la pire partie de tout ça... c'est le lent {i}savoir{/i} de tout ça qui... rend tout ça encore pire."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3191 #-#-# translate crowdin ask_desiree_02_f99e7ab1:
 msgid "[_danny_s_towards_s_talk_frown_s_sad_] Gee... Desiree, I don't know what to say."
-msgstr ""
+msgstr "[_danny_s_towards_s_talk_frown_s_sad_] Bon sang... Desiree, je ne sais pas quoi dire."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3193 #-#-# translate crowdin ask_desiree_02_bfe86ad3:
 msgid "[_desiree_s_talk_frown_s_towards_s_angry_] Now, instead of being allowed to act out my vengeance upon other foolhearted dreamers or cruel men, I'm now trapped in a metal tube, by a silly boy who fancies himself a hero."
-msgstr ""
+msgstr "[_desiree_s_talk_frown_s_towards_s_angry_] Maintenant, au lieu de pouvoir exercer ma vengeance sur d'autres rêveurs fous ou des hommes cruels, je suis maintenant piégé dans un tube de métal, par un garçon stupide qui se prend pour un héros."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3195 #-#-# translate crowdin ask_desiree_02_c2cebc81:
 msgid "[_danny_s_sad_s_talk_frown_2_] Hey, I'm sorry. I clearly have no idea what it must feel to have been betrayed like that."
-msgstr ""
+msgstr "[_danny_s_sad_s_talk_frown_2_] Hey, je suis désolé. Je n'ai clairement aucune idée de ce que ça doit faire d'être trahi comme ça."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3197 #-#-# translate crowdin ask_desiree_02_f17b758e:
 msgid "[_desiree_s_closed_s_talk_frown_2_s_neutral_2_] Of course you don't. No one could. Nobody does the whole \"exile\" thing anymore to scorned lovers. I suppose that's one improvement of this millenia."
-msgstr ""
+msgstr "[_desiree_s_closed_s_talk_frown_2_s_neutral_2_] Bien sûr que non. Personne ne le pourrait. Personne ne fait plus le coup de l'exil pour les amants éconduits. Je suppose que c'est une des améliorations de ce millénaire."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3199 #-#-# translate crowdin ask_desiree_02_d13ae04d:
 msgid "[_desiree_s_down_2_s_talk_frown_s_angry_] Still, I believe the best way to deal with my problems is to curse other fools with their own simpleton level wishes."
-msgstr ""
+msgstr "[_desiree_s_down_2_s_talk_frown_s_angry_] Pourtant, je crois que la meilleure façon de régler mes problèmes est de maudire d'autres idiots avec leurs propres souhaits de niveau simplet."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3201 #-#-# translate crowdin ask_desiree_02_e92c0def:
 msgid "[_danny_s_talk_frown_s_towards_s_idle__] I'm not a psychologist, but I wouldn't exactly call that a healthy coping mechanism. You gotta let that anger go, Des."
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_towards_s_idle__] Je ne suis pas psychologue, mais je n'appellerais pas ça un mécanisme d'adaptation sain. Tu dois laisser partir cette colère, Des."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3203 #-#-# translate crowdin ask_desiree_02_b63c6876:
 msgid "[_desiree_s_towards_s_talk_frown_s_neutral_] Danny, your failure is that you refuse to see the futility in defending the vapid and the vain. They're like I once was, naive and foolish."
-msgstr ""
+msgstr "[_desiree_s_towards_s_talk_frown_s_neutral_] Danny, ton échec est que tu refuses de voir la futilité de défendre les insipides et les vaniteux. Ils sont comme moi autrefois, naïfs et stupides."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3205 #-#-# translate crowdin ask_desiree_02_ee0180db:
 msgid "[_desiree_s_talk_frown_s_neutral_2_] They'll only learn that dreams and wishes are tools of the overly prideful by having them granted... through less than enjoyable results, of course."
-msgstr ""
+msgstr "[_desiree_s_talk_frown_s_neutral_2_] Ils n'apprendront que les rêves et les souhaits sont des outils de l'orgueil démesuré en les voyant se réaliser... avec des résultats moins qu'agréables, bien sûr."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3207 #-#-# translate crowdin ask_desiree_02_ebb5f9d6:
 msgid "[_desiree_s_talk_happy_s_angry_s_towards_] Look at your friend... Tucker, was it? Is he not all the better now that his wish went terribly astray?"
-msgstr ""
+msgstr "[_desiree_s_talk_happy_s_angry_s_towards_] Regarde ton ami... Tucker, c'est ça ? N'est-il pas mieux maintenant que son souhait s'est terriblement égaré ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3209 #-#-# translate crowdin ask_desiree_02_7c879b91:
 msgid "[_danny_s_angry_s_talk_frown_] Only because I had to step in to make sure he didn't die!!"
-msgstr ""
+msgstr "[_danny_s_angry_s_talk_frown_] Seulement parce que j'ai dû intervenir pour m'assurer qu'il ne mourrait pas !!"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3211 #-#-# translate crowdin ask_desiree_02_82c997d2:
 msgid "[_desiree_s_talk_happy_s_neutral_2_] If fate had wanted him dead, he would've simply died. He didn't, so my hands are clean. A fool learned his lesson, fantastic. Only a few billion more to go..."
-msgstr ""
+msgstr "[_desiree_s_talk_happy_s_neutral_2_] Si le destin avait voulu sa mort, il serait simplement mort. Il ne l'est pas, donc mes mains sont propres. Un idiot a appris sa leçon, fantastique. Plus que quelques milliards à trouver..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3213 #-#-# translate crowdin ask_desiree_02_9ca9b434:
 msgid "[_danny_s_towards_s_sad_s_talk_frown_2_] It's not that simple, Desiree."
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_s_talk_frown_2_] Ce n'est pas si simple, Desiree."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3215 #-#-# translate crowdin ask_desiree_02_da26efc8:
 msgid "[_desiree_s_talk_frown_s_neutral_] Eh, it's worked for me, for a good couple centuries."
-msgstr ""
+msgstr "[_desiree_s_talk_frown_s_neutral_] Eh, ça a marché pour moi, pendant deux bons siècles."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3217 #-#-# translate crowdin ask_desiree_02_47a53802:
 msgid "[_danny_s_at_player_s_wondering_s_frown_2_] (I'm not going to be able to erase centuries of bitter anger away in an afternoon with her, but she has been really lead astray. Poor Desiree, she didn't deserve to wander forever as an angry spirit.)"
-msgstr ""
+msgstr "[_danny_s_at_player_s_wondering_s_frown_2_] (Je ne vais pas pouvoir effacer des siècles de colère amère en un après-midi avec elle, mais elle a été vraiment égarée. Pauvre Desiree, elle ne méritait pas d'errer pour toujours comme un esprit en colère)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3220 #-#-# translate crowdin ask_desiree_02_ba7dba0f:
 msgid "[_danny_s_towards_s_idle__s_talk_frown_] It must've been hard for you."
-msgstr ""
+msgstr "[_danny_s_towards_s_idle__s_talk_frown_] Ça a dû être dur pour toi."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3222 #-#-# translate crowdin ask_desiree_02_0aa812f7:
 msgid "[_desiree_s_down_2_s_talk_frown_s_neutral_2_] Hard? Not so much, all things considered. For a time, it was actually rather enjoyable."
-msgstr ""
+msgstr "[_desiree_s_down_2_s_talk_frown_s_neutral_2_] Dur ? Pas tant que ça, tout bien considéré. Pendant un temps, c'était même plutôt agréable."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3224 #-#-# translate crowdin ask_desiree_02_d9a5ff64:
 msgid "[_desiree_s_talk_happy_s_neutral_s_towards_] Being waited on hand and foot is the nicest thing in the world, honestly..."
-msgstr ""
+msgstr "[_desiree_s_talk_happy_s_neutral_s_towards_] Être servi à bras ouverts est la chose la plus agréable au monde, honnêtement..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3226 #-#-# translate crowdin ask_desiree_02_42f37923:
 msgid "[_desiree_s_talk_frown_2_s_angry_s_down_2_] ...the bitter ending of having your heart broken and your eyes plucked out by buzzards in a boiling sea of sand before you even turn thirty..."
-msgstr ""
+msgstr "[_desiree_s_talk_frown_2_s_angry_s_down_2_] ... la fin amère d'avoir votre cœur brisé et vos yeux arrachés par des buzzards dans une mer bouillante de sable avant même de tourner trente ..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3228 #-#-# translate crowdin ask_desiree_02_9887970d:
 msgid "[_desiree_s_talk_frown_s_neutral_2_] Ehhh, not so much..."
-msgstr ""
+msgstr "[_desiree_s_talk_frown_s_neutral_2_] Ehhh, pas tant que ça..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3230 #-#-# translate crowdin ask_desiree_02_43d5b859:
 msgid "[_danny_s_towards_down_s_talk_frown_2_s_neutral_] Jeez... that's... I'm sorry I-"
-msgstr ""
+msgstr "[_danny_s_towards_down_s_talk_frown_2_s_neutral_] Jeez... c'est... Je suis désolé, je"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3232 #-#-# translate crowdin ask_desiree_02_2bd41dfc:
 msgid "[_desiree_s_talk_frown_s_neutral_] It's fine. You wouldn't care to listen to some old gypsy's life story, so I'll spare you the details."
-msgstr ""
+msgstr "[_desiree_s_talk_frown_s_neutral_] C'est bon. Vous ne voudriez pas écouter l'histoire de la vie d'un vieux gitan, alors je vous épargne les détails."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3234 #-#-# translate crowdin ask_desiree_02_61be488f:
 msgid "[_desiree_s_talk_frown_2_s_down_2_s_neutral_2_] Just... if you must know something about myself, about who I am... understand that the world is not as kind a place as you'd like to think it is. I've learned that myself, quite clearly."
-msgstr ""
+msgstr "[_desiree_s_talk_frown_2_s_down_2_s_neutral_2_] Juste... si vous devez savoir quelque chose sur moi, sur qui je suis... comprenez que le monde n'est pas aussi gentil que vous aimeriez le croire. Je l'ai appris moi-même, assez clairement."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3236 #-#-# translate crowdin ask_desiree_02_ac434292:
 msgid "[_desiree_s_talk_frown_s_towards_s_neutral_] It'll save you the heartache later, believe me."
-msgstr ""
+msgstr "[_desiree_s_talk_frown_s_towards_s_neutral_] Ça t'évitera d'avoir mal au cœur plus tard, crois-moi."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3238 #-#-# translate crowdin ask_desiree_02_ce67a4e0:
 msgid "[_danny_s_sad_] ..."
@@ -3746,91 +3746,91 @@ msgstr ""
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3239 #-#-# translate crowdin ask_desiree_02_542647b1:
 msgid "[_danny_s_towards_down_2_s_frown_] (Well this was certainly blunt.)"
-msgstr ""
+msgstr "[_danny_s_towards_down_2_s_frown_] (Eh bien, c'était certainement brutal.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3240 #-#-# translate crowdin ask_desiree_02_10fc3799:
 msgid "[_danny_s_at_player_s_wondering_] (It might have been nice if she had told me a little bit more about her past.)"
-msgstr ""
+msgstr "[_danny_s_at_player_s_wondering_] (Ça aurait été bien si elle m'en avait dit un peu plus sur son passé)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3241 #-#-# translate crowdin ask_desiree_02_76e1170a:
 msgid "[_danny_s_frown_2_s_sad_] (But at least she's kind of being a bit more open and formal to talk to.)"
-msgstr ""
+msgstr "[_danny_s_frown_2_s_sad_] (Mais au moins, elle est un peu plus ouverte et formelle pour parler)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3242 #-#-# translate crowdin ask_desiree_02_4504493e:
 msgid "[_danny_s_wondering_s_frown_3_s_towards_] (I'll try to keep things going though.)"
-msgstr ""
+msgstr "[_danny_s_wondering_s_frown_3_s_towards_] (J'essaierai cependant de faire en sorte que les choses continuent.)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3244 #-#-# translate crowdin ask_desiree_02_1b41c7f3:
 msgid "[_danny_s_sad_s_towards_s_talk_frown_] So what brought you to Amity, anyway?"
-msgstr ""
+msgstr "[_danny_s_sad_s_towards_s_talk_frown_] Alors, qu'est-ce qui t'a amené à Amity, au fait ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3246 #-#-# translate crowdin ask_desiree_02_aa6f807d:
 msgid "[_desiree_s_down_2_s_talk_frown_s_neutral_] It was essentially a favor I had to perform for the ghost that helped set me free. \"Haunt the grounds\", cause general chaos and all that, essentially."
-msgstr ""
+msgstr "[_desiree_s_down_2_s_talk_frown_s_neutral_] C'était essentiellement une faveur que je devais faire au fantôme qui m'a aidé à me libérer. \"Hanter les lieux\", causer le chaos général et tout ça, essentiellement."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3248 #-#-# translate crowdin ask_desiree_02_2705c6f6:
 msgid "[_danny_s_neutral_s_talk_frown_2_s_towards_] Huh? Why'd they want you to do that?"
-msgstr ""
+msgstr "[_danny_s_neutral_s_talk_frown_2_s_towards_] Hein ? Pourquoi veulent-ils que tu fasses ça ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3250 #-#-# translate crowdin ask_desiree_02_36dea555:
 msgid "[_desiree_s_towards_s_talk_frown_2_s_neutral_2_] With that particular ghost, I don't tend to ask too many questions. You don't want to be on his bad side..."
-msgstr ""
+msgstr "[_desiree_s_towards_s_talk_frown_2_s_neutral_2_] Avec ce fantôme particulier, je n'ai pas tendance à poser trop de questions. Tu ne veux pas être de son mauvais côté ..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3252 #-#-# translate crowdin ask_desiree_02_4f230432:
 msgid "[_desiree_s_towards_2_s_talk_frown_s_neutral_] This was awhile back though, as he wanted your whole town essentially to be flooded with powerful ghosts."
-msgstr ""
+msgstr "[_desiree_s_towards_2_s_talk_frown_s_neutral_] C'était il y a un certain temps déjà, car il voulait que la ville entière soit inondée de fantômes puissants."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3254 #-#-# translate crowdin ask_desiree_02_d59325d5:
 msgid "[_desiree_s_angry_s_talk_frown_2_s_down_2_] ...I just happened to be caught by that dreadful old gypsy woman just about as soon as I arrived... not one of my proudest moments..."
-msgstr ""
+msgstr "[_desiree_s_angry_s_talk_frown_2_s_down_2_] ...je me suis fait attraper par cette horrible vieille gitane dès mon arrivée... pas un de mes moments de fierté..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3256 #-#-# translate crowdin ask_desiree_02_26e2bfc5:
 msgid "[_danny_s_towards_down_2_s_frown_3_s_angry_] (Hmmm... weird... a ghost who wants to fill Amity Park with {u}other{/u} ghosts first? Why go to the trouble? I should really try to get to the bottom of that mystery sometime.)"
-msgstr ""
+msgstr "[_danny_s_towards_down_2_s_frown_3_s_angry_] (Hmmm... bizarre... un fantôme qui veut d'abord remplir Amity Park avec {u}d'autres fantômes ? Pourquoi se donner tant de mal ? Je devrais vraiment essayer d'aller au fond de ce mystère un jour)"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3258 #-#-# translate crowdin ask_desiree_02_ba19d084:
 msgid "[_danny_s_towards_wide_s_talk_frown_2_s_sad_] Say Desiree, why was this ghost-"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_talk_frown_2_s_sad_] Dis Desiree, pourquoi ce fantôme"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3260 #-#-# translate crowdin ask_desiree_02_8fa02912:
 msgid "[_desiree_s_talk_frown_2_s_neutral_2_s_towards_] Oh, must I continue answering all your questions today? It's becoming so tiresome, Danny."
-msgstr ""
+msgstr "[_desiree_s_talk_frown_2_s_neutral_2_s_towards_] Oh, dois-je continuer à répondre à toutes tes questions aujourd'hui ? Ça devient si fatigant, Danny."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3262 #-#-# translate crowdin ask_desiree_02_cc8fee22:
 msgid "[_desiree_s_down_2_s_talk_happy_s_neutral_] I just want to stuff my face with more of this deliciousness!"
-msgstr ""
+msgstr "[_desiree_s_down_2_s_talk_happy_s_neutral_] J'ai juste envie de m'empiffrer avec plus de ce délice !"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3264 #-#-# translate crowdin ask_desiree_02_52419903:
 msgid "[_danny_s_frown_3_s_sad_s_towards_down_] ..."
-msgstr ""
+msgstr "[_danny_s_frown_3_s_sad_s_towards_down_] ..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3266 #-#-# translate crowdin ask_desiree_02_963aec9b:
 msgid "[_danny_s_towards_s_talk_happy_s_wondering_] No, go ahead. Let's finish up our ice cream before it melts and then head home, okay?"
-msgstr ""
+msgstr "[_danny_s_towards_s_talk_happy_s_wondering_] Non, vas-y. Finissons nos glaces avant qu'elles ne fondent et rentrons à la maison, d'accord ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3268 #-#-# translate crowdin ask_desiree_02_419fe72e:
 msgid "[_desiree_s_closed_s_talk_happy_2_s_neutral_2_] As you wish...~"
-msgstr ""
+msgstr "[_desiree_s_closed_s_talk_happy_2_s_neutral_2_] Comme tu veux"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3285 #-#-# translate crowdin ask_desiree_02_6a168ba0:
 msgid "[_desiree_s_towards_s_talk_happy_s_neutral_] That was... that was somewhat enjoyable..."
-msgstr ""
+msgstr "[_desiree_s_towards_s_talk_happy_s_neutral_] C'était... c'était plutôt agréable..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3287 #-#-# translate crowdin ask_desiree_02_25841d0a:
 msgid "[_danny_s_rise_one_s_talk_happy_] Yeah? You think so?"
-msgstr ""
+msgstr "[_danny_s_rise_one_s_talk_happy_] Ah oui ? Tu crois ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3289 #-#-# translate crowdin ask_desiree_02_295eade3:
 msgid "[_desiree_s_talk_frown_s_neutral_2_] Well, I simply assumed that's what I should say, anyway..."
-msgstr ""
+msgstr "[_desiree_s_talk_frown_s_neutral_2_] J'ai simplement supposé que c'était ce que je devais dire, de toute façon..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3291 #-#-# translate crowdin ask_desiree_02_78cef064:
 msgid "[_danny_s_down_s_neutral_s_talk_frown_] Oh..."
-msgstr ""
+msgstr "[_danny_s_down_s_neutral_s_talk_frown_] Oh..."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3293 #-#-# translate crowdin ask_desiree_02_6ace54b2:
 msgid "[_desiree_s_talk_bite_s_sad_] I'm merely giving you grief, Danny! Yes, I certainly had a fine time today."
-msgstr ""
+msgstr "[_desiree_s_talk_bite_s_sad_] Je ne fais que t'embêter, Danny ! Oui, j'ai vraiment passé un bon moment aujourd'hui."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:3295 #-#-# translate crowdin ask_desiree_02_c9730971:
 msgid "[_danny_s_talk_happy_s_sad_] Oh! H-hey, look at you with the jokes!"
