@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-23 16:04\n"
+"PO-Revision-Date: 2022-09-30 21:03\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/jack/jack_training_machine.rpy:12 #-#-# translate crowdin training_machine_intro_d12f4c99:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ah{/i}, Danny! How can I help you son?"
-msgstr ""
+msgstr "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ah{/i}, Danny! Wie kann ich dir helfen Sohn?"
 
 # game/code/character_events/jack/jack_training_machine.rpy:14 #-#-# translate crowdin training_machine_intro_f95edeca:
 msgid "[_danny_s_towards_s_rise_s_talk_frown_] Nothing, Dad, I'm good. Actually I was just wondering how you are doing after that... {i}uhhh{/i}, freak Ghost accident the other night."
