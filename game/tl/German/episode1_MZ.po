@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-23 16:04\n"
+"PO-Revision-Date: 2022-10-01 03:07\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -954,7 +954,7 @@ msgstr ""
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1611 #-#-# translate crowdin redux_valerie_intro_29a0eee1:
 msgid "[_danny_s_towards_s_idle_s_displeased_] . . ."
-msgstr ""
+msgstr ". . ."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1616 #-#-# translate crowdin redux_valerie_intro_2b1afde5:
 msgid "[_kwan_s_towards_s_rise_s_talk_happy_] C'mon guys, we don't wanna be late!{p}It's important that we do our best stay abreast of our school's current affairs!"
