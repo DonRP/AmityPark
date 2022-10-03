@@ -10,132 +10,132 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-23 16:06\n"
+"PO-Revision-Date: 2022-10-03 20:41\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/Jack_Dialogue_1_MZ.rpy:14 #-#-# translate crowdin jack_convo_9dca2437:
 msgid "[_danny_s_talk_happy_s_rise_one_s_towards_] Hey Dad, I was-"
-msgstr ""
+msgstr "[_danny_s_talk_happy_s_rise_one_s_towards_] Hallo Vater, ich war-"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:16 #-#-# translate crowdin jack_convo_14944344:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] Sorry, not right now son! I'm in the middle of something scientific!{p}We'll discuss ghosts and other important things later though, not to worry!"
-msgstr ""
+msgstr "[_jack_s_towards_s_sad_s_talk_happy_] Tut mir leid, nicht gerade Sohn! Ich bin mitten in etwas Wissenschaftliches!{p}Wir werden später über Geister und andere wichtige Dinge diskutieren, aber keine Sorge!"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:28 #-#-# translate crowdin jack_convo_e2_start_0e2d9801:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] Danny! Here for a little father-son ghost-busting bond session? I could have {i}sworn{/i} I saw your ecto-suit lying around here just a bit ago..."
-msgstr ""
+msgstr "[_jack_s_towards_s_sad_s_talk_happy_] Danny! Hier für eine kleine Gespenster-Session mit Vater-Sohn-Sonnen? Ich könnte {i}sworn{/i} Ich sah deinen Ekto-Anzug hier vor ein bisschen herumliegen..."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:30 #-#-# translate crowdin jack_convo_e2_start_9eb59016:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] {i}Uhm{/i}, actually Dad, I just wanted to ask you some stuff if that's alright..."
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] {i}Uhm{/i}, eigentlich Vater, ich wollte dich nur ein paar Sachen fragen, ob das nicht stimmt..."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:34 #-#-# translate crowdin jack_convo_e2_menu_790c2fee:
 msgid "[_danny_] (What should I ask my Dad about?) [nointeract]"
-msgstr ""
+msgstr "[_danny_] (Was sollte ich meinem Vater fragen?) [nointeract]"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:45 #-#-# translate crowdin jack_convo_vlad_e588cb4b:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] So, how do you know Vlad Masters?"
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Also, wie kennst du Vlad Masters?"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:47 #-#-# translate crowdin jack_convo_vlad_4b0611de:
 msgid "[_jack_s_stare_s_angry_s_talk_happy_] Ah yes, good ol' Vladdie! In college, he was my best friend! We were extremely close, roommates, lab partners, we did everything together!"
-msgstr ""
+msgstr "[_jack_s_stare_s_angry_s_talk_happy_] Ah ja, gut ol' Vladdie! Im College war er mein bester Freund! Wir waren extrem eng, Mitbewohner und Laborpartner, wir haben alles gemeinsam gemacht!"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:49 #-#-# translate crowdin jack_convo_vlad_3790c5aa:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] So then what happened? How come I've never met him in person before? I never even heard about you knowing him until he was hired by the mayor..."
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Was ist dann passiert? Wie kam es, dass ich ihn noch nie persönlich getroffen habe? Ich habe noch nie davon gehört, dass Sie ihn kennen, bis er vom Bürgermeister eingestellt wurde..."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:51 #-#-# translate crowdin jack_convo_vlad_861137c6:
 msgid "[_jack_s_towards_s_sad_s_talk_displeased_] The thick, twisted fingers of fate happened, Danny, that's what! One minute you're about to bust open a brand new scientific discovery with your bestest pal, and the next thing you know he's in the hospital for years recuperating."
-msgstr ""
+msgstr "[_jack_s_towards_s_sad_s_talk_displeased_] Die dicken, verdrehten Finger des Schicksals, Danny, das ist es! Eine Minute bist du dabei, eine brandneue wissenschaftliche Entdeckung mit deiner besten Pal zu eröffnen, und das nächste, was Sie wissen, er ist im Krankenhaus seit Jahren erholsam."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:53 #-#-# translate crowdin jack_convo_vlad_fc837fe9:
 msgid "[_jack_s_closed_s_wondering_s_talk_happy_] Then the next minute after that, his \"special girl\" comes running to you for comfort in her time of need..."
-msgstr ""
+msgstr "[_jack_s_closed_s_wondering_s_talk_happy_] Dann kommt die nächste Minute danach, sein \"Special Girl\" zu dir und sorgt für Komfort in ihrer bedürftigen Zeit..."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:55 #-#-# translate crowdin jack_convo_vlad_b8ca78ae:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] {i}Uhm{/i}, wait, what was that about Mom?"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] {i}Uhm{/i}, warte, was war das mit Mama?"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:57 #-#-# translate crowdin jack_convo_vlad_bcc07225:
 msgid "[_jack_s_towards_wide_s_sad_s_talk_happy_] Never mind all that, Danny! We shouldn't dwell on whose fault a horrible life changing accident {i}may{/i} or may not have been. We have to look towards the future! Towards catching ghosts! You understand, son?"
-msgstr ""
+msgstr "[_jack_s_towards_wide_s_sad_s_talk_happy_] Das macht nichts aus, Danny! Wir sollten nicht näher darauf eingehen, wessen Schuld ein schreckliches Leben sich ändernde Unfall {i}könnte{/i} oder nicht gewesen sein mag. Wir müssen in die Zukunft blicken! Geister zu fangen! Du verstehst es, Sohn?"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:59 #-#-# translate crowdin jack_convo_vlad_891b4ec4:
 msgid "[_danny_s_towards_wide_s_wondering_s_talk_happy_] {i}Uhm{/i} yeah, I think I figured out why I've never met him before, thanks..."
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] {i}Uhm{/i} ja, ich glaube, ich habe herausgefunden, warum ich ihn noch nie getroffen habe, danke..."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:66 #-#-# translate crowdin jack_convo_powers_0e60a956:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] So, have you ever seen a real ghost before the recent attacks?"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Hast du also schon einmal einen echten Geist vor den jüngsten Angriffen gesehen?"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:68 #-#-# translate crowdin jack_convo_powers_7ca295b4:
 msgid "[_jack_s_closed_s_sad_s_talk_happy_] Why of course, {i}many{/i} times in my day! They're a bit difficult to handle for any rookie ghost hunter, but I eat em' for breakfast!"
-msgstr ""
+msgstr "[_jack_s_closed_s_sad_s_talk_happy_] Warum natürlich, {i}viele{/i} mal in meinem Tag! The staff were very friendly and helpful, the room was clean and comfortable."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:70 #-#-# translate crowdin jack_convo_powers_e06ad72a:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] So, what exactly can they do?"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Was können sie also genau tun?"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:72 #-#-# translate crowdin jack_convo_powers_ed6a5f6c:
 msgid "[_jack_s_towards_s_sad_s_talk_displeased_] Hmm? What exactly do you mean?"
-msgstr ""
+msgstr "[_jack_s_towards_s_sad_s_talk_displeased_] Hmm? Was genau meinen Sie?"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:74 #-#-# translate crowdin jack_convo_powers_d07954bb:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] Like, do they have any special powers or anything?"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Gefällt mir, haben sie besondere Befugnisse oder irgendetwas?"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:76 #-#-# translate crowdin jack_convo_powers_b42be11e:
 msgid "[_jack_s_towards_wide_s_sad_s_talk_happy_] Oh, plenty! Now it depends on the particular ghost of course, but most ghosts can usually fly, turn invisible, and phase their molecules through solid objects. The more \"traditional\" idea of a phantom or spectre can do it all, with relative ease."
-msgstr ""
+msgstr "[_jack_s_towards_wide_s_sad_s_talk_happy_] Oh, vielleicht! Jetzt hängt es natürlich vom jeweiligen Gespenst ab, aber die meisten Gespenster können in der Regel fliegen, unsichtbar werden und ihre Moleküle durch feste Objekte abbilden. Die eher \"traditioneller\" Idee eines Phantoms oder Gespenstes kann alles mit relativer Leichtigkeit erledigen."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:77 #-#-# translate crowdin jack_convo_powers_92a7997d:
 msgid "[_jack_s_towards_wide_s_sad_s_talk_displeased_] But you have to remember that ghosts as we know them aren't {i}exactly{/i} the common depiction of a person's spirit after death. You have to think of them more as their own species, perhaps from a different dimension entirely. Say, why do you ask?"
-msgstr ""
+msgstr "[_jack_s_towards_wide_s_sad_s_talk_displeased_] Aber du musst dich daran erinnern, dass Geister, wie wir sie kennen, nicht genau {i}sind{/i} die gemeinsame Darstellung des Geistes einer Person nach dem Tod sind. Man muss sie eher als ihre eigene Spezies betrachten, vielleicht aus einer ganz anderen Dimension, wenn man sagt, warum fragt man sich?"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:79 #-#-# translate crowdin jack_convo_powers_45725d94:
 msgid "[_danny_s_at_self_s_unhappy_s_talk_happy_] Oh, {i}uh{/i}, no reason. Just out of curiosity is all."
-msgstr ""
+msgstr "[_danny_s_at_self_s_unhappy_s_talk_happy_] Ach, {i}uh{/i}, kein Grund. Nur aus Neugier ist alles."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:88 #-#-# translate crowdin jack_convo_endmenu_ae13896d:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] So, was there anything else you were interested in learning?"
-msgstr ""
+msgstr "[_jack_s_towards_s_sad_s_talk_happy_] Hast du also noch irgendetwas anderes interessiert?"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:98 #-#-# translate crowdin jack_convo_end_58176a32:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Nah, I'll let you get back to it."
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Nein, ich lasse dich wieder darauf zurückkommen."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:100 #-#-# translate crowdin jack_convo_end_7388c325:
 msgid "[_jack_s_stare_s_angry_s_talk_happy_] Well then, you and your sister try to stay safe now. And don't you worry, ol' Jack Fenton is going to catch that Phantasmal Pervert before he gets the chance to strike again!"
-msgstr ""
+msgstr "[_jack_s_stare_s_angry_s_talk_happy_] Nun, du und deine Schwester versuchen jetzt sicher zu bleiben. Und keine Sorge, ol' Jack Fenton fängt den Phantasmal Pervert, bevor er die Chance erhält, wieder zu schlagen!"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:102 #-#-# translate crowdin jack_convo_end_bbc38146:
 msgid "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Sure, sounds great, Dad!"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] Klar, klingt toll, Pap!"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:104 #-#-# translate crowdin jack_convo_end_7c1f2a37:
 msgid "[_jack_s_stare_s_angry_s_talk_happy_] ...and when I do, I'm going to pry him open and examine his ghostly guts like an old gypsy woman reading the entrails of a goat!!"
-msgstr ""
+msgstr "[_jack_s_stare_s_angry_s_talk_happy_] ... , wenn ich es tue Ich werde ihn aufprallen und seine gespenstischen Hüte untersuchen wie eine alte Zigeunerin, die die Geister einer Ziege liest."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:106 #-#-# translate crowdin jack_convo_end_fe0f454b:
 msgid "[_danny_s_at_player_wide_s_unhappy_s_talk_consternation_] Oh, wow, look at the time! Gotta go!"
-msgstr ""
+msgstr "[_danny_s_at_player_wide_s_unhappy_s_talk_consternation_] Oh, wow, schau dir die Zeit an! Gotta los!"
 
 msgid "So, how do you know Vlad Masters?"
-msgstr ""
+msgstr "Also, wie kennst du Vlad Masters?"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:34
 msgid "Have you ever seen a real ghost before the recent attacks?"
-msgstr ""
+msgstr "Hast du schon einmal einen echten Geist vor den jüngsten Anschlägen gesehen?"
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:34
 msgid "I'll let you get back to it."
-msgstr ""
+msgstr "Ich lasse dich wieder darauf zurückkommen."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:91
 msgid "Yeah, actually..."
-msgstr ""
+msgstr "Ja, eigentlich..."
 
 # game/code/misc/Jack_Dialogue_1_MZ.rpy:91
 msgid "No, that was it."
-msgstr ""
+msgstr "Nein, das war es."
 
