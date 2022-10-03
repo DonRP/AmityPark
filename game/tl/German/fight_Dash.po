@@ -10,37 +10,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-10-03 20:38\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battle/fight_Dash.rpy:71 #-#-# translate crowdin start_fight_Dash_ff2940fc:
 msgid "[_danny_] Time for some well deserved payback, Dash!"
-msgstr ""
+msgstr "[_danny_] Zeit für ein paar wohlverdiente Rückzahlung, Dash!"
 
 # game/code/battle/fight_Dash.rpy:82 #-#-# translate crowdin fight_main_dash_e4d8a7f3:
 msgid "[_danny_] Man... and I thought his punches {i}before{/i} stung!"
-msgstr ""
+msgstr "[_danny_] Man... und ich dachte, seine Schläge {i}dazu{/i} sting!"
 
 # game/code/battle/fight_Dash.rpy:86 #-#-# translate crowdin fight_main_dash_868dc067:
 msgid "[_danny_] This has saved me {i}years{/i} of therapy, so thanks Ectopus! But now it's time to put the {b}real{/b} bully in his place!"
-msgstr ""
+msgstr "[_danny_] Das hat mir {i}Jahre der Therapie gerettet, deshalb danke ich Ectopus! Aber jetzt ist es an der Zeit, den {b}echten{/b} Bully an seinem Platz zu platzieren!"
 
 # game/code/battle/fight_Dash.rpy:127 #-#-# translate crowdin dash_turn_d58590d1:
 msgid "[_danny_] nothing happened."
-msgstr ""
+msgstr "[_danny_] Es ist nichts passiert."
 
 # game/code/battle/fight_Dash.rpy:263 #-#-# translate crowdin player_invisible_dash_6dedd31d:
 msgid "[_danny_] I don't have enough energy for this."
-msgstr ""
+msgstr "[_danny_] Ich habe nicht genug Energie dafür."
 
 # game/code/battle/fight_Dash.rpy:323 #-#-# translate crowdin player_ghost_ray_dash_6dedd31d:
 msgid "[_danny_] I don't have enough energy for this."
-msgstr ""
+msgstr "[_danny_] Ich habe nicht genug Energie dafür."
 
 # game/code/battle/fight_Dash.rpy:459 #-#-# translate crowdin ghost_attack_dash_f3027409:
 msgid "[_danny_] Ooof! The left hook, a classic Dash maneuver! Should have seen that one coming..."
-msgstr ""
+msgstr "[_danny_] Ooof! Der linke Haken, ein klassischer Dash-Manöver! Hätte das Kommende sehen sollte..."
 
 # game/code/battle/fight_Dash.rpy:536 #-#-# translate crowdin stop_Running_away_dash_2bc2d4b0:
 msgid "You can't just run away. Be a man and fight!"
-msgstr ""
+msgstr "Du kannst nicht einfach davonlaufen. Sei ein Mann und kämpfen!"
 
