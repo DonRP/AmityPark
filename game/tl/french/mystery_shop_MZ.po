@@ -10,140 +10,140 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:05\n"
+"PO-Revision-Date: 2022-09-20 19:12\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/mystery_shop_MZ.rpy:16 #-#-# translate crowdin talk_to_box_ghost_b18d7717:
 msgid "[_box_ghost_s_talk_] Hi there, mister customer! Would you like to buy this inconspicuous box for $[stolen_box.cost]?"
-msgstr ""
+msgstr "[_box_ghost_s_talk_] Bonjour, monsieur le client ! Voulez-vous acheter cette boîte discrète pour [stolen_box.cost]$?"
 
 # game/code/locations/mystery_shop_MZ.rpy:25 #-#-# translate crowdin discuss_mystery_box_632239cc:
 msgid "[_box_ghost_s_angry_s_talk_frown_] Hey, you don't have enough money, buddy!"
-msgstr ""
+msgstr "[_box_ghost_s_angry_s_talk_frown_] Hé, tu n'as pas assez d'argent, mon pote !"
 
 # game/code/locations/mystery_shop_MZ.rpy:26 #-#-# translate crowdin discuss_mystery_box_32b6fa3e:
 msgid "[_box_ghost_s_confused_s_talk_frown_2_] Come back when you have enough cash."
-msgstr ""
+msgstr "[_box_ghost_s_confused_s_talk_frown_2_] Revenez quand vous aurez assez d'argent."
 
 # game/code/locations/mystery_shop_MZ.rpy:31 #-#-# translate crowdin discuss_mystery_box_3d01c004:
 msgid "[_danny_] Yeah, I'd like to buy this box, please."
-msgstr ""
+msgstr "[_danny_] Oui, j'aimerais acheter cette boîte, s'il vous plaît."
 
 # game/code/locations/mystery_shop_MZ.rpy:33 #-#-# translate crowdin discuss_mystery_box_9e500ce3:
 msgid "[_box_ghost_s_talk_] Okie doke, that'll be $[stolen_box.cost]."
-msgstr ""
+msgstr "[_box_ghost_s_talk_] Okie doke, ça fera[stolen_box.cost]$ ."
 
 # game/code/locations/mystery_shop_MZ.rpy:35 #-#-# translate crowdin discuss_mystery_box_fa46b304:
 msgid "[_box_ghost_s_talk_2_s_sad_] Thanks for shopping at Mystery Box and have a nice day, friend!"
-msgstr ""
+msgstr "[_box_ghost_s_talk_2_s_sad_] Merci d'avoir fait des achats chez Mystery Box et bonne journée, mon ami !"
 
 # game/code/locations/mystery_shop_MZ.rpy:49 #-#-# translate crowdin discuss_mystery_box_bb91ce6a:
 msgid "[_danny_] Why is it labeled \"Property of Casper High?\""
-msgstr ""
+msgstr "[_danny_] Pourquoi est-il étiqueté \"Propriété de Casper High?\""
 
 # game/code/locations/mystery_shop_MZ.rpy:50 #-#-# translate crowdin discuss_mystery_box_72c246bf:
 msgid "[_box_ghost_s_talk_frown_] Oh... that? That's nothing, don't worry about it."
-msgstr ""
+msgstr "[_box_ghost_s_talk_frown_] Oh... ça ? Ce n'est rien, ne t'inquiète pas pour ça."
 
 # game/code/locations/mystery_shop_MZ.rpy:51 #-#-# translate crowdin discuss_mystery_box_6d404eab:
 msgid "[_box_ghost_s_talk_frown_2_s_angry_] Besides, it's none of your business anyway, buddy!"
-msgstr ""
+msgstr "[_box_ghost_s_talk_frown_2_s_angry_] De plus, ce ne sont pas tes affaires de toute façon, mon pote !"
 
 # game/code/locations/mystery_shop_MZ.rpy:58 #-#-# translate crowdin stolen_or_not_8be3a8b2:
 msgid "[_danny_] Well did you steal it?"
-msgstr ""
+msgstr "[_danny_] Tu l'as volé ?"
 
 # game/code/locations/mystery_shop_MZ.rpy:59 #-#-# translate crowdin stolen_or_not_9f841d61:
 msgid "[_box_ghost_s_confused_s_talk_frown_] You dare to accuse me of thievery? You got any proof there, buddy?"
-msgstr ""
+msgstr "[_box_ghost_s_confused_s_talk_frown_] Vous osez m'accuser de vol ? Tu as des preuves, mon pote ?"
 
 # game/code/locations/mystery_shop_MZ.rpy:65 #-#-# translate crowdin stolen_or_not_2_f62d3ca7:
 msgid "[_danny_] Uhm, no, I don't have any proof actually. Sorry aobout being so abrasive."
-msgstr ""
+msgstr "[_danny_] Uhm, non, je n'ai aucune preuve en fait. Désolé d'avoir été si abrasif."
 
 # game/code/locations/mystery_shop_MZ.rpy:66 #-#-# translate crowdin stolen_or_not_2_64afed4c:
 msgid "[_box_ghost_s_talk_frown_2_s_angry_low_s_center_2_] Exactly, so keep your non-boxy trap shut!"
-msgstr ""
+msgstr "[_box_ghost_s_talk_frown_2_s_angry_low_s_center_2_] Exactement, alors fermez votre clapet non-boxy !"
 
 # game/code/locations/mystery_shop_MZ.rpy:70 #-#-# translate crowdin stolen_or_not_2_242ec659:
 msgid "[_danny_] Yes, I... have... a {b}whole{/b} lotta proof, actually. Like... tons of it. You better be scared of all the proof that {i}this{/i} guy's walking around with... yessiree bob..."
-msgstr ""
+msgstr "[_danny_] Oui, j'ai... un {b}tas de preuves, en fait. Comme... des tonnes de preuves. Vous feriez mieux d'avoir peur de toutes les preuves que {i}ce type a sur lui... ouais, Bob..."
 
 # game/code/locations/mystery_shop_MZ.rpy:72 #-#-# translate crowdin stolen_or_not_2_415c4f6a:
 msgid "[_box_ghost_s_angry_s_talk_frown_] You're bluffing! Quit being full of bologna!"
-msgstr ""
+msgstr "[_box_ghost_s_angry_s_talk_frown_] Tu bluffes ! Arrêtez d'être plein de bolognaise !"
 
 # game/code/locations/mystery_shop_MZ.rpy:74 #-#-# translate crowdin stolen_or_not_2_ec9f7481:
 msgid "[_box_ghost_s_talk_frown_2_s_angry_low_s_center_2_] You know what? Now the box costs $[stolen_box.cost]! Just for being so full bologna, ya bologna boy! Now you better buy it or leave!"
-msgstr ""
+msgstr "[_box_ghost_s_talk_frown_2_s_angry_low_s_center_2_] Vous savez quoi ? Maintenant la boîte coûte[stolen_box.cost]$ ! Juste pour être si plein de bologna, ya bologna boy ! Maintenant tu ferais mieux de l'acheter ou de partir !"
 
 # game/code/locations/mystery_shop_MZ.rpy:85 #-#-# translate crowdin stolen_or_not_2_e7cbd327:
 msgid "[_danny_] Fine, I never asked! Yeesh."
-msgstr ""
+msgstr "[_danny_] Bien, je n'ai jamais demandé ! Yeesh."
 
 # game/code/locations/mystery_shop_MZ.rpy:90 #-#-# translate crowdin stolen_or_not_2_31334250:
 msgid "[_danny_] What is even in the mystery box?"
-msgstr ""
+msgstr "[_danny_] Qu'est-ce qu'il y a dans la boîte mystère ?"
 
 # game/code/locations/mystery_shop_MZ.rpy:91 #-#-# translate crowdin stolen_or_not_2_5693ccad:
 msgid "[_box_ghost_s_talk_frown_2_s_confused_] Uhm, if I told you that, it wouldn't be a mystery anymore, would it?"
-msgstr ""
+msgstr "[_box_ghost_s_talk_frown_2_s_confused_] Uhm, si je te le disais, ce ne serait plus un mystère, n'est-ce pas ?"
 
 # game/code/locations/mystery_shop_MZ.rpy:97 #-#-# translate crowdin stolen_or_not_2_baf019c1:
 msgid "[_danny_] I'm not interested, I was just looking around. See yah."
-msgstr ""
+msgstr "[_danny_] Je ne suis pas intéressé, je regardais juste autour de moi. A plus."
 
 # game/code/locations/mystery_shop_MZ.rpy:114 #-#-# translate crowdin not_ready_fc6fda39:
 msgid "[_box_ghost_s_talk_] Hey there! Thank you for visiting \"The Mystery Shop\" today."
-msgstr ""
+msgstr "[_box_ghost_s_talk_] Bonjour à tous ! Merci de visiter le \"Mystery Shop\" aujourd'hui."
 
 # game/code/locations/mystery_shop_MZ.rpy:115 #-#-# translate crowdin not_ready_b6452159:
 msgid "[_box_ghost_s_talk_frown_] Unfortunately, we are currently restocking the inventory at this time with other stole- uhh, I mean, {i}purchased{/i} goods!"
-msgstr ""
+msgstr "[_box_ghost_s_talk_frown_] Malheureusement, nous sommes actuellement en train de réapprovisionner l'inventaire avec d'autres marchandises volées - euh, je veux dire, {i}acheté{/i} !"
 
 # game/code/locations/mystery_shop_MZ.rpy:116 #-#-# translate crowdin not_ready_b3f25c81:
 msgid "[_box_ghost_s_sad_s_talk_] Please visit us another time when we are open! {b}Beware{/b} our dangerous deals during next week's big sales event!"
-msgstr ""
+msgstr "[_box_ghost_s_sad_s_talk_] Veuillez nous rendre visite une autre fois lorsque nous serons ouverts ! {b}Attention{/b} à nos offres dangereuses pendant le grand événement commercial de la semaine prochaine !"
 
 # game/code/locations/mystery_shop_MZ.rpy:117 #-#-# translate crowdin not_ready_105b26d3:
 msgid "[_box_ghost_s_talk_2_s_neutral_] Have a nice day!"
-msgstr ""
+msgstr "[_box_ghost_s_talk_2_s_neutral_] Passez une bonne journée !"
 
 msgid "Would you like to buy this Mystery Box for $[stolen_box.cost]?"
-msgstr ""
+msgstr "Voulez-vous acheter cette boîte mystère pour[stolen_box.cost]$ ?"
 
 # game/code/locations/mystery_shop_MZ.rpy:20
 msgid "Yeah, I'd like to buy this box, please."
-msgstr ""
+msgstr "Oui, j'aimerais acheter cette boîte, s'il vous plaît."
 
 # game/code/locations/mystery_shop_MZ.rpy:20
 msgid "Why is it labeled \"Property of Casper High?\""
-msgstr ""
+msgstr "Pourquoi est-il étiqueté \"Propriété de Casper High?\""
 
 # game/code/locations/mystery_shop_MZ.rpy:20
 msgid "What's in it?"
-msgstr ""
+msgstr "Qu'est-ce qu'il y a dedans ?"
 
 # game/code/locations/mystery_shop_MZ.rpy:54
 msgid "He seems mad I asked. What should I say?"
-msgstr ""
+msgstr "Il a l'air en colère, j'ai demandé. Qu'est-ce que je dois dire ?"
 
 # game/code/locations/mystery_shop_MZ.rpy:54
 msgid "Well did you steal it?"
-msgstr ""
+msgstr "Tu l'as volé ?"
 
 # game/code/locations/mystery_shop_MZ.rpy:54
 msgid "Fine, pretend I never asked!"
-msgstr ""
+msgstr "Bien, fais comme si je n'avais jamais demandé !"
 
 # game/code/locations/mystery_shop_MZ.rpy:61
 msgid "Do I have any proof that this guy stole the box?"
-msgstr ""
+msgstr "Ai-je la moindre preuve que ce type a volé la boîte ?"
 
 # game/code/locations/mystery_shop_MZ.rpy:61
 msgid "Uhm, no, I don't really..."
-msgstr ""
+msgstr "Uhm, non, je n'ai pas vraiment..."
 
 # game/code/locations/mystery_shop_MZ.rpy:61
 msgid "Yes, I have some proof right here..."
-msgstr ""
+msgstr "Oui, j'ai des preuves ici même..."
 

@@ -10,41 +10,41 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:04\n"
+"PO-Revision-Date: 2022-09-15 14:35\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/jack/jack_training_machine.rpy:12 #-#-# translate crowdin training_machine_intro_d12f4c99:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ah{/i}, Danny! How can I help you son?"
-msgstr ""
+msgstr "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ah{\\i}, Danny ! Comment puis-je t'aider, fiston ?"
 
 # game/code/character_events/jack/jack_training_machine.rpy:14 #-#-# translate crowdin training_machine_intro_f95edeca:
 msgid "[_danny_s_towards_s_rise_s_talk_frown_] Nothing, Dad, I'm good. Actually I was just wondering how you are doing after that... {i}uhhh{/i}, freak Ghost accident the other night."
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_frown_] Rien, papa, je vais bien. En fait, je me demandais comment tu allais après cet... {i}uhhh{/i}, accident de fantôme bizarre l'autre nuit."
 
 # game/code/character_events/jack/jack_training_machine.rpy:16 #-#-# translate crowdin training_machine_intro_c421bc1b:
 msgid "[_jack_s_closed_s_sad_s_talk_happy_] Oh, that? Why don't worry about that son, I've been worse, belive me! Your old man is still right as rain!"
-msgstr ""
+msgstr "[_jack_s_closed_s_sad_s_talk_happy_] Oh, ça ? Ne t'inquiète pas pour ça fils, j'ai connu pire, crois-moi ! Ton vieux père est toujours aussi droit que la pluie !"
 
 # game/code/character_events/jack/jack_training_machine.rpy:18 #-#-# translate crowdin training_machine_intro_66506d61:
 msgid "[_danny_s_closed_s_sad_s_talk_happy_] That's good to hear. Well then, I got to go and..."
-msgstr ""
+msgstr "[_danny_s_closed_s_sad_s_talk_happy_] C'est bon à entendre. Eh bien, je dois y aller et..."
 
 # game/code/character_events/jack/jack_training_machine.rpy:20 #-#-# translate crowdin training_machine_intro_bfc7a71e:
 msgid "[_jack_s_towards_s_rise_s_talk_displeased_] Oh, Danny! Before you go, take a look at my latest invention!{p}I call it the {b}Fenton Battle Simulator{/b}!"
-msgstr ""
+msgstr "[_jack_s_towards_s_rise_s_talk_displeased_] Oh, Danny ! Avant de partir, jette un oeil à ma dernière invention !{p}Je l'appelle le {b}simulateur de combat Fenton{/b} !"
 
 # game/code/character_events/jack/jack_training_machine.rpy:22 #-#-# translate crowdin training_machine_intro_76e60fc6:
 msgid "[_jack_s_stare_s_angry_s_talk_happy_] This little baby will help me prepare myself against any future ghost encounters. That nasty Ectopus won't get the better of me next time we met!"
-msgstr ""
+msgstr "[_jack_s_stare_s_angry_s_talk_happy_] Ce petit bébé va m'aider à me préparer à toute future rencontre avec des fantômes. Ce méchant Ectopus n'aura pas le dessus la prochaine fois que nous nous rencontrerons !"
 
 # game/code/character_events/jack/jack_training_machine.rpy:24 #-#-# translate crowdin training_machine_intro_0f07cdae:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Sounds great, I'll let you go back to it then. Bye dad."
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] Ça a l'air génial, je te laisse y retourner alors. Au revoir papa."
 
 # game/code/character_events/jack/jack_training_machine.rpy:27 #-#-# translate crowdin training_machine_intro_18c9b7d3:
 msgid "[_danny_s_at_player_s_idle_s_smile_] (Well, Dad sure is in high spirits. Glad he's not upset he got knocked out. Guess I didn't have to worry after all.)"
-msgstr ""
+msgstr "[_danny_s_at_player_s_idle_s_smile_] (Eh bien, papa est de bonne humeur. Content qu'il ne soit pas contrarié d'avoir été assommé. Je suppose que je n'ai pas eu à m'inquiéter après tout.)"
 
 # game/code/character_events/jack/jack_training_machine.rpy:29 #-#-# translate crowdin training_machine_intro_9588b93c:
 msgid "[_danny_s_towards_s_rise_s_frown_] ({i}Hmm{/i}... the Fenton Battle Simulator... maybe it could help me out as well?){p}(Let's give it a try later at night, once everyone is asleep...)"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_frown_] ({i}Hmm{/i}... le simulateur de combat de Fenton... il pourrait peut-être m'aider aussi ?){p}(Essayons plus tard dans la nuit, quand tout le monde sera endormi...)"
 

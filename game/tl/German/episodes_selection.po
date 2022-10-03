@@ -10,40 +10,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-23 10:06\n"
+"PO-Revision-Date: 2022-10-03 20:40\n"
 
 msgid "Paulina was in trouble! What did I do?!"
-msgstr ""
+msgstr "Paulina war in Schwierigkeiten! Was habe ich getan?!"
 
 # game/code/episodes/episodes_selection.rpy:202
 msgid "Saved her immediately!"
-msgstr ""
+msgstr "Sie wurde sofort gerettet!"
 
 # game/code/episodes/episodes_selection.rpy:202
 msgid "Waited to see what happens..."
-msgstr ""
+msgstr "Wartet, um zu sehen, was passiert..."
 
 # game/code/episodes/episodes_selection.rpy:245
 msgid "Did I save Maddie from Ectopuss in the basement?"
-msgstr ""
+msgstr "Habe ich Maddie vor Ectopuss im Keller gerettet?"
 
 # game/code/episodes/episodes_selection.rpy:330
 msgid "Did I prank Sam at Star's request?"
-msgstr ""
+msgstr "Habe ich auf Wunsch von Star Sam geprangert?"
 
 # game/code/episodes/episodes_selection.rpy:366
 msgid "Who did I take to the school dance?"
-msgstr ""
+msgstr "Wer nahm ich zum Schultanz?"
 
 # game/code/episodes/episodes_selection.rpy:366
 msgid "Sam"
-msgstr ""
+msgstr "Sam"
 
 # game/code/episodes/episodes_selection.rpy:406
 msgid "Did I get romantically involved with Maddie?"
-msgstr ""
+msgstr "Habe ich mich romantisch mit Maddie beschäftigt?"
 
 # game/code/episodes/episodes_selection.rpy:440
 msgid "Who did I get my second orgone charge from?"
-msgstr ""
+msgstr "Von wem habe ich meine zweite verwaiste Ladung bekommen?"
 

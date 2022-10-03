@@ -10,29 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-23 16:04\n"
+"PO-Revision-Date: 2022-10-03 20:42\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/town/nasty_burger.rpy:531 #-#-# translate crowdin nasty_burger_first_visit_7fbef0ff:
 msgid "[_danny_s_f_s_offscreen_s_closed_s_idle_s_smile_] {i}*Sniiiiif*{/i}"
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_closed_s_idle_s_smile_] {i}*Sniiiif * {/i}"
 
 # game/code/locations/town/nasty_burger.rpy:532 #-#-# translate crowdin nasty_burger_first_visit_e1694914:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_happy_] {i}Ahhh!{/i} The delicious smell of burnt meat patties and processed dairy products..."
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_happy_] {i}Ahhh! {/i} Der köstliche Geruch von gebrannten Fleisch-Patties und verarbeiteten Molkereiprodukten ..."
 
 # game/code/locations/town/nasty_burger.rpy:533 #-#-# translate crowdin nasty_burger_first_visit_d5227c21:
 msgid "[_danny_s_f_s_offscreen_s_closed_s_idle_s_talk_happy_] ...truly, I am home once more."
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_closed_s_idle_s_talk_happy_] ... wahrlich, ich bin noch einmal zu Hause."
 
 # game/code/locations/town/nasty_burger.rpy:534 #-#-# translate crowdin nasty_burger_first_visit_d3c68fcd:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_idle_s_talk_happy_] Although, it's not exactly quite the same. Place looks actually sorta... clean?"
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_idle_s_talk_happy_] Obwohl, es ist nicht ganz genau das gleiche. Platz sieht eigentlich sorta ... sauber?"
 
 # game/code/locations/town/nasty_burger.rpy:535 #-#-# translate crowdin nasty_burger_first_visit_9f6236a5:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_sad_s_talk_displeased_] But there's way less people than I would have thought.{p}Everyone must still be freaked out by that rat incident."
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_sad_s_talk_displeased_] Aber es gibt viel weniger Leute, als ich gedacht hätte.{p}Jeder muss noch durch diesen Ratteneinfall ausgeflippt werden."
 
 # game/code/locations/town/nasty_burger.rpy:536 #-#-# translate crowdin nasty_burger_first_visit_b6a45d58:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_happy_] Oh well! More for the rest of us I guess."
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_happy_] Oh gut! Mehr für den Rest von uns schätze ich."
 

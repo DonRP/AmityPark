@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-23 16:04\n"
+"PO-Revision-Date: 2022-10-03 20:41\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/mall/mall_parking_lot.rpy:260 #-#-# translate crowdin It_s_closed_ccee5c09:
 msgid "[_danny_] They shut the mall down a few hours ago, it's already closing hours after all. I can come back tomorrow to shop."
-msgstr ""
+msgstr "[_danny_] Sie haben die Mall vor ein paar Stunden abgeschaltet, es ist ja schon Stunden nach dem ganzen Schluss. Ich kann morgen wieder zum Einkaufen kommen."
 

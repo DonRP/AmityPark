@@ -10,176 +10,176 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-28 14:40\n"
+"PO-Revision-Date: 2022-10-03 20:42\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_paulina.rpy:29 #-#-# translate crowdin paulina_chat_1_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:32 #-#-# translate crowdin paulina_chat_1_f3b7a0b5:
 msgid "[_billspook_] Hey Paulina, it's the ghost boy. You there?"
-msgstr ""
+msgstr "[_billspook_] Hey Paulina, es ist der Geisterjung. Du bist da?"
 
 # game/code/misc/spookchat_paulina.rpy:33 #-#-# translate crowdin paulina_chat_1_b602a0c4:
 msgid "[_paulinaspook_] Oh my goodness! Yes, I'm here Ghost Boy! How are you today?!"
-msgstr ""
+msgstr "[_paulinaspook_] Oh meine Güte! Ja, ich bin hier Ghost Boy! Wie bist du heute?"
 
 # game/code/misc/spookchat_paulina.rpy:53 #-#-# translate crowdin paulina_chat_2_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:55 #-#-# translate crowdin paulina_chat_2_74f53061:
 msgid "[_billspook_] This might sound forward, but do you wanna hang out sometime?"
-msgstr ""
+msgstr "[_billspook_] Das klingt vielleicht vorwärts, aber möchtest du irgendwann hängen?"
 
 # game/code/misc/spookchat_paulina.rpy:56 #-#-# translate crowdin paulina_chat_2_2db91746:
 msgid "[_paulinaspook_] Oh, I'm sorry! I'd really, really love to, but I'm pretty booked after school like, every day! Even on weekends. :( "
-msgstr ""
+msgstr "[_paulinaspook_] Oh, es tut mir leid! Ich würde es wirklich lieben, aber ich bin ziemlich nach der Schule gebucht, jeden Tag! Selbst am Wochenende. :( "
 
 # game/code/misc/spookchat_paulina.rpy:57 #-#-# translate crowdin paulina_chat_2_cf5a4d08:
 msgid "[_paulinaspook_] Cheer practice is super important to always be working on, otherwise I'll start to lose my toned thighs!"
-msgstr ""
+msgstr "[_paulinaspook_] Cheer Übung ist sehr wichtig, um immer weiter zu arbeiten, sonst werde ich meine gelockerten Oberschenkel verlieren!"
 
 # game/code/misc/spookchat_paulina.rpy:58 #-#-# translate crowdin paulina_chat_2_bf96df1d:
 msgid "[_billspook_] Oh no, it's okay, I understand. You don't want to miss out on that."
-msgstr ""
+msgstr "[_billspook_] Oh nein, es ist okay, ich verstehe. Du möchtest das nicht verpassen."
 
 # game/code/misc/spookchat_paulina.rpy:59 #-#-# translate crowdin paulina_chat_2_0f4ecb8e:
 msgid "[_paulinaspook_] I'll definitely let you know when I have some time though, I promise!"
-msgstr ""
+msgstr "[_paulinaspook_] Ich werde dich auf jeden Fall informieren, wenn ich etwas Zeit habe, verspreche ich!"
 
 # game/code/misc/spookchat_paulina.rpy:60 #-#-# translate crowdin paulina_chat_2_1f9ec943:
 msgid "[_billspook_] Okay, awesome! I'd appreciate that."
-msgstr ""
+msgstr "[_billspook_] Okay, toll! Ich würde das sehr schätzen."
 
 # game/code/misc/spookchat_paulina.rpy:61 #-#-# translate crowdin paulina_chat_2_ae373efb:
 msgid "[_paulinaspook_] But... just so you don't forget my pretty face, here's something to remember me by..."
-msgstr ""
+msgstr "[_paulinaspook_] Aber... nur damit du mein hübsches Gesicht nicht vergisst, hier ist etwas, an mich zu erinnern von..."
 
 # game/code/misc/spookchat_paulina.rpy:66 #-#-# translate crowdin paulina_chat_2_76b2fe88_1:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:78 #-#-# translate crowdin paulina_chat_2_4b06f1ae:
 msgid "[_billspook_] Oh wow! Yeah, you're really cute, just like I remember! Thanks for that. :) "
-msgstr ""
+msgstr "[_billspook_] Oh wow! Ja, du bist wirklich süß, genau wie ich mich erinnere! Vielen Dank dafür! :) "
 
 # game/code/misc/spookchat_paulina.rpy:79 #-#-# translate crowdin paulina_chat_2_40afbb2a:
 msgid "[_paulinaspook_] Of course! Anything for my hero..."
-msgstr ""
+msgstr "[_paulinaspook_] Natürlich! Alles für meinen Helden..."
 
 # game/code/misc/spookchat_paulina.rpy:80 #-#-# translate crowdin paulina_chat_2_4e257f18:
 msgid "[_paulinaspook_] Wouldn't want you to forget my wonderful {i}assets{/i}..."
-msgstr ""
+msgstr "[_paulinaspook_] Sie wollten meine wunderbaren {i}Vermögenswerte nicht vergessen{/i}..."
 
 # game/code/misc/spookchat_paulina.rpy:82 #-#-# translate crowdin paulina_chat_2_df27db04:
 msgid "[_billspook_] Oh har harr, I see what you did there..."
-msgstr ""
+msgstr "[_billspook_] Oh har harr, ich sehe, was du dort gemacht hast..."
 
 # game/code/misc/spookchat_paulina.rpy:83 #-#-# translate crowdin paulina_chat_2_b44167df:
 msgid "[_paulinaspook_] Ha hah! I couldn't help myself! Hehee... :3  [multiple2]"
-msgstr ""
+msgstr "[_paulinaspook_] Ha hah! Ich konnte mir nicht helfen! Hehee... :3  [multiple2]"
 
 # game/code/misc/spookchat_paulina.rpy:84 #-#-# translate crowdin paulina_chat_2_d88cc1fa:
 msgid "[_danny_] ({i}Hmmm{/i}... these would look nice on my desktop computer as well...) [multiple2]"
-msgstr ""
+msgstr "[_danny_] ({i}Hmmm{/i}... diese würden auch auf meinem Desktop-Computer schön aussehen...) [multiple2]"
 
 # game/code/misc/spookchat_paulina.rpy:85 #-#-# translate crowdin paulina_chat_2_efbeec2c:
 msgid "[_billspook_] Well thanks, those assets are certainly something I won't forget soon. [multiple2]"
-msgstr ""
+msgstr "[_billspook_] Danke, dass diese Vermögenswerte sicherlich etwas sind, was ich nicht bald vergessen werde. [multiple2]"
 
 # game/code/misc/spookchat_paulina.rpy:86 #-#-# translate crowdin paulina_chat_2_97588c7b:
 msgid "[_phone_] {i}*Woosh* Pictures Successfully Sent to {b}Desktop{/b}{/i} [multiple2]"
-msgstr ""
+msgstr "[_phone_] {i}*Woosh* Bilder erfolgreich an {b}Desktop{/b}{/i} gesendet [multiple2]"
 
 # game/code/misc/spookchat_paulina.rpy:91 #-#-# translate crowdin paulina_chat_2_3fc58d9b:
 msgid "[_paulinaspook_] I'd hope not. ;) "
-msgstr ""
+msgstr "[_paulinaspook_] Ich hoffe nicht. ;) "
 
 # game/code/misc/spookchat_paulina.rpy:114 #-#-# translate crowdin paulina_chat_2_76b2fe88_2:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:117 #-#-# translate crowdin paulina_chat_2_b16681b0:
 msgid "[_billspook_] Danny Fenton's a pretty cool guy, right?"
-msgstr ""
+msgstr "[_billspook_] Danny Fenton's ein ziemlich cooler Kerl, oder?"
 
 # game/code/misc/spookchat_paulina.rpy:118 #-#-# translate crowdin paulina_chat_2_eb3fc275:
 msgid "[_paulinaspook_] Uhm, {i}that{/i} dork? Not really. I don't know why you hang out with him."
-msgstr ""
+msgstr "[_paulinaspook_] Uhm, {i}dass{/i} dork? Nicht wirklich. Ich weiß nicht, warum du bei ihm hängst."
 
 # game/code/misc/spookchat_paulina.rpy:119 #-#-# translate crowdin paulina_chat_2_bb95727c:
 msgid "[_paulinaspook_] He's not like, ugly or anything, but even still, he's nothing special."
-msgstr ""
+msgstr "[_paulinaspook_] Er ist nicht mögen, hässlich oder nichts, aber sogar noch, er ist nichts Besonderes."
 
 # game/code/misc/spookchat_paulina.rpy:120 #-#-# translate crowdin paulina_chat_2_03c60c23:
 msgid "[_billspook_] Well, how well do you even know him?"
-msgstr ""
+msgstr "[_billspook_] Nun, wie gut kennst du ihn überhaupt?"
 
 # game/code/misc/spookchat_paulina.rpy:121 #-#-# translate crowdin paulina_chat_2_650fcf17:
 msgid "[_paulinaspook_] Not that much, I wouldn't dare get close enough to him to talk."
-msgstr ""
+msgstr "[_paulinaspook_] Nicht so viel, ich würde ihm nicht nahe genug kommen, um zu sprechen."
 
 # game/code/misc/spookchat_paulina.rpy:122 #-#-# translate crowdin paulina_chat_2_6751e77e:
 msgid "[_billspook_] So how can you say he's a loser? I think he's pretty solid."
-msgstr ""
+msgstr "[_billspook_] Wie kann man also sagen, dass er ein Verlierer ist? Ich denke, er ist ziemlich solid."
 
 # game/code/misc/spookchat_paulina.rpy:123 #-#-# translate crowdin paulina_chat_2_3df715b0:
 msgid "[_paulinaspook_] Well... if you say so, Ghost Boy..."
-msgstr ""
+msgstr "[_paulinaspook_] Nun... wenn du so sagst, Ghost Boy..."
 
 # game/code/misc/spookchat_paulina.rpy:124 #-#-# translate crowdin paulina_chat_2_32622c42:
 msgid "[_paulinaspook_] I'm still not talking to him. He's better just being another one of my lackeys like Kwan and Dash. Lol [multiple2]"
-msgstr ""
+msgstr "[_paulinaspook_] Ich rede immer noch nicht mit ihm. Er ist besser nur eine meiner Lakkeys wie Kwan und Dash. Lol [multiple2]"
 
 # game/code/misc/spookchat_paulina.rpy:125 #-#-# translate crowdin paulina_chat_2_c9cd5d62:
 msgid "[_danny_] (Hmmm... I'll have to find some way to get her to take more interest in \"Danny Fenton\" some more, instead of just \"Inviso-Bill\".) [multiple2]"
-msgstr ""
+msgstr "[_danny_] (Hmmm... Ich muss einen Weg finden, um sie dazu zu bringen, sich mehr für \"Danny Fenton\" zu interessieren, anstatt nur \"Inviso-Bill\".) [multiple2]"
 
 # game/code/misc/spookchat_paulina.rpy:138 #-#-# translate crowdin paulina_chat_2_76b2fe88_3:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_paulina.rpy:141 #-#-# translate crowdin paulina_chat_2_cd55dc79:
 msgid "[_billspook_] I'll talk to you later, Paulina. But it was nice chatting with you!"
-msgstr ""
+msgstr "[_billspook_] Ich werde später mit dir sprechen, Paulina. Aber es war nett mit dir zu chatten!"
 
 # game/code/misc/spookchat_paulina.rpy:142 #-#-# translate crowdin paulina_chat_2_99b6dc1d:
 msgid "[_paulinaspook_] Oh, of course! I know you must be busy beating up other ghosts!"
-msgstr ""
+msgstr "[_paulinaspook_] Oh, natürlich! Ich weiß, du musst damit beschäftigt sein, andere Geister zu schlagen!"
 
 # game/code/misc/spookchat_paulina.rpy:143 #-#-# translate crowdin paulina_chat_2_2edaaddf:
 msgid "[_paulinaspook_] Ceeya later, Ghost Boy. ;D "
-msgstr ""
+msgstr "[_paulinaspook_] Ceeya später, Geister Junge. ;D "
 
 msgid "Message Paulina."
-msgstr ""
+msgstr "Nachricht Paulina."
 
 # game/code/misc/spookchat_paulina.rpy:22
 msgid "Go back."
-msgstr ""
+msgstr "Gehe zurück."
 
 # game/code/misc/spookchat_paulina.rpy:43
 msgid "What do I wanna message Paulina about?"
-msgstr ""
+msgstr "Was will ich Paulina mitteilen?"
 
 # game/code/misc/spookchat_paulina.rpy:43
 msgid "Do you wanna hang out sometime? (Dance route)"
-msgstr ""
+msgstr "Möchtest du irgendwann ausstehen? (Dance Route)"
 
 # game/code/misc/spookchat_paulina.rpy:43
 msgid "Do you wanna hang out sometime?"
-msgstr ""
+msgstr "Willst du irgendwann rausgehen?"
 
 # game/code/misc/spookchat_paulina.rpy:43
 msgid "{i}(Look at Paulina's pictures){/i}"
-msgstr ""
+msgstr "{i}(Schauen Sie auf Paulinas Bilder){/i}"
 
 # game/code/misc/spookchat_paulina.rpy:43
 msgid "Danny Fenton's a pretty cool guy, right? "
-msgstr ""
+msgstr "Danny Fenton's ein ziemlich cooler Kerl, richtig? "
 
 # game/code/misc/spookchat_paulina.rpy:43
 msgid "I'll talk to you later, Paulina."
-msgstr ""
+msgstr "Ich werde später mit Ihnen sprechen, Paulina."
 

@@ -11,9 +11,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-08-31 15:14\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/character customization.rpy:360 #-#-# translate crowdin customize_desiree_e22931e9:
 msgid "Note: Players are advised not to click too rapidly during model transitions to avoid game crashes or stalls!"
-msgstr ""
+msgstr "Remarque: Il est conseillé aux joueurs de ne pas cliquer trop rapidement pendant les transitions de modèle pour éviter les plantages ou les blocages du jeu!"
 
