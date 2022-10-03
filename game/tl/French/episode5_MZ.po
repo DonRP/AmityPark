@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-29 19:59\n"
+"PO-Revision-Date: 2022-10-03 12:37\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -342,7 +342,7 @@ msgstr "[_danny_s_closed_s_angry_s_talk_frown_2_] {i}Harr harr { /i } ... hilara
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:317 #-#-# translate crowdin A_Stroke_After_Midnight_scene_4_abYss_d186b1eb:
 msgid "[_sales_lady_s_talk_happy_s_sad_s_towards_down_] Hey there gang! Can I help you two with anything today?"
-msgstr ""
+msgstr "[_sales_lady_s_talk_happy_s_sad_s_towards_down_] Salut la bande ! Puis-je vous aider vous deux avec quoi que ce soit aujourd'hui ?"
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:319 #-#-# translate crowdin A_Stroke_After_Midnight_scene_4_abYss_8e6e2eb8:
 msgid "[_danny_s_blank_stare_s_talk_happy_s_wondering_] Uh yeah, we're just looking for something to wear to a dance."
