@@ -10,8 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-23 10:06\n"
+"PO-Revision-Date: 2022-10-03 20:38\n"
 
 msgid "Amity Park"
-msgstr ""
+msgstr "Amity Park"
 
