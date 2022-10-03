@@ -142,4 +142,5 @@ def fileRename(pathFile, extension):
     return pre + extension
 
 
-potorpy("crowdin")
+potorpy("italian")
+potorpy("german")
