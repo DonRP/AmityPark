@@ -10,80 +10,80 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-07-23 16:06\n"
+"PO-Revision-Date: 2022-10-03 20:39\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/battleoverhaul/battlesetup.rpy:2 #-#-# translate crowdin testbattles_44b3ea96:
 msgid "[_epa_] Okay testing time for the battles of episode 7. First battle is against the Ghost Cobra from Kate's route."
-msgstr ""
+msgstr "[_epa_] Okay Testzeit für die Schlachten der Episode 7. Erste Schlacht ist gegen die Ghost Cobra von Kate's Route."
 
 # game/code/battleoverhaul/battlesetup.rpy:3 #-#-# translate crowdin testbattles_4427ec62:
 msgid "[_epa_] Okay time to be crushed by Ember."
-msgstr ""
+msgstr "[_epa_] Okay Zeit, um von Ember zerquetscht zu werden."
 
 # game/code/battleoverhaul/battlesetup.rpy:5 #-#-# translate crowdin testbattles_aa043cb9:
 msgid "[_epa_] That smarts... well time to pick your route."
-msgstr ""
+msgstr "[_epa_] Diese smarts ... gute Zeit, um Ihre Route abzuholen."
 
 # game/code/battleoverhaul/battlesetup.rpy:7 #-#-# translate crowdin testbattles_f4c6574d:
 msgid "[_epa_] Okay back to the main quest."
-msgstr ""
+msgstr "[_epa_] Okay zurück zur Hauptquest."
 
 # game/code/battleoverhaul/battlesetup.rpy:8 #-#-# translate crowdin testbattles_2e535c4e:
 msgid "[_epa_] Rescue Sam from this chump goon of Ember's."
-msgstr ""
+msgstr "[_epa_] Rettung Sam von dieser Kumpel von Ember's."
 
 # game/code/battleoverhaul/battlesetup.rpy:14 #-#-# translate crowdin testbattles_9cce09b2:
 msgid "[_epa_] Here's Ember after you have your second charge."
-msgstr ""
+msgstr "[_epa_] Hier ist Ember, nachdem du deine zweite Gebühr hast."
 
 # game/code/battleoverhaul/battlesetup.rpy:56 #-#-# translate crowdin test_MaddieRoute_5d9dee6b:
 msgid "[_epa_] Oh no! The princess is raging again... prepare to face a big cranky dragon!"
-msgstr ""
+msgstr "[_epa_] Oh nein! Die Prinzessin tobt wieder ... Vorbereitung auf ein großes Kurbeln Drachen!"
 
 # game/code/battleoverhaul/battlesetup.rpy:62 #-#-# translate crowdin test_MaddieRoute_2e1a78ee:
 msgid "[_epa_] (Congrats you are now level 7!)"
-msgstr ""
+msgstr "[_epa_] (Congrats du bist jetzt Level 7!)"
 
 # game/code/battleoverhaul/battlesetup.rpy:73 #-#-# translate crowdin test_StarRoute_dc68ccb5:
 msgid "[_epa_] Ectopus and his minions."
-msgstr ""
+msgstr "[_epa_] Ectopus und seine Minen."
 
 # game/code/battleoverhaul/battlesetup.rpy:79 #-#-# translate crowdin test_StarRoute_2e1a78ee:
 msgid "[_epa_] (Congrats you are now level 7!)"
-msgstr ""
+msgstr "[_epa_] (Congrats du bist jetzt Level 7!)"
 
 # game/code/battleoverhaul/battlesetup.rpy:88 #-#-# translate crowdin test_PaulinaRoute_00abc948:
 msgid "[_epa_] The return of Vlad's monster."
-msgstr ""
+msgstr "[_epa_] Die Rückkehr von Vlads Monster."
 
 # game/code/battleoverhaul/battlesetup.rpy:94 #-#-# translate crowdin test_PaulinaRoute_2e1a78ee:
 msgid "[_epa_] (Congrats you are now level 7!)"
-msgstr ""
+msgstr "[_epa_] (Congrats du bist jetzt Level 7!)"
 
 # game/code/battleoverhaul/battlesetup.rpy:103 #-#-# translate crowdin test_KateRoute_500257c6:
 msgid "[_epa_] Kate did not have an extra battle."
-msgstr ""
+msgstr "[_epa_] Kate hatte keinen zusätzlichen Kampf."
 
 # game/code/battleoverhaul/battlesetup.rpy:109 #-#-# translate crowdin test_DesireeRoute_877feb45:
 msgid "[_epa_] Lake Monster unavailable currently."
-msgstr ""
+msgstr "[_epa_] Lake Monster ist derzeit nicht verfügbar."
 
 msgid "Choose which route you will take"
-msgstr ""
+msgstr "Wählen Sie die Route, die Sie übernehmen möchten"
 
 # game/code/battleoverhaul/battlesetup.rpy:19
 msgid "Maddie"
-msgstr ""
+msgstr "Maddie"
 
 # game/code/battleoverhaul/battlesetup.rpy:19
 msgid "Star"
-msgstr ""
+msgstr "Stern"
 
 # game/code/battleoverhaul/battlesetup.rpy:19
 msgid "Paulina"
-msgstr ""
+msgstr "Paulina"
 
 # game/code/battleoverhaul/battlesetup.rpy:19
 msgid "Kate"
-msgstr ""
+msgstr "Kate"
 
