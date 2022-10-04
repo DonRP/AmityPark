@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-10-04 15:00\n"
+"PO-Revision-Date: 2022-10-04 20:59\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -94,7 +94,7 @@ msgstr "[_kate_s_towardsdown_s_rise_s_talk_displeased_] Ya' sais, je n'ai jamais
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:285 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_b0922c10:
 msgid "[_kate_s_towardsdown_s_neutral_s_talk_amused_] ...then again, I guess I've never actually seen a ghost do {i}anything{/i} before, come to think of it... so, maybe it's fine?"
-msgstr ""
+msgstr "[_kate_s_towardsdown_s_neutral_s_talk_amused_] ... puis encore, je suppose que je n'ai jamais vu un fantôme faire {i}rien {/i} avant, venir en penser ... donc, peut-être que c'est bien?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:288 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_48bed205:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_wondering_s_talk_pleased_] Well, let's hope so! Anyway, gotta go! Get home safe!"
@@ -3802,7 +3802,7 @@ msgstr "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_sad_s_talk_distraught_]
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4796 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening_8e8b2555:
 msgid "[_dorathea_] That was it?? {i}That{/i} was the apology you chose to bestow upon a Princess? And you expect myself to bequeath to you {u}anything{/u} in my possession?! After such a flagrant attack on my character, I might have expected {u}some{/u} greater reparations!!"
-msgstr ""
+msgstr "[_dorathea_] C'était ça ?? {i}C'est{/i} les excuses que vous avez choisies de donner à une Princesse ? « Et vous m'attendez à ce que je vous laisse quelque chose {u}{/u} en ma possession? Après une attaque aussi flagrante contre mon personnage, j'aurais pu m'attendre à {u}réparations{/u} plus sérieuses!!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:4799 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_Maddie_continued_2_Mall_Evening_561cae57:
 msgid "[_danny_s_phantom_s_arms_normal_s_towards_wide_s_angry_s_talk_displeased_] Again, I was {i}sorta{/i} defending myself!"
@@ -6906,7 +6906,7 @@ msgstr "[_star_s_towards_s_neutral_s_displeased_] ..."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8691 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_d22bab0d:
 msgid "[_paulina_s_towards_s_neutral_s_talk_consternation_] ...what do {i}you{/i} want, loser?"
-msgstr ""
+msgstr "[_paulina_s_towards_s_neutral_s_talk_consternation_] ... que veut {i}tu{/i} dire, loser?"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:8695 #-#-# translate crowdin A_Nightmare_Called_Ember_desiree_2_continued_school_morning_7b38763e:
 msgid "[_danny_s_at_player_s_wondering_s_displeased_] (Okay, Desiree, can you hear me?)"
@@ -13310,7 +13310,7 @@ msgstr "[_desiree_s_tv_s_down_s_sad_s_talk_displeased_] N-non, le maître ne con
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16887 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_26_Living_room_Evening_41118883:
 msgid "[_ember_s_tv_s_towards_s_idle_s_talk_displeased_] I mean c'mon, we all heard about some of {i}your{/i} atrocities committed in the Ghost Zone."
-msgstr ""
+msgstr "[_ember_s_tv_s_towards_s_idle_s_talk_displeased_] Je veux dire c'mon, nous avons tous entendu parler d'une partie de {i}de vos atrocités commises dans la zone fantôme."
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:16890 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_26_Living_room_Evening_8fa983c9:
 msgid "[_desiree_s_tv_s_closed_s_unhappy_s_talk_distraught_] I..."
