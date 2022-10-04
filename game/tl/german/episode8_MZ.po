@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-04 02:51\n"
+"PO-Revision-Date: 2022-10-04 08:57\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -5897,7 +5897,7 @@ msgstr "[_penelope_] Du erhältst einen kranken Kick! Das ist es, was dich wirkl
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8199 #-#-# translate crowdin Episode_8_stage_290_food_court_again_0bdbe338:
 msgid "[_penelope_] Now I can't blame you, I understand how good it feels to {i}feel{/i} good..."
-msgstr ""
+msgstr "[_penelope_] Jetzt kann ich dir keinen Vorwurf machen, ich verstehe, wie gut es sich anfühlt, sich gut {i}zu fühlen{/i}..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8203 #-#-# translate crowdin Episode_8_stage_290_food_court_again_aa701dab:
 msgid "[_penelope_] ...I just wish you'd give up this silly facade of thinking you're doing anything all that noble for these wayward souls."
@@ -8917,7 +8917,7 @@ msgstr "[_danny_] H-hey, hey, relax!! Wird mir jemand sagen, was hier vor sich g
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12453 #-#-# translate crowdin Episode_8_stage_435_presented_5fea9634:
 msgid "[_desiree_] We've felt it was time we {i}all{/i} joined in on the fun, Master!~"
-msgstr ""
+msgstr "[_desiree_] Wir dachten, es sei an der Zeit, dass wir {i}alle{/i} an dem Spaß teilhaben, Meister!~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12456 #-#-# translate crowdin Episode_8_stage_435_presented_cbb4c46b:
 msgid "[_penelope_] I didn't agree to this! Let me go now!"
