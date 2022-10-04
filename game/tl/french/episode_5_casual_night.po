@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-10-04 15:00\n"
+"PO-Revision-Date: 2022-10-04 20:59\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:18 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_db41006a:
 msgid "[_danny_s_sad_] (Oh, Mom's here... I hope she's still not upset about the whole jumpsuit wardrobe malfunction the other day...)"
@@ -394,11 +394,11 @@ msgstr "[_danny_s_talk_frown_s_at_player_s_sad_] Je me sens comme maman et je de
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:352 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_06a9b19b:
 msgid "[_maddie_] {i}*Muffled Talking*{/i}"
-msgstr "[_maddie_] {i}*Discours silencieux*{/i}"
+msgstr "[_maddie_] {i}*Parler doucement*{/i}"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:354 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_bbdc1484:
 msgid "[_jack_] {i}*Muffled Chatter*{/i}"
-msgstr "[_jack_] {i}*Chatter silencieux*{/i}"
+msgstr "[_jack_] {i}*Chatter silencieusement*{/i}"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:355 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_f98a1d48:
 msgid "[_danny_s_talk_frown_s_at_player_] Huh? What was that I just heard?"
@@ -1478,7 +1478,7 @@ msgstr "[_danny_] (Vous oublieriez presque qu'elle a aussi un cul vraiment sympa
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1078 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_14a8278c:
 msgid "[_danny_] (Jesus... I could just stare at her forever honestly... she moves with such a sexy grace... it's crazy... I...)"
-msgstr "[_danny_] (Jésus... Je pourrais lui regarder pour toujours honnêtement... elle bouge avec une grâce si sexy... c'est fou... Je...)"
+msgstr "[_danny_] (Jésus... Je pourrais la regarder pour toujours honnêtement... elle bouge avec une grâce si sexy... c'est fou... Je...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1079 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_98fe850b:
 msgid "[_danny_] (Okay, seriously, that's enough. I've had my fun, we don't need to pry any further...)"
@@ -1526,7 +1526,7 @@ msgstr "[_morahzamora_] (Oh, le pauvre bâtard, il n'a aucune idée de ce qui lu
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1114 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_36723eef:
 msgid "[_gzone__] (Ja', he definitely won't like what's coming up next, 'eizher...)"
-msgstr "[_gzone__] (Ja', il n'aime pas ce qui va suivre, 'eizher...)"
+msgstr "[_gzone__] (Ouais', elle n'aime pas ce qui va suivre, 'eizher...)"
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:1115 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_8df55371:
 msgid "[_clockwork_] (Gentleman, I must say, in the entire span of existence I've experienced both forwards and backwards, you two are truly a pair of the most {i}twisted{/i} individuals I've ever come across.)"
@@ -1557,7 +1557,7 @@ msgstr "Sam est vraiment un choix intéressant..."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:652
 msgid "I'd prefer someone like you, Mom."
-msgstr "« Je préfère quelqu'un comme vous, Maman. »"
+msgstr "Je préfère quelqu'un comme vous, Maman."
 
 # game/code/episodes/episode_5/episode_5_casual_night.rpy:801
 msgid "Do you hug your mom knowing she's currently cream pied?"
