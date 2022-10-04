@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-10-04 14:59\n"
+"PO-Revision-Date: 2022-10-04 20:59\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -5033,7 +5033,7 @@ msgstr "[_danny_] ...Je veux dire...{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7016 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_d2a50dcb:
 msgid "[_extend_] {i}Ohhhh, noooooo!!{/i} We had better flee, in {i}terrrooooorrr{/i}, back to our ghostly lairs!"
-msgstr ""
+msgstr "[_extend_] {i}Ohhhh, noooooon !! {/i} Nous avons mieux fui, en {i}terrreuuurrr{/i}, à nos cheveux fantômes !"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:7020 #-#-# translate crowdin Episode_8_stage_255_school_second_floor_hallway_battle_2_4e5e0ebf:
 msgid "[_ember_] {i}Uhhhhh{/i}.... yeah, I guess... whatever {i}heeeeee{/i} said, {i}oooooooh!!{/i}"
@@ -7021,7 +7021,7 @@ msgstr "Lil Penelope [special_delimiter] [[Oh papa ! Ne soyez pas stupide ! Que 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9815 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_678180a2:
 msgid "Lil Penelope [special_delimiter] [[Is... is Momma still not well?]]"
-msgstr ""
+msgstr "Lil Penelope [special_delimiter] [[Elle... maman ne va toujours pas bien?]]"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:9834 #-#-# translate crowdin Episode_8_stage_360_bedroom_afternoon_showing_results_214b51c8:
 msgid "[_penelope_] Where... where did you possibly get... {i}this...?{/i}"
@@ -7573,7 +7573,7 @@ msgstr "[_penelope_] {i}Heh{/i}... Danny, c'est juste... ce n'est pas comme ça 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10438 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_d9854461:
 msgid "[_danny_] Says who? And why? Have you ever tried? Have you ever {i}tried{/i} being anything other than power hungry and just gave an effort to being good?"
-msgstr ""
+msgstr "[_danny_] Dit qui? Et pourquoi? Avez-vous déjà essayé? Avez-vous déjà essayé d'être autre chose que affamé de pouvoir et juste fait un effort pour être bon?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:10442 #-#-# translate crowdin Episode_8_stage_375_roof_night_heart_to_heart_5ef5ecc4:
 msgid "[_penelope_] Danny..."
