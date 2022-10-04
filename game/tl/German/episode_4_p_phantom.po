@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-03 20:41\n"
+"PO-Revision-Date: 2022-10-04 02:51\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_p_phantom.rpy:22 #-#-# translate crowdin Peeping_Phan_Tom_scene_1_bedroom_5051d8d5:
 msgid "[_danny_s_talk_frown_2_s_sad_2_] {i}*Yaaaawn*{/i} Man oh man, I think my stomach shrank in my sleep or something!"
@@ -34,7 +34,7 @@ msgstr "[_jazz_s_talk_happy_3_s_idle_2_] Ahh, {i}Good{/i} Morgen Danny! Erfreuli
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:70 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_9ab09c00:
 msgid "[_danny_s_talk_frown_s_wondering_] What are you talking about? I {b}live{/b} here."
-msgstr ""
+msgstr "[_danny_s_talk_frown_s_wondering_] Wovon redest du? Ich {b}lebe{/b} hier."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:72 #-#-# translate crowdin Peeping_Phan_Tom_scene_2_kitchen_4bdb810a:
 msgid "[_jazz_s_talk_frown_s_rise_one_] {i}Barely{/i}. Seems to me you're always out and about after school, doing {b}God{/b} knows what."
@@ -386,7 +386,7 @@ msgstr "[_danny_] (Nun, dann... {i}she{/i} ließ ihr Daumen sicher {u}gut stehen
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:258 #-#-# translate crowdin panties_in_posession_114ba58d:
 msgid "[_danny_] (I don't even see what the big issue is! Watching porn is like, {i}beyond{/i} normal at our age.)"
-msgstr ""
+msgstr "[_danny_] (Ich sehe nicht mal, was das große Problem ist! Pornos schauen ist wie, ist in unserem Alter {i}mehr als{/i} normal.)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:259 #-#-# translate crowdin panties_in_posession_37dcbf21:
 msgid "[_danny_] (Some people just never learn to get comfortable in their own skin, I guess.)"
@@ -778,7 +778,7 @@ msgstr "[_jazz_] Hnnn!!!!!!!!"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:582 #-#-# translate crowdin Home_Sisters_Room_Event01_ea0c87bf:
 msgid "[_danny_] Whoa she squirted all over her chair… that was so hot."
-msgstr ""
+msgstr "[_danny_] Wow, sie hat ihren Stuhl vollgespritzt... das war so scharf."
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:585 #-#-# translate crowdin Home_Sisters_Room_Event01_fa055f5b:
 msgid "[_jazz_] *pant*… *pant*… That was soo good…."
