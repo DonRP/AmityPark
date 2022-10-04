@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-03 20:40\n"
+"PO-Revision-Date: 2022-10-04 02:51\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -291,7 +291,7 @@ msgstr "[_sam_s_co_s_towards_glare_s_angry_s_talk_consternation_] Das wäre das 
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:381 #-#-# translate crowdin Episode_8_stage_30_school_classroom_morning_interruption_07c5dbef:
 msgid "[_lancer_s_at_player_s_neutral_s_talk_displeased_] ...and {i}that{/i}, ladies and gentlemen, is why Bigfoot could {i}never{/i} have possibly lived in Seattle."
-msgstr ""
+msgstr "[_lancer_s_at_player_s_neutral_s_talk_displeased_] ...und {i}das{/i}, meine Damen und Herren, ist der Grund, warum Bigfoot {i}niemals{/i} in Seattle gelebt haben könnte."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:383 #-#-# translate crowdin Episode_8_stage_30_school_classroom_morning_interruption_fa288956:
 msgid "[_lancer_s_at_player_s_rise_s_talk_displeased_] Now, with the rest of the hour to us, if you'll turn your books to-"
