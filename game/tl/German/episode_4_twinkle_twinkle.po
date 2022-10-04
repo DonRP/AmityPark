@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-03 20:41\n"
+"PO-Revision-Date: 2022-10-04 02:51\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:17 #-#-# translate crowdin twinkle_twinkle_little_star_scene_1_hallway_a29726b8:
 msgid "[_danny_s_talk_happy_s_rise_one_] Whaddup, gothic butt?"
@@ -1134,7 +1134,7 @@ msgstr "[_star_s_closed_s_talk_happy_2_s_confused_] Oh, ich würde nicht sagen, 
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:886 #-#-# translate crowdin twinkle_twinkle_little_star_scene_4_hallway_dee192b6:
 msgid "[_sam_s_towards_s_confused_s_talk_frown_] ...what are you {b}talking{/b} about?"
-msgstr ""
+msgstr "[_sam_s_towards_s_confused_s_talk_frown_] ...Worüber {b}sprichst{/b} du überhaupt?"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:889 #-#-# translate crowdin twinkle_twinkle_little_star_scene_4_hallway_33fe20ab:
 msgid "[_lancer_s_angry_s_talk_frown_] ...ah HAH! Here we are!"
@@ -1390,7 +1390,7 @@ msgstr "[_star_s_closed_s_talk_happy_2_s_confused_] Oh, ich würde nicht sagen, 
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1116 #-#-# translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_dee192b6:
 msgid "[_sam_s_towards_s_confused_s_talk_frown_] ...what are you {b}talking{/b} about?"
-msgstr ""
+msgstr "[_sam_s_towards_s_confused_s_talk_frown_] ...Worüber {b}sprichst{/b} du überhaupt?"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1119 #-#-# translate crowdin twinkle_twinkle_little_star_scene4_hallway_no_prank_8616cee0:
 msgid "[_lancer_s_rise_one_s_talk_frown_] Yes, Ms. Astray, what {i}are{/i} you talking about?"
