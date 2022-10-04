@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-03 20:40\n"
+"PO-Revision-Date: 2022-10-04 02:51\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_7/episode7_MZ.rpy:168 #-#-# translate crowdin A_Nightmare_Called_Ember_kate_scene_1_Park_Evening_91863bbe:
 msgid "[_danny_s_at_player_s_unhappy_s_talk_displeased_] {i}Yeesh{/i}... having to walk through the Park this late at night can be so creepy sometimes. But hey, that's just what heroes have to do, right? Go on late patrols, {i}just{/i} in case anything should happen to-"
@@ -2170,7 +2170,7 @@ msgstr "[_sam_s_co_s_dazed_s_confused_s_talk_displeased_] Woah... Jeez... dass S
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2821 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_4_School_Hallway_1452fafb:
 msgid "[_sam_s_co_s_closed_s_neutral_s_talk_amused_] {i}*Giggles*{/i} Oh my {i}god!{/i}{p}That actually sounds {u}amazing{/u}!"
-msgstr ""
+msgstr "[_sam_s_co_s_closed_s_neutral_s_talk_amused_] {i}*Kichert*{/i} Oh mein {i}Gott!{/i}{p}Das klingt eigentlich {u}fantastisch{/u}!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2825 #-#-# translate crowdin A_Nightmare_Called_Ember_scene_4_School_Hallway_6893b7c7:
 msgid "[_danny_s_towards_s_rise_s_talk_distraught_] Uh, Sam? You okay?"
@@ -5058,7 +5058,7 @@ msgstr "[_star_s_normal_s_towards_s_confused_s_talk_amused_] Um etwas Essen zu s
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6299 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_4_mall_afternoon_4f9706f7:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_unhappy_s_consternation_] (Translation, to take lots of photos {i}of{/i} food because she's starved of attention. Gotcha...)"
-msgstr ""
+msgstr "[_danny_s_phantom_s_arms_normal_s_at_player_s_unhappy_s_consternation_] (Übersetzung, um viele Fotos {i}von{/i} Essen zu machen, weil sie zu wenig Aufmerksamkeit bekommt. Verstehe...)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6314 #-#-# translate crowdin A_Nightmare_Called_Ember_star_continued_5_foodcourt_4ec086cd:
 msgid "[_star_s_fc_s_towards_s_idle_s_talk_pleased_] {i}Hah{/i}, my followers are {i}soooooo{/i} jealous of me right now."
