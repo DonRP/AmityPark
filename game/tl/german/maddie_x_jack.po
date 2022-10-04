@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-03 20:42\n"
+"PO-Revision-Date: 2022-10-04 02:51\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/maddie_x_jack.rpy:1409 #-#-# translate crowdin maddie_x_jack_02_440c15b9:
 msgid "[_danny_] (-{u}titties!!{/u})"
@@ -126,7 +126,7 @@ msgstr "[_danny_] {i}Grhnngh{/i}…! So runde! Dein Körper ist so erstaunlich..
 
 # game/code/misc/maddie_x_jack.rpy:1506 #-#-# translate crowdin maddie_x_jack_02_7a3a6a20:
 msgid "[_danny_] (Mom’s tits are perfect… I haven’t felt anything better in my life… even after raising two kids... she's still a bombshell!"
-msgstr ""
+msgstr "[_danny_] (Die Titten von Mom sind perfekt…Ich habe mich in meinem Leben noch Nichts besser gefühlt…, auch nachdem sie schon zwei Kinder hat... sie ist immer noch eine Bombe!"
 
 # game/code/misc/maddie_x_jack.rpy:1510 #-#-# translate crowdin maddie_x_jack_02_4867187c:
 msgid "[_maddie_] You're really making me wet, Honey… I’m… {i}Hnnnn{/i}... I’m really starting to feel it…"
@@ -222,7 +222,7 @@ msgstr "[_jack_] (Huh? Was der...? Was ist gerade passiert? Ich fühle mich wie 
 
 # game/code/misc/maddie_x_jack.rpy:1595 #-#-# translate crowdin maddie_x_jack_02_61807cab:
 msgid "[_maddie_] Uhm, hello Jack? I just said I {u}love{/u} you, dear."
-msgstr ""
+msgstr "[_maddie_] Uhm, hallo Jack? Ich sagte nur, dass ich dich {u}Liebe {/u}, Schatz."
 
 # game/code/misc/maddie_x_jack.rpy:1600 #-#-# translate crowdin maddie_x_jack_02_5cb38c09:
 msgid "[_jack_s_jk_21_] What? Huh? Maddie, look, that's not important right now, I'm trying to figure out why I was-"
