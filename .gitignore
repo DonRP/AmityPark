@@ -146,3 +146,8 @@ game/images
 game/gui
 game/music
 game/archive.rpa
+*.zip
+AmityPark.py
+AmityPark.sh
+game/monika.chr
+renpy/*
