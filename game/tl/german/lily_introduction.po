@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-01 03:07\n"
+"PO-Revision-Date: 2022-10-06 15:31\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/lily/lily_introduction.rpy:13 #-#-# translate crowdin lily_introduction_bf7b03eb:
 msgid "[_danny_s_towards_s_rise_s_smile_] ({i}Hmmm...{/i} help wanted, huh? For fifty bucks a shift? I could always use the spare change lying around.)"
-msgstr "[_danny_s_towards_s_rise_s_smile_] ({i}Hmmm.. {/i} Hilfe gesucht, huh? Für fünfzig Dollar eine Schicht? Das herumliegende Kleingeld könnte ich immer gebrauchen.)"
+msgstr "[_danny_s_towards_s_rise_s_smile_] ({i}Hmmm... {/i} Hilfe gesucht, huh? Für fünfzig Dollar eine Schicht? Das herumliegende Kleingeld könnte ich immer gebrauchen.)"
 
 # game/code/character_events/lily/lily_introduction.rpy:16 #-#-# translate crowdin lily_introduction_1ddc6fa3:
 msgid "[_lily_s_towards_s_idle_s_talk_happy_] Welcome to Nasty Burger, home of the Nasty Burger, can I take your order?"
@@ -22,19 +22,19 @@ msgstr "[_lily_s_towards_s_idle_s_talk_happy_] Willkommen bei Nasty Burger, der 
 
 # game/code/character_events/lily/lily_introduction.rpy:19 #-#-# translate crowdin lily_introduction_137d8bbb:
 msgid "[_danny_s_towards_s_idle_s_talk_happy_] Well, actually, I noticed your sign on the side here."
-msgstr "[_danny_s_towards_s_idle_s_talk_happy_] Nun, eigentlich habe ich hier Ihr Schild auf der Seite bemerkt."
+msgstr "[_danny_s_towards_s_idle_s_talk_happy_] Nun, eigentlich habe ich Ihr Schild hier an der Seite bemerkt."
 
 # game/code/character_events/lily/lily_introduction.rpy:22 #-#-# translate crowdin lily_introduction_11cec765:
 msgid "[_lily_s_towards_s_idle_s_talk_displeased_] Huh? Oh yeah, the open positions. Yeah, our shift manager {b}Irving{/b} cut a bunch of the staff we had on hand."
-msgstr "[_lily_s_towards_s_idle_s_talk_displeased_] Huh? Oh ja, die offenen Position. Ja, unser Schichtleiter {b}Irving {/b} hat einen Haufen der Mitarbeiter, die wir hatten, gefeuert."
+msgstr "[_lily_s_towards_s_idle_s_talk_displeased_] Häh? Ach ja, die offenen Stellen. Ja, unser Schichtleiter {b}Irving{/b} hat einen Haufen Personal abgebaut, das wir zur Verfügung hatten."
 
 # game/code/character_events/lily/lily_introduction.rpy:25 #-#-# translate crowdin lily_introduction_a079dea7:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] Was it because of the rats they found?"
-msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] War das wegen der Ratten, die man gefunden hat?"
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] War es wegen den gefundenen Ratten?"
 
 # game/code/character_events/lily/lily_introduction.rpy:28 #-#-# translate crowdin lily_introduction_bb618734:
 msgid "[_lily_s_towards_s_angry_s_talk_displeased_] No, the rats were all let in when Irving opened the back door to air the place out!"
-msgstr "[_lily_s_towards_s_angry_s_talk_displeased_] Nein, die Ratten wurden alle eingelassen, als Irving die Hintertür öffnete, um Raum zu lüften!"
+msgstr "[_lily_s_towards_s_angry_s_talk_displeased_] Nein, die Ratten wurden alle hereingelassen, als Irving die Hintertür öffnete, um zu lüften!"
 
 # game/code/character_events/lily/lily_introduction.rpy:31 #-#-# translate crowdin lily_introduction_c63590ab:
 msgid "[_lily_s_towards_s_sad_s_talk_displeased_] So of course he didn't get the boot, go figure."
