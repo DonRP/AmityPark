@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-03 20:38\n"
+"PO-Revision-Date: 2022-10-06 14:31\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/jack/jack_training_machine.rpy:12 #-#-# translate crowdin training_machine_intro_d12f4c99:
 msgid "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ah{/i}, Danny! How can I help you son?"
@@ -18,7 +18,7 @@ msgstr "[_jack_s_towards_s_sad_s_talk_happy_] {i}Ah{/i}, Danny! Wie kann ich dir
 
 # game/code/character_events/jack/jack_training_machine.rpy:14 #-#-# translate crowdin training_machine_intro_f95edeca:
 msgid "[_danny_s_towards_s_rise_s_talk_frown_] Nothing, Dad, I'm good. Actually I was just wondering how you are doing after that... {i}uhhh{/i}, freak Ghost accident the other night."
-msgstr "[_danny_s_towards_s_rise_s_talk_frown_] Nichts, Dad, ich bin gut. Eigentlich habe ich mich nur gefragt, wie du nach dem ... {i}uhhh {/i}, Freak Ghost Unfall die andere Nacht machst."
+msgstr "[_danny_s_towards_s_rise_s_talk_frown_] Nichts, Dad, mir geht es gut. Eigentlich habe ich mich nur gefragt, wie es dir nach dem... {i}uhhh{/i}, dem verrückten Geist Unfall neulich Nacht geht."
 
 # game/code/character_events/jack/jack_training_machine.rpy:16 #-#-# translate crowdin training_machine_intro_c421bc1b:
 msgid "[_jack_s_closed_s_sad_s_talk_happy_] Oh, that? Why don't worry about that son, I've been worse, belive me! Your old man is still right as rain!"
