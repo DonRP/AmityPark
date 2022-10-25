@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-03 20:41\n"
+"PO-Revision-Date: 2022-10-04 08:57\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode5_MZ.rpy:19 #-#-# translate crowdin A_Stroke_After_Midnight_scene_1_bedroom_a8725056:
 msgid "[_danny_s_sad_2_s_talk_happy_2_] Ahhh, good morning world! Another glorious day to wake up still having ghost powers!"
@@ -6082,7 +6082,7 @@ msgstr "[_lancer_s_towards_s_idle__s_talk_happy_] Wieder, zwei haben heute Abend
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5101 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10c_schoolmainhall_cdc3c826:
 msgid "[_lancer_s_towards_s_angry_s_talk_frown_] Not {i}too{/i} nice a night, anyway. Our school has a \"hands above the waste\" policy with regards to dances."
-msgstr ""
+msgstr "[_lancer_s_towards_s_angry_s_talk_frown_] Jedenfalls keine {i}allzu{/i} schöne Nacht. Unsere Schule hat im Bezug auf Tänze eine „Hände über dem Abfall“ Richtlinie."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5104 #-#-# translate crowdin A_Stroke_After_Midnight_scene_10c_schoolmainhall_675b0445:
 msgid "[_danny_s_phantom_suit_s_towards_wide_s_neutral_s_talk_happy_] Uhm, alright, thanks. We'll keep that in mind."

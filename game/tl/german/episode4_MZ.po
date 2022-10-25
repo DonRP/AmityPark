@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-03 20:41\n"
+"PO-Revision-Date: 2022-10-04 02:51\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode4_MZ.rpy:21 #-#-# translate crowdin Wish_you_the_Best_scene_1_Hallway_0fe9772d:
 msgid "[_danny_s_talk_happy_] Tucker, my man! What's happening?"
@@ -1154,7 +1154,7 @@ msgstr "[_tucker_s_sad_s_ahegao_] Oh, danke green, big boobed genie!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1132 #-#-# translate crowdin Wish_you_the_Best_give_the_lamp_to_tucker_d79cc4d8:
 msgid "[_desiree_s_closed_s_neutral_3_s_talk_happy_] Why thank {i}you{/i}, Master, for freeing me of that accursed lamp. You may also call me... {b}Desiree{/b}."
-msgstr ""
+msgstr "[_desiree_s_closed_s_neutral_3_s_talk_happy_] Warum danke ich {i}ihnen{/i}, Meister, dass Sie mich von dieser verfluchten Lampe befreit haben. Du kannst mich auch ansprechen als... {b}Desiree{/b}."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1135 #-#-# translate crowdin Wish_you_the_Best_give_the_lamp_to_tucker_d824e4cf:
 msgid "[_tucker_s_angry_s_talk_happy_] You got it, hot stuff!"
@@ -2282,7 +2282,7 @@ msgstr "[_tucker_s_towards_wide_2_s_angry_2_s_talk_happy_] {i}Aheh hech!!{/i} {b
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2141 #-#-# translate crowdin Wish_you_the_Best_scene_7_mall_003ce2bc:
 msgid "[_stranger_] {i}Aghhh{/i}!! Everyone run!! The prankster ghost goblin is now a {b}huge{/b} prankster ghost goblin, and he's attacking the mall!!"
-msgstr ""
+msgstr "[_stranger_] {i}Aghhh{/i}!! Rennt um euer Leben!! Der Prankster Geistergoblin ist jetzt ein {b}riesiger{/b} Prankster Geistergoblin, und er attackiert das Einkaufszentrum!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2145 #-#-# translate crowdin Wish_you_the_Best_scene_7_mall_8d924987:
 msgid "[_stranger_] Quickly, everyone run behind that wall over there for shelter!! The one between the third and the fifth wall!!"

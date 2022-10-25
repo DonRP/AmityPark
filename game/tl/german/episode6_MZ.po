@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-03 20:41\n"
+"PO-Revision-Date: 2022-10-04 02:51\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_6/episode6_MZ.rpy:18 #-#-# translate crowdin The_Great_Out_Doors_scene_1_kitchen_9042b644:
 msgid "[_danny_s_towards_s_neutral_s_talk_happy_] Hey, Mom, how's it goin-"
@@ -2618,7 +2618,7 @@ msgstr "[_danny_s_towards_s_rise_s_talk_distraught_s_-blush_] I es bedeutet... e
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3334 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_69dfb90f:
 msgid "[_maddie_s_towards_s_rise_s_talk_displeased_] Yes but what does it {i}mean?{/i}"
-msgstr ""
+msgstr "[_maddie_s_towards_s_rise_s_talk_displeased_] Ja, aber was {i}bedeutet das?{/i}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3337 #-#-# translate crowdin The_Great_Out_Doors_h_scene_bj_402bfbf1:
 msgid "[_danny_s_down_s_sad_s_talk_distraught_s_-blush_] Well umm..."

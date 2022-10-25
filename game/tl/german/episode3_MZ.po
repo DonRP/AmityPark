@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-10-03 20:40\n"
+"PO-Revision-Date: 2022-10-04 02:51\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
-msgstr ""
+msgstr "[_danny_s_at_self_s_neutral_s_talk_consternation_] Nach der letzten Nacht habe ich das Gefühl, dass der Ectopus Widerling nicht der {b}letzte{/b} böse Geist sein wird, dem ich mich von jetzt an stellen muss."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:23 #-#-# translate crowdin a_masterful_speech_intro_3b4ba0c8:
 msgid "[_danny_s_at_player_wide_s_unhappy_s_talk_consternation_] Also, what's up with this Orgone stuff it was talking about?"
@@ -354,7 +354,7 @@ msgstr "[_sam_] Einige Leute sind gerade geschrieben und programmiert als furcht
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:402 #-#-# translate crowdin a_masterful_speech_speech_d6c215e9:
 msgid "[_sam_] She acts all high and mighty just because she's got a little amount of popularity in school... she doesn't {i}need{/i} to be such a jerk..."
-msgstr ""
+msgstr "[_sam_] Sie spielt sich hoch und mächtig auf, nur weil sie in der Schule ein wenig beliebt ist... sie {i}muss{/i} nicht so ein Idiot sein..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:410 #-#-# translate crowdin a_masterful_speech_speech_316828a9:
 msgid "[_danny_s_towards_s_talk_happy_] It's pretty obvious Star's just jealous of how much smarter you are than her."
@@ -746,7 +746,7 @@ msgstr "[_sam_s_talk_frown_s_towards_s_angry_] {b}Jeezus{/ub} Danny! Gott, du ha
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:924 #-#-# translate crowdin sams_plan_sam_bedroom_a8162b73:
 msgid "[_danny_s_talk_happy_s_wondering_] Heh, well maybe if I had, we could {b}both{/b} fight ghosts together."
-msgstr ""
+msgstr "[_danny_s_talk_happy_s_wondering_] Heh, vielleicht könnten wir dann {b}beide{/b} gemeinsam gegen Geister kämpfen."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:926 #-#-# translate crowdin sams_plan_sam_bedroom_e7f7ffe3:
 msgid "[_sam_s_talk_frown_] Yeah well, next time, try the front door, or just... I don't know, knock on the window or something."
