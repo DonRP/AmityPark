@@ -10,10 +10,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 10:05\n"
+"PO-Revision-Date: 2022-11-10 12:43\n"
 
 msgid "Scene Replay"
-msgstr ""
+msgstr "repetir escena"
 
 # game/code/base/computer.rpy:701
 msgid "<"
