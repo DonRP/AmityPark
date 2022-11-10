@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-24 18:21\n"
+"PO-Revision-Date: 2022-11-10 15:44\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
@@ -2630,7 +2630,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3372 #-#-# translate crowdin kittys_revange_cheer_interview_e4b43cbb:
 msgid "(Orgone Boost Available!)"
-msgstr ""
+msgstr "(¡Incremento de Orgón disponible!)"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:3407 #-#-# translate crowdin kittys_revange_postfight_b0e1a37a:
 msgid "[_johnny_s_talk_frown_s_towards_s_confused_2_] What?! How's this possible? How'd you get so strong so quickly?"
