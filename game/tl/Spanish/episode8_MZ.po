@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-10 18:27\n"
+"PO-Revision-Date: 2022-11-10 19:24\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -8384,7 +8384,7 @@ msgstr ""
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11766 #-#-# translate crowdin Episode_8_stage_400_bedroom_morning_the_aftermath_9fe8f8d9:
 msgid "[_danny_] Really?"
-msgstr ""
+msgstr "[_danny_] ¡De verdad?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:11770 #-#-# translate crowdin Episode_8_stage_400_bedroom_morning_the_aftermath_8bda2a08:
 msgid "[_penelope_] {i}Tsch!{/i} Oh I don't know..."
