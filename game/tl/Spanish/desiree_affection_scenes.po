@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:05\n"
+"PO-Revision-Date: 2022-11-10 20:32\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/desiree/desiree_affection_scenes.rpy:42 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_8c364de1:
 msgid "[_desiree_] Good morning, master~..."
-msgstr ""
+msgstr "[_desiree_] Buenos días, maestro~..."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:45 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_22009ee6:
 msgid "[_danny_s_boxers_s_towards_s_sad_s_talk_happy_] {i}*Yawn*{/i} Oh, morning Desiree."
-msgstr ""
+msgstr "[_danny_s_boxers_s_towards_s_sad_s_talk_happy_] {i}*Yawn*{/i} Oh, buenos días Desiree."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:48 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_53f11342:
 msgid "[_danny_s_boxers_s_towards_s_rise_s_talk_happy_] What's all this?"
-msgstr ""
+msgstr "[_danny_s_boxers_s_towards_s_rise_s_talk_happy_] ¿Qué és todo esto?"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:52 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_15b98d95:
 msgid "[_desiree_] Nothing, truly. Just thought of showing some appreciation for my master today."
-msgstr ""
+msgstr "[_desiree_] Nada, de verdad. Sólo pensé en mostrar algo de aprecio por mi maestro hoy."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:56 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_b2e77223:
 msgid "[_desiree_] My old master used to adore waking up to such treats..."
