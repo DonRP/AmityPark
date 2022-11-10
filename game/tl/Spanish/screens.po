@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-10 15:44\n"
+"PO-Revision-Date: 2022-11-10 17:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/screens.rpy:461 #-#-# translate crowdin 16d9a82f:
 msgid "frame: vbox: xpos 0"
-msgstr "marco: vbox: xpos 0"
+msgstr "frame: vbox: xpos 0"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin a830a7ee:
 msgid "ypos 25"
@@ -23,31 +23,31 @@ msgstr "ypos 25"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 025b4ae1:
 msgid "spacing 0"
-msgstr "espaciado"
+msgstr "spacing"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 727f6ef2:
 msgid "add \"gui/game_title.png\""
-msgstr "añadir \"gui/game_title.png\""
+msgstr "add \"gui/game_title.png\""
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin b58bcc89:
 msgid "null height 25"
-msgstr "altura nula 25"
+msgstr "null height 25"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin ee65f368:
 msgid "imagebutton: idle \"gui/buttons/start_button idle.png\" hover \"gui/buttons/start_button hover.png\" focus_mask True xalign 0.5 yalign 0.5 action Start()"
-msgstr ""
+msgstr "imagebutton: idle \"gui/buttons/start_button idle.png\" hover \"gui/buttons/start_button hover.png\" focus_mask True xalign 0.5 yalign 0.5 action Start()"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 0b71498f:
 msgid "imagebutton: idle \"gui/buttons/load_button idle.png\" hover \"gui/buttons/load_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"load\")"
-msgstr ""
+msgstr "key: imagebutton: idle \"gui/buttons/load_button idle.png\" hover \"gui/buttons/load_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"load\")"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin d287a808:
 msgid "imagebutton: idle \"gui/buttons/options_button idle.png\" hover \"gui/buttons/options_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"preferences\")"
-msgstr ""
+msgstr "key: imagebutton: idle \"gui/buttons/options_button idle.png\" hover \"gui/buttons/options_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"preferences\")"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 303f1a39:
 msgid "imagebutton: idle \"gui/buttons/about_button idle.png\" hover \"gui/buttons/about_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"about\")"
-msgstr ""
+msgstr "key: imagebutton: idle \"gui/buttons/about_button idle.png\" hover \"gui/buttons/about_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu(\"about\")"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 8327e5bc:
 msgid "if renpy.variant(\"pc\"):"
@@ -222,143 +222,143 @@ msgstr "Izquierda"
 
 # game/code/base/screens.rpy:914
 msgid "Right"
-msgstr ""
+msgstr "Derecha"
 
 # game/code/base/screens.rpy:919
 msgid "Unseen Text"
-msgstr ""
+msgstr "Ocultar texto"
 
 # game/code/base/screens.rpy:920
 msgid "After Choices"
-msgstr ""
+msgstr "Después de elegir"
 
 # game/code/base/screens.rpy:921
 msgid "Transitions"
-msgstr ""
+msgstr "Transiciones"
 
 # game/code/base/screens.rpy:925
 msgid "Quest Updates"
-msgstr ""
+msgstr "Actualizar Misiones"
 
 # game/code/base/screens.rpy:926
 msgid "On"
-msgstr ""
+msgstr "Activado"
 
 # game/code/base/screens.rpy:940
 msgid "Text Speed"
-msgstr ""
+msgstr "Velocidad del texto"
 
 # game/code/base/screens.rpy:944
 msgid "Auto-Forward Time"
-msgstr ""
+msgstr "Tiempo de auto-avance"
 
 # game/code/base/screens.rpy:951
 msgid "Music Volume"
-msgstr ""
+msgstr "Volumen de la Música"
 
 # game/code/base/screens.rpy:958
 msgid "Sound Volume"
-msgstr ""
+msgstr "Volumen de sonido"
 
 # game/code/base/screens.rpy:964
 msgid "Test"
-msgstr ""
+msgstr "Comprobar"
 
 # game/code/base/screens.rpy:968
 msgid "Voice Volume"
-msgstr ""
+msgstr "Volumen de la voz"
 
 # game/code/base/screens.rpy:979
 msgid "Mute All"
-msgstr ""
+msgstr "Silenciar todo"
 
 # game/code/base/screens.rpy:1096
 msgid "The dialogue history is empty."
-msgstr ""
+msgstr "El historial de archivos está vacío."
 
 # game/code/base/screens.rpy:1166
 msgid "Keyboard"
-msgstr ""
+msgstr "Teclados"
 
 # game/code/base/screens.rpy:1167
 msgid "Mouse"
-msgstr ""
+msgstr "Ratón"
 
 # game/code/base/screens.rpy:1170
 msgid "Gamepad"
-msgstr ""
+msgstr "Mando de Juego"
 
 # game/code/base/screens.rpy:1183
 msgid "Enter"
-msgstr ""
+msgstr "Aceptar"
 
 # game/code/base/screens.rpy:1184
 msgid "Advances dialogue and activates the interface."
-msgstr ""
+msgstr "Avanza el diálogo y activa la interfaz."
 
 # game/code/base/screens.rpy:1187
 msgid "Space"
-msgstr ""
+msgstr "Espacio"
 
 # game/code/base/screens.rpy:1188
 msgid "Advances dialogue without selecting choices."
-msgstr ""
+msgstr "Avanza en el diálogo sin seleccionar opciones."
 
 # game/code/base/screens.rpy:1191
 msgid "Arrow Keys"
-msgstr ""
+msgstr "Teclas de dirección"
 
 # game/code/base/screens.rpy:1192
 msgid "Navigate the interface."
-msgstr ""
+msgstr "Navegar por la interfaz."
 
 # game/code/base/screens.rpy:1195
 msgid "Escape"
-msgstr ""
+msgstr "Salir"
 
 # game/code/base/screens.rpy:1196
 msgid "Accesses the game menu."
-msgstr ""
+msgstr "Acceso al menú de juego."
 
 # game/code/base/screens.rpy:1199
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 # game/code/base/screens.rpy:1200
 msgid "Skips dialogue while held down."
-msgstr ""
+msgstr "Salta el diálogo mientras está detenido."
 
 # game/code/base/screens.rpy:1203
 msgid "Tab"
-msgstr ""
+msgstr "Tabulador"
 
 # game/code/base/screens.rpy:1204
 msgid "Toggles dialogue skipping."
-msgstr ""
+msgstr "Activa el salto de diálogo."
 
 # game/code/base/screens.rpy:1207
 msgid "Page Up"
-msgstr ""
+msgstr "Página arriba"
 
 # game/code/base/screens.rpy:1208
 msgid "Rolls back to earlier dialogue."
-msgstr ""
+msgstr "Vuelve al diálogo anterior."
 
 # game/code/base/screens.rpy:1211
 msgid "Page Down"
-msgstr ""
+msgstr "Página hacia abajo"
 
 # game/code/base/screens.rpy:1212
 msgid "Rolls forward to later dialogue."
-msgstr ""
+msgstr "Avanza hacia un diálogo posterior."
 
 # game/code/base/screens.rpy:1216
 msgid "Hides the user interface."
-msgstr ""
+msgstr "Oculta la interfaz de usuario."
 
 # game/code/base/screens.rpy:1220
 msgid "Takes a screenshot."
-msgstr ""
+msgstr "Capturar pantalla."
 
 # game/code/base/screens.rpy:1224
 msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
@@ -366,34 +366,34 @@ msgstr "Asistencia alterna {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
 # game/code/base/screens.rpy:1230
 msgid "Left Click"
-msgstr ""
+msgstr "Clicks izquierdo"
 
 # game/code/base/screens.rpy:1234
 msgid "Middle Click"
-msgstr ""
+msgstr "Click botón central"
 
 # game/code/base/screens.rpy:1238
 msgid "Right Click"
-msgstr ""
+msgstr "Click derecho"
 
 # game/code/base/screens.rpy:1242
 msgid "Mouse Wheel Up\n"
 "Click Rollback Side"
-msgstr ""
+msgstr "Haz click con la rueda del ratón"
 
 # game/code/base/screens.rpy:1246
 msgid "Mouse Wheel Down"
-msgstr ""
+msgstr "Retrocede con la ruedad el ratón"
 
 # game/code/base/screens.rpy:1253
 msgid "Right Trigger\n"
 "A/Bottom Button"
-msgstr ""
+msgstr "Haz click el botón derecho del ratón"
 
 # game/code/base/screens.rpy:1257
 msgid "Left Trigger\n"
 "Left Shoulder"
-msgstr ""
+msgstr "Haz click en el botón izquierdo del ratón"
 
 # game/code/base/screens.rpy:1261
 msgid "Right Shoulder"
@@ -405,7 +405,7 @@ msgstr ""
 
 # game/code/base/screens.rpy:1270
 msgid "Start, Guide"
-msgstr ""
+msgstr "Empezar guía"
 
 # game/code/base/screens.rpy:1274
 msgid "Y/Top Button"
@@ -413,13 +413,13 @@ msgstr ""
 
 # game/code/base/screens.rpy:1277
 msgid "Calibrate"
-msgstr ""
+msgstr "Calibrar"
 
 # game/code/base/screens.rpy:1395
 msgid "Skipping"
-msgstr ""
+msgstr "Saltando"
 
 # game/code/base/screens.rpy:1745
 msgid "Menu"
-msgstr ""
+msgstr "Menú"
 
