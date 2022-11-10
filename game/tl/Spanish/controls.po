@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-10 12:43\n"
+"PO-Revision-Date: 2022-11-10 15:44\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/controls.rpy:177 #-#-# translate crowdin no_return_06e302cb:
 msgid "So be it. There's no turning back now."
@@ -18,11 +18,11 @@ msgstr "Que así sea. Ya no hay vuelta atrás."
 
 # game/code/base/controls.rpy:191 #-#-# translate crowdin menu_Ghost_Choice_fceed870:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_smile_] I should give the guitar to Ember in the morning."
-msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_smile_] Debería darle la guitarra a Ember por la mañana."
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_smile_] Debería dar la guitarra a Ember por la mañana."
 
 # game/code/base/controls.rpy:194 #-#-# translate crowdin menu_Ghost_Choice_e132bb66:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] I should get the guitar before I talk to Ember again."
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] Debería darle la guitarra antes de hablar con ella."
 
 # game/code/base/controls.rpy:199 #-#-# translate crowdin menu_Ghost_Choice_c9cefaf3:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] I better leave Ember alone for now."
