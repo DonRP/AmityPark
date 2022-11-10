@@ -11,27 +11,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-24 18:22\n"
+"PO-Revision-Date: 2022-11-10 15:44\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/screens.rpy:461 #-#-# translate crowdin 16d9a82f:
 msgid "frame: vbox: xpos 0"
-msgstr ""
+msgstr "marco: vbox: xpos 0"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin a830a7ee:
 msgid "ypos 25"
-msgstr ""
+msgstr "ypos 25"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 025b4ae1:
 msgid "spacing 0"
-msgstr ""
+msgstr "espaciado"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 727f6ef2:
 msgid "add \"gui/game_title.png\""
-msgstr ""
+msgstr "añadir \"gui/game_title.png\""
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin b58bcc89:
 msgid "null height 25"
-msgstr ""
+msgstr "altura nula 25"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin ee65f368:
 msgid "imagebutton: idle \"gui/buttons/start_button idle.png\" hover \"gui/buttons/start_button hover.png\" focus_mask True xalign 0.5 yalign 0.5 action Start()"
@@ -58,75 +58,75 @@ msgid "imagebutton: idle \"gui/buttons/exit_button idle.png\" hover \"gui/button
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Volver"
 
 # game/code/base/screens.rpy:299
 msgid "History"
-msgstr ""
+msgstr "Historial"
 
 # game/code/base/screens.rpy:300
 msgid "Skip"
-msgstr ""
+msgstr "Saltar"
 
 # game/code/base/screens.rpy:301
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 # game/code/base/screens.rpy:302
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 # game/code/base/screens.rpy:303
 msgid "Q.Save"
-msgstr ""
+msgstr "Q.Guardar"
 
 # game/code/base/screens.rpy:304
 msgid "Q.Load"
-msgstr ""
+msgstr "Q.Carga"
 
 # game/code/base/screens.rpy:305
 msgid "Prefs"
-msgstr ""
+msgstr "Preferencias"
 
 # game/code/base/screens.rpy:306
 msgid "Hide D."
-msgstr ""
+msgstr "Ocultar D."
 
 # game/code/base/screens.rpy:347
 msgid "Start"
-msgstr ""
+msgstr "Comenzar"
 
 # game/code/base/screens.rpy:355
 msgid "Load"
-msgstr ""
+msgstr "Cargar"
 
 # game/code/base/screens.rpy:357
 msgid "Options"
-msgstr ""
+msgstr "Opciones"
 
 # game/code/base/screens.rpy:365
 msgid "End Replay"
-msgstr ""
+msgstr "Terminar repetición"
 
 # game/code/base/screens.rpy:369
 msgid "Main Menu"
-msgstr ""
+msgstr "Menú Principal"
 
 # game/code/base/screens.rpy:371
 msgid "Credits"
-msgstr ""
+msgstr "Credits"
 
 # game/code/base/screens.rpy:373
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 # game/code/base/screens.rpy:378
 msgid "Help"
-msgstr ""
+msgstr "Ayuda"
 
 # game/code/base/screens.rpy:381
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 # game/code/base/screens.rpy:690
 msgid "Version [config.version!t]\n"
@@ -135,88 +135,90 @@ msgstr "Versión [config.version!t]\n"
 # game/code/base/screens.rpy:696
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "Hecho con {a=https: //www.renpy.org/} Ren'Py {/a} [renpy.version_only].\n\n"
+"[renpy.license! t]"
 
 # game/code/base/screens.rpy:733
 msgid "{b}Credits{/b} "
-msgstr ""
+msgstr "{b}Créditos{/b} "
 
 # game/code/base/screens.rpy:734
 msgid "Created by:  {b}{a=https://www.patreon.com/GZone_Art}GZone{/a}{/b}, Project Manager\n"
-msgstr ""
+msgstr "Creado por:  {b}{a=https://www.patreon.com/GZone_Art}GZone{/a}{/b}, Director de Proyectos\n"
 
 # game/code/base/screens.rpy:735
 msgid "                     {b}{a=https://twitter.com/MorahZamora}MorahZamora{/a}{/b}, Background Artist, Script Reviser\n"
-msgstr ""
+msgstr "                     {b}{a=https://twitter.com/MorahZamora}MorahZamora{/a}{/b}, artista de fondo, revisor de guiones\n"
 
 # game/code/base/screens.rpy:736
 msgid "                     {b}FraMe{/b}, Animator\n"
-msgstr ""
+msgstr "                     {b}FraMe{/b}, Animador\n"
 
 # game/code/base/screens.rpy:737
 msgid "                     {b}Psymind{/b}, Artist\n"
-msgstr ""
+msgstr "                     {b}Psymind{/b}, Artista\n"
 
 # game/code/base/screens.rpy:738
 msgid "                     {b}Epadder{/b}, Programmer\n"
-msgstr ""
+msgstr "                     {b}Epadder{/b}, Programador\n"
 
 # game/code/base/screens.rpy:739
 msgid "                     {b}Lostraven{/b}, Writer\n"
-msgstr ""
+msgstr "                     {b}Lostraven{/b}, Escritor\n"
 
 # game/code/base/screens.rpy:742
 msgid "{b}Special Thanks:{/b}"
-msgstr ""
+msgstr "{b}Especial agradecimiento:{/b}"
 
 # game/code/base/screens.rpy:743
 msgid "Our deepest appreciation and gratitude to Rhonin, {a=https://www.youtube.com/c/puritysin}Purity Sin{/a}, Headmaster1988, TheDevian, thomasxlong, SrPani and {a=https://www.deviantart.com/dltoon}DLT{/a} for helping us improve the game in a variety of ways."
-msgstr ""
+msgstr "Nuestro más profundo reconocimiento y gratitud a Rhonin, {a=https://www.youtube.com/c/puritysin}Purity Sin{/a}, Headmaster1988, TheDevian, thomasxlong, SrPani y {a=https://www.deviantart.com/dltoon}DLT{/a} por ayudarnos a mejorar el juego."
 
 # game/code/base/screens.rpy:746
 msgid "And a big thank you to all the many loyal supporters on Patreon and Discord! This project wouldn't be possible without you guys.\n"
 "  "
-msgstr ""
+msgstr "Y un gran agradecimiento a todos los fieles seguidores en Patreon y Discord. Este proyecto no sería posible sin vosotros.\n"
+"  "
 
 # game/code/base/screens.rpy:819
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
 
 # game/code/base/screens.rpy:819
 msgid "empty slot"
-msgstr ""
+msgstr "ranura vacía"
 
 # game/code/base/screens.rpy:839
 msgid "{#auto_page}A"
-msgstr ""
+msgstr "{#auto_page}A"
 
 # game/code/base/screens.rpy:842
 msgid "{#quick_page}Q"
-msgstr ""
+msgstr "{#quick_page}Q"
 
 # game/code/base/screens.rpy:905
 msgid "Display"
-msgstr ""
+msgstr "Pantalla"
 
 # game/code/base/screens.rpy:906
 msgid "Window"
-msgstr ""
+msgstr "Windows"
 
 # game/code/base/screens.rpy:907
 msgid "Fullscreen"
-msgstr ""
+msgstr "Pantalla completa"
 
 # game/code/base/screens.rpy:911
 msgid "Rollback Side"
-msgstr ""
+msgstr "Lado de retroceso"
 
 # game/code/base/screens.rpy:912
 msgid "Disable"
-msgstr ""
+msgstr "Deshabilitar"
 
 # game/code/base/screens.rpy:913
 msgid "Left"
-msgstr ""
+msgstr "Izquierda"
 
 # game/code/base/screens.rpy:914
 msgid "Right"
@@ -360,7 +362,7 @@ msgstr ""
 
 # game/code/base/screens.rpy:1224
 msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgstr "Alterna asistencial {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgstr "Asistencia alterna {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
 # game/code/base/screens.rpy:1230
 msgid "Left Click"
