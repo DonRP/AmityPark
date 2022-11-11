@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-11 16:28\n"
+"PO-Revision-Date: 2022-11-11 19:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
@@ -19,63 +19,63 @@ msgstr "ERROR DETECTADO: ¡CORRECCIÓN DE NIVEL FORZADA INICIADA!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:58 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_88603d05:
 msgid "[_intercom_] {i}Good morning students. This is Vice Principal Lancer!{i}"
-msgstr "[_intercom_] {i}Buenos días estudiantes. Este es el vicedirector Lancer.{i}"
+msgstr "[_intercom_] {i}Buenos días estudiantes. Este es el vicedirector Lancer.{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:61 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_9eccddf7:
 msgid "[_intercom_] {i}In about five minutes, all students are to report to the Auditorium for an important {u}mandatory{/u} school meeting!{i}"
-msgstr "[_intercom_] {i}En cinco minutos todos los estudiantes deben presentarse en el auditorio para una importante y {u}obligatoria{/u} reunión escolar.{i}"
+msgstr "[_intercom_] {i}En cinco minutos todos los estudiantes deben presentarse en el auditorio para una importante y {u}obligatoria{/u} reunión escolar.{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:64 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_3aa87b53:
 msgid "[_intercom_] {i}We will be welcoming the newest member of the Casper High Faculty to the school!{i}"
-msgstr ""
+msgstr "[_intercom_] {i}¡Daremos la bienvenida en la escuela a un nuevo miembro que viene de la facultad de Casper High!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:66 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_65aa0b3d:
 msgid "[_danny_s_at_player_s_rise_s_smile_] (Really? The school had the budget to hire somebody new? Huh.)"
-msgstr ""
+msgstr "[_danny_s_at_player_s_rise_s_smile_] (¿En serio? ¿La escuela tenía presupuesto para contratar a alguien nuevo? Huh.)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:69 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_c6349d4a:
 msgid "[_intercom_] {i}Any students found loitering in the halls or smoking in the bathrooms will receive a weeks detention, as per usual."
-msgstr ""
+msgstr "[_intercom_] {i}Cualquier estudiante que sea encontrado merodeando en los pasillos o fumando en los baños recibirá una semana de detención, como es habitual.{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:72 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_57b31faa:
 msgid "[_intercom_] {i}...actually, make that {u}two{/u} weeks worth of detention.{/i}"
-msgstr ""
+msgstr "[_intercom_] {i}...en realidad, que sean {u}dos{/u} semanas de detención.{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:85 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_a60b819e:
 msgid "[_sam_s_co_s_towards_s_idle_s_talk_happy_] Hey Danny."
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_idle_s_talk_happy_] Hola Danny."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:89 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_cb9e5db4:
 msgid "[_danny_s_towards_s_idle_s_talk_happy_] Hey guys. Everyone's headed to the auditorium I guess, right?"
-msgstr ""
+msgstr "[_danny_s_towards_s_idle_s_talk_happy_] Hola chicos. Supongo que se dirigen al auditorio, ¿no?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:93 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_edb7eacb:
 msgid "[_tucker_s_towards_s_rise_s_talk_displeased_] Yeah, but I didn't hear anything about them hiring a new teacher?"
-msgstr ""
+msgstr "[_tucker_s_towards_s_rise_s_talk_displeased_] Sí, pero no he oído nada de que hayan contratado a un nuevo profesor"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:97 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_604a143c:
 msgid "[_sam_s_co_s_towards_s_rise_s_talk_consternation_] I may have overhead something the other day that makes some more sense now, I guess."
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_rise_s_talk_consternation_] Supongo que lo que me pasó el otro día ahora tiene sentido."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:101 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_ffca610d:
 msgid "[_danny_s_towards_s_rise_s_talk_happy_] What was it?"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_happy_] ¿Qué fue?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:105 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_1c03f792:
 msgid "[_sam_s_co_s_towards_s_unhappy_s_talk_displeased_] Ishiyama had Lancer stopped in the hall, and they were both talking about looking forward to some \"real changes\" in the school soon."
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_unhappy_s_talk_displeased_] Ishiyama detuvo a Lancer en el vestíbulo. Ambos hablaban de que pronto se producirían algunos \"cambios reales\" en la escuela."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:109 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_5dd5d277:
 msgid "[_danny_s_towards_s_neutral_s_talk_displeased_] Well that seems vague. What could one new teacher possibly add to-"
-msgstr ""
+msgstr "[_danny_s_towards_s_neutral_s_talk_displeased_] Bueno, eso parece impreciso. ¿Qué podría añadir un nuevo profesor?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:114 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_1f2942d2:
 msgid "[_intercom_] {i}...you know what? {u}Three{/u} weeks detention for any wandering loiterers.{/i}"
-msgstr ""
+msgstr "[_intercom_] {i}...¿sabes qué? {u}Tres {/u}semanas de detención para cualquier vagabundo.{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:118 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_7558e9dc:
 msgid "[_sam_s_co_s_towards_s_unhappy_s_talk_consternation_] ...we'd better just go find out what's going on."
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_unhappy_s_talk_consternation_] ...será mejor que vayamos a averiguar qué está pasando."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:123 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_8d75fe60:
 msgid "[_danny_tucker_] Right!"
@@ -83,207 +83,207 @@ msgstr "[_danny_tucker_] Derecha!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:147 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_2e579289:
 msgid "[_ishiyama_s_speech_s_face_front_s_up_s_neutral_s_talk_happy_] Okay everyone, settle down, let's take our seats... thank you, good afternoon."
-msgstr ""
+msgstr "[_ishiyama_s_speech_s_face_front_s_up_s_neutral_s_talk_happy_] Bien, todo el mundo. Sentémonos y pongámonos cómodos... gracias, buenas tardes."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:149 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_88bf93fd:
 msgid "[_ishiyama_s_speech_s_face_front_s_at_left_s_sad_s_talk_displeased_] {i}*Ahem*{/i} As you all know, the more frequent occurrences of supernatural beings and such haunting Amity Park, has left many of us on edge."
-msgstr ""
+msgstr "[_ishiyama_s_speech_s_face_front_s_at_left_s_sad_s_talk_displeased_] {i}*Ahem*{/i} Como todos ustedes saben, las apariciones frecuentes de seres sobrenaturales y similares que rondan el Amity Parck, han dejado a muchos de nosotros con los nervios de punta."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:151 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_a07afbfe:
 msgid "[_ishiyama_s_speech_s_face_front_s_at_right_s_sad_s_talk_displeased_] With everyone's mental health still in mind of course, the faculty has decided it is only appropriate that we hire on a counselor who will help keep up welfare checks on all of you."
-msgstr ""
+msgstr "[_ishiyama_s_speech_s_face_front_s_at_right_s_sad_s_talk_displeased_] Teniendo en cuenta por supuesto, la salud mental de todos, el profesorado ha decidido que es conveniente que contratemos a un consejero que nos ayude a controlar el bienestar de todos vosotros."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:153 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_34f27192:
 msgid "[_ishiyama_s_speech_s_face_front_s_at_right_s_sad_s_talk_happy_] She is here to listen to everything you're going through, whether it be ghost related stress or otherwise."
-msgstr ""
+msgstr "[_ishiyama_s_speech_s_face_front_s_at_right_s_sad_s_talk_happy_] Ella está aquí para escuchar todo lo que está pasando, ya sea el estrés relacionado con el fantasma, o, de otra manera."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:155 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_7087bfcd:
 msgid "[_ishiyama_s_speech_s_face_front_s_up_s_rise_s_talk_happy_] And of course, anything you say to her in private will be kept strictly confidential. We want our students to feel completely at ease with her."
-msgstr ""
+msgstr "[_ishiyama_s_speech_s_face_front_s_up_s_rise_s_talk_happy_] Y, por supuesto, todo lo que le digáis en privado será estrictamente confidencial. Queremos que nuestros alumnos se sientan completamente a gusto con ella."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:158 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_169e4f74:
 msgid "[_student1_] BUT IS SHE HOT?"
-msgstr ""
+msgstr "[_student1_] ¿ESTÁ BUENA?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:160 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_1a6fcc82:
 msgid "[_ishiyama_s_speech_s_face_front_s_at_left_s_unhappy_s_talk_consternation_] {i}*Sighs*{/i} ...the smallest dose of hormones, and look what it does to them..."
-msgstr ""
+msgstr "[_ishiyama_s_speech_s_face_front_s_at_left_s_unhappy_s_talk_consternation_] {i}*Sighs*{/i} ...la más pequeña dosis de hormonas y mira lo que les hace..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:163 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_cfff5f86:
 msgid "[_ishiyama_s_speech_s_face_front_s_rise_s_talk_happy_] {i}*Ahem*{/i} Now, I expect you all to give a warm, friendly Casper High welco-"
-msgstr ""
+msgstr "[_ishiyama_s_speech_s_face_front_s_rise_s_talk_happy_] {i}*Ahem*{/i} Ahora, espero que todos ustedes den una cálida y amistosa bienvenida a Casper High"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:174 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_f72b4d52:
 msgid "[_penelope_s_stage_s_idle_right_s_talk_amused_] {i}HELLOOOOOOO{/i}, CASPER HIGH!!"
-msgstr ""
+msgstr "[_penelope_s_stage_s_idle_right_s_talk_amused_] {i}HOOOOOLAAAAAA{/i}, CASPER HIGH!!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:177 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_c121b02c:
 msgid "[_ishiyama_s_towards_s_rise_s_talk_displeased_] {i}Uhhh{/i}, y-yes... please welcome Miss Penelope Spectra, our new School psychiatrist."
-msgstr ""
+msgstr "[_ishiyama_s_towards_s_rise_s_talk_displeased_] {i}Uhhh{/i}, s-sí... por favor den la bienvenida a la Srta. Penélope Spectra, nuestra nueva psiquiatra de la escuela."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:185 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_7a1114e8:
 msgid "[_penelope_s_stage_s_wondering_right_s_talk_happy_] Oh I am just {i}SOOO{/i} glad to be here everyone!"
-msgstr ""
+msgstr "[_penelope_s_stage_s_wondering_right_s_talk_happy_] Oh, sólo estoy {i}¡MUYYYYY{/i} contenta de estar aquí con ustedes!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:187 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_4be15f17:
 msgid "[_penelope_s_stage_s_idle_towards_s_talk_happy_] Now that I'm finally here in your marvelous school, I can begin the lengthy battle..."
-msgstr ""
+msgstr "[_penelope_s_stage_s_idle_towards_s_talk_happy_] Ahora que por fin estoy aquí, en su maravillosa escuela, puedo empezar la larga batalla..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:189 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_8481902b:
 msgid "[_penelope_s_stage_s_idle_right_s_talk_displeased_] ...against all the fatigue and stress you poor students have built up over the past few weeks!"
-msgstr ""
+msgstr "[_penelope_s_stage_s_idle_right_s_talk_displeased_] ...contra todo el cansancio y el estrés que los pobres estudiantes han acumulado en las últimas semanas."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:191 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_273f4456:
 msgid "[_penelope_s_stage_s_idle_towards_s_talk_displeased_] Mental health advocacy is simply {i}sooo{/i} important for all your developing minds."
-msgstr ""
+msgstr "[_penelope_s_stage_s_idle_towards_s_talk_displeased_] La defensa de la salud mental es simplemente {i}muyyyy{/i} importante para sus mentes en desarrollo."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:193 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_01b0da25:
 msgid "[_penelope_s_stage_s_idle_right_s_talk_displeased_] It might all seem too difficult to tackle even now, but I believe we can get through this together!"
-msgstr ""
+msgstr "[_penelope_s_stage_s_idle_right_s_talk_displeased_] Puede que todo parezca demasiado difícil de solucionar ahora, ¡pero creo que podremos superarlo juntos!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:195 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_e3469cd8:
 msgid "[_penelope_s_stage_s_idle_towards_s_talk_amused_] I simply cannot wait to help raise your spirits even greater than they were before!"
-msgstr ""
+msgstr "[_penelope_s_stage_s_idle_towards_s_talk_amused_] ¡Simplemente estoy impaciente de ayudarles a elevar sus espíritus más de lo que estaban antes!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:201 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_36a3aff4:
 msgid "[_penelope_s_stage_s_neutral_towards_s_grin_] {i}...!{/i}"
-msgstr ""
+msgstr "[_penelope_s_stage_s_neutral_towards_s_grin_] {i}...!{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:203 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_f871496b:
 msgid "[_penelope_s_stage_s_neutral_towards_s_grin_big_] ({i}There{/i} you are...)"
-msgstr ""
+msgstr "[_penelope_s_stage_s_neutral_towards_s_grin_big_] ({i}Ahí{/i} estás...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:206 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_08c58a1e:
 msgid "[_tucker_s_offscreen_s_ahegao_s_rise_s_talk_happy_] Holy smokes! She's HOT!"
-msgstr ""
+msgstr "[_tucker_s_offscreen_s_ahegao_s_rise_s_talk_happy_] ¡Santo cielo! ¡Está cachonda!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:208 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_66db0921:
 msgid "[_sam_s_co_s_offscreen_s_towards_s_neutral_s_talk_displeased_] Honestly... yeah. I've never seen a nurse with quite her style before."
-msgstr ""
+msgstr "[_sam_s_co_s_offscreen_s_towards_s_neutral_s_talk_displeased_] Honestamente... sí. Nunca he visto una enfermera con su estilo antes."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:210 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_2fd096b5:
 msgid "[_danny_s_f_s_offscreen_s_towards_s_neutral_s_talk_distraught_] Yeah, she's... I don't know. There's something off about her being hired like this..."
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_towards_s_neutral_s_talk_distraught_] Sí, ella lo és... No lo sé. Hay algo raro en que la contraten así..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:213 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_8b54e97c:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_consternation_] (Did I just feel a chill...?)"
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_consternation_] (¿Acabo de sentir un escalofrío...?)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:215 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_5d56f6f8:
 msgid "[_penelope_s_stage_s_idle_right_s_talk_happy_] Anyway, I simply wanted to introduce myself to all you bright eyed students!"
-msgstr ""
+msgstr "[_penelope_s_stage_s_idle_right_s_talk_happy_] En fin, ¡simplemente quería presentarme al brillo de sus ojos estudiantes!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:217 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_955d8763:
 msgid "[_penelope_s_stage_s_wondering_right_s_talk_amused_] My new office space will be held on the 2nd floor at the end of the locker hall."
-msgstr ""
+msgstr "[_penelope_s_stage_s_wondering_right_s_talk_amused_] Mi nuevo espacio de oficina estará en la segunda planta, al final del pasillo de taquillas."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:219 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_93333321:
 msgid "[_penelope_s_stage_s_idle_towards_s_talk_happy_] I invite any and all to come in to talk about anything you feel you have to share!"
-msgstr ""
+msgstr "[_penelope_s_stage_s_idle_towards_s_talk_happy_] ¡Invito a todos y cada uno a que vengan a hablar de cualquier cosa que sientan que tienen que compartir!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:221 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_ffb26329:
 msgid "[_penelope_s_stage_s_neutral_towards_s_talk_amused_] ...I'd simply {i}love{/i} to pick some of your brains..."
-msgstr ""
+msgstr "[_penelope_s_stage_s_neutral_towards_s_talk_amused_] ...simplemente me{i} encantaría{/i} recoger algunos de sus cerebros..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:242 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_11f755ca:
 msgid "[_ishiyama_s_speech_s_face_right_s_at_right_s_unhappy_s_talk_displeased_] {i}*Ahem*{/i} Yes, well, thank you students, that about adjourns the assembly."
-msgstr ""
+msgstr "[_ishiyama_s_speech_s_face_right_s_at_right_s_unhappy_s_talk_displeased_] {i}*Ahem*{/i} Sí, bueno, gracias estudiantes, eso da por terminada la asamblea."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:244 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_7409cd79:
 msgid "[_ishiyama_s_speech_s_face_right_s_up_s_rise_s_talk_displeased_] Again, if you have any concerns, please speak to a member of staff directly, or see Miss Spectra in her office."
-msgstr ""
+msgstr "[_ishiyama_s_speech_s_face_right_s_up_s_rise_s_talk_displeased_] Una vez más, si tienen alguna duda, hablen con alguno de nosotros o vean a la señorita Spectra en su oficina."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:246 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_cb3fb5c6:
 msgid "[_ishiyama_s_speech_s_face_front_s_up_s_idle_s_talk_displeased_] You can return to the rest of your classes, and have a good rest of the day!"
-msgstr ""
+msgstr "[_ishiyama_s_speech_s_face_front_s_up_s_idle_s_talk_displeased_] Podéis volver vuestras clases, ¡y que tengáis un buen día!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:248 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_10974f30:
 msgid "[_ishiyama_s_speech_s_face_front_s_at_left_s_neutral_s_consternation_] (I do hope hiring this spotlight stealer was the right choice in the end...)"
-msgstr ""
+msgstr "[_ishiyama_s_speech_s_face_front_s_at_left_s_neutral_s_consternation_] (Espero que al final la contratación de esta ladrona de focos haya sido la elección correcta...)"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:265 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_9898d8ef:
 msgid "[_tucker_s_closed_s_wondering_s_talk_happy_] You know, the more I think about it... I certainly have been feeling particularly depressed recently..."
-msgstr ""
+msgstr "[_tucker_s_closed_s_wondering_s_talk_happy_] Sabes, cuanto más lo pienso... Ciertamente me he sentido particularmente deprimido últimamente..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:269 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_bb8853a8:
 msgid "[_tucker_s_towards_s_angry_s_talk_happy_] And I think some special \"one on one\" counseling from Miss Spectra's the only thing that'll cure me!"
-msgstr ""
+msgstr "[_tucker_s_towards_s_angry_s_talk_happy_] ¡Y creo que un consejo especial \"uno a uno\" de la señorita Spectra es lo único que me curará!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:273 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_d6a21f78:
 msgid "[_sam_s_co_s_towards_s_rise_s_talk_consternation_] Tucker, you know mental health resources are for people who really do need some help and guidance, right?"
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_rise_s_talk_consternation_] Tucker, sabes que los recursos de salud mental son para personas que realmente necesitan ayuda y orientación, ¿verdad?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:277 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_1ff152e0:
 msgid "[_sam_s_co_s_towards_glare_s_angry_s_talk_distraught_] ...not just an excuse to get creepy shoulder massages from some new teacher!"
-msgstr ""
+msgstr "[_sam_s_co_s_towards_glare_s_angry_s_talk_distraught_] ...¡no es una excusa para recibir espeluznantes masajes en los hombros de algún nuevo profesor!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:281 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_e2c8e0bb:
 msgid "[_tucker_s_away_s_sad_s_talk_consternation_] {i}Ohhhh{/i}, to think that I can't even turn to my dearest friends to lament about my feelings!"
-msgstr ""
+msgstr "[_tucker_s_away_s_sad_s_talk_consternation_] {i}Ohhhh{/i}, ¡I pensar que ni siquiera puedo recurrir a mis amigos más queridos para lamentarme de mis sentimientos!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:285 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_646bb84d:
 msgid "[_sam_s_co_s_towards_s_rise_s_talk_displeased_] Yeah, right, you're a {i}real{/i} lost soul at the moment, huh?"
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_rise_s_talk_displeased_] Sí claro, eres una {i}auténtica{/i} alma perdida en este momento, ¿eh?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:289 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_2117f89d:
 msgid "[_danny_s_stare_s_unhappy_s_consternation_] . . ."
-msgstr ""
+msgstr "[_danny_s_stare_s_unhappy_s_consternation_] . . ."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:293 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_605a3878:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_displeased_] Danny? Something up?"
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_displeased_] ¿Danny? ¿Pasa algo?"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:297 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_77ba0682:
 msgid "[_danny_s_towards_s_rise_s_displeased_] {i}Hm?{/i}"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_displeased_] {i}¿Hm? {/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:301 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_1a73b0fe:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_happy_] You went all thousand yard stare on us just then."
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_happy_] Te quedaste despistado justo en ese momento."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:305 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_e4abede2:
 msgid "[_tucker_s_towards_s_rise_s_talk_consternation_] Yeah, you didn't even feel the need to join in on Sam's ribbing session."
-msgstr ""
+msgstr "[_tucker_s_towards_s_rise_s_talk_consternation_] Sí, ni siquiera sentiste la necesidad de unirte a la sesión de cosquillas de Sam."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:309 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_19d8ba8b:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] {i}Uh{/i}, no, it's nothing, just felt something odd back there is all..."
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] {i}Uh{/i}, No, no es nada, sólo sentí algo raro ahí atrás, es todo..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:313 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_989c68f5:
 msgid "[_tucker_s_towards_s_wondering_s_talk_happy_] Well hey, if you're feeling unsure about anything, I'm certain my new favorite confidante Miss Spectra will lend you a shoulder to cry on!"
-msgstr ""
+msgstr "[_tucker_s_towards_s_wondering_s_talk_happy_] Bueno, si te sientes inseguro sobre algo, estoy seguro de que mi nueva confidente favorita, la señorita Spectra, ¡te prestará un hombro para llorar!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:317 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_5e47513a:
 msgid "[_sam_s_co_s_towards_glare_s_angry_s_talk_consternation_] Oh shut up, Tucker! She's over twice your age!"
-msgstr ""
+msgstr "[_sam_s_co_s_towards_glare_s_angry_s_talk_consternation_] ¡Cállate, Tucker! ¡Te dobla en edad!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:324 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_7f183453:
 msgid "[_lancer_s_offscreen_s_towards_s_angry_s_talk_displeased_] {i}I still see some dilly dalliers hanging around in the halls. Let's move it, people!{/i}"
-msgstr ""
+msgstr "[_lancer_s_offscreen_s_towards_s_angry_s_talk_displeased_] {i}Sigo viendo a algunos tontos rondando por los pasillos. ¡Muévanse{/i}!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:328 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_9948a719:
 msgid "[_danny_s_towards_s_rise_s_talk_happy_] Guys, don't worry. It's probably nothing.{p}{nw}"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_happy_] Chicos, no os preocupéis. Probablemente no sea nada.{p}{nw}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:333 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_b4923a17:
 msgid "[_extend_] I'll talk to you guys later after class."
-msgstr ""
+msgstr "[_extend_] Hablaré con vosotros después de la clase."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:337 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_a256d244:
 msgid "[_sam_s_co_s_towards_s_rise_s_talk_displeased_] Alright... let's go before Lancer grabs us by the nape of necks."
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_rise_s_talk_displeased_] Muy bien... vamos antes de que Lancer nos agarre por el cuello."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:341 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_537ed5fe:
 msgid "[_tucker_s_towards_s_rise_s_talk_happy_] ...Miss Spectra can take me to class anytime she-"
-msgstr ""
+msgstr "[_tucker_s_towards_s_rise_s_talk_happy_] ...la Srta. Spectra puede llevarme a clase cuando quiera..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:345 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_7fe44c3e:
 msgid "[_sam_s_co_s_towards_glare_s_upset_s_clenchteeth_] {i}*Death Glares*{/i}"
-msgstr ""
+msgstr "[_sam_s_co_s_towards_glare_s_upset_s_clenchteeth_] {i}*Death Glares*{/i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:349 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_3020a071:
 msgid "[_tucker_s_towards_wide_s_sad_s_talk_consternation_] ...okay, okay! I'll put on the brakes..."
-msgstr ""
+msgstr "[_tucker_s_towards_wide_s_sad_s_talk_consternation_] ...¡vale, vale! Pondré los frenos..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:353 #-#-# translate crowdin Episode_8_stage_20_school_auditorium_morning_announcement_419a9606:
 msgid "[_sam_s_co_s_towards_glare_s_angry_s_talk_consternation_] That would be best for us all, Tuck..."
