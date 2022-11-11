@@ -11,19 +11,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-10 19:24\n"
+"PO-Revision-Date: 2022-11-11 16:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_8/episode8_MZ.rpy:9 #-#-# translate crowdin level_correction_scene_212a86ec:
 msgid "ERROR DETECTED: FORCED LEVEL CORRECTION INITIATED!"
-msgstr ""
+msgstr "ERROR DETECTADO: ¡CORRECCIÓN DE NIVEL FORZADA INICIADA!"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:58 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_88603d05:
 msgid "[_intercom_] {i}Good morning students. This is Vice Principal Lancer!{i}"
-msgstr ""
+msgstr "[_intercom_] {i}Buenos días estudiantes. Este es el vicedirector Lancer.{i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:61 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_9eccddf7:
 msgid "[_intercom_] {i}In about five minutes, all students are to report to the Auditorium for an important {u}mandatory{/u} school meeting!{i}"
-msgstr ""
+msgstr "[_intercom_] {i}En cinco minutos todos los estudiantes deben presentarse en el auditorio para una importante y {u}obligatoria{/u} reunión escolar.{i}"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:64 #-#-# translate crowdin Episode_8_stage_10_school_main_hall_morning_announcement_3aa87b53:
 msgid "[_intercom_] {i}We will be welcoming the newest member of the Casper High Faculty to the school!{i}"
