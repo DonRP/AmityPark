@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-10 18:27\n"
+"PO-Revision-Date: 2022-11-11 16:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/screens.rpy:461 #-#-# translate crowdin 16d9a82f:
 msgid "frame: vbox: xpos 0"
@@ -51,11 +51,11 @@ msgstr "key: imagebutton: idle \"gui/buttons/about_button idle.png\" hover \"gui
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 8327e5bc:
 msgid "if renpy.variant(\"pc\"):"
-msgstr ""
+msgstr "if renpy.variant(\"pc\"):"
 
 # game/code/base/screens.rpy:461 #-#-# translate crowdin 3904d94b:
 msgid "imagebutton: idle \"gui/buttons/exit_button idle.png\" hover \"gui/buttons/exit_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action Quit(confirm=not main_menu)"
-msgstr ""
+msgstr "imagebutton: idle \"gui/buttons/exit_button idle.png\" hover \"gui/buttons/exit_button hover.png\" xalign 0.5 yalign 0.5 focus_mask True action Quit(confirm=not main_menu)"
 
 msgid "Back"
 msgstr "Back"
@@ -397,11 +397,11 @@ msgstr "Haz click en el botón izquierdo del ratón"
 
 # game/code/base/screens.rpy:1261
 msgid "Right Shoulder"
-msgstr ""
+msgstr "Right Shoulder"
 
 # game/code/base/screens.rpy:1266
 msgid "D-Pad, Sticks"
-msgstr ""
+msgstr "D-Pad, Sticks"
 
 # game/code/base/screens.rpy:1270
 msgid "Start, Guide"
@@ -409,7 +409,7 @@ msgstr "Empezar guía"
 
 # game/code/base/screens.rpy:1274
 msgid "Y/Top Button"
-msgstr ""
+msgstr "Y/Top Button"
 
 # game/code/base/screens.rpy:1277
 msgid "Calibrate"
