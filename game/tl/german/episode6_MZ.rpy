@@ -3910,7 +3910,7 @@ translate german The_Great_Out_Doors_h_scene_bj_c4417578:
 translate german The_Great_Out_Doors_h_scene_bj_69dfb90f:
 
     # maddie towards rise talk_displeased "Yes but what does it {i}mean?{/i}"
-    ""
+    maddie towards rise talk_displeased "Ja, aber was {i}bedeutet das?{/i}"
 
 # game/code/episodes/episode_6/episode6_MZ.rpy:3337
 translate german The_Great_Out_Doors_h_scene_bj_402bfbf1:

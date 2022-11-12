@@ -419,7 +419,7 @@ translate german Episode_8_stage_20_school_auditorium_morning_announcement_419a9
 translate german Episode_8_stage_30_school_classroom_morning_interruption_07c5dbef:
 
     # lancer at_player neutral talk_displeased "...and {i}that{/i}, ladies and gentlemen, is why Bigfoot could {i}never{/i} have possibly lived in Seattle."
-    ""
+    lancer at_player neutral talk_displeased "...und {i}das{/i}, meine Damen und Herren, ist der Grund, warum Bigfoot {i}niemals{/i} in Seattle gelebt haben könnte."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:383
 translate german Episode_8_stage_30_school_classroom_morning_interruption_fa288956:
@@ -8825,7 +8825,7 @@ translate german Episode_8_stage_290_food_court_again_6d658684:
 translate german Episode_8_stage_290_food_court_again_0bdbe338:
 
     # penelope "Now I can't blame you, I understand how good it feels to {i}feel{/i} good..."
-    ""
+    penelope "Jetzt kann ich dir keinen Vorwurf machen, ich verstehe, wie gut es sich anfühlt, sich gut {i}zu fühlen{/i}..."
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:8203
 translate german Episode_8_stage_290_food_court_again_aa701dab:
@@ -13355,7 +13355,7 @@ translate german Episode_8_stage_435_presented_7588889e:
 translate german Episode_8_stage_435_presented_5fea9634:
 
     # desiree "We've felt it was time we {i}all{/i} joined in on the fun, Master!~"
-    ""
+    desiree "Wir dachten, es sei an der Zeit, dass wir {i}alle{/i} an dem Spaß teilhaben, Meister!~"
 
 # game/code/episodes/episode_8/episode8_MZ.rpy:12456
 translate german Episode_8_stage_435_presented_cbb4c46b:

@@ -4,7 +4,7 @@
 translate german a_masterful_speech_intro_455f5b23:
 
     # danny at_self neutral talk_consternation "After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
-    ""
+    danny at_self neutral talk_consternation "Nach der letzten Nacht habe ich das Gefühl, dass der Ectopus Widerling nicht der {b}letzte{/b} böse Geist sein wird, dem ich mich von jetzt an stellen muss."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:23
 translate german a_masterful_speech_intro_3b4ba0c8:
@@ -514,7 +514,7 @@ translate german a_masterful_speech_speech_2d3b332b:
 translate german a_masterful_speech_speech_d6c215e9:
 
     # sam "She acts all high and mighty just because she's got a little amount of popularity in school... she doesn't {i}need{/i} to be such a jerk..."
-    ""
+    sam "Sie spielt sich hoch und mächtig auf, nur weil sie in der Schule ein wenig beliebt ist... sie {i}muss{/i} nicht so ein Idiot sein..."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:410
 translate german a_masterful_speech_speech_316828a9:
@@ -1102,7 +1102,7 @@ translate german sams_plan_sam_bedroom_f2fef860:
 translate german sams_plan_sam_bedroom_a8162b73:
 
     # danny talk_happy wondering "Heh, well maybe if I had, we could {b}both{/b} fight ghosts together."
-    ""
+    danny talk_happy wondering "Heh, vielleicht könnten wir dann {b}beide{/b} gemeinsam gegen Geister kämpfen."
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:926
 translate german sams_plan_sam_bedroom_e7f7ffe3:

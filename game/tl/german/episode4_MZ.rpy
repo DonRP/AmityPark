@@ -1714,7 +1714,7 @@ translate german Wish_you_the_Best_give_the_lamp_to_tucker_aea5a19f:
 translate german Wish_you_the_Best_give_the_lamp_to_tucker_d79cc4d8:
 
     # desiree closed neutral_3 talk_happy "Why thank {i}you{/i}, Master, for freeing me of that accursed lamp. You may also call me... {b}Desiree{/b}."
-    ""
+    desiree closed neutral_3 talk_happy "Warum danke ich {i}ihnen{/i}, Meister, dass Sie mich von dieser verfluchten Lampe befreit haben. Du kannst mich auch ansprechen als... {b}Desiree{/b}."
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:1135
 translate german Wish_you_the_Best_give_the_lamp_to_tucker_d824e4cf:
@@ -3406,7 +3406,7 @@ translate german Wish_you_the_Best_scene_7_mall_b6e2e0b7:
 translate german Wish_you_the_Best_scene_7_mall_003ce2bc:
 
     # stranger "{i}Aghhh{/i}!! Everyone run!! The prankster ghost goblin is now a {b}huge{/b} prankster ghost goblin, and he's attacking the mall!!"
-    ""
+    stranger "{i}Aghhh{/i}!! Rennt um euer Leben!! Der Prankster Geistergoblin ist jetzt ein {b}riesiger{/b} Prankster Geistergoblin, und er attackiert das Einkaufszentrum!!"
 
 # game/code/episodes/episode_4/episode4_MZ.rpy:2145
 translate german Wish_you_the_Best_scene_7_mall_8d924987:

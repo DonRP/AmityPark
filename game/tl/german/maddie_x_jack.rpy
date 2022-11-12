@@ -172,7 +172,7 @@ translate german maddie_x_jack_02_d5a27786:
 translate german maddie_x_jack_02_7a3a6a20:
 
     # danny "(Mom’s tits are perfect… I haven’t felt anything better in my life… even after raising two kids... she's still a bombshell!"
-    ""
+    danny "(Die Titten von Mom sind perfekt…Ich habe mich in meinem Leben noch Nichts besser gefühlt…, auch nachdem sie schon zwei Kinder hat... sie ist immer noch eine Bombe!"
 
 # game/code/misc/maddie_x_jack.rpy:1510
 translate german maddie_x_jack_02_4867187c:
@@ -316,7 +316,7 @@ translate german maddie_x_jack_02_8cf1e8fb:
 translate german maddie_x_jack_02_61807cab:
 
     # maddie "Uhm, hello Jack? I just said I {u}love{/u} you, dear."
-    ""
+    maddie "Uhm, hallo Jack? Ich sagte nur, dass ich dich {u}Liebe {/u}, Schatz."
 
 # game/code/misc/maddie_x_jack.rpy:1600
 translate german maddie_x_jack_02_5cb38c09:
