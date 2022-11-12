@@ -3238,7 +3238,7 @@ translate german A_Nightmare_Called_Ember_scene_4_School_Hallway_908fe1e7:
 translate german A_Nightmare_Called_Ember_scene_4_School_Hallway_1452fafb:
 
     # sam co closed neutral talk_amused "{i}*Giggles*{/i} Oh my {i}god!{/i}{p}That actually sounds {u}amazing{/u}!"
-    ""
+    sam co closed neutral talk_amused "{i}*Kichert*{/i} Oh mein {i}Gott!{/i}{p}Das klingt eigentlich {u}fantastisch{/u}!"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:2825
 translate german A_Nightmare_Called_Ember_scene_4_School_Hallway_6893b7c7:
@@ -7570,7 +7570,7 @@ translate german A_Nightmare_Called_Ember_star_continued_4_mall_afternoon_be607b
 translate german A_Nightmare_Called_Ember_star_continued_4_mall_afternoon_4f9706f7:
 
     # danny phantom arms_normal at_player unhappy consternation "(Translation, to take lots of photos {i}of{/i} food because she's starved of attention. Gotcha...)"
-    ""
+    danny phantom arms_normal at_player unhappy consternation "(Übersetzung, um viele Fotos {i}von{/i} Essen zu machen, weil sie zu wenig Aufmerksamkeit bekommt. Verstehe...)"
 
 # game/code/episodes/episode_7/episode7_MZ.rpy:6314
 translate german A_Nightmare_Called_Ember_star_continued_5_foodcourt_4ec086cd:

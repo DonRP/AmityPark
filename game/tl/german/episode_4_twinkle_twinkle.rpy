@@ -1684,7 +1684,7 @@ translate german twinkle_twinkle_little_star_scene_4_hallway_1cdd287d:
 translate german twinkle_twinkle_little_star_scene_4_hallway_dee192b6:
 
     # sam towards confused talk_frown "...what are you {b}talking{/b} about?"
-    ""
+    sam towards confused talk_frown "...Worüber {b}sprichst{/b} du überhaupt?"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:889
 translate german twinkle_twinkle_little_star_scene_4_hallway_33fe20ab:
@@ -2068,7 +2068,7 @@ translate german twinkle_twinkle_little_star_scene4_hallway_no_prank_1cdd287d:
 translate german twinkle_twinkle_little_star_scene4_hallway_no_prank_dee192b6:
 
     # sam towards confused talk_frown "...what are you {b}talking{/b} about?"
-    ""
+    sam towards confused talk_frown "...Worüber {b}sprichst{/b} du überhaupt?"
 
 # game/code/episodes/episode_4/episode_4_twinkle_twinkle.rpy:1119
 translate german twinkle_twinkle_little_star_scene4_hallway_no_prank_8616cee0:

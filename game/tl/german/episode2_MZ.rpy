@@ -610,7 +610,7 @@ translate german in_hot_water_lay_in_wait_a9e5872a:
 translate german in_hot_water_lay_in_wait_9ec3e7e9:
 
     # jazz towel towards angry talk_distraught "What are you {u}talking{/u} about? I don't use that much hot water! Now get out!"
-    ""
+    jazz towel towards angry talk_distraught "Worüber {u}redest{/u} du? Ich benutze gar nicht so viel heißes Wasser! Jetzt geh raus!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:415
 translate german in_hot_water_lay_in_wait_a5e79bd7:
@@ -1774,7 +1774,7 @@ translate german master_plan_tired_324f9edc:
 translate german master_plan_tired_38acc818:
 
     # vlad thermos towards_wide neutral talk_happy "Madeline, would {i}you{/i} kindly do the honors? None of this would have happened without {i}your{/i} brilliant ingenuity after all."
-    ""
+    vlad thermos towards_wide neutral talk_happy "Madeline, würdest {i}du{/i} freundlicherweise die Ehre erweisen? Nach allem wäre nichts davon passiert, ohne {i}Ihrem{/i} brillanten Einfallsreichtum."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:1413
 translate german master_plan_tired_0a135f37:

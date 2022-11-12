@@ -9106,7 +9106,7 @@ translate german A_Stroke_After_Midnight_scene_10c_schoolmainhall_be2d56c8:
 translate german A_Stroke_After_Midnight_scene_10c_schoolmainhall_cdc3c826:
 
     # lancer towards angry talk_frown "Not {i}too{/i} nice a night, anyway. Our school has a \"hands above the waste\" policy with regards to dances."
-    ""
+    lancer towards angry talk_frown "Jedenfalls keine {i}allzu{/i} schöne Nacht. Unsere Schule hat im Bezug auf Tänze eine „Hände über dem Abfall“ Richtlinie."
 
 # game/code/episodes/episode_5/episode5_MZ.rpy:5104
 translate german A_Stroke_After_Midnight_scene_10c_schoolmainhall_675b0445:
