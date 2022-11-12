@@ -151,3 +151,9 @@ AmityPark.py
 AmityPark.sh
 game/monika.chr
 renpy/*
+*.exe
+ap_log.txt
+*.rpyc
+*.ttf
+*.otf
+game/script_version.txt
