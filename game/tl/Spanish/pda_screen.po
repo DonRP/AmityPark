@@ -10,84 +10,84 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:04\n"
+"PO-Revision-Date: 2022-11-10 15:44\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/pda_screen.rpy:184 #-#-# translate crowdin add_new_contact_126980cc:
 msgid "[_danny_] (Okay, I can add her by using her phone number she gave me... 555-2368...)"
-msgstr ""
+msgstr "[_danny_] (Vale, puedo añadirla usando el número de teléfono que me dio... 555-2368...)"
 
 # game/code/base/pda_screen.rpy:189 #-#-# translate crowdin add_new_contact_f8255055:
 msgid "[_danny_] (Alright there, I've added her. I can message her whenever I want now.)"
-msgstr ""
+msgstr "[_danny_] (Muy bien, la he añadido. Ahora puedo enviarle mensajes cuando quiera)."
 
 # game/code/base/pda_screen.rpy:211 #-#-# translate crowdin sam_is_offline_3074b79a:
 msgid "[_danny_] (Now wouldn't be a great time to try talking to Sam. She probably wants to be left alone for a bit.)"
-msgstr ""
+msgstr "[_danny_] (Ahora es un buen momento para intentar hablar con Sam. Probablemente quiera estar sola un rato)"
 
 # game/code/base/pda_screen.rpy:213 #-#-# translate crowdin sam_is_offline_3074b79a_1:
 msgid "[_danny_] (Now wouldn't be a great time to try talking to Sam. She probably wants to be left alone for a bit.)"
-msgstr ""
+msgstr "[_danny_] (Ahora es un buen momento para intentar hablar con Sam. Probablemente quiera estar sola un rato)"
 
 # game/code/base/pda_screen.rpy:215 #-#-# translate crowdin sam_is_offline_bc91a5fb:
 msgid "[_danny_] (Sam doesn't seem to be online right now, it's too early for her to be browsing her phone.)"
-msgstr ""
+msgstr "[_danny_] (Parece que Sam no está conectada en este momento, es temprano para que esté usando su teléfono)"
 
 # game/code/base/pda_screen.rpy:216 #-#-# translate crowdin sam_is_offline_8dc11841:
 msgid "[_danny_] (She's really more of an online {b}night{/b} owl... or a bat... whatever's more emotionally drained. I'll try messaging her then, in any case.)"
-msgstr ""
+msgstr "[_danny_] (Ella es realmente algo más que una lechuza nocturna online {b}... o un murciélago... Sea lo que sea me está agotando emocionalmente. Intentaré mandarle un mensaje.)"
 
 # game/code/base/pda_screen.rpy:230 #-#-# translate crowdin paulina_is_offline_67a4b5a1:
 msgid "[_danny_] (Paulina isn't going to be available to talk right now. Most likely being swarmed with her adoring \"fans\" and entourage.)"
-msgstr ""
+msgstr "[_danny_] (Paulina no está disponible para hablar en este momento. Lo más probable es que esté rodeada de sus adorables \"fans\" y su séquito)"
 
 # game/code/base/pda_screen.rpy:231 #-#-# translate crowdin paulina_is_offline_9ec90338:
 msgid "[_danny_] (I should try messaging her in the {b}afternoon{/b} when she takes a break from them all.)"
-msgstr ""
+msgstr "[_danny_] (Debería probar a mandarle un mensaje por la {b}tarde{/b} cuando se toma un descanso de todos.)"
 
 # game/code/base/pda_screen.rpy:248 #-#-# translate crowdin star_is_offline_6daf65dd:
 msgid "[_danny_] (Hmmm... Star is probably a litle upset about the whole prank thing.)"
-msgstr ""
+msgstr "[_danny_] (Hmmm... Star probablemente está un poco molesta por la broma.)"
 
 # game/code/base/pda_screen.rpy:249 #-#-# translate crowdin star_is_offline_acb5d779:
 msgid "[_danny_] (I should come up with some sorta believeable story as to what happened with that whole situation...)"
-msgstr ""
+msgstr "[_danny_] (Debería inventar alguna historia sobre lo que pasó con esa situación...)"
 
 # game/code/base/pda_screen.rpy:252 #-#-# translate crowdin star_is_offline_da622c51:
 msgid "[_danny_] (Star's not online at the moment. She's probably hanging out with Kwan or Paulina at this time of the day.)"
-msgstr ""
+msgstr "[_danny_] (Star no está en línea en este momento. Probablemente esté pasando el rato con Kwan o Paulina.)"
 
 # game/code/base/pda_screen.rpy:253 #-#-# translate crowdin star_is_offline_03ad3803:
 msgid "[_danny_] (I should try messaging her in the {b}morning{/b} instead.)"
-msgstr ""
+msgstr "[_danny_] (En su lugar debería intentar mandarle un mensaje por la {b}mañana{/b}.)"
 
 # game/code/base/pda_screen.rpy:268 #-#-# translate crowdin tucker_is_offline_19730b8a:
 msgid "[_danny_] (Guess Tucker's not online right now. Most likely programming something new on his computer.)"
-msgstr ""
+msgstr "[_danny_] (Supongo que Tucker no está conectado ahora mismo. Lo más probable es que esté con su ordenador programando algo nuevo.)"
 
 # game/code/base/pda_screen.rpy:269 #-#-# translate crowdin tucker_is_offline_7eb2af83:
 msgid "[_danny_] (I'll try to message him in the {b}afternoon{/b} next time.)"
-msgstr ""
+msgstr "[_danny_] ( La próxima vez intentaré enviarle un mensaje por la {b}tarde{/b}.)"
 
 # game/code/base/pda_screen.rpy:271 #-#-# translate crowdin tucker_is_offline_09a07195:
 msgid "[_danny_] (Guess Tucker's not online right now.)"
-msgstr ""
+msgstr "[_danny_] (Supongo que Tucker no está en línea ahora mismo.)"
 
 msgid "Do you want to add a new contact to Spookchat?"
-msgstr ""
+msgstr "¿Quieres añadir un nuevo contacto en Spookchat?"
 
 # game/code/base/pda_screen.rpy:173
 msgid "Add Paulina's number as a new contact."
-msgstr ""
+msgstr "Añade el número de Paulina como nuevo contacto."
 
 # game/code/base/pda_screen.rpy:173
 msgid "Add Sam's number as a new contact."
-msgstr ""
+msgstr "Añade el número de Sam como nuevo contacto."
 
 # game/code/base/pda_screen.rpy:173
 msgid "Add Star's number as a new contact."
-msgstr ""
+msgstr "Añade el número de Star como nuevo contacto."
 
 # game/code/base/pda_screen.rpy:173
 msgid "Exit."
-msgstr ""
+msgstr "Salir."
 
