@@ -1,0 +1,806 @@
+translate french strings:
+
+
+msgid "Self-voicing disabled."
+msgstr "Self-voicing disabled."
+
+
+msgid "Clipboard voicing enabled. "
+msgstr "Clipboard voicing enabled."
+
+
+msgid "Self-voicing enabled. "
+msgstr "Self-voicing enabled."
+
+
+msgid "bar"
+msgstr "barre"
+
+
+msgid "selected"
+msgstr "selectionné"
+
+
+msgid "viewport"
+msgstr "viewport"
+
+
+msgid "horizontal scroll"
+msgstr "déf. horizontal"
+
+
+msgid "vertical scroll"
+msgstr "déf. vertical"
+
+
+msgid "activate"
+msgstr "activé"
+
+
+msgid "deactivate"
+msgstr "déactivé"
+
+
+msgid "increase"
+msgstr "augmenter"
+
+
+msgid "decrease"
+msgstr "diminuer"
+
+
+msgid "Font Override"
+msgstr "Font Override"
+
+
+msgid "Default"
+msgstr "Default"
+
+
+msgid "DejaVu Sans"
+msgstr "DejaVu Sans"
+
+
+msgid "Opendyslexic"
+msgstr "Opendyslexic"
+
+
+msgid "High Contrast Text"
+msgstr "Contraste élevé"
+
+
+msgid "Enable"
+msgstr "Actif"
+
+
+msgid "Self-Voicing"
+msgstr "Self-Voicing"
+
+
+msgid "Off"
+msgstr "Off"
+
+
+msgid "Text-to-speech"
+msgstr "Texte-à-la-voix"
+
+
+msgid "Clipboard"
+msgstr "Presse-papier"
+
+
+msgid "Debug"
+msgstr "Débug"
+
+
+msgid "Self-Voicing Volume Drop"
+msgstr "Self-Voicing Volume Drop"
+
+
+msgid "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+msgstr "Les options de ce menu sont destinées à améliorer l'accessibilité. Ils ne fonctionnent pas avec tous les jeux, et certaines combinaisons d'options peuvent rendre le jeu injouable. Ce n'est pas une issue avec le jeu ou le moteur. Pour les meilleurs résultats lorsque vous modifiez des polices, essayez de garder la taille du texte identique à celle de l'origine."
+
+
+msgid "{#weekday}Monday"
+msgstr "{#weekday}Lundi"
+
+
+msgid "{#weekday}Tuesday"
+msgstr "{#weekday}Mardi"
+
+
+msgid "{#weekday}Wednesday"
+msgstr "{#weekday}Mercredi"
+
+
+msgid "{#weekday}Thursday"
+msgstr "{#weekday}Jeudi"
+
+
+msgid "{#weekday}Friday"
+msgstr "{#weekday}Vendredi"
+
+
+msgid "{#weekday}Saturday"
+msgstr "{#weekday}Samedi"
+
+
+msgid "{#weekday}Sunday"
+msgstr "{#weekday}Dimanche"
+
+
+msgid "{#weekday_short}Mon"
+msgstr "{#weekday_short}Lu"
+
+
+msgid "{#weekday_short}Tue"
+msgstr "{#weekday_short}Ma"
+
+
+msgid "{#weekday_short}Wed"
+msgstr "{#weekday_short}Me"
+
+
+msgid "{#weekday_short}Thu"
+msgstr "{#weekday_short}Je"
+
+
+msgid "{#weekday_short}Fri"
+msgstr "{#weekday_short}Ve"
+
+
+msgid "{#weekday_short}Sat"
+msgstr "{#weekday_short}Sa"
+
+
+msgid "{#weekday_short}Sun"
+msgstr "{#weekday_short}Di"
+
+
+msgid "{#month}January"
+msgstr "{#month}Janvier"
+
+
+msgid "{#month}February"
+msgstr "{#month}Février"
+
+
+msgid "{#month}March"
+msgstr "{#month}Mars"
+
+
+msgid "{#month}April"
+msgstr "{#month}Avril"
+
+
+msgid "{#month}May"
+msgstr "{#month}Mai"
+
+
+msgid "{#month}June"
+msgstr "{#month}Juin"
+
+
+msgid "{#month}July"
+msgstr "{#month}Juillet"
+
+
+msgid "{#month}August"
+msgstr "{#month}Aout"
+
+
+msgid "{#month}September"
+msgstr "{#month}Septembre"
+
+
+msgid "{#month}October"
+msgstr "{#month}Octobre"
+
+
+msgid "{#month}November"
+msgstr "{#month}Novembre"
+
+
+msgid "{#month}December"
+msgstr "{#month}Décembre"
+
+
+msgid "{#month_short}Jan"
+msgstr "{#month_short}Jan"
+
+
+msgid "{#month_short}Feb"
+msgstr "{#month_short}Fév"
+
+
+msgid "{#month_short}Mar"
+msgstr "{#month_short}Mar"
+
+
+msgid "{#month_short}Apr"
+msgstr "{#month_short}Avr"
+
+
+msgid "{#month_short}May"
+msgstr "{#month_short}Mai"
+
+
+msgid "{#month_short}Jun"
+msgstr "{#month_short}Jun"
+
+
+msgid "{#month_short}Jul"
+msgstr "{#month_short}Jul"
+
+
+msgid "{#month_short}Aug"
+msgstr "{#month_short}Aou"
+
+
+msgid "{#month_short}Sep"
+msgstr "{#month_short}Sep"
+
+
+msgid "{#month_short}Oct"
+msgstr "{#month_short}Oct"
+
+
+msgid "{#month_short}Nov"
+msgstr "{#month_short}Nov"
+
+
+msgid "{#month_short}Dec"
+msgstr "{#month_short}Déc"
+
+
+msgid "%b %d, %H:%M"
+msgstr "%d %b, %H:%M"
+
+
+msgid "Save slot %s: [text]"
+msgstr "Slot %s: [text] sauvé"
+
+
+msgid "Load slot %s: [text]"
+msgstr "Slot %s: [text] chargé"
+
+
+msgid "Delete slot [text]"
+msgstr "DSlot [text] effacé"
+
+
+msgid "File page auto"
+msgstr "Page fich. auto"
+
+
+msgid "File page quick"
+msgstr "Page fich. quick"
+
+
+msgid "File page [text]"
+msgstr "Page [text] fich."
+
+
+msgid "Next file page."
+msgstr "Prochaine page."
+
+
+msgid "Previous file page."
+msgstr "Page précédente."
+
+
+msgid "Quick save complete."
+msgstr "Sauvegarde rapide fait."
+
+
+msgid "Quick save."
+msgstr "Sauv. rapide."
+
+
+msgid "Quick load."
+msgstr "Chargmt rapide."
+
+
+msgid "Language [text]"
+msgstr "Langue [text]"
+
+
+msgid "The interactive director is not enabled here."
+msgstr "Le directeur interactif n'est pas activé ici."
+
+
+msgid "⬆"
+msgstr "⬆"
+
+
+msgid "⬇"
+msgstr "⬇"
+
+
+msgid "Done"
+msgstr "Fait"
+
+
+msgid "(statement)"
+msgstr "(déclaration)"
+
+
+msgid "(tag)"
+msgstr "(tag)"
+
+
+msgid "(attributes)"
+msgstr "(attributs)"
+
+
+msgid "(transform)"
+msgstr "(transformation)"
+
+
+msgid "(transition)"
+msgstr "(transition)"
+
+
+msgid "(channel)"
+msgstr "(cannal)"
+
+
+msgid "(filename)"
+msgstr "(nom de fichier)"
+
+
+msgid "Change"
+msgstr "Changer"
+
+
+msgid "Add"
+msgstr "Ajout"
+
+
+msgid "Cancel"
+msgstr "Effacer"
+
+
+msgid "Remove"
+msgstr "Remplacer"
+
+
+msgid "Statement:"
+msgstr "Déclaration:"
+
+
+msgid "Tag:"
+msgstr "Tag:"
+
+
+msgid "Attributes:"
+msgstr "Attributs:"
+
+
+msgid "Transforms:"
+msgstr "Transformation:"
+
+
+msgid "Behind:"
+msgstr "Derrière:"
+
+
+msgid "Transition:"
+msgstr "Transition:"
+
+
+msgid "Channel:"
+msgstr "Cannal:"
+
+
+msgid "Audio Filename:"
+msgstr "Nom fichier audio:"
+
+
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr?"
+
+
+msgid "Are you sure you want to delete this save?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette sauvegarde?"
+
+
+msgid "Are you sure you want to overwrite your save?"
+msgstr "Êtes-vous sûr de vouloir écraser votre sauvegarde?"
+
+
+msgid "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+msgstr "Le chargement supprimenra les progrès non enregistrés.\nÊtes-vous sûr que vous voulez faire cela?"
+
+
+msgid "Are you sure you want to quit?"
+msgstr "Êtes-vous sûr de vouloir quitter?"
+
+
+msgid "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+msgstr "Êtes-vous sûr de vouloir retourner au menu principal?\nCeci perdra les progrès non enregistrés."
+
+
+msgid "Are you sure you want to end the replay?"
+msgstr "Êtes-vous sûr de vouloir mettre fin à la relecture?"
+
+
+msgid "Are you sure you want to begin skipping?"
+msgstr "Êtes-vous sûr de vouloir commencer à sauter?"
+
+
+msgid "Are you sure you want to skip to the next choice?"
+msgstr "Êtes-vous sûr de vouloir passer au choix suivant?"
+
+
+msgid "Are you sure you want to skip unseen dialogue to the next choice?"
+msgstr "Êtes-vous sûr de vouloir ignorer un dialogue invisible jusqu'au choix suivant?"
+
+
+msgid "Failed to save screenshot as %s."
+msgstr "Échec de la sauvegarde de la capture d'écran %s."
+
+
+msgid "Saved screenshot as %s."
+msgstr "Savegarde de la capture d'écran %s."
+
+
+msgid "Skip Mode"
+msgstr "Mode saut"
+
+
+msgid "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+msgstr "Ce programme contient des logiciels libres sous un certain nombre de licences de licence et de licence de GNU générale. Une liste complète du logiciel, y compris des liens vers le code source complet, peut être trouvé {a=https://www.renpy.org/l/license}ici{/a}."
+
+
+msgid "display"
+msgstr "écran"
+
+
+msgid "transitions"
+msgstr "transitions"
+
+
+msgid "skip transitions"
+msgstr "sauter transitions"
+
+
+msgid "video sprites"
+msgstr "video sprites"
+
+
+msgid "show empty window"
+msgstr "voir les fenêtres vide"
+
+
+msgid "text speed"
+msgstr "vitesse texte"
+
+
+msgid "joystick"
+msgstr "joystick"
+
+
+msgid "joystick..."
+msgstr "joystick..."
+
+
+msgid "skip"
+msgstr "sauter"
+
+
+msgid "skip unseen [text]"
+msgstr "Ignorer [text] invisible"
+
+
+msgid "skip unseen text"
+msgstr "Sauter le texte invisible"
+
+
+msgid "begin skipping"
+msgstr "début saut"
+
+
+msgid "after choices"
+msgstr "après choix"
+
+
+msgid "skip after choices"
+msgstr "sauter après choix"
+
+
+msgid "auto-forward time"
+msgstr "auto-forward time"
+
+
+msgid "auto-forward"
+msgstr "auto-forward"
+
+
+msgid "Auto forward"
+msgstr "Auto forward"
+
+
+msgid "auto-forward after click"
+msgstr "auto-forward after click"
+
+
+msgid "automatic move"
+msgstr "automatic move"
+
+
+msgid "renderer menu"
+msgstr "menu rendu"
+
+
+msgid "accessibility menu"
+msgstr "menu accessibilité"
+
+
+msgid "Contacting App Store\nPlease Wait..."
+msgstr "Accès à l'App Store\nPatientez svp..."
+
+
+msgid "The Ren'Py Updater is not supported on mobile devices."
+msgstr "Le programme de mise à jour Ren'py n'est pas pris en charge sur les appareils mobiles."
+
+
+msgid "An error is being simulated."
+msgstr "Une erreur est arrivée."
+
+
+msgid "Either this project does not support updating, or the update status file was deleted."
+msgstr "Soit le projet ne prend pas en charge la mise à jour, ou le fichier d'état de la mise à jour a été supprimé."
+
+
+msgid "This account does not have permission to perform an update."
+msgstr "Ce compte n'a pas la permission d'effectuer une mise à jour."
+
+
+msgid "This account does not have permission to write the update log."
+msgstr "Ce compte n'a pas la permission d'écrire le journal de mise à jour."
+
+
+msgid "Could not verify update signature."
+msgstr "Impossible de vérifier la signature de la mise à jour."
+
+
+msgid "The update file was not downloaded."
+msgstr "Le fichier de mise à jour n'a pas été téléchargé."
+
+
+msgid "The update file does not have the correct digest - it may have been corrupted."
+msgstr "Le fichier de mise à jour n'a pas la bonne - il peut avoir été corrompu."
+
+
+msgid "While unpacking {}, unknown type {}."
+msgstr "En décompressant {}, type inconnu {}."
+
+
+msgid "Updater"
+msgstr "Mise à jour"
+
+
+msgid "An error has occured:"
+msgstr "Une erreur s'est produite:"
+
+
+msgid "Checking for updates."
+msgstr "Vérification des mises à jour."
+
+
+msgid "This program is up to date."
+msgstr "Ce programme est à jour."
+
+
+msgid "[u.version] is available. Do you want to install it?"
+msgstr "[u.version] est disponible. Voulez-vous l'installer?"
+
+
+msgid "Preparing to download the updates."
+msgstr "Préparation du téléchargement de la mise à jour."
+
+
+msgid "Downloading the updates."
+msgstr "Téléchargement de la mise à jour."
+
+
+msgid "Unpacking the updates."
+msgstr "Décompression de la mise à jour."
+
+
+msgid "Finishing up."
+msgstr "Finition."
+
+
+msgid "The updates have been installed. The program will restart."
+msgstr "La mise à jour a été installée. Le programme va redémarrer."
+
+
+msgid "The updates have been installed."
+msgstr "Les mises à jour ont été installées."
+
+
+msgid "The updates were cancelled."
+msgstr "Les mises à jour ont été annulées."
+
+
+msgid "Proceed"
+msgstr "En cours"
+
+
+msgid "Image [index] of [count] locked."
+msgstr "Image [index] de [count] est bloquée."
+
+
+msgid "prev"
+msgstr "préc."
+
+
+msgid "next"
+msgstr "suiv."
+
+
+msgid "slideshow"
+msgstr "slideshow"
+
+
+msgid "return"
+msgstr "retour"
+
+
+msgid "Renderer"
+msgstr "Rendu"
+
+
+msgid "Automatically Choose"
+msgstr "Choisir automatiquement."
+
+
+msgid "Force GL Renderer"
+msgstr "Force rendu GL"
+
+
+msgid "Force ANGLE Renderer"
+msgstr "Force rendu ANGLE"
+
+
+msgid "Force GLES Renderer"
+msgstr "Force rendu GLES"
+
+
+msgid "Force GL2 Renderer"
+msgstr "Force rendu GL2"
+
+
+msgid "Force ANGLE2 Renderer"
+msgstr "Force rendu ANGLE2"
+
+
+msgid "Force GLES2 Renderer"
+msgstr "Force rendu GLES2"
+
+
+msgid "Enable (No Blocklist)"
+msgstr "Enable (No Blocklist)"
+
+
+msgid "Powersave"
+msgstr "Powersave"
+
+
+msgid "Framerate"
+msgstr "Framerate"
+
+
+msgid "Screen"
+msgstr "Screen"
+
+
+msgid "Changes will take effect the next time this program is run."
+msgstr "Les changements entreront en vigueur la prochaine fois que ce programme est exécuté."
+
+
+msgid "Performance Warning"
+msgstr "Avertissement de performance"
+
+
+msgid "This computer is using software rendering."
+msgstr "Cet ordinateur utilise le rendu logiciel."
+
+
+msgid "This game requires use of GL2 that can't be initialised."
+msgstr "Ce jeu nécessite l'utilisation du rendu GL2 qui ne peut pas être initialisée."
+
+
+msgid "This computer has a problem displaying graphics: [problem]."
+msgstr "Cet ordinateur a un problème d'affichage graphique: [problem]."
+
+
+msgid "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
+msgstr "Ses pilotes graphiques peuvent être obsolètes ou ne pas fonctionner correctement. Cela peut entraîner un affichage graphique lent ou incorrect."
+
+
+msgid "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
+msgstr "Le fichier {a=edit:1:log.txt}log.txt{/a} peut contenir des informations pour vous aider à déterminer ce qui ne va pas avec votre ordinateur."
+
+
+msgid "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
+msgstr "Plus de détails sur la manière de résoudre ce problème peut être trouvé dans la {a=[url]}documentation{/a}."
+
+
+msgid "Continue, Show this warning again"
+msgstr "Continuer, montre à nouveau cet avertissement"
+
+
+msgid "Continue, Don't show warning again"
+msgstr "Continuer, Ne montre plus cet avertissement à nouveau"
+
+
+msgid "Change render options"
+msgstr "Changer les options de rendu."
+
+
+msgid "Opens the traceback.txt file in a text editor."
+msgstr "Ouvre le fichier traceback.txt dans un éditeur de texte."
+
+
+msgid "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+msgstr "Copie le fichier traceback.txt dans le presse-papiers comme BBcode pour les forums comme https://lemmasoft.renai.us/."
+
+
+msgid "Copy Markdown"
+msgstr "Copie en Markdown"
+
+
+msgid "Copies the traceback.txt file to the clipboard as Markdown for Discord."
+msgstr "Copie le fichier traceback.txt dans le presse-papiers Markdown pour Discord."
+
+
+msgid "An exception has occurred."
+msgstr "Une exception s'est produite."
+
+
+msgid "Rollback"
+msgstr "Retour"
+
+
+msgid "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+msgstr "Tente de retourner à un moment précédent, vous permettant d'enregistrer ou de choisir un choix différent."
+
+
+msgid "Ignore"
+msgstr "Ignorer"
+
+
+msgid "Ignores the exception, allowing you to continue."
+msgstr "Ignore l'exception, vous permettant de continuer."
+
+
+msgid "Ignores the exception, allowing you to continue. This often leads to additional errors."
+msgstr "Ignore l'exception, vous permettant de continuer. Cela conduit souvent à des erreurs supplémentaires."
+
+
+msgid "Reload"
+msgstr "Recharger"
+
+
+msgid "Reloads the game from disk, saving and restoring game state if possible."
+msgstr "Recharger le jeu à partir d'une sauvegarde et restauration de l'état de jeu si possible."
+
+
+msgid "Console"
+msgstr "Console"
+
+
+msgid "Opens a console to allow debugging the problem."
+msgstr "Ouvre une console pour permettre de déboguer le problème."
+
+
+msgid "Quits the game."
+msgstr "Quitter le jeu."
+
+
+msgid "Parsing the script failed."
+msgstr "L'analyse du script a échoué."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
