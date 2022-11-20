@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-08-28 14:40\n"
+"PO-Revision-Date: 2022-11-20 20:06\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_star.rpy:34 #-#-# translate crowdin star_chat_1_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_star.rpy:37 #-#-# translate crowdin star_chat_1_a15df3f6:
 msgid "[_billspook_] Hey Star, it's Inviso-Bill."
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/code/misc/spookchat_star.rpy:62 #-#-# translate crowdin star_chat_2_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_star.rpy:65 #-#-# translate crowdin star_chat_2_776ee735:
 msgid "[_billspook_] What's it like being popular?"
@@ -62,7 +62,7 @@ msgstr ""
 
 # game/code/misc/spookchat_star.rpy:83 #-#-# translate crowdin star_chat_2_76b2fe88_1:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_star.rpy:86 #-#-# translate crowdin star_chat_2_caca9512:
 msgid "[_billspook_] Had any more trouble with ghosts lately?"
@@ -94,7 +94,7 @@ msgstr ""
 
 # game/code/misc/spookchat_star.rpy:103 #-#-# translate crowdin star_chat_2_76b2fe88_2:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_star.rpy:106 #-#-# translate crowdin star_chat_2_c68e0156:
 msgid "[_billspook_] Has Paulina mentioned me lately?"
@@ -138,7 +138,7 @@ msgstr ""
 
 # game/code/misc/spookchat_star.rpy:126 #-#-# translate crowdin star_chat_2_76b2fe88_3:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_star.rpy:129 #-#-# translate crowdin star_chat_2_4201900e:
 msgid "[_billspook_] What do you know about Danny Fenton?"
@@ -178,7 +178,7 @@ msgstr ""
 
 # game/code/misc/spookchat_star.rpy:148 #-#-# translate crowdin star_chat_2_76b2fe88_4:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_star.rpy:151 #-#-# translate crowdin star_chat_2_13a20b7e:
 msgid "[_billspook_] I'll talk to you later, Star. Got some ghosts to go beat down!"
@@ -198,7 +198,7 @@ msgstr ""
 
 # game/code/misc/spookchat_star.rpy:187 #-#-# translate crowdin first_chat_star_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_star.rpy:190 #-#-# translate crowdin first_chat_star_686019d7:
 msgid "[_billspook_] Hey, this is the Amity Park Ghost Boy. Is this Star? [multiple2]"
@@ -250,7 +250,7 @@ msgstr ""
 
 # game/code/misc/spookchat_star.rpy:221 #-#-# translate crowdin first_chat_star_76b2fe88_1:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_star.rpy:232 #-#-# translate crowdin first_chat_star_1245c6ea:
 msgid "[_danny_s_phantom_s_arms_normal_s_at_player_s_rise_s_talk_happy_] (Okay then, if words alone won't do it, then how about this?)"
@@ -274,7 +274,7 @@ msgstr ""
 
 # game/code/misc/spookchat_star.rpy:248 #-#-# translate crowdin first_chat_star_76b2fe88_2:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_star.rpy:260 #-#-# translate crowdin first_chat_star_0993f316:
 msgid "[_starspook_] OMG!!! Okay, wow! I'm sorry I didn't believe you!! This is so crazy. Lol. Hi, I'm Star!! [multiple2]"
