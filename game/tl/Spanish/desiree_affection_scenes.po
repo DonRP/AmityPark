@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-10 20:32\n"
+"PO-Revision-Date: 2022-11-20 14:13\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/desiree/desiree_affection_scenes.rpy:42 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_8c364de1:
 msgid "[_desiree_] Good morning, master~..."
@@ -30,7 +30,7 @@ msgstr "[_desiree_] Nada, de verdad. Sólo pensé en mostrar algo de aprecio por
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:56 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_b2e77223:
 msgid "[_desiree_] My old master used to adore waking up to such treats..."
-msgstr ""
+msgstr "[_desiree_] Mi viejo maestro adoraraba despertar con este desayuno..."
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:60 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_37c60448:
 msgid "[_desiree_] Of course, breakfast was usually skipped over and {i}I{/i} ended up as the treat myself...~"
@@ -38,19 +38,19 @@ msgstr ""
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:63 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_6c16bbbf:
 msgid "[_danny_s_boxers_s_towards_s_rise_s_talk_happy_] Desiree, thank you, that's really nice... but, you know you really didn't have to do this right?"
-msgstr ""
+msgstr "[_danny_s_boxers_s_towards_s_rise_s_talk_happy_] Desire, gracias, es muy agradable... pero, ¿sabes que no tenías que hacer esto?"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:67 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_4e6d515d:
 msgid "[_desiree_] I am clearly aware of that, I simply {i}wanted{/i} to.~"
-msgstr ""
+msgstr "[_desiree_] Soy totalmente consciente, simplemente {i}quería {/i} a. ~"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:70 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_8e3dd99a:
 msgid "[_danny_s_boxers_s_towards_s_idle_s_talk_happy_] Well, it definitely looks good!"
-msgstr ""
+msgstr "[_danny_s_boxers_s_towards_s_idle_s_talk_happy_] Bueno, definitivamente ¡se ve delicioso!"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:74 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_2f503a6f:
 msgid "[_desiree_] I hope you enjoy it very much!{p}"
-msgstr ""
+msgstr "[_desiree_] ¡Espero que lo disfrutes!{p}"
 
 # game/code/character_events/desiree/desiree_affection_scenes.rpy:78 #-#-# translate crowdin desiree_affection_1_bedroom_morning_intro_comtimue_55d20fef:
 msgid "[_extend_] Now then, are you by any chance busy tonight?"
