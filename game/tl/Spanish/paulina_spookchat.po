@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-20 20:06\n"
+"PO-Revision-Date: 2022-11-20 21:38\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/paulina/paulina_spookchat.rpy:23 #-#-# translate crowdin paulina_selfie_shot_event_bb271ba9:
 msgid "[_phone_] {i}Bzzt{/i} {i}Bzzt{/i}"
@@ -86,23 +86,23 @@ msgstr "[_billspook_] Wow, gracias por hacer mi día mejor..."
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:71 #-#-# translate crowdin paulina_selfie_shot_event_3c1dcac0:
 msgid "[_paulinaspook_] Just thought you'd like to be reminded of what it is your helping to protect from those other nasty ghosts... >:)"
-msgstr ""
+msgstr "[_paulinaspook_] Pensé que te gustaría que te recordaran que es de gran ayuda tu protección contra esos fantasmas desagradables... >:)"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:72 #-#-# translate crowdin paulina_selfie_shot_event_2efbf010:
 msgid "[_billspook_] Oh yeah, I definitely feel a lot more motivated now."
-msgstr ""
+msgstr "[_billspook_] Oh sí, definitivamente me siento mucho más motivado ahora."
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:73 #-#-# translate crowdin paulina_selfie_shot_event_91f26e0d:
 msgid "[_billspook_] Thanks a million Paulina"
-msgstr ""
+msgstr "[_billspook_] Un millón de gracias Paulina"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:74 #-#-# translate crowdin paulina_selfie_shot_event_8a9bb817:
 msgid "[_paulinaspook_] Anytime, Ghost Boy ;)"
-msgstr ""
+msgstr "[_paulinaspook_] Hasta pronto, chico fantasma;)"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:84 #-#-# translate crowdin paulina_selfie_shot_event_74af6199:
 msgid "[_danny_] (Man... I would have never thought in a million years that something like this would he happening...)"
-msgstr ""
+msgstr "[_danny_] (Joder... No habría pensado ni en un millón de años que algo así iba a suceder...)"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:86 #-#-# translate crowdin paulina_selfie_shot_event_dc9ed1e8:
 msgid "[_danny_] (Chalk one up for Inviso-Bill!)"
@@ -110,9 +110,9 @@ msgstr ""
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:88 #-#-# translate crowdin paulina_selfie_shot_event_d57e43bd:
 msgid "[_danny_] . . ."
-msgstr ""
+msgstr "[_danny_]..."
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:90 #-#-# translate crowdin paulina_selfie_shot_event_e271d23d:
 msgid "[_danny_] (Nah, still sounds stupid, even when I'm celebrating lewd photos saying it...)"
-msgstr ""
+msgstr "[_danny_] (Nah, todavía suena estúpido, incluso cuando estoy celebrando fotos lascivas diciendo que...)"
 
