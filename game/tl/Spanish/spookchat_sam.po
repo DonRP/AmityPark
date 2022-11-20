@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:08\n"
+"PO-Revision-Date: 2022-11-20 20:06\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_sam.rpy:32 #-#-# translate crowdin sam_chat_1_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_sam.rpy:35 #-#-# translate crowdin sam_chat_1_d965545e:
 msgid "[_dannyspook_] Hey Sam, you there?"
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/code/misc/spookchat_sam.rpy:60 #-#-# translate crowdin sam_chat_2_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_sam.rpy:63 #-#-# translate crowdin sam_chat_2_b21f6f3d:
 msgid "[_dannyspook_] Anything new with you?"
@@ -66,7 +66,7 @@ msgstr ""
 
 # game/code/misc/spookchat_sam.rpy:82 #-#-# translate crowdin sam_chat_2_76b2fe88_1:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_sam.rpy:85 #-#-# translate crowdin sam_chat_2_0297e136:
 msgid "[_dannyspook_] What do you think of my parents? Do you think they're crazy?"
@@ -114,7 +114,7 @@ msgstr ""
 
 # game/code/misc/spookchat_sam.rpy:107 #-#-# translate crowdin sam_chat_2_76b2fe88_2:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_sam.rpy:110 #-#-# translate crowdin sam_chat_2_046337db:
 msgid "[_dannyspook_] How're your folks doing?"
@@ -146,7 +146,7 @@ msgstr ""
 
 # game/code/misc/spookchat_sam.rpy:128 #-#-# translate crowdin sam_chat_2_76b2fe88_3:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_sam.rpy:131 #-#-# translate crowdin sam_chat_2_f7171c88:
 msgid "[_dannyspook_] Do you worry about the ghost attacks at all?"
@@ -186,7 +186,7 @@ msgstr ""
 
 # game/code/misc/spookchat_sam.rpy:150 #-#-# translate crowdin sam_chat_2_76b2fe88_4:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/misc/spookchat_sam.rpy:153 #-#-# translate crowdin sam_chat_2_f48e4f6c:
 msgid "[_dannyspook_] I'll talk to you later, Sam. Peace out, lord of \"dorkness\". Lol"
