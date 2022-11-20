@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-11-20 20:06\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/sam/sam_spookchat_selfie.rpy:20 #-#-# translate crowdin sam_selfie_shot_event_bb271ba9:
 msgid "[_phone_] {i}Bzzt{/i} {i}Bzzt{/i}"
-msgstr ""
+msgstr "[_phone_] {i}Bzzt {/i} {i}Bzzt {/i}"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:23 #-#-# translate crowdin sam_selfie_shot_event_011e2579:
 msgid "[_danny_] Huh- Who could this be at this hour?"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:30 #-#-# translate crowdin sam_selfie_shot_event_76b2fe88:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:33 #-#-# translate crowdin sam_selfie_shot_event_1a9a3d78:
 msgid "[_samspook_] Danny? Are you there yet?"
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:42 #-#-# translate crowdin sam_selfie_shot_event_76b2fe88_1:
 msgid "[nvl_clear]"
-msgstr ""
+msgstr "[nvl_clear]"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:61 #-#-# translate crowdin sam_selfie_shot_event_68f2f620:
 msgid "[_samspook_] Maybe this could give you some extra Orgone as well."
