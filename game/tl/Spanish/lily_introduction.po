@@ -10,47 +10,47 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:04\n"
+"PO-Revision-Date: 2022-11-20 19:05\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/lily/lily_introduction.rpy:13 #-#-# translate crowdin lily_introduction_bf7b03eb:
 msgid "[_danny_s_towards_s_rise_s_smile_] ({i}Hmmm...{/i} help wanted, huh? For fifty bucks a shift? I could always use the spare change lying around.)"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_smile_] ({i}Hmmm... {/i} ¿quería ayuda?, ¿eh? ¿Por cincuenta dólares un cambio? ¿y puede dejar el cambio como propina para el personal.)"
 
 # game/code/character_events/lily/lily_introduction.rpy:16 #-#-# translate crowdin lily_introduction_1ddc6fa3:
 msgid "[_lily_s_towards_s_idle_s_talk_happy_] Welcome to Nasty Burger, home of the Nasty Burger, can I take your order?"
-msgstr ""
+msgstr "[_lily_s_towards_s_idle_s_talk_happy_] Bienvenido a Nasty Burger, casa de la amburguesa Nasty, ¿qué quiere tomar?"
 
 # game/code/character_events/lily/lily_introduction.rpy:19 #-#-# translate crowdin lily_introduction_137d8bbb:
 msgid "[_danny_s_towards_s_idle_s_talk_happy_] Well, actually, I noticed your sign on the side here."
-msgstr ""
+msgstr "[_danny_s_towards_s_idle_s_talk_happy_] Bueno, en realidad, noté tu presencia desde aquí."
 
 # game/code/character_events/lily/lily_introduction.rpy:22 #-#-# translate crowdin lily_introduction_11cec765:
 msgid "[_lily_s_towards_s_idle_s_talk_displeased_] Huh? Oh yeah, the open positions. Yeah, our shift manager {b}Irving{/b} cut a bunch of the staff we had on hand."
-msgstr ""
+msgstr "[_lily_s_towards_s_idle_s_talk_displeased_] Huh? Oh sí, los puestos de personal sin cubrir. Nuestro gestor de turnos {b}Irving {/b} recortó personal."
 
 # game/code/character_events/lily/lily_introduction.rpy:25 #-#-# translate crowdin lily_introduction_a079dea7:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] Was it because of the rats they found?"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] ¿Fue debido a las ratas que encontraron?"
 
 # game/code/character_events/lily/lily_introduction.rpy:28 #-#-# translate crowdin lily_introduction_bb618734:
 msgid "[_lily_s_towards_s_angry_s_talk_displeased_] No, the rats were all let in when Irving opened the back door to air the place out!"
-msgstr ""
+msgstr "[_lily_s_towards_s_angry_s_talk_displeased_] ¡No, las ratas entraron cuando Irving abrió la puerta de atrás para airear el restaurante!"
 
 # game/code/character_events/lily/lily_introduction.rpy:31 #-#-# translate crowdin lily_introduction_c63590ab:
 msgid "[_lily_s_towards_s_sad_s_talk_displeased_] So of course he didn't get the boot, go figure."
-msgstr ""
+msgstr "[_lily_s_towards_s_sad_s_talk_displeased_] Así que por supuesto que consiguió su objetivo, imaginate."
 
 # game/code/character_events/lily/lily_introduction.rpy:34 #-#-# translate crowdin lily_introduction_dddbd884:
 msgid "[_lily_s_towards_s_rise_s_talk_displeased_] Now, everybody else got let go because of the high demands and expectations he started setting after his mistake!"
-msgstr ""
+msgstr "[_lily_s_towards_s_rise_s_talk_displeased_] ¡Ahora, todo el mundo se ha ido debido a las altas exigencias y expectativas que empezó a poner después de su error!"
 
 # game/code/character_events/lily/lily_introduction.rpy:37 #-#-# translate crowdin lily_introduction_89de0309:
 msgid "[_lily_s_towards_s_angry_s_talk_displeased_] Like, what a douche. Not everybody can work holidays or during family funerals, y'know?"
-msgstr ""
+msgstr "[_lily_s_towards_s_angry_s_talk_displeased_] Es como ducharse o no ducharse. No todo el mundo puede trabajar en vacaciones o durante los funerales familiares, ¿sabes?"
 
 # game/code/character_events/lily/lily_introduction.rpy:40 #-#-# translate crowdin lily_introduction_5541e306:
 msgid "[_danny_s_towards_s_angry_s_talk_consternation_] Jeez, guy sounds like a real piece of work."
-msgstr ""
+msgstr "[_danny_s_towards_s_angry_s_talk_consternation_] Jeez, suena como un trabajo de mierda."
 
 # game/code/character_events/lily/lily_introduction.rpy:43 #-#-# translate crowdin lily_introduction_0bc2a582:
 msgid "[_lily_s_towards_s_sad_s_talk_displeased_] Yeah, he sucks, but you should be fine. The sign's just offering some part time shifts, not a full time gig."
