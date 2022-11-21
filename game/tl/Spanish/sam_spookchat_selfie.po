@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-20 20:06\n"
+"PO-Revision-Date: 2022-11-21 09:25\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/sam/sam_spookchat_selfie.rpy:20 #-#-# translate crowdin sam_selfie_shot_event_bb271ba9:
 msgid "[_phone_] {i}Bzzt{/i} {i}Bzzt{/i}"
@@ -18,7 +18,7 @@ msgstr "[_phone_] {i}Bzzt {/i} {i}Bzzt {/i}"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:23 #-#-# translate crowdin sam_selfie_shot_event_011e2579:
 msgid "[_danny_] Huh- Who could this be at this hour?"
-msgstr ""
+msgstr "[_danny_] Huh-¿Quién podría ser a esta hora?"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:30 #-#-# translate crowdin sam_selfie_shot_event_76b2fe88:
 msgid "[nvl_clear]"
@@ -26,27 +26,27 @@ msgstr "[nvl_clear]"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:33 #-#-# translate crowdin sam_selfie_shot_event_1a9a3d78:
 msgid "[_samspook_] Danny? Are you there yet?"
-msgstr ""
+msgstr "[_samspook_] ¿Danny? ¿estás todavía ahí?"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:34 #-#-# translate crowdin sam_selfie_shot_event_2d5ca562:
 msgid "[_dannyspook_] No, not yet. What's up?"
-msgstr ""
+msgstr "[_dannyspook_] No, aún no. ¿Qué sucede?"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:35 #-#-# translate crowdin sam_selfie_shot_event_0e62d454:
 msgid "[_samspook_] It's nothing. I was thinking about you and you know.."
-msgstr ""
+msgstr "[_samspook_] No es nada. Estaba pensando en ti y sabes.."
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:36 #-#-# translate crowdin sam_selfie_shot_event_5177c0ab:
 msgid "[_dannyspook_] Don't worry Sam, I'm going to win this time!)"
-msgstr ""
+msgstr "[_dannyspook_] ¡No te preocupes Sam, voy a ganar esta vez!)"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:37 #-#-# translate crowdin sam_selfie_shot_event_5a150404:
 msgid "[_samspook_] Yeah, you better do so."
-msgstr ""
+msgstr "[_samspook_] Sí, mejor que lo hagas."
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:38 #-#-# translate crowdin sam_selfie_shot_event_47378480:
 msgid "[_samspook_] But for some extra motivation take a look at this."
-msgstr ""
+msgstr "[_samspook_] para algo de motivación extra echa un vistazo a esto."
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:42 #-#-# translate crowdin sam_selfie_shot_event_76b2fe88_1:
 msgid "[nvl_clear]"
@@ -54,43 +54,43 @@ msgstr "[nvl_clear]"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:61 #-#-# translate crowdin sam_selfie_shot_event_68f2f620:
 msgid "[_samspook_] Maybe this could give you some extra Orgone as well."
-msgstr ""
+msgstr "[_samspook_] Tal vez esto también te de un poco de Orgone extra."
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:63 #-#-# translate crowdin sam_selfie_shot_event_66cc88d2:
 msgid "[_dannyspook_] !!!!!"
-msgstr ""
+msgstr "[_dannyspook_] !!!!!"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:64 #-#-# translate crowdin sam_selfie_shot_event_f588fadf:
 msgid "[_dannyspook_] Oh yeah, I definitely feel a lot more motivated now."
-msgstr ""
+msgstr "[_dannyspook_] Oh sí, definitivamente me siento mucho más motivado ahora."
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:65 #-#-# translate crowdin sam_selfie_shot_event_b2651309:
 msgid "[_samspook_] Oh, man why did I do this. Now I feel so embarrassed about this. -.-"
-msgstr ""
+msgstr "[_samspook_] Oh, ¿por qué hice esto?. Ahora me siento avergonzada. -.-"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:66 #-#-# translate crowdin sam_selfie_shot_event_3533271d:
 msgid "[_dannyspook_] Thank you Sam! "
-msgstr ""
+msgstr "[_dannyspook_] ¡Gracias Sam! "
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:67 #-#-# translate crowdin sam_selfie_shot_event_09f45668:
 msgid "[_dannyspook_] I feel unstoppable now!!"
-msgstr ""
+msgstr "[_dannyspook_] ¡¡Ahora me siento imparable!!"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:68 #-#-# translate crowdin sam_selfie_shot_event_474265e9:
 msgid "[_samspook_] Hehe.. that's nice to hear. :)"
-msgstr ""
+msgstr "[_samspook_] Hehe.. eso es agradable oír. :)"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:69 #-#-# translate crowdin sam_selfie_shot_event_26b6bfab:
 msgid "[_samspook_] And don't forget about Tucker, he is counting on you as well."
-msgstr ""
+msgstr "[_samspook_] Y no te olvides de Tucker, está contando contigo también."
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:70 #-#-# translate crowdin sam_selfie_shot_event_1cd84cdd:
 msgid "[_dannyspook_] I won't."
-msgstr ""
+msgstr "[_dannyspook_] No lo haré."
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:71 #-#-# translate crowdin sam_selfie_shot_event_14d40335:
 msgid "[_dannyspook_] Thanks a million Sam"
-msgstr ""
+msgstr "[_dannyspook_] Un millón de gracias Sam"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:72 #-#-# translate crowdin sam_selfie_shot_event_50e73e1b:
 msgid "[_samspook_] No, problem, dude. :P"
@@ -98,13 +98,13 @@ msgstr ""
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:82 #-#-# translate crowdin sam_selfie_shot_event_a2936ecc:
 msgid "[_danny_] (Man... Sam is the best.)"
-msgstr ""
+msgstr "[_danny_] (bien... Sam es el mejor.)"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:84 #-#-# translate crowdin sam_selfie_shot_event_398d8b96:
 msgid "[_danny_] (Who would have thought we would ever end up in a relationship like this?)"
-msgstr ""
+msgstr "[_danny_] (¿Quién hubiera pensado que alguna vez terminaríamos en una relación como esta?)"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:86 #-#-# translate crowdin sam_selfie_shot_event_bc56dc96:
 msgid "[_danny_] Alright! Let's go! I'm coming Tucker!"
-msgstr ""
+msgstr "[_danny_] ¡Muy bien! ¡Vamos! ¡Ya voy Tucker!"
 
