@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-11-21 09:25\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/star/star_gym_running.rpy:17 #-#-# translate crowdin gym_monday_star_running_repeat_4f533b71:
 msgid "[_danny_s_gym_s_towards_s_wondering_s_smile_] (Doesn't look like anybody's really taking advantage of the gym this early today.)"
-msgstr ""
+msgstr "[_danny_s_gym_s_towards_s_wondering_s_smile_] (parece que hoy nadie está aprovechando el gimnasio.)"
 
 # game/code/character_events/star/star_gym_running.rpy:19 #-#-# translate crowdin gym_monday_star_running_repeat_7b991684:
 msgid "[_danny_s_gym_s_at_player_s_rise_s_smile_] (Oh, except for Star, she's here, jogging the track.)"
-msgstr ""
+msgstr "[_danny_s_gym_s_at_player_s_rise_s_smile_] (Oh, excepto Star, que está corriendo en la pista)"
 
 # game/code/character_events/star/star_gym_running.rpy:24 #-#-# translate crowdin gym_monday_star_running_repeat_030a4355:
 msgid "[_danny_] (Man, look at her go.)"
-msgstr ""
+msgstr "[_danny_] (Joper, mira su marcha.)"
 
 # game/code/character_events/star/star_gym_running.rpy:26 #-#-# translate crowdin gym_monday_star_running_repeat_27dccb91:
 msgid "[_danny_] (She's always doing some type of cardio work it feels like...)"
-msgstr ""
+msgstr "[_danny_] (Ella siempre hace algún ejercicio de cardio...)"
 
 # game/code/character_events/star/star_gym_running.rpy:29 #-#-# translate crowdin gym_monday_star_running_repeat_ceba2108:
 msgid "[_danny_] (Dang... she's got it going on back there too...)"
@@ -34,15 +34,15 @@ msgstr ""
 
 # game/code/character_events/star/star_gym_running.rpy:31 #-#-# translate crowdin gym_monday_star_running_repeat_aa20ad40:
 msgid "[_danny_] (Just one of those forbidden fruits, sadly...)"
-msgstr ""
+msgstr "[_danny_] (Sólo una de esas frutas prohibidas, tristemente...)"
 
 # game/code/character_events/star/star_gym_running.rpy:71 #-#-# translate crowdin gym_monday_star_running_competition_308c52ad:
 msgid "[_star_s_gym_s_towards_s_angry_s_talk_displeased_] {i}Urgh!{/i} Are you just gonna stand there and zoom in on my ass all day, dude?"
-msgstr ""
+msgstr "[_star_s_gym_s_towards_s_angry_s_talk_displeased_] {i}Urgh! {/i} ¿vas a estar de pie haciendo zoom de mi culo todo el día?"
 
 # game/code/character_events/star/star_gym_running.rpy:74 #-#-# translate crowdin gym_monday_star_running_competition_1af00391:
 msgid "[_danny_s_towards_wide_s_sad_s_talk_consternation_] W-what?"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_sad_s_talk_consternation_] ¿Q-qué?"
 
 # game/code/character_events/star/star_gym_running.rpy:77 #-#-# translate crowdin gym_monday_star_running_competition_56211619:
 msgid "[_star_s_towards_s_rise_s_talk_displeased_] You're so obvious, nerd."
