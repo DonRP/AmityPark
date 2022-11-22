@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-22 10:53\n"
+"PO-Revision-Date: 2022-11-22 12:54\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:57 #-#-# translate crowdin valerie_random_nasty_burger_soda_cb6df6fa:
 msgid "[_lily_s_towards_s_rise_s_talk_displeased_] Hey, Danny, could you help me out over here for a second?"
@@ -102,47 +102,47 @@ msgstr "[_lily_s_down_s_sad_s_talk_displeased_] Dang, es posible que sólo tenga
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:175 #-#-# translate crowdin valerie_random_nasty_burger_soda_171ec616:
 msgid "[_danny_s_burger_s_towards_s_angry_s_talk_distraught_] Well then here, {i}you{/i} try it, if you're such an expert with machines, braniac!"
-msgstr ""
+msgstr "[_danny_s_burger_s_towards_s_angry_s_talk_distraught_] Pues bien, inténtalo {i}tú {/i}, si tú eres una experta con máquinas, genia!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:179 #-#-# translate crowdin valerie_random_nasty_burger_soda_8fc3e9a4:
 msgid "[_lily_s_up_s_sad_s_talk_displeased_] No, guys, seriously, it's fine! I doubt it'll come out of any of our salaries anyway, let's not-"
-msgstr ""
+msgstr "[_lily_s_up_s_sad_s_talk_displeased_] No, chicos, en serio, ¡está bien! Dudo que salga de cualquiera de nuestros salarios de todos modos, no-"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:195 #-#-# translate crowdin valerie_random_nasty_burger_soda_3026897d:
 msgid "[_valerie_] Finally! That's about the first thing you've said that's sounded like a good idea!"
-msgstr ""
+msgstr "[_valerie_] ¡Por último! ¡Eso es lo primero que has dicho que ha sonado como una buena idea!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:200 #-#-# translate crowdin valerie_random_nasty_burger_soda_7dd2c774:
 msgid "[_valerie_] All we need to do is give it a good whack! That's what you do with anything that's not working right!"
-msgstr ""
+msgstr "[_valerie_] Todo lo que tenemos que hacer es darle un buen golpe! ¡Eso es lo que haces con cualquier cosa que no esté funcionando bien!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:204 #-#-# translate crowdin valerie_random_nasty_burger_soda_b8cd01e0:
 msgid "[_danny_s_burger_s_towards_s_rise_s_talk_distraught_] You can't just smack stuff around and expect it to start working, Valerie!"
-msgstr ""
+msgstr "[_danny_s_burger_s_towards_s_rise_s_talk_distraught_] No puedes simplemente machacar cosas y esperar que empiece a funcionar, ¡Valerie!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:208 #-#-# translate crowdin valerie_random_nasty_burger_soda_16301bae:
 msgid "[_lily_s_up_s_sad_s_talk_consternation_] Y-yeah, please, let's {i}not{/i} go around hitting work property, please!"
-msgstr ""
+msgstr "[_lily_s_up_s_sad_s_talk_consternation_] y-yeah, por favor, vamos a {i}no {/i} den más vueltas a la propiedad de trabajo, por favor!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:213 #-#-# translate crowdin valerie_random_nasty_burger_soda_2a595cc9:
 msgid "[_valerie_] Fine, you wanna talk big, Fenton?! Watch and learn!"
-msgstr ""
+msgstr "[_valerie_] Bien, ¿quieres hablar a lo grande, Fenton?! ¡Mira y aprender!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:232 #-#-# translate crowdin valerie_random_nasty_burger_soda_2df3785b:
 msgid "[_valerie_] {i}AHHH!!!{/i}"
-msgstr ""
+msgstr "[_valerie_] {i}AHHH!!! {/i}"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:236 #-#-# translate crowdin valerie_random_nasty_burger_soda_1a7f1271:
 msgid "[_lily_s_up_s_sad_s_talk_distraught_] Oh no! Valerie!!"
-msgstr ""
+msgstr "[_lily_s_up_s_sad_s_talk_distraught_] ¡Oh no! ¡Valerie!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:243 #-#-# translate crowdin valerie_random_nasty_burger_soda_5b53ca1a:
 msgid "[_danny_s_burger_s_towards_s_rise_s_talk_happy_] {i}Heh{/i}... I guess you {u}can{/u} just smack stuff around and get it to work. Good job Valerie."
-msgstr ""
+msgstr "[_danny_s_burger_s_towards_s_rise_s_talk_happy_] {i}Heh {/i} ... Supongo que tú {u}puedes {/u} simplemente machacar cosas y conseguir que funcionen. Buen trabajo Valerie."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:248 #-#-# translate crowdin valerie_random_nasty_burger_soda_cb0c2a61:
 msgid "[_valerie_] {i}Urgh{/i}, great... I'm completely soaked!"
-msgstr ""
+msgstr "[_valerie_] {i}Urgh {/i}, genial ... ¡Estoy completamente empapada!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:252 #-#-# translate crowdin valerie_random_nasty_burger_soda_611e7583:
 msgid "[_lily_s_towards_s_rise_s_talk_happy_] I mean... at least we got it to work, right gang?"
