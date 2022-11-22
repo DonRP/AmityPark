@@ -10,95 +10,95 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-24 18:20\n"
+"PO-Revision-Date: 2022-11-22 10:53\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:57 #-#-# translate crowdin valerie_random_nasty_burger_soda_cb6df6fa:
 msgid "[_lily_s_towards_s_rise_s_talk_displeased_] Hey, Danny, could you help me out over here for a second?"
-msgstr ""
+msgstr "[_lily_s_towards_s_rise_s_talk_displeased_] Hey, Danny, ¿podrías ayudarme un segundo?"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:67 #-#-# translate crowdin valerie_random_nasty_burger_soda_0ee8319a:
 msgid "[_danny_s_burger_s_towards_s_idle_s_talk_happy_] Sure thing, what's the problem?"
-msgstr ""
+msgstr "[_danny_s_burger_s_towards_s_idle_s_talk_happy_] Claro, ¿cuál es el problema?"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:70 #-#-# translate crowdin valerie_random_nasty_burger_soda_a3bc0041:
 msgid "[_lily_s_towards_s_sad_s_talk_displeased_] This customer ordered an Xtra Large Nasty Orange soda, but the pop machine's not dispensing any."
-msgstr ""
+msgstr "[_lily_s_towards_s_sad_s_talk_displeased_] Este cliente ordenó un Xtra Largo y Grande Refresco de Naranja, pero la máquina pop no está dispensando ninguno."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:73 #-#-# translate crowdin valerie_random_nasty_burger_soda_c272bda9:
 msgid "[_danny_s_burger_s_towards_s_idle_s_talk_displeased_] I see..."
-msgstr ""
+msgstr "[_danny_s_burger_s_towards_s_idle_s_talk_displeased_] Ya veo..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:76 #-#-# translate crowdin valerie_random_nasty_burger_soda_f2317501:
 msgid "[_lily_s_towards_s_rise_s_talk_displeased_] Yeah, so I just offered him a lemonade for no charge, but we should try to get this fixed quick. Got any ideas?"
-msgstr ""
+msgstr "[_lily_s_towards_s_rise_s_talk_displeased_] Sí, así que le ofrecí una limonada gratis, pero deberíamos tratar de conseguir reparar esta máquina rápido. ¿Tienes alguna idea?"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:79 #-#-# translate crowdin valerie_random_nasty_burger_soda_4fabd1d1:
 msgid "[_lily_s_towards_s_sad_s_talk_happy_] You've mentioned your parents were like, inventors or something, right? I figured you might, I don't know, have some handy skill fixing stuff..."
-msgstr ""
+msgstr "[_lily_s_towards_s_sad_s_talk_happy_] Habías mencionado que tus padres eran como, inventores o algo, ¿verdad? Me imaginé que podrías, no sé, tener algunas herramientas y habilidad..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:82 #-#-# translate crowdin valerie_random_nasty_burger_soda_7f11f939:
 msgid "[_danny_s_burger_s_down_s_sad_s_talk_displeased_] Ya know, that's really more {i}their{/i} forte, I don't..."
-msgstr ""
+msgstr "[_danny_s_burger_s_down_s_sad_s_talk_displeased_] sabes, es realmente más {i}su {/i} fuerte, yo no ..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:85 #-#-# translate crowdin valerie_random_nasty_burger_soda_3240cdf2:
 msgid "[_lily_s_towards_s_sad_s_talk_displeased_] Dude, please? Stupid Irving will have my ass if he sees I'm comping too many meal items, and the Orange soda's the most popular drink!"
-msgstr ""
+msgstr "[_lily_s_towards_s_sad_s_talk_displeased_] Dude, por favor? ¡ El estúpido Irving tendrá mi culo si ve que estoy trasteando demasiados artículos de comida porque el refresco de naranja és la bebida más popular!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:88 #-#-# translate crowdin valerie_random_nasty_burger_soda_98b6a67c:
 msgid "[_danny_s_burger_s_towards_s_unhappy_s_talk_happy_] {i}Uhhh{/i}...{p}...okay, I'm still not sure, but... here, let me at least try some things..."
-msgstr ""
+msgstr "[_danny_s_burger_s_towards_s_unhappy_s_talk_happy_] {i}Uhhh {/i} ...{p}... bien, estoy seguro, pero ... aquí, déjame probar algunas cosas ..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:110 #-#-# translate crowdin valerie_random_nasty_burger_soda_287a472c:
 msgid "[_valerie_] Lily, do we have any extra napkins, I don't see any in the back room at all."
-msgstr ""
+msgstr "[_valerie_] Lily, ¿tenemos algunas servilletas extra?, no veo ninguna en el almacén."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:115 #-#-# translate crowdin valerie_random_nasty_burger_soda_c041c69e:
 msgid "[_extend_] Huh? What're you guys doing?"
-msgstr ""
+msgstr "[_extend_] Huh? ¿Qué estáis haciendo?"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:119 #-#-# translate crowdin valerie_random_nasty_burger_soda_e996b487:
 msgid "[_danny_s_burger_s_towards_s_rise_s_talk_displeased_] Soda machine. Might be broken."
-msgstr ""
+msgstr "[_danny_s_burger_s_towards_s_rise_s_talk_displeased_] La máquina de refrescos. Parece estar averiada."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:123 #-#-# translate crowdin valerie_random_nasty_burger_soda_8ae6117f:
 msgid "[_lily_s_away_s_sad_s_talk_happy_] Yeah, Danny's trying to help figure it out right now."
-msgstr ""
+msgstr "[_lily_s_away_s_sad_s_talk_happy_] Sí, Danny está tratando de repararla."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:128 #-#-# translate crowdin valerie_random_nasty_burger_soda_43a2befa:
 msgid "[_valerie_] Little baby Einstein Jr.'s gonna try fixing something? Oh, {i}this{/i} should be good."
-msgstr ""
+msgstr "[_valerie_] Pequeño bebe Einstein Jr. ¿Va a intentar arreglar algo? Oh, {i}esto {/i} será divertido."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:132 #-#-# translate crowdin valerie_random_nasty_burger_soda_1afe3e19:
 msgid "[_danny_s_burger_s_towards_s_unhappy_s_talk_consternation_] {i}Hmmm{/i}. Button doesn't {i}feel{/i} jammed or anything. What the heck could be wrong with it?"
-msgstr ""
+msgstr "[_danny_s_burger_s_towards_s_unhappy_s_talk_consternation_] {i}Hmmm {/i}. El botón no {i}está {/i} atascado. ¿Qué diablos podría estar mal?"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:136 #-#-# translate crowdin valerie_random_nasty_burger_soda_b5f4eb3c:
 msgid "[_lily_s_towards_s_rise_s_talk_displeased_] I dunno, it's just been on the fritz all day. Nothing's been coming out of it!"
-msgstr ""
+msgstr "[_lily_s_towards_s_rise_s_talk_displeased_] No lo sé, ha estado todo el día parada. ¡No ha salido nada en todo el día!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:141 #-#-# translate crowdin valerie_random_nasty_burger_soda_287c2a83:
 msgid "[_valerie_] Gotta be all that extra sugar Irving pours in it. This stuff's thicker than maple syrup!"
-msgstr ""
+msgstr "[_valerie_]Podría ser el azúcar adicional Irving vierte en él. ¡Ese material es más grueso que el jarabe de arce!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:145 #-#-# translate crowdin valerie_random_nasty_burger_soda_252139f1:
 msgid "[_danny_s_burger_s_towards_s_unhappy_s_talk_consternation_] Yeah, definitely could be some kinda sugar residue blockage..."
-msgstr ""
+msgstr "[_danny_s_burger_s_towards_s_unhappy_s_talk_consternation_] Sí, definitivamente podría ser algún bloqueo de residuos de azúcar..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:150 #-#-# translate crowdin valerie_random_nasty_burger_soda_033f3532:
 msgid "[_valerie_] Oh, I'm glad you concur with my diagnosis, doctor..."
-msgstr ""
+msgstr "[_valerie_] Oh, me alegro de que concuerde con mi diagnóstico, doctor ..."
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:154 #-#-# translate crowdin valerie_random_nasty_burger_soda_378e5091:
 msgid "[_danny_s_burger_s_angry_s_talk_displeased_] Will you knock it off! I'm at least trying something here!"
-msgstr ""
+msgstr "[_danny_s_burger_s_angry_s_talk_displeased_] ¡cállate ya! ¡Al menos estoy intentando arreglarla!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:159 #-#-# translate crowdin valerie_random_nasty_burger_soda_f3c07efa:
 msgid "[_valerie_] And you've come up with nothing of use! You're barely even trying to get that stuff out!"
-msgstr ""
+msgstr "[_valerie_] ¡no estás haciendo nada útil! ¡Ni estás tratando de sacar esas cosas!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:163 #-#-# translate crowdin valerie_random_nasty_burger_soda_85f67bc6:
 msgid "[_lily_s_down_s_sad_s_talk_displeased_] Dang, I might just need to tell Irving to call corporate and order a new-"
-msgstr ""
+msgstr "[_lily_s_down_s_sad_s_talk_displeased_] Dang, es posible que sólo tenga que decirle a Irving que llame a las empresas y pedir un nuevo-"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:175 #-#-# translate crowdin valerie_random_nasty_burger_soda_171ec616:
 msgid "[_danny_s_burger_s_towards_s_angry_s_talk_distraught_] Well then here, {i}you{/i} try it, if you're such an expert with machines, braniac!"
