@@ -10,75 +10,75 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-23 13:47\n"
+"PO-Revision-Date: 2022-11-23 15:50\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
-msgstr ""
+msgstr "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... ¿qué...?{p}¿Por qué estaba tirado en el suelo...?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:41 #-#-# translate crowdin intro_24cad70b:
 msgid "[_danny_s_down_s_sad_s_frown_3_] (What happened last night?){p}The last thing I remember..."
-msgstr ""
+msgstr "[_danny_s_down_s_sad_s_frown_3_] (¿Qué pasó anoche?){p}Lo último que recuerdo..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:46 #-#-# translate crowdin intro_4303aa3a:
 msgid "[_danny_s_towards_s_sad_] (Oh yeah… there was... some kind've accident in the {b}Fenton Work's Lab{/b}...)"
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_] (Oh sí… hubo... algún tipo de accidente en el {b}laboratorio de Fenton{/b}...)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:51 #-#-# translate crowdin intro_4fbf4b08:
 msgid "[_danny_s_rise_one_s_down_] ({i}Hmmm{/i}... I was... I was trying to take a look inside my parents' {b}\"Ghost Portal\"{/b} they built after it didn't quite work. I think I accidentally pressed a button on the side of the wall or something...)"
-msgstr ""
+msgstr "[_danny_s_rise_one_s_down_] ({i}Hmmm{/i}... Estaba... {b}Estaba intentando echar un vistazo dentro del \"Portal Fantasma\"{/b} de mis padres, que construyeron y que no funcionaba del todo. Creo que pulsé accidentalmente un botón en el lado de la pared o algo así...)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:64 #-#-# translate crowdin intro_cb112b07:
 msgid "[_danny_] (Suddenly, there was a {u}great big flash{/u}... everything just {i}changed{/i}...{p}man, I hope my molecules weren't all rearranged...)"
-msgstr ""
+msgstr "[_danny_] (De repente, hubo un {u}gran flash{/u}... todo simplemente {i}cambió{/i}...{p}Joder, espero que las moléculas de mi cuerpo no hayan sido reordenadas...)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:66 #-#-# translate crowdin intro_d01af09e:
 msgid "[_danny_] ({i}Heh{/i}, that rhymed.)"
-msgstr ""
+msgstr "[_danny_] ({i}Heh{/i}, eso rimó como un pareado.)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:79 #-#-# translate crowdin intro_acf690bd:
 msgid "[_danny_] (And then... when I woke back up, I was... no... it couldn't be... right?)"
-msgstr ""
+msgstr "[_danny_] (Y entonces... cuando me desperté de nuevo, estaba... no... no podía ser... ¿verdad?)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:81 #-#-# translate crowdin intro_d636ae29:
 msgid "[_danny_] (...had I really been turned into a... a {b}ghost{/b}...?{p}How else could I have gotten back into my room...?)"
-msgstr ""
+msgstr "[_danny_] (...¿realmente me había convertido en un... un {b}fantasma{/b}...?{p}¿Cómo puedo haber vuelto a mi habitación...?)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:86 #-#-# translate crowdin intro_565378f5:
 msgid "[_danny_] (N-no, I must have just bumped my head and imagined the whole thing! Dad probably just found me down in the lab and carried me up here, that's all! Ghosts are {i}absolutely{/i} not, in any {i}conceivable{/i} reality, {u}real{/u}.)"
-msgstr ""
+msgstr "[_danny_] (¡No!, debo haberme golpeado la cabeza y haberme imaginado todo! Probablemente papá me encontró inconsciente en el laboratorio y me trajo hasta aquí, ¡eso es todo! {i}Los fantasmas no son en absoluto, en ninguna realidad {i}concebible, {u}real{/u}."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:99 #-#-# translate crowdin intro_61804c48:
 msgid "[_danny_s_p7_] Oh crap! It really {u}did{/u} happen!{p}I'm actually {u}dead{/u}!!"
-msgstr ""
+msgstr "[_danny_s_p7_] ¡Oh, mierda! ¡Realmente {u}sucedió!{p}¡¡Estoy ahora {u}muerto{/u}!!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:102 #-#-# translate crowdin intro_82c577de:
 msgid "[_jack_] {i}DANNY!!{/i} I'm getting a reading from the {b}Fenton Finder{/b} that there's a ghost in your room!{p}Try to fend it off with your weaponized teenage hormones while your mother and I grab our ghost hunting gear! Good luck, son!!"
-msgstr ""
+msgstr "[_jack_] {i}¡¡DANNY!!{/i} Estoy recibiendo una lectura del {b}Buscador Fenton{/b} de que hay un fantasma en tu habitación!{p}¡Trata de ahuyentarlo con tus hormonas adolescentes armadas mientras tu madre y yo cogemos los equipos de caza de fantasmas!. ¡Buena suerte, hijo!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:106 #-#-# translate crowdin intro_5501def0:
 msgid "[_danny_] Oh man! If Mom and Dad catch me like this, I'm toast!"
-msgstr ""
+msgstr "[_danny_] ¡Oh, joder! Si mamá y papá me pillan así, ¡estoy frito!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:112 #-#-# translate crowdin intro_6fc261b8:
 msgid "[_danny_] Gotta think, how can I switch back?!"
-msgstr ""
+msgstr "[_danny_] Tengo que pensar, ¡¿cómo puedo volver a cambiar?!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:118 #-#-# translate crowdin intro_fadfa698:
 msgid "[_jack_] Nearly there son, just a few more seconds!! Hold on muh' boy!!"
-msgstr ""
+msgstr "[_jack_] Ya casi está, hijo, ¡sólo unos segundos más! ¡Aguanta, muchacho!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:122 #-#-# translate crowdin intro_74e7129e:
 msgid "[_danny_s_p9_] Gotta... focus... {i}focus!!{/i}"
-msgstr ""
+msgstr "[_danny_s_p9_] Tengo que... concentrarme... {i}¡concentrarme!{/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:132 #-#-# translate crowdin intro_91069740:
 msgid "[_jack_s_stare_s_angry_s_talk_happy_] Alright, ghost!! Get ready to meet your maker!!{p}For {i}sure{/i} this time!"
-msgstr ""
+msgstr "[_jack_s_stare_s_angry_s_talk_happy_] Muy bien, ¡fantasma! ¡Prepárate para conocer a tu creador!{p}¡Por {i}seguro{/i} esta vez!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:150 #-#-# translate crowdin intro_c5548982:
 msgid "[_danny_s_talk_happy_s_wondering_] {i}Uhhhhmm{/i}, h-hey guys! L-look! No ghost here! Just {i}regular{/i} old Danny! Yessir, nothing out of the ordinary, just a boring, {u}completely{/u} non-translucent young adult's room! {i}Ah heh, hehh{/i}..."
-msgstr ""
+msgstr "[_danny_s_talk_happy_s_wondering_] {i}Uhhhhmm{/i}, ¡hey! ¡Mirad! ¡No hay ningún fantasma aquí! ¡Sólo Danny! Sí, nada fuera de lo común, sólo una aburrida, {u} habitación de adolescente! {i}Ah heh, hehh{/i}..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:154 #-#-# translate crowdin intro_262fcb01:
 msgid "[_jack_s_towards_s_sad_s_talk_displeased_] Well that's strange... I could have {i}sworn{/i} the Fenton Finder indicated-"
