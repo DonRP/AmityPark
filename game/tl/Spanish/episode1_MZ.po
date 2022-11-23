@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-20 20:06\n"
+"PO-Revision-Date: 2022-11-23 13:47\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -966,7 +966,7 @@ msgstr ""
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1639 #-#-# translate crowdin redux_valerie_intro_20890889:
 msgid "[_valerie_] . . ."
-msgstr ""
+msgstr "[_valerie_] . . ."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1642 #-#-# translate crowdin redux_valerie_intro_f10e2410:
 msgid "[_danny_s_towards_s_rise_s_talk_happy_] Oh, after you, please. I wouldn't wanna hog up any of your precious hallway space, Val."
