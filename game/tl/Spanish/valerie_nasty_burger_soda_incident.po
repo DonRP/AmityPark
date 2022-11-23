@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-22 12:54\n"
+"PO-Revision-Date: 2022-11-23 12:48\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:57 #-#-# translate crowdin valerie_random_nasty_burger_soda_cb6df6fa:
 msgid "[_lily_s_towards_s_rise_s_talk_displeased_] Hey, Danny, could you help me out over here for a second?"
@@ -146,15 +146,15 @@ msgstr "[_valerie_] {i}Urgh {/i}, genial ... ¡Estoy completamente empapada!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:252 #-#-# translate crowdin valerie_random_nasty_burger_soda_611e7583:
 msgid "[_lily_s_towards_s_rise_s_talk_happy_] I mean... at least we got it to work, right gang?"
-msgstr ""
+msgstr "[_lily_s_towards_s_rise_s_talk_happy_] Quiero decir... al menos conseguimos que funcione, ¿verdad pandilla?"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:257 #-#-# translate crowdin valerie_random_nasty_burger_soda_c7049d7c:
 msgid "[_valerie_] {i}FENTOOOOON!!{/i}"
-msgstr ""
+msgstr "[_valerie_] {i}¡FENTOOOOÓN!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:261 #-#-# translate crowdin valerie_random_nasty_burger_soda_3319072c:
 msgid "[_danny_s_burger_s_towards_wide_s_sad_s_talk_displeased_] L-look, I'm- I'm sorry Valerie, I didn't mean for that to happen, I swear!"
-msgstr ""
+msgstr "[_danny_s_burger_s_towards_wide_s_sad_s_talk_displeased_] Mira, lo... lo siento Valerie, no era mi intención que esto pasara, ¡lo juro!"
 
 # game/code/character_events/valerie/valerie_nasty_burger_soda_incident.rpy:266 #-#-# translate crowdin valerie_random_nasty_burger_soda_fa0f4f53:
 msgid "[_valerie_] {i}Uchh!{/i} It's all sticky too! This is so nasty!"
