@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/locations/Nasty_Burger_Interaction_MZ.po\n"
+"X-Crowdin-File-ID: 4230\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2022-11-24 09:03\n"
+
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/Nasty_Burger_Interaction_MZ.rpy:18 #-#-# translate crowdin talk_to_Lily_nasty_burger_01_f9318bf6:
+msgid "[_lily_] Hi there, welcome to Nasty Burger, may I take your order?"
+msgstr ""
+
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:25 #-#-# translate crowdin Nesty_Op1_c45965d8:
+msgid "[_danny_s_talk_happy_s_sad_2_] Are you taking anybody on for quick shifts at all? Just looking to make a few bucks today."
+msgstr ""
+
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:29 #-#-# translate crowdin Nesty_Op1_2eb27fc7:
+msgid "[_lily_] Yeup, all the time. I'll get you a spare uniform and you can get to work!"
+msgstr ""
+
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:38 #-#-# translate crowdin Nesty_Op1_839a2d54:
+msgid "[_lily_] Well that'd be nice, but shouldn't you be heading to school at your age right now?"
+msgstr ""
+
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:40 #-#-# translate crowdin Nesty_Op1_e370138c:
+msgid "[_lily_] Try coming back later in the day when we're open and classes are over"
+msgstr ""
+
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:48 #-#-# translate crowdin Nesty_Op1_21d8684b:
+msgid "[_danny_s_sad_s_talk_happy_2_] Oh no thank you, I'm good. See you around."
+msgstr ""
+
+msgid "What do I want at Nasty Burger?"
+msgstr ""
+
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
+msgid "Work for a portion of the day."
+msgstr ""
+
+# game/code/locations/Nasty_Burger_Interaction_MZ.rpy:21
+msgid "Just leave."
+msgstr ""
+
