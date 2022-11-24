@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/locations/school/school_upstairs_landing.po\n"
+"X-Crowdin-File-ID: 3908\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2022-11-24 09:03\n"
+
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/locations/school/school_upstairs_landing.rpy:255 #-#-# translate crowdin principaloffice_blocked_807550bf:
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_talk_amused_] I don't want to go in there unless I have to."
+msgstr ""
+
