@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-21 09:25\n"
+"PO-Revision-Date: 2022-11-24 11:40\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/sam/sam_spookchat_selfie.rpy:20 #-#-# translate crowdin sam_selfie_shot_event_bb271ba9:
 msgid "[_phone_] {i}Bzzt{/i} {i}Bzzt{/i}"
@@ -78,7 +78,7 @@ msgstr "[_dannyspook_] ¡¡Ahora me siento imparable!!"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:68 #-#-# translate crowdin sam_selfie_shot_event_474265e9:
 msgid "[_samspook_] Hehe.. that's nice to hear. :)"
-msgstr "[_samspook_] Hehe.. eso es agradable oír. :)"
+msgstr "[_samspook_] Hehe.. eso es agradable oír.)"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:69 #-#-# translate crowdin sam_selfie_shot_event_26b6bfab:
 msgid "[_samspook_] And don't forget about Tucker, he is counting on you as well."
@@ -94,7 +94,7 @@ msgstr "[_dannyspook_] Un millón de gracias Sam"
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:72 #-#-# translate crowdin sam_selfie_shot_event_50e73e1b:
 msgid "[_samspook_] No, problem, dude. :P"
-msgstr ""
+msgstr "[_samspook_] No hay problema, amigo."
 
 # game/code/character_events/sam/sam_spookchat_selfie.rpy:82 #-#-# translate crowdin sam_selfie_shot_event_a2936ecc:
 msgid "[_danny_] (Man... Sam is the best.)"
