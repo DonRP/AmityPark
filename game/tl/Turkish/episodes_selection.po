@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/episodes/episodes_selection.po\n"
+"X-Crowdin-File-ID: 4226\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2022-11-24 09:03\n"
+
+msgid "Paulina was in trouble! What did I do?!"
+msgstr ""
+
+# game/code/episodes/episodes_selection.rpy:202
+msgid "Saved her immediately!"
+msgstr ""
+
+# game/code/episodes/episodes_selection.rpy:202
+msgid "Waited to see what happens..."
+msgstr ""
+
+# game/code/episodes/episodes_selection.rpy:245
+msgid "Did I save Maddie from Ectopuss in the basement?"
+msgstr ""
+
+# game/code/episodes/episodes_selection.rpy:330
+msgid "Did I prank Sam at Star's request?"
+msgstr ""
+
+# game/code/episodes/episodes_selection.rpy:366
+msgid "Who did I take to the school dance?"
+msgstr ""
+
+# game/code/episodes/episodes_selection.rpy:366
+msgid "Sam"
+msgstr ""
+
+# game/code/episodes/episodes_selection.rpy:406
+msgid "Did I get romantically involved with Maddie?"
+msgstr ""
+
+# game/code/episodes/episodes_selection.rpy:440
+msgid "Who did I get my second orgone charge from?"
+msgstr ""
+
