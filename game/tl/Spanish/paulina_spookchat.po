@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-20 21:38\n"
+"PO-Revision-Date: 2022-11-24 11:40\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/paulina/paulina_spookchat.rpy:23 #-#-# translate crowdin paulina_selfie_shot_event_bb271ba9:
 msgid "[_phone_] {i}Bzzt{/i} {i}Bzzt{/i}"
@@ -34,11 +34,11 @@ msgstr "[_billspook_] ¡Hey Paulina! Todo bien. Estoy como de costumbre venciend
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:37 #-#-# translate crowdin paulina_selfie_shot_event_d6e03c2c:
 msgid "[_paulinaspook_] Ugh, that sucks! But I'm so glad your keeping us all safe! U rule <3"
-msgstr "[_paulinaspook_] Ugh, que asco!. ¡Estoy muy contenta de que nos mantengas a salvo! U rule < 3"
+msgstr "[_paulinaspook_] Ugh, que asco!. ¡Estoy muy contenta de que nos mantengas a salvo!"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:38 #-#-# translate crowdin paulina_selfie_shot_event_06090104:
 msgid "[_billspook_] All in a days work, no worries. B^)"
-msgstr "[_billspook_] Es mi trabajo diario, sin preocupaciones. B ^)"
+msgstr "[_billspook_] Es mi trabajo diario, sin preocupaciones.)"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:39 #-#-# translate crowdin paulina_selfie_shot_event_72229306:
 msgid "[_billspook_] So, what are you up to?"
@@ -86,7 +86,7 @@ msgstr "[_billspook_] Wow, gracias por hacer mi día mejor..."
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:71 #-#-# translate crowdin paulina_selfie_shot_event_3c1dcac0:
 msgid "[_paulinaspook_] Just thought you'd like to be reminded of what it is your helping to protect from those other nasty ghosts... >:)"
-msgstr "[_paulinaspook_] Pensé que te gustaría que te recordaran que es de gran ayuda tu protección contra esos fantasmas desagradables... >:)"
+msgstr "[_paulinaspook_] Pensé que te gustaría que te recordaran que es de gran ayuda tu protección contra esos fantasmas desagradables...)"
 
 # game/code/character_events/paulina/paulina_spookchat.rpy:72 #-#-# translate crowdin paulina_selfie_shot_event_2efbf010:
 msgid "[_billspook_] Oh yeah, I definitely feel a lot more motivated now."
