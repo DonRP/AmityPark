@@ -1,0 +1,1573 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/episodes/episode_5/episode_5_casual_night.po\n"
+"X-Crowdin-File-ID: 4218\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2022-11-24 09:03\n"
+
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_5/episode_5_casual_night.rpy:18 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_db41006a:
+msgid "[_danny_s_sad_] (Oh, Mom's here... I hope she's still not upset about the whole jumpsuit wardrobe malfunction the other day...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:20 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_acb11dd7:
+msgid "[_danny_s_rise_one_s_talk_frown_2_] Uhh, hey Mom. Hanging outside of the lab, I see..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:25 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_d91734d9:
+msgid "[_maddie_s_towards_s_talk_happy_2_] Oh, hey sweetie. I'm actually glad I ran into you. You haven't seen the remote anywhere, have you?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:27 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_836b3d3d:
+msgid "[_danny_s_blank_stare_s_rise_one_s_talk_frown_] For the TV? No, I haven't, is it missing? I don't really watch much television, honestly."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:29 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_d6c91781:
+msgid "[_maddie_s_talk_frown_s_away_s_wondering_] Oh, then where could it have gone? It's usually out here on the couch normally, and I even checked between the cushions..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:31 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_5319c62d:
+msgid "[_danny_s_rise_one_s_talk_frown_2_] You trying to watch the news or something?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:33 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_fd158f34:
+msgid "[_maddie_s_towards_wide_up_s_sad_2_s_talk_frown_] No, no, not at all. The news usually just depresses me unless it's ghost related. And things have been pretty quiet lately..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:35 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_32a12032:
+msgid "[_maddie_s_closed_s_talk_happy_s_sad_] There was actually some report on the other day about a reported \"ghost genie\" and \"nerdy ghost goblin\" sighting at the mall, but that's so ridiculous to be investigated legitimately. I certainly got a chuckle out of it..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:37 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_206b9d16:
+msgid "[_maddie_s_idle__s_towards_s_talk_frown_] I'm simply trying to find the remote so I can switch over to the DVD section of the cable input."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:39 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_36be1399:
+msgid "[_danny_s_talk_frown_s_sad_2_] Why's that?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:41 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_6c65c267:
+msgid "[_maddie_s_sad_s_talk_happy_s_towards_] I don't know, I just... I just feel like watching a movie is all. It feels like I haven't found a good time to just relax in a good long while, ya know?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:43 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_7bb83009:
+msgid "[_maddie_s_away_s_talk_frown_2_s_sad_] Raising you kids and working in the lab with your father has been great of course, but sometimes I just feel like... I don't know, a bit spread thin."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:45 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_a8a88a0c:
+msgid "[_danny_s_sad_2_s_talk_happy_] You just need to take more breaks mom! Being as busy and as inventive as you and Dad are, I'm sure it gets exhausting."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:47 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_99eeb010:
+msgid "[_maddie_s_towards_wide_s_talk_happy_s_wondering_] Yeah, it's good to just take a break every once and awhile, right? Today has just felt like a \"casual night in\" type of vibe, you know?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:49 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_2c6d76f1:
+msgid "[_maddie_s_away_wide_s_rise_one_3_s_talk_frown_] But with this darn remote missing, I can't even pop in a nice period piece or rom com to watch..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:51 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_2ddb21c3:
+msgid "[_danny_s_talk_happy_2_s_blank_stare_s_sad_] Well, I'll try looking for it around the house, I'm sure it's got to be around here somewhere. Unless a ghost can possess household appliances and start making them move around!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:53 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_72d4844b:
+msgid "[_maddie_s_sad_2_s_talk_happy_] Thank you dear. I'd appreciate that. I'm gonna keep checking between the cushions. Maybe your father knows something too..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:63 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_8c56f6bb:
+msgid "[_danny_s_rise_one_s_frown_] (Alright then, if I were a regular ol' black remote, where would I be?)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:65 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_da297973:
+msgid "[_danny_s_blank_stare_s_sad_s_frown_2_] (Hmmm... not one of my more {i}thrilling{/i} side adventures, honestly...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:67 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_7d9426a2:
+msgid "[_morahzamora_] Look, they're not all gonna be grand epics, alright? We're trying to get things done faster here."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:69 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_4cd01629:
+msgid "[_gzone__] Better az' well az' faster, mind you, 've don't want to try and rush things too quickly 'eizher."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:72 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_b1102a95:
+msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_2_] What the?! Who- who was- did I just hear... huh?!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:73 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_a5a3011d:
+msgid "[_danny_s_sad_2_s_blank_stare_s_frown_2_] (Oh great, the Fenton Portal gave me both ghost powers {i}and{/i} schizophrenia... and one of the voices is {b}German{/b} of all things...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:74 #-#-# translate crowdin A_Casual_Night_In_scene_1_livingroom_76a8b587:
+msgid "[_danny_s_towards_s_wondering_s_frown_3_] (Anyway, on to finding that remote... it's gotta be around the house somewhere, right?)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:104 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_79748a48:
+msgid "[_danny_s_sad_s_talk_happy_s_down_] Here we go, this little bugger was sitting here the whole time!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:107 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_dd3982ad:
+msgid "[_danny_s_blank_stare_s_talk_frown_s_rise_one_] But why? What would a remote be doing sitting in here for?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:113 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_87421589:
+msgid "[_jazz_s_towards_s_wondering_s_talk_frown_] Danny, what are you doing in here?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:121 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_2f17639e:
+msgid "[_danny_s_talk_frown_s_at_danny_s_rise_one_] Oh, hey Jazz, did you see this here at all?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:123 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_76b7b31c:
+msgid "[_jazz_s_towards_s_wondering_s_talk_frown_s_blush_] Uhm, wh-what do you mean?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:125 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_566d2561:
+msgid "[_danny_s_down_s_talk_frown_2_] I mean the TV remote. It was sitting here on this counter. In the bathroom of all places."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:126 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_c5118dd6:
+msgid "[_danny_s_towards_s_talk_frown_] Do you know anything about this?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:128 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_8fdb8571:
+msgid "[_jazz_s_towards_s_wondering_s_talk_frown_] Oh, uh, yeah, sorry, I was g-gonna put that back downstairs. I was just looking for some spare batteries for my..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:130 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_c547c1e4:
+msgid "[_jazz_s_towards_s_sad_s_talk_frown_] ...Game Boy... Color..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:132 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_12699f28:
+msgid "[_danny_s_talk_happy_s_towards_s_rise_one_] Game Boy? Jazz, since when have you ever played video games?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:134 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_1204924e:
+msgid "[_jazz_s_towards_s_wondering_s_talk_frown_] Well, I uh, I just thought I'd pick up a hobby, ya know? All that old retro gaming stuff... i-it's actually p-pretty neat!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:136 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_f1ad0ea0:
+msgid "[_danny_s_down_s_neutral_s_talk_frown_] But this remote doesn't have double A batteries, it takes triple A. You'd need double A batteries to play your Game Bo-"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:138 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_c267dbb9:
+msgid "[_jazz_s_towards_s_wondering_s_talk_frown_s_blush_] Alright, look, I'll give you back the stupid batteries, okay?!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:140 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_d8103444:
+msgid "[_danny_s_rise_one_s_blank_stare_s_talk_frown_2_] Huh? But I was just saying, you wouldn't even have any use for them, they're the wrong kind to-"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:142 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_82ed7856:
+msgid "[_jazz_s_towards_s_wondering_s_talk_frown_s_blush_] Danny, you're bugging me. Do you want the batteries or not?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:144 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_a691a0fe:
+msgid "[_danny_s_blank_stare_s_wondering_s_talk_frown_] Well, I {i}was{/i} just looking for the remote, but yeah, I guess I'll need to get those back now too..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:147 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_ed86559c:
+msgid "[_jazz_s_towards_s_sad_s_talk_frown_] Then quit your blabbering and just follow me... the batteries are in my room..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:150 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_3a71f500:
+msgid "[_danny_s_talk_happy_s_closed_s_sad_] Alright, no problem. Lead the way!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:152 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_30e37153:
+msgid "[_jazz_s_towards_s_idle_s_frown_s_blush_] {i}*Grrhh*{/i}..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:155 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_2c51437d:
+msgid "[_danny_s_at_player_s_rise_one_s_frown_3_] (Jeez, what's gotten under her skin? She could have just asked to borrow my Game Boy in the mean time...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:156 #-#-# translate crowdin A_Casual_Night_In_scene_2_bathroom_5c006259:
+msgid "[_danny_s_frown_2_s_towards_s_wondering_] (Chicks are so overly sensitive sometimes...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:186 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_d4e58c45:
+msgid "[_danny_s_rise_one_s_talk_happy_] Okay, so you said you had them?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:191 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_72e16eb0:
+msgid "[_jazz_s_flip_s_towards_s_sad_s_talk_frown_] {i}*Sigh*{/i} Yes, they're right here."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:193 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_b40a668f:
+msgid "[_danny_s_down_s_sad_s_talk_happy_2_] Great, thanks!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:195 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_cf4b9e4b:
+msgid "[_danny_s_towards_s_sad_s_talk_happy_] So, uhm, again, if you wanna use my Game Boy, I'd be willing to rent it to you for a fair-"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:197 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_f3d5800e:
+msgid "[_jazz_s_flip_s_towards_s_wondering_s_talk_frown_s_blush_] {b}Ugh{/b}, jeez Danny, are you gonna actually make me say it out loud?? I wasn't trying to use these for a silly Game Boy!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:199 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_a2865457:
+msgid "[_danny_s_blank_stare_s_talk_frown_s_sad_] Okay, yeah, see, that didn't really make any sense to me before, alrighty then, glad that's sorta cleared up..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:200 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_985c69fc:
+msgid "[_danny_s_towards_s_rise_one_s_talk_frown_2_] But like, what {i}were{/i} they for then?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:202 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_b54a514b:
+msgid "[_jazz_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:204 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_2eeef12a:
+msgid "[_jazz_s_flip_s_towards_s_sad_s_talk_frown_] I needed smaller batteries for something of mine..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:206 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_90606a39:
+msgid "[_danny_s_talk_frown_s_rise_one_] Yeah, what was it?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:208 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_65dea76b:
+msgid "[_jazz_s_flip_s_towards_s_wondering_s_talk_frown_] Look, do I {b}need{/b} to tell you?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:210 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_7a4982ce:
+msgid "[_danny_s_down_s_wondering_s_talk_frown_2_] Well, no, but I just thought I'd ask. I mean, if you needed fresh Triple A batteries, I could probably lend you some."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:212 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_8b9b3abe:
+msgid "[_jazz_s_flip_s_towards_s_wondering_s_talk_frown_] No Danny, trust me, it's fine, I didn't wanna bother you with this at all. Believe me."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:214 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_1bba59a1:
+msgid "[_danny_s_rise_one_s_talk_happy_] But why not, you're my sister! of course I'd help you out if you asked. I'm not that much of an intolerable little brother, am I?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:216 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_b1204cf2:
+msgid "[_jazz_s_flip_s_towards_s_wondering_s_talk_frown_s_blush_] It was because... I needed them for something sorta {b}personal{/b}, and, well... {u}private{/u}."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:218 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_d48a90b2:
+msgid "[_danny_s_blank_stare_s_frown_3_s_wondering_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:219 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_bb59e63b:
+msgid "[_danny_s_sad_s_frown_2_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:220 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_ac18ba32:
+msgid "[_danny_s_sad_2_s_towards_wide_s_talk_frown_] Oh. {i}Ohhhhh{/i}.... okay then... yeah, alright, I think I get the picture..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:222 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_cf625061:
+msgid "[_jazz_s_flip_s_towards_s_wondering_s_talk_frown_s_blush_] Ugh, look, this is embarassing, you just standing here and poorly sleuthing this whole thing out further than necessary! Just take your batteries and leave alrea-"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:224 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_c55d3d11:
+msgid "[_danny_s_sad_s_towards_wide_s_talk_frown_] A charging port!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:226 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_f9d7cf56:
+msgid "[_jazz_s_flip_s_towards_s_wondering_s_talk_frown_] Huh? What are you-"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:228 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_6e7e43eb:
+msgid "[_danny_s_closed_s_talk_happy_s_sad_] Well, ya know, the {b}thing{/b} you're looking to replace the batteries for, you should just get a new one. One with a charging port. Spare yourself the dependence on batteries."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:230 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_376f849d:
+msgid "[_jazz_s_flip_s_towards_s_sad_s_talk_frown_] Erhm... oh, r-right. Yeah, that, uh, that sounds like... a reasonable enough investment to make... {i}*Ahem*{/i} Well, uhh, again, th-thank you Danny. I'll take that into consideration."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:232 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_76067676:
+msgid "[_danny_s_rise_one_s_talk_happy_2_] Yeah, I mean, considering how much you must use it on a near daily basis, we don't wanna have to take a loan out on the house on Double A's! {i}Hah hah ha!{/i}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:234 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_afe326a4:
+msgid "[_jazz_s_flip_s_towards_s_idle_s_frown_s_blush_] {i}Grrhh...!!{/i}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:236 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_1b521024:
+msgid "[_jazz_s_flip_s_towards_s_wondering_s_talk_frown_s_blush_] {b}GET OUT OF MY ROOM ALREADY, DANNY!!{/b}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:249 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_b0f6ad83:
+msgid "[_danny_s_closed_s_grin_happy_s_sad_2_] (Heh heh... nothing better than teasing Jazz with intolerable levels of annoyance.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:253 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_99204705:
+msgid "[_danny_s_talk_happy_s_down_s_sad_] Anyway, I guess I can go give Mom the remote now."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:257 #-#-# translate crowdin A_Casual_Night_In_scene_3_jazz_room_2eced40d:
+msgid "[_danny_s_grin_happy_s_closed_s_neutral_] {i}*Chuckles*{/i} Oh Jazz... Jazz, Jazz, Jazz..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:286 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_dbb11e7a:
+msgid "[_maddie_s_sad_2_s_talk_frown_] Any luck?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:292 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_61682970:
+msgid "[_danny_s_talk_happy_s_sad_2_] Long story short, I got it!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:294 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_568c4c61:
+msgid "[_maddie_s_closed_s_idle__s_talk_happy_] Oh wonderful! Thank you Danny, I'm glad we got that little mystery solved."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:296 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_57b46e15:
+msgid "[_danny_s_rise_one_s_talk_happy_2_] Yeah, so uh, what movie were you going to watch? Would you mind if I watched it with yah?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:298 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_f3d34f03:
+msgid "[_maddie_s_towards_wide_up_s_sad_s_talk_happy_] Oh, well, yes, about that... I went to ask your father if he'd seen the remote, or to see if he had accidentally sat on it, ya know..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:300 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_9bb138c2:
+msgid "[_maddie_s_away_s_talk_happy_2_s_idle__] And we sorta got to talking, and I actually decided to change my plans a bit."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:302 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_4ec1a645:
+msgid "[_maddie_s_towards_s_talk_happy_s_rise_one_2_] I think me and him are just going to stay in our room together tonight."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:304 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_5b0a6789:
+msgid "[_danny_s_sad_s_talk_frown_] Oh, okay then. Well, as long as it still counts as taking some time for yourself!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:306 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_57cf5cde:
+msgid "[_maddie_s_blush_s_talk_happy_2_s_away_s_sad_] Yes Danny, I should be {b}plenty{/b} relaxed after tonight..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:308 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_241a7956:
+msgid "[_danny_s_neutral_s_talk_frown_2_] {i}*Ahem*{/i} Alright, well that's great, so, uh... have... fun?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:310 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_fe4f356c:
+msgid "[_maddie_s_noblush_s_talk_happy_s_wondering_s_towards_] Now, I've still got a little work to get done in the lab before then. Stop in donwstairs anytime Danny, I'll be there!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:312 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_9a670c27:
+msgid "[_danny_s_towards_s_talk_happy_2_s_sad_] Yeah, sure thing Mom. See you around then."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:318 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_e1ba08aa:
+msgid "[_danny_s_blank_stare_s_neutral_s_talk_frown_2_] Dang, I thought that might've made for a good time to hang out with Mom. I like spending time with her..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:319 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_8b484e3a:
+msgid "[_danny_s_towards_s_talk_frown_s_sad_] Oh well... I guess I'll just do my own thing then."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:320 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_e2b45182:
+msgid "[_danny_s_sad_2_s_towards_wide_s_talk_happy_] Yeah, I can make my own thing cool, right? Just Danny, hanging with Danny... {i}*Tsk*{/i} I mean, t-talk about Coolsville, just talking and hanging with yourself!!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:321 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_fcad6cb3:
+msgid "[_danny_s_talk_happy_2_s_at_player_s_neutral_] Aheh... heh... {i}yeeaahh{/i}..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:322 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_40094e6c:
+msgid "[_danny_s_frown_3_s_wondering_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:323 #-#-# translate crowdin A_Casual_Night_In_scene_4_livingroom_bf61679f:
+msgid "[_danny_s_towards_s_talk_frown_s_sad_] {i}*Ahem*{/i} M-maybe I'll just ask Mom to reconsider... otherwise I'm gonna be pretty bored today."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:348 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_aa432038:
+msgid "[_danny_s_sad_s_talk_frown_] Okay, so, I should probably just try my best to convince Mom to hang with me."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:349 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_4e83d218:
+msgid "[_danny_s_blank_stare_s_talk_frown_2_s_wondering_] I mean, I know it's their time to spend together, but it's not like they don't do that all the time in the lab anyway."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:350 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_3686a34f:
+msgid "[_danny_s_talk_frown_s_at_player_s_sad_] I feel like Mom and I should be allowed to just hang out for a little, a bit more one on-"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:352 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_06a9b19b:
+msgid "[_maddie_] {i}*Muffled Talking*{/i}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:354 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_bbdc1484:
+msgid "[_jack_] {i}*Muffled Chatter*{/i}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:355 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_f98a1d48:
+msgid "[_danny_s_talk_frown_s_at_player_] Huh? What was that I just heard?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:356 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_d7c345b4:
+msgid "[_danny_s_towards_s_frown_3_s_sad_] (Oh, I guess it could've just been Mom and Dad talking. I can't really hear them behind the door.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:357 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_8c689e40:
+msgid "[_danny_s_blank_stare_s_wondering_s_frown_2_] (Hmmm... maybe I'm just being a bit jealous. They both deserve their privacy together after all, so-)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:359 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_d968b023:
+msgid "[_jack_] {i}AUGHHH!!{/i} {i}*Bed Creaking*{/i}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:360 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_38133910:
+msgid "[_danny_s_talk_frown_2_s_sad_] Woah! Was that dad? Is he hurt?! Is this another ghost atta-"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:361 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_28fa96ba:
+msgid "[_danny_s_rise_one_s_talk_frown_] Or... no, wait... are they- is it really..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:363 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_996c6538:
+msgid "[_doorsound_] {i}*Creak* *Creak* *Creak* *Creak* Creak*{/i}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:364 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_d1bbaf8a:
+msgid "[_danny_s_at_danny_s_sad_s_talk_frown_2_] Oh man... this is kinda uncomfortable... I don't even know if I..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:366 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_47b9b899:
+msgid "[_danny_s_blank_stare_s_wondering_s_frown_3_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:368 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_cc929b42:
+msgid "[_danny_s_frown_grin_s_neutral_s_towards_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:371 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_271f6ce7:
+msgid "[_danny_s_blank_stare_s_sad_s_frown_2_] (One quick peek. It won't hurt just to... take a harmless...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:372 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_95035140:
+msgid "[_danny_s_at_player_s_frown_s_wondering_] (Hoo boy, I have turned into a {b}mighty{/b} fine rationalizer lately... I'm still gonna burn in hell for this.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:377 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_255b3454:
+msgid "[_danny_s_at_player_s_wondering_] (Alright, let's get this sick curiosity of mine out of the way quickly.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:384 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_ac3bcea1:
+msgid "[_danny_] (Something tells me I'm going to regret this.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:385 #-#-# translate crowdin A_Casual_Night_In_scene_5_hallway_fb3f82e7:
+msgid "[_danny_] (There's also something a bit alarming about my sudden interest in seeing these type of closed door activi-)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:399 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_6dec6d26:
+msgid "[_danny_s_sad_2_s_talk_frown_] God... that was..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:402 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_a6c8df28:
+msgid "[_danny_s_neutral_s_towards_s_talk_frown_] Yeup, I need to seriously start looking into a therapist's number..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:404 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_d5d45fdf:
+msgid "[_doorsound_] {i}*Click*{/i}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:405 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_ae2b882b:
+msgid "[_danny_s_at_player_s_frown_grin_2_s_sad_] (Oh shoot, somebody's coming out!!)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:417 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_2d21e47f:
+msgid "[_maddie_s_sad_2_s_blush_s_talk_frown_s_away_] Oh... D-Danny, I didn't expect to see... uhm, wh-what are you doing out in the halls?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:419 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_bfa14d3a:
+msgid "[_danny_s_blank_stare_s_talk_happy_s_sad_] Oh, ya know, I was just, uh, walking around. I was probably going to get a glass of water or something."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:421 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_4538eed1:
+msgid "[_maddie_s_towards_2_s_noblush_s_talk_frown_s_rise_one_] {i}Hmmm...{/i} now Danny... you weren't spying on your father and I, were you?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:423 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_e6b324b2:
+msgid "[_danny_s_sad_s_talk_frown_2_] Wh-wha-what?!? N-no, I-I-I would never!! D-definitely not!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:425 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_aa2d0533:
+msgid "[_maddie_s_closed_s_talk_happy_s_sad_2_] {i}*Chuckles*{/i} Oh Danny, your face! You always get so flustered when you think I'm suspicious of you!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:427 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_277a01b8:
+msgid "[_maddie_s_towards_wide_up_s_talk_happy_2_s_wondering_] Don't worry sweetie, I know you wouldn't care to spy on your Father and I while we were..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:429 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_a4b3b546:
+msgid "[_maddie_s_talk_frown_s_sad_s_away_wide_] Uhmmm..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:431 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_700c91ec:
+msgid "[_maddie_s_towards_wide_s_talk_happy_s_sad_2_] ...filing our taxes!!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:433 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_a9015592:
+msgid "[_danny_s_towards_s_sad_s_talk_happy_2_] Oh, ye-yeah, sure... I know you trust me and everything... sorry, I just get a bit skiddish when it comes to confrontation."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:435 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_59f2fa70:
+msgid "[_maddie_s_closed_s_talk_happy_2_s_rise_one_4_] Don't worry kiddo, I getcha. Trust me, I could barely even utter a word out of my mouth around my family when I was a kid. I was far too timid to say anything out of line."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:437 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_654af7fb:
+msgid "[_danny_s_talk_happy_2_s_towards_wide_] Really, {i}you{/i}? {b}Timid{/b}? You're like the most brave person I know, Mom."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:439 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_0c8c07df:
+msgid "[_maddie_s_sad_s_talk_happy_] Believe it or not, yes, quite shy. I just didn't know how to properly express my feelings properly."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:441 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_9dbabeca:
+msgid "[_danny_s_rise_one_s_talk_frown_] How'd you get over it then?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:443 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_0bae40cd:
+msgid "[_maddie_s_towards_wide_s_talk_happy_s_sad_] Honestly, I just threw myself into science! I let the most fascinating parts of the world do the talking for me!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:445 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_61ed03ad:
+msgid "[_maddie_s_angry_s_talk_happy_2_s_closed_] ...along with several dozen martial arts courses I used to teach me how to throw around your uncles when they were bugging me. That certainly helped me break out of my shell! {i}*Chuckles*{/i}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:447 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_05adff8a:
+msgid "[_danny_s_closed_s_sad_2_s_talk_happy_] Yeah, I guess that was a good way to go about it, cause now you're super smart and a total badass!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:449 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_b61989bc:
+msgid "[_maddie_s_talk_happy_s_sad_] Oh honestly Danny, please, you flatter me too much..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:451 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_146c7456:
+msgid "[_maddie_s_smile_2_] {i}*Sigh*{/i}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:453 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_9fdc13fd:
+msgid "[_danny_s_rise_one_s_talk_frown_] So, uhm, what are you doing now?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:455 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_438f80a6:
+msgid "[_maddie_s_away_s_talk_happy_s_wondering_] Oh, me? I was just... well, I thought I'd go downstairs and watch that movie like I wanted to do."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:457 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_4662d8b7:
+msgid "[_danny_s_sad_2_s_at_player_s_talk_frown_] Huh, okay, but uh... what about your uhm... {i}taxes{/i}, with dad?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:459 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_37367720:
+msgid "[_maddie_s_towards_s_talk_frown_s_sad_] Well, unfortunately, there was a bit of an issue with the, uhh, taxes, you see... your father seemed to have..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:461 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_4d44a3db:
+msgid "[_maddie_s_blush_s_towards_wide_up_s_talk_frown_2_] {b}Deposited{/b} his returns a little sooner than he should have, so uh... he'll be taking care of that on his own for now."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:463 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_e4c5f6a8:
+msgid "[_maddie_s_talk_happy_s_towards_s_idle__] Nothing to worry about, sweetie, I'm just going to spend that time I should have spent before on a movie instead."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:465 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_b9a172ed:
+msgid "[_danny_s_sad_s_talk_happy_] Oh great, sounds good... have a good time!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:467 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_dc63bcb5:
+msgid "[_maddie_s_rise_one_s_towards_2_s_noblush_s_talk_happy_2_] You know Danny, it's really not too late... would you mind joining me to watch it?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:469 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_208133fb:
+msgid "[_danny_s_-blush_s_talk_happy_2_s_sad_2_] I'd really like that, yeah! Can I pick the movie?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:471 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_9659d0d0:
+msgid "[_maddie_s_talk_frown_s_wondering_] Now Danny, I know you'll just end up picking one of those horror movies you and your friends like to watch."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:473 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_278c0d71:
+msgid "[_danny_s_closed_s_talk_happy_s_sad_] Mom, I'm {i}telling{/i} you, you're missing out on the {b}Terminatra{/b} and {b}Femalien{/b} series! It even gets better when {b}Nightmerica{/b} shows up!!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:475 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_c64fd968:
+msgid "[_maddie_s_closed_s_talk_happy_s_rise_one_3_] {i}Mmmhmm{/i}, I'll just take your word for it... horror honestly creeps me out."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:477 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_c40d3705:
+msgid "[_danny_s_rise_one_s_talk_happy_2_s_at_player_] You know you work with ghosts, right?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:479 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_aea79b0c:
+msgid "[_maddie_s_towards_wide_up_s_talk_frown_2_s_idle__] Regardless, I think I'll pick the movie for tonight... something I haven't seen in a long time."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:481 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_99babd17:
+msgid "[_danny_s_sad_s_talk_happy_] Alright, cool, I'll let you pick something out, and I'll meet you down stairs in a second. I'm just going to get that glass of water first."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:483 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_58a233a1:
+msgid "[_maddie_s_sad_2_s_talk_happy_2_] Great, I'll see you down in the living room then. Don't take too long, sweetie!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:493 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_7d3d8acc:
+msgid "[_danny_s_blank_stare_s_sad_2_s_frown_] (I. Cannot. {b}Believe{/b}. That just went down.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:494 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_676f2c40:
+msgid "[_danny_s_rise_one_s_at_player_] (There's just no way that actually happened... right?)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:495 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_7c03eff0:
+msgid "[_danny_s_towards_s_neutral_s_frown_grin_] (How on earth was I able to look my own mother in the eyes and hold a semi-normal conversation, after I just...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:496 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_77625560:
+msgid "[_danny_s_blank_stare_s_frown_s_sad_2_] (Okay... okay, there's no real reason to freak out... so I... {b}came{/b} inside my own {u}mother{/u}... it's not like I {b}meant{/b} to do it, right?)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:497 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_985a6de6:
+msgid "[_danny_s_towards_s_rise_one_s_frown_3_] (I mean, it wasn't even really me that did it, it was technically all Dad! It was {b}his{/b}... penis, I just ended up making it...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:498 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_2334a4fa:
+msgid "[_danny_s_frown_s_neutral_s_blank_stare_] (Oh God, I think I'm gonna be sick...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:499 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_c8bb33af:
+msgid "[_danny_s_closed_s_frown_2_s_sad_] {i}*Sigh*{/i} (Look, it was clearly just the... {b}thrusting{/b}, and the shock from it all that made me go off, after all...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:500 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_5d700acf:
+msgid "[_danny_s_frown_3_s_wondering_s_blank_stare_] (It shouldn't happen again... I just gotta learn to stop peeping in on people like that...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:503 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_86e4e787:
+msgid "[_danny_s_at_player_s_sad_2_s_frown_grin_3_] (Phew! That was close!)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:504 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_c92e9d5d:
+msgid "[_danny_s_blank_stare_s_frown_2_] (Having to see Mom like that, was just...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:505 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_ef36c42f:
+msgid "[_danny_s_towards_s_sad_s_frown_3_] (Kinda weird... kinda...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:506 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_66bb513b:
+msgid "[_danny_s_smile_s_wondering_] (...a little nice too?)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:507 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_64a5d336:
+msgid "[_danny_s_rise_one_s_towards_wide_s_frown_] (I mean, is it wrong to think like that? I don't know how else to put it!)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:508 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_5ce6430c:
+msgid "[_danny_s_frown_2_s_blank_stare_s_sad_] (Man... I gotta figure out what's the matter with me. I don't think I used to be like this.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:509 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_87f3c7e3:
+msgid "[_danny_s_at_danny_s_frown_3_s_rise_one_] (Usually you go to your parents about your developing feelings...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:510 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_48b51006:
+msgid "[_danny_s_towards_s_frown_] (...but how do you bring up your developing feelings {i}for{/i} them?) {i}*Sigh*{/i}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:513 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_0a1d9527:
+msgid "[_danny_s_at_player_s_frown_3_] (Let's just hope the rest of this night goes more smoothly without {u}any{/u} more weird moments or...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:514 #-#-# translate crowdin A_Casual_Night_In_after_jack_possession_b75acb7b:
+msgid "[_danny_s_towards_s_blush_s_bite_s_sad_] (...anything unnecessarily sexually frustrating in general...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:542 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_feeda497:
+msgid "[_danny_s_sad_s_down_s_talk_happy_] Hey, I wanted to tell you, I really like your pajamas, Mom."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:544 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_086d69e1:
+msgid "[_maddie_s_closed_s_talk_happy_s_wondering_] Well thank you, I rarely get to wear them! Even ghosts can be cute!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:546 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_80d5f438:
+msgid "[_maddie_s_towards_wide_up_s_talk_happy_2_s_idle__] I like taking them to bed cause they're super comfortable and sily, but ya know, for the longest time though, I would just sleep nake-"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:548 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_f16a8d64:
+msgid "[_maddie_s_sad_s_talk_happy_s_towards_s_blush_] {i}*Ahem*{/i} ...well, you know... {i}au naturel{/i}, as they say."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:550 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_50050aa9:
+msgid "[_maddie_s_talk_happy_2_s_rise_one_2_] Well, anyway, you ready to watch a movie?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:552 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_d98a5c1d:
+msgid "[_danny_s_at_player_s_rise_one_s_bite_] (If I have any common sense in my head, just knowing how things have been going lately, I should just go right upstairs and go to bed...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:554 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_0dfed3b0:
+msgid "[_danny_s_towards_s_sad_2_s_talk_happy_2_] Yeah, of course! Ready for some mom and son type bonding!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:556 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_e3f485dc:
+msgid "[_maddie_s_wondering_s_talk_happy_] Great sweetie! Oh, this should be so much fun. I picked out one I haven't seen in a long time."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:558 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_64da055e:
+msgid "[_maddie_s_talk_happy_2_s_towards_2_s_rise_one_] Have you ever seen \"Forget Paris\"?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:560 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_c62cfc09:
+msgid "[_danny_s_blank_stare_s_rise_one_s_talk_frown_] No, I don't think so..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:562 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_e03306f1:
+msgid "[_maddie_s_closed_s_sad_2_s_talk_happy_] Great! Oh, this'll be perfect! I'll pop it in right now! Grab a seat, honey!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:564 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_824e0f91:
+msgid "[_danny_s_closed_s_sad_2_s_talk_happy_] Sure thing, Mom!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:584 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_52c9257e:
+msgid "[_danny_s_sad_s_talk_frown_] Okay, so wait, so who was marrying who?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:586 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_7200f832:
+msgid "[_maddie_s_talk_happy_] Well the airline employee married the basketball referee, but they weren't having the best of times being married together."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:588 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_c8d2d09d:
+msgid "[_danny_s_at_danny_s_talk_frown_2_s_sad_] Right, but then who were the people in the restaurant? Weren't they getting married?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:590 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_838607a4:
+msgid "[_maddie_s_away_s_idle__s_talk_frown_] They were the friends of the airline and basketball couple. They were just a soon to be married couple though, correct."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:592 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_c992478c:
+msgid "[_danny_s_neutral_s_talk_frown_] So wait, this whole time, we've been hearing the story of two people who {b}aren't{/b} married, but we never hear the story of people who {b}are{/b} getting-"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:594 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_f21241b2:
+msgid "[_maddie_s_towards_wide_s_sad_2_s_talk_frown_] But they already did get married, Danny-"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:596 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_f87c44f0:
+msgid "[_danny_s_talk_frown_s_towards_s_rise_one_] Yeah, but weren't they already split up...?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:598 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_656f27a1:
+msgid "[_maddie_s_sad_s_talk_frown_2_s_towards_wide_up_] Well... yeah. But you just saw them get back together at the end!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:600 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_d59693e9:
+msgid "[_danny_s_talk_frown_s_at_player_s_wondering_] Sorry, I guess this stuff kind've went over my head."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:602 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_285ec656:
+msgid "[_maddie_s_talk_happy_s_away_] Oh, that's okay, kiddo. Honestly, this movie was a lot cornier than I remember."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:604 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_cbbffd94:
+msgid "[_maddie_s_idle__s_talk_happy_2_s_towards_] I'm just glad that you didn't mind spening time with your momma."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:606 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_a6bb89be:
+msgid "[_danny_s_talk_happy_s_sad_2_] No, of course not Mom, I like having special time with you."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:608 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_88865b37:
+msgid "[_maddie_s_closed_s_talk_happy_s_sad_2_] Well thank you, sweetheart. That means a lot."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:610 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_509f9b00:
+msgid "[_maddie_s_towards_2_s_rise_one_s_talk_happy_2_] Anyway, how are you doing lately, kiddo? Any new developments in your life I should know?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:612 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_0e1b479c:
+msgid "[_danny_s_rise_one_s_talk_frown_s_at_danny_] Me? Well, I mean, a little here and there. I've been meeting some... {b}interesting{/b} people as of late."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:614 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_c265bb1a:
+msgid "[_maddie_s_towards_wide_s_rise_one_3_s_talk_happy_] Oh, anyone of them happen to be girls by chance?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:616 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_89e4dd2a:
+msgid "[_danny_s_wondering_s_talk_happy_] Uhm, {i}*Chuckles*{/i}, yeah, a few of them."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:618 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_9c2ccdeb:
+msgid "[_danny_s_blank_stare_s_sad_2_s_talk_happy_2_] But I don't really think they'd be interested in me, if that's what you're asking."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:620 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_ced391aa:
+msgid "[_maddie_s_towards_s_talk_frown_s_sad_2_] Now Danny, you just need more confidence. I see it all the time, with you and Samantha, you need to exude more bravado."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:622 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_2ee9929e:
+msgid "[_danny_s_rise_one_s_talk_frown_2_] Huh? Me and Sam? What do you mean?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:624 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_a9957a41:
+msgid "[_maddie_s_away_s_talk_frown_s_sad_2_] Well Danny, for the longest time that I can even remember, you and Samantha have been very close!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:626 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_e2ccf848:
+msgid "[_maddie_s_talk_happy_s_closed_s_sad_] And from my own personal experience, only {b}one{/b} type of feeling develops out of a young girl's heart from sticking close to somebody as close as she has to you."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:628 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_c98376c3:
+msgid "[_danny_s_talk_frown_s_rise_one_s_blank_stare_] So... you're saying... you think she actually {b}likes{/b} me?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:630 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_ca1c691f:
+msgid "[_maddie_s_talk_happy_2_s_towards_wide_up_s_sad_] Honey, I study ghosts and the wide spectram of the supernatural, not people. At the end of the day, what do I really know?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:632 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_0701a936:
+msgid "[_maddie_s_towards_s_talk_happy_] But knowing my own son and his friends as well I do... I don't think you need to be a scientist to put two and two togehter."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:634 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_581609e1:
+msgid "[_danny_s_blank_stare_s_sad_s_talk_frown_2_] Really? That simple, huh?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:636 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_7cb52dc7:
+msgid "[_maddie_s_away_s_sad_s_talk_frown_] Well now, look, I don't want to pressure you into something you maybe don't want..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:638 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_b21c75bb:
+msgid "[_maddie_s_towards_s_sad_2_s_talk_frown_2_] I mean, have {i}you{/i} thought about her in that sort of way before?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:640 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_dfbfd34d:
+msgid "[_danny_s_blank_stare_s_talk_frown_] Uhm... I... I guess I have, yeah."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:642 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_dc9b882b:
+msgid "[_maddie_s_sad_s_talk_frown_] Well, my only point is that if these feelings are strong enough with you two, you should at least try to pursue them."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:644 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_d95584ff:
+msgid "[_maddie_s_away_wide_s_talk_happy_2_] Now, who knows if it'll pan out all the way, you're still both very young, of course."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:646 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_25f0a67e:
+msgid "[_maddie_s_towards_wide_s_talk_happy_s_sad_2_] Heck, at your age, I practically thought Vlad Masters was the one I was going to marry. But then your father wooed me off my feet. So you never know where life will take you."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:648 #-#-# translate crowdin A_Casual_Night_In_scene_6_livingroom_e0bfc3ce:
+msgid "[_maddie_s_towards_2_s_rise_one_s_talk_happy_2_] But, what do you think? Who do you think is right for you?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:656 #-#-# translate crowdin supportive_mom_chat_8629ac2b:
+msgid "[_danny_s_towards_s_sad_s_talk_happy_] Actually, there's always been this one girl I've had in mind, Paulina Sanchez."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:658 #-#-# translate crowdin supportive_mom_chat_d5195a0c:
+msgid "[_maddie_s_sad_2_s_talk_happy_] Well hey, that's okay too! It's perfectly alright to have someone in mind."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:660 #-#-# translate crowdin supportive_mom_chat_d243baa6:
+msgid "[_maddie_s_rise_one_3_s_talk_happy_2_] So, you two {b}like{/b} each other?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:662 #-#-# translate crowdin supportive_mom_chat_98a6975e:
+msgid "[_danny_s_talk_frown_s_blank_stare_s_sad_2_] Well, I mean, I know I at least do."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:664 #-#-# translate crowdin supportive_mom_chat_ceedcdde:
+msgid "[_maddie_s_closed_s_sad_2_s_talk_happy_] Okay, well hey, that's not a bad start!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:666 #-#-# translate crowdin supportive_mom_chat_cb7bf207:
+msgid "[_maddie_s_towards_2_s_talk_happy_2_s_rise_one_] So you two talk to one another? She thinks you're funny, or charming?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:668 #-#-# translate crowdin supportive_mom_chat_320eacae:
+msgid "[_danny_s_at_player_s_talk_frown_2_s_sad_] Uhm, n-no, not exactly... she kind of calls me things like dweeb or dork, along with Sam and Tucker."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:670 #-#-# translate crowdin supportive_mom_chat_8ed2bbf6:
+msgid "[_maddie_s_towards_wide_2_s_rise_one_s_talk_happy_] Oh, okay, so it's sort of like... like she's playing hard to get, or she's putting up her shield to be cutesy?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:672 #-#-# translate crowdin supportive_mom_chat_23d9fdd1:
+msgid "[_maddie_s_towards_wide_up_s_sad_s_talk_happy_2_] Like she's a sort've tough nut to crack, but deep down on the inside, she secretly likes you?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:674 #-#-# translate crowdin supportive_mom_chat_bde67b6e:
+msgid "[_danny_s_blank_stare_s_talk_happy_s_sad_] Uhm, y-yeah, she uhm... it's sorta like... like uh..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:676 #-#-# translate crowdin supportive_mom_chat_2d8d43f6:
+msgid "[_danny_s_down_s_talk_frown_s_wondering_] ...n-no, actually, she really just thinks I'm a dork."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:678 #-#-# translate crowdin supportive_mom_chat_44ef8cac:
+msgid "[_maddie_s_towards_2_s_rise_one_s_talk_frown_] Well I'm sorry then hon, but... what exactly do you see in this girl?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:680 #-#-# translate crowdin supportive_mom_chat_e79351dd:
+msgid "[_danny_s_at_danny_s_talk_happy_s_rise_one_] Well, ya know, she's really... {b}really{/b} pretty... and has this really great laugh..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:682 #-#-# translate crowdin supportive_mom_chat_c40898b3:
+msgid "[_danny_s_blush_s_blank_stare_s_talk_happy_2_s_sad_] ...and a really nice set of legs..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:684 #-#-# translate crowdin supportive_mom_chat_654672ca:
+msgid "[_maddie_s_away_s_sad_2_s_frown_] (Oh boy... I had really hoped he would think further than that... but he's still a boy, after all... ahh well, can't be helped.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:686 #-#-# translate crowdin supportive_mom_chat_f3b6b24f:
+msgid "[_maddie_s_sad_s_talk_frown_s_towards_] Well now, that might seem nice from a distance, Danny... but in reality, do you think you have a chance to prove yourself to her?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:688 #-#-# translate crowdin supportive_mom_chat_9d7b0061:
+msgid "[_danny_s_talk_frown_s_towards_wide_s_sad_s_-blush_] That's the thing though! For the longest time, she was nothing but a pipe dream, we were in totally opposite worlds..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:690 #-#-# translate crowdin supportive_mom_chat_7ce45bbf:
+msgid "[_danny_s_down_s_talk_happy_s_wondering_] ...but recently, I think I've found a way to get her to notice me even more, and to show her what I'm really made of! There's a real chance I have now..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:692 #-#-# translate crowdin supportive_mom_chat_59137d9b:
+msgid "[_danny_s_rise_one_s_grin_happy_] (In a certain way, at least...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:694 #-#-# translate crowdin supportive_mom_chat_67918ba8:
+msgid "[_maddie_s_sad_s_talk_happy_] Okay... well if you think you've got a plan, and you think you can pull it off, then I wish you the best of luck, sweetheart."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:698 #-#-# translate crowdin supportive_mom_chat_93d12c61:
+msgid "[_danny_s_rise_one_s_talk_happy_] You know, we've sorta joked around about it a couple times, actually..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:700 #-#-# translate crowdin supportive_mom_chat_21e279c3:
+msgid "[_maddie_s_towards_2_s_talk_happy_s_rise_one_] Playing the whole \"Will they, Won't they?\" game together?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:702 #-#-# translate crowdin supportive_mom_chat_1cb543ad:
+msgid "[_danny_s_talk_frown_s_down_s_sad_] Uhh, yeah, I suppose so... mainly just a joke, for the most part..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:704 #-#-# translate crowdin supportive_mom_chat_8056c43e:
+msgid "[_danny_s_blank_stare_s_talk_frown_2_s_wondering_] But honestly, the more it's been brought up..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:706 #-#-# translate crowdin supportive_mom_chat_9f96787d:
+msgid "[_danny_s_rise_one_s_talk_happy_s_towards_] ...the more I think it might actually be true. We sorta would make for a nice couple, right?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:708 #-#-# translate crowdin supportive_mom_chat_b3ee0329:
+msgid "[_maddie_s_closed_s_sad_s_talk_happy_2_] I certainly think so. A cute one in fact! You can't go wrong with someone as level headed and smart as Samantha is, either."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:710 #-#-# translate crowdin supportive_mom_chat_51c4f76e:
+msgid "[_danny_s_down_s_talk_frown_s_neutral_] {i}Hmmm{/i}... well it definitely is something to consider, for sure..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:712 #-#-# translate crowdin supportive_mom_chat_83ff1e4c:
+msgid "[_danny_s_towards_s_sad_s_talk_frown_2_s_-blush_] I just don't know how I'd go about bringing it up to her. I don't wanna make things... weird, ya know?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:714 #-#-# translate crowdin supportive_mom_chat_a8864f4f:
+msgid "[_maddie_s_sad_s_talk_happy_] Well I don't think it should be something you jump into straight away, sweetie! Pace things out a bit, and just see where it leads!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:716 #-#-# translate crowdin supportive_mom_chat_8cae202e:
+msgid "[_maddie_s_sad_2_s_talk_happy_2_] I'm sure you'll make a decision that will make you happy, regardless. She's a nice girl, and makes for a great friend."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:718 #-#-# translate crowdin supportive_mom_chat_cc15accd:
+msgid "[_danny_s_talk_happy_s_closed_] Thanks Mom. I'll... think about it. Honestly."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:723 #-#-# translate crowdin supportive_mom_chat_6ce91efa:
+msgid "[_danny_s_at_danny_s_talk_frown_s_sad_] Well, the thing is... I think that I've learned in just the past few days that my preference in girls is someone a bit more... well... I mean, p-putting it lightly..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:725 #-#-# translate crowdin supportive_mom_chat_d2f7776b:
+msgid "[_maddie_s_towards_wide_s_wondering_s_talk_happy_] Yeah...? C'mon, I'm on the edge of my seat here! {i}*Giggles*{/i}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:727 #-#-# translate crowdin supportive_mom_chat_acee6556:
+msgid "[_danny_s_wondering_s_down_s_talk_frown_2_] Just... someone a tad more..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:729 #-#-# translate crowdin supportive_mom_chat_56ea1802:
+msgid "[_danny_s_towards_s_talk_frown_s_sad_] ...{u}mature{/u}? At least, emotionally, that is... and... ya know, physically too, I-I suppose, w-would be nice..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:731 #-#-# translate crowdin supportive_mom_chat_4eaae758:
+msgid "[_maddie_s_sad_s_towards_s_talk_frown_] Oh? Really? You prefer... you prefer {b}older{/b} women?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:733 #-#-# translate crowdin supportive_mom_chat_a06889d6:
+msgid "[_danny_s_blank_stare_s_talk_frown_] I mean, normal girls are fine, but honestly, I'm a more physical type of person, and I think that I'd just prefer someone a tad more... experienced."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:735 #-#-# translate crowdin supportive_mom_chat_fb83a254:
+msgid "[_danny_s_closed_s_talk_frown_2_s_sad_] I'm probably thinking pretty superficially about it, but I just think I'd like a woman with a bit more elegance and grace."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:737 #-#-# translate crowdin supportive_mom_chat_88187c5f:
+msgid "[_danny_s_towards_s_talk_happy_s_sad_2_s_blush_] I'll be even more honest and say... I think I'd prefer someone... someone sorta like {i}you{/i}, Mom."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:739 #-#-# translate crowdin supportive_mom_chat_5a496d21:
+msgid "[_maddie_s_sad_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:740 #-#-# translate crowdin supportive_mom_chat_a6a03590:
+msgid "[_danny_s_frown_2_s_wondering_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:742 #-#-# translate crowdin supportive_mom_chat_3534928a:
+msgid "[_maddie_s_talk_frown_s_rise_one_s_towards_2_] Danny you {b}know{/b} how that sounds, right Hon?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:744 #-#-# translate crowdin supportive_mom_chat_b358de38:
+msgid "[_danny_s_at_danny_s_talk_frown_s_sad_2_] Uhm... n-now, I-I know how it {i}might{/i} sound to some, but I thought m-maybe you'd understand what I was trying to get at..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:746 #-#-# translate crowdin supportive_mom_chat_3b5b7b56:
+msgid "[_maddie_s_closed_s_talk_happy_s_sad_2_] That sounds like someone who loves their mother very much. That is just so sweet of you..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:748 #-#-# translate crowdin supportive_mom_chat_aaff8c67:
+msgid "[_danny_s_talk_happy_s_neutral_] R-really? Oh, well I'm glad you think so."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:750 #-#-# translate crowdin supportive_mom_chat_523ff084:
+msgid "[_maddie_s_blush_s_towards_wide_up_s_talk_happy_2_] That actually makes me a bit emotional, honestly... thank you sweetheart."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:752 #-#-# translate crowdin supportive_mom_chat_05c7862d:
+msgid "[_danny_s_-blush_s_talk_happy_2_s_wondering_] Sure Mom, I was just speaking honestly."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:754 #-#-# translate crowdin supportive_mom_chat_79918dcd:
+msgid "[_maddie_s_noblush_s_towards_wide_2_s_rise_one_s_talk_frown_] Just don't go chasing after some sorta cougar with a lot of money, Danny. I didn't raise you like that."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:756 #-#-# translate crowdin supportive_mom_chat_91cf0f54:
+msgid "[_danny_s_talk_happy_s_sad_s_closed_] {i}*Chuckles*{/i} No, no, of course not Mom, I wouldn't."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:758 #-#-# translate crowdin supportive_mom_chat_ccddcd98:
+msgid "[_maddie_s_away_s_blush_s_grin_happy_s_rise_one_3_] (More mature {b}physically{/b}? Someone like his mother? My oh my, Danny, I didn't think you had such a refined taste in women...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:760 #-#-# translate crowdin supportive_mom_chat_82a6b9ce:
+msgid "[_maddie_s_towards_2_s_smile_2_s_rise_one_] (I'm glad I raised you to be so open minded, kiddo...~)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:763 #-#-# translate crowdin supportive_mom_chat_af74df7d:
+msgid "[_maddie_s_towards_s_noblush_s_talk_happy_2_s_idle__] Well, regardless of who or what you decide to go after, Danny, I'm just glad you're not closing yourself off from a relationship entirely. I really think you deserve to have somebody special, honest!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:765 #-#-# translate crowdin supportive_mom_chat_a62350c9:
+msgid "[_danny_s_talk_happy_s_wondering_] Right, of course."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:767 #-#-# translate crowdin supportive_mom_chat_af70272d:
+msgid "[_maddie_s_sad_2_s_closed_s_talk_happy_2_] I also appreciate you opening up to me about things and just being honest."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:768 #-#-# translate crowdin supportive_mom_chat_5c4b14af:
+msgid "[_maddie_s_talk_happy_s_towards_s_sad_] And that no matter what it is, you can always come talk to me about whatever you're dealing with."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:770 #-#-# translate crowdin supportive_mom_chat_94b97572:
+msgid "[_danny_s_closed_s_talk_happy_2_] For sure, I will."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:772 #-#-# translate crowdin supportive_mom_chat_fc37495b:
+msgid "[_maddie_s_rise_one_3_s_talk_happy_] Well... I think I'm about done for the night, how about you?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:774 #-#-# translate crowdin supportive_mom_chat_6721a7a0:
+msgid "[_danny_s_towards_wide_s_talk_happy_s_sad_2_] Yeah, it was nice! I liked it."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:776 #-#-# translate crowdin supportive_mom_chat_968a6577:
+msgid "[_maddie_s_sad_s_away_wide_s_talk_frown_] Oh, it wasn't that good, honestly. It was sort've a lame kinda romance movie."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:778 #-#-# translate crowdin supportive_mom_chat_72da24ce:
+msgid "[_danny_s_towards_s_talk_happy_] I just meant spending time with you."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:780 #-#-# translate crowdin supportive_mom_chat_23ed1f09:
+msgid "[_maddie_s_blush_s_talk_happy_s_towards_2_s_rise_one_] Oh you... ya' know, flattery is definitely key to gaining a woman's heart, so I'd say you're already well on your way! {i}*Giggles*{/i}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:782 #-#-# translate crowdin supportive_mom_chat_2759caa9:
+msgid "[_danny_s_at_player_s_rise_one_s_talk_happy_2_] {i}*Chuckles*{/i} Th-thanks Mom."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:784 #-#-# translate crowdin supportive_mom_chat_a07e11fb:
+msgid "[_maddie_s_towards_s_idle__s_talk_happy_2_s_noblush_] Well, goodnight sweetie. I'm just gonna go pop up for a quick {b}shower{/b} before bed."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:786 #-#-# translate crowdin supportive_mom_chat_ddc08484:
+msgid "[_maddie_s_closed_s_sad_2_s_talk_happy_] I probably should have done that beforehand, honestly..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:790 #-#-# translate crowdin supportive_mom_chat_c6238afc:
+msgid "[_danny_s_at_danny_s_neutral_s_talk_frown_] Oh uhm, alright... take care Mom. (Oh God, that's right, she's still got {b}jizz{/b} inside her! Jeezus, mom! Hygiene!)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:792 #-#-# translate crowdin supportive_mom_chat_ed4ad96a:
+msgid "[_maddie_s_towards_wide_s_angry_s_talk_happy_] Oh no, not before I get a hug!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:794 #-#-# translate crowdin supportive_mom_chat_2cc819dc:
+msgid "[_danny_s_talk_happy_2_s_neutral_] Oh, I don't know if that's necessary, honestly..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:796 #-#-# translate crowdin supportive_mom_chat_8f00735e:
+msgid "[_maddie_s_talk_happy_2_s_towards_2_s_rise_one_] No, c'mon, what is it? You're not too old to hug your mommy, are you?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:798 #-#-# translate crowdin supportive_mom_chat_50be8f8b:
+msgid "[_danny_s_at_player_s_rise_one_s_talk_frown_2_] Uhmmm..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:805 #-#-# translate crowdin cummy_mummy_aa99d2fe:
+msgid "[_danny_s_sad_2_s_towards_s_talk_happy_] No, it's just... I don't think I'm the hugging type."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:807 #-#-# translate crowdin cummy_mummy_09d22ce5:
+msgid "[_maddie_s_away_s_sad_2_s_talk_frown_] Oh... well then. My mistake."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:809 #-#-# translate crowdin cummy_mummy_11922c6a:
+msgid "[_danny_s_sad_s_blank_stare_s_talk_frown_2_] Really, it's not you, it's just... in general."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:811 #-#-# translate crowdin cummy_mummy_0985d1fb:
+msgid "[_maddie_s_towards_s_talk_frown_2_s_wondering_] I see... I didn't know that about you."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:813 #-#-# translate crowdin cummy_mummy_dfc4c56c:
+msgid "[_maddie_s_closed_s_sad_s_talk_frown_] {i}*Sigh*{/i} I guess I don't know much about you as I thought."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:815 #-#-# translate crowdin cummy_mummy_311598c0:
+msgid "[_danny_s_towards_s_talk_frown_] Oh, Mom, c'mon, don't feel too bad."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:817 #-#-# translate crowdin cummy_mummy_b8762a8d:
+msgid "[_maddie_s_towards_s_talk_frown_s_idle__] Please, Danny, it's fine, it's just... I really didn't think it'd really be that big a bother to hug your own mother."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:819 #-#-# translate crowdin cummy_mummy_3d887c52:
+msgid "[_maddie_s_talk_frown_2_s_towards_wide_up_s_sad_] I'm just sorry I didn't understand that about you sooner. I suppose I never figured you'd... I don't know..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:821 #-#-# translate crowdin cummy_mummy_a2f6293b:
+msgid "[_maddie_s_away_s_talk_frown_] I sometimes worry that... that we're growing apart, you and I, and I just..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:823 #-#-# translate crowdin cummy_mummy_c1763eee:
+msgid "[_danny_s_sad_2_s_talk_frown_2_] We're not Mom, don't worry! I love you, you're my Mom!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:825 #-#-# translate crowdin cummy_mummy_a08b0fbb:
+msgid "[_maddie_s_sad_2_s_talk_frown_] You're sure? You're not just saying that?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:827 #-#-# translate crowdin cummy_mummy_13d079d3:
+msgid "[_danny_s_sad_s_talk_happy_] Absolutely! In fact..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:829 #-#-# translate crowdin cummy_mummy_7a8ccea8:
+msgid "[_danny_s_closed_s_talk_happy_2_s_wondering_] Going forward, I'll try to work on coming down to ask for hugs while you're in the lab. Promise."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:831 #-#-# translate crowdin cummy_mummy_7c1800f0:
+msgid "[_maddie_s_rise_one_3_s_talk_happy_] You'd be willing to to make that change for me? Seriously? Oh my God..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:833 #-#-# translate crowdin cummy_mummy_d363e7ba:
+msgid "[_maddie_s_closed_s_sad_s_talk_frown_s_blush_] God, I'm so sorry... that was weak of me to beg..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:835 #-#-# translate crowdin cummy_mummy_9378f67d:
+msgid "[_maddie_s_towards_s_talk_happy_s_idle__] But you're just the sweetest boy, Danny..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:837 #-#-# translate crowdin cummy_mummy_8631b3fd:
+msgid "[_danny_s_talk_happy_s_sad_] It's no problem. I wanna make you happy after all."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:839 #-#-# translate crowdin cummy_mummy_5dfb33a4:
+msgid "[_maddie_s_wondering_s_noblush_s_talk_happy_2_] Well, in the future, I'll look forward to that."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:843 #-#-# translate crowdin cummy_mummy_a73a0c3d:
+msgid "[_danny_s_at_player_s_sad_2_s_talk_happy_] Well... of course, I {b}love{/b} hugs!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:845 #-#-# translate crowdin cummy_mummy_1bf8faa1:
+msgid "[_maddie_s_talk_happy_s_sad_] Well then, come give one to Momma! My precious little guy..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:853 #-#-# translate crowdin cummy_mummy_27966b1e:
+msgid "[_maddie_] Oh yeah, this is a nice one..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:855 #-#-# translate crowdin cummy_mummy_f0629d99:
+msgid "[_danny_] Well great, I'm glad you're enjoying this, Mom."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:857 #-#-# translate crowdin cummy_mummy_8ed604c5:
+msgid "[_danny_] (Somebody here ought to try and enjoy it... just... try not to think about it, Danny... avoid any pelvic dampness...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:859 #-#-# translate crowdin cummy_mummy_4c452ea0:
+msgid "[_maddie_] Oh, I'm not squeezing you too tight, am I danny?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:861 #-#-# translate crowdin cummy_mummy_d90b23c5:
+msgid "[_danny_] Oh, n-no! You're fine, I'm p-plenty comfortable right here..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:863 #-#-# translate crowdin cummy_mummy_c11211f1:
+msgid "[_maddie_] Heh... I remember when you were a little baby, and you would nuzzle me just like this..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:865 #-#-# translate crowdin cummy_mummy_e05b2f51:
+msgid "[_maddie_] I guess I just miss those sorta times together, ya know?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:867 #-#-# translate crowdin cummy_mummy_4daea1be:
+msgid "[_danny_] Yeah well... your little boy turned out alright, huh?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:869 #-#-# translate crowdin cummy_mummy_ce838279:
+msgid "[_maddie_] Hmmm..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:871 #-#-# translate crowdin cummy_mummy_42d47df6:
+msgid "[_maddie_] He sure did, sweetie... he sure did..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:881 #-#-# translate crowdin cummy_mummy_d44c48a5:
+msgid "[_danny_s_blank_stare_s_sad_s_talk_happy_] That was nice... very comforting, actually."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:883 #-#-# translate crowdin cummy_mummy_3ac6176b:
+msgid "[_maddie_s_talk_happy_s_closed_] I'm very glad you think so. I like when we're that kinda close, it makes me feel like a nurturing mother again, which I love."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:885 #-#-# translate crowdin cummy_mummy_d16d53ef:
+msgid "[_danny_s_towards_s_rise_one_s_talk_happy_2_] Well hey, if we both like it so much, how about I come visit you for some more?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:887 #-#-# translate crowdin cummy_mummy_a08bc535:
+msgid "[_maddie_s_towards_wide_2_s_rise_one_s_talk_frown_] What do you mean?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:889 #-#-# translate crowdin cummy_mummy_61cab938:
+msgid "[_danny_s_closed_s_sad_s_talk_happy_] Just when you're working in the lab, I'd come down and we'd share another hug together."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:891 #-#-# translate crowdin cummy_mummy_f9733dc3:
+msgid "[_maddie_s_towards_s_talk_happy_2_s_sad_] That sounds more than perfect, sweetheart."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:893 #-#-# translate crowdin cummy_mummy_4155ce46:
+msgid "[_danny_s_sad_s_talk_happy_] Then I'll definitely start doing it! I wanna make you happy after all."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:895 #-#-# translate crowdin cummy_mummy_09d57106:
+msgid "[_maddie_s_closed_s_talk_happy_s_wondering_] Well, in the future, I'll look forward to that."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:920 #-#-# translate crowdin cummy_mummy_bc7cf7b0:
+msgid "[_maddie_s_towards_wide_s_talk_happy_s_sad_2_] Oh, this was just a real nice evening. I'm glad you could spend some time with your drab old Mom."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:922 #-#-# translate crowdin cummy_mummy_98941cb2:
+msgid "[_danny_s_towards_wide_s_talk_happy_s_sad_2_] Mom, seriously, stop it. At this point, I feel like you're just fishing for compliments!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:924 #-#-# translate crowdin cummy_mummy_d3f87436:
+msgid "[_danny_s_closed_s_angry_s_talk_happy_] You're not only the most awesome Mom I could have, but you're sweet and beautfiul. As ever, I imagine."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:926 #-#-# translate crowdin cummy_mummy_72f20f07:
+msgid "[_danny_s_talk_happy_s_towards_s_sad_] I'm sorry if I've ever made you feel unappreciated around here. Cause you are, so much."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:928 #-#-# translate crowdin cummy_mummy_d6663602:
+msgid "[_maddie_s_talk_frown_2_s_sad_2_] Well... maybe I felt it in the past..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:930 #-#-# translate crowdin cummy_mummy_950bff36:
+msgid "[_maddie_s_towards_s_sad_s_talk_happy_] But lately... I don't feel that at all. You're a great son to have, Danny."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:932 #-#-# translate crowdin cummy_mummy_18988fb0:
+msgid "[_maddie_s_towards_wide_up_s_talk_happy_2_s_sad_2_] I sometimes think you'd even make a great..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:934 #-#-# translate crowdin cummy_mummy_250d3ce3:
+msgid "[_maddie_s_away_wide_s_frown_s_blush_s_sad_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:936 #-#-# translate crowdin cummy_mummy_f3712263:
+msgid "[_maddie_s_towards_wide_s_wondering_s_talk_frown_] {i}*Ahem*{/i} Uhm, I sorta lost my train of track, sorry."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:938 #-#-# translate crowdin cummy_mummy_c7d24120:
+msgid "[_maddie_s_towards_s_talk_happy_2_s_sad_] I'm going to go take that shower now. Good night dear."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:940 #-#-# translate crowdin cummy_mummy_6a2ab3c2:
+msgid "[_danny_s_talk_happy_s_sad_s_closed_] Kay', good night Mom. Love you."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:942 #-#-# translate crowdin cummy_mummy_4fcefdae:
+msgid "[_maddie_s_idle__s_talk_happy_] ...love you too, dear."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:949 #-#-# translate crowdin cummy_mummy_87748abc:
+msgid "[_danny_s_neutral_] (Well, that'll be nice, getting hugs mom from now on.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:950 #-#-# translate crowdin cummy_mummy_58daa12f:
+msgid "[_danny_s_towards_s_frown_3_s_sad_] (I mean she's kinda right, I don't visit her as much as I'm sure she'd like me to.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:951 #-#-# translate crowdin cummy_mummy_fb1def75:
+msgid "[_danny_s_at_player_s_smile_s_wondering_] (But spending some time together like that was nice... real nice...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:952 #-#-# translate crowdin cummy_mummy_f819f99b:
+msgid "[_danny_s_neutral_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:953 #-#-# translate crowdin cummy_mummy_d5b6ecf1:
+msgid "[_danny_s_frown_3_] ({i}Hmmm{/i}...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:955 #-#-# translate crowdin cummy_mummy_9d640f7e:
+msgid "[_danny_s_rise_one_s_at_danny_s_frown_2_] (...{b}shower{/b}?)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:956 #-#-# translate crowdin cummy_mummy_78d6feda:
+msgid "[_danny_s_frown_3_s_angry_s_closed_] (Oh boy... well then, I'd better just... head on to bed myself...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:957 #-#-# translate crowdin cummy_mummy_10c6a7ad:
+msgid "[_danny_s_towards_] (Right off to sleep, no problem... yes sir, just tuck myself in after all the heart warming good times we've had tonight...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:958 #-#-# translate crowdin cummy_mummy_ce67a4e0:
+msgid "[_danny_s_sad_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:978 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_6ca29dfb:
+msgid "[_danny_s_sad_s_talk_frown_] {i}Yeuuup{/i}... the old bathroom... where one can get... {i}*Ahem*{/i} ...get {i}real{/i} clean..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:979 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_78aca3b9:
+msgid "[_danny_s_down_s_talk_frown_2_] The same bathroom where my mother is soon to be taking a shower soon... yeup, very soon..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:981 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_ae8bd982:
+msgid "[_danny_s_neutral_s_blank_stare_s_blush_] To... to get herself... {u}clean{/u}..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:982 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_b1d4f2f1:
+msgid "[_danny_s_sad_s_bite_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:983 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_ed3a2db3:
+msgid "[_danny_s_towards_s_talk_frown_s_rise_one_] ...I wonder if she's-"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:987 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_553127f2:
+msgid "[_shower_] {i}*Wrrhh* *Wrhh* *Fsssschhhhhhh*{/i}"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:988 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_135e4f13:
+msgid "[_danny_s_blank_stare_s_sad_s_talk_frown_] Oh, great, she uh... she just started..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:989 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_0a34d872:
+msgid "[_danny_s_wondering_s_frown_3_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:990 #-#-# translate crowdin A_Casual_Night_In_scene_7_hallway_bf9d7a10:
+msgid "[_danny_s_towards_s_talk_frown_2_s_sad_] Well... I already said goodnight to her, so... I think I'll just... uhmm... yeah..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1012 #-#-# translate crowdin A_Casual_Night_In_scene_8_bedroom_024a7ddf:
+msgid "[_danny_s_closed_s_talk_happy_s_sad_] Yeeeuuup, yup, yup... time for old mister slumber to just... take me away..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1013 #-#-# translate crowdin A_Casual_Night_In_scene_8_bedroom_dce93be4:
+msgid "[_danny_s_towards_s_talk_happy_2_s_wondering_] Just gonna hop into bed, cover myself in the sheets and..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1014 #-#-# translate crowdin A_Casual_Night_In_scene_8_bedroom_41d67cef:
+msgid "[_danny_s_neutral_s_talk_frown_] ...fall... asleep..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1015 #-#-# translate crowdin A_Casual_Night_In_scene_8_bedroom_3cfd2c68:
+msgid "[_danny_s_blank_stare_s_wondering_s_frown_2_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1016 #-#-# translate crowdin A_Casual_Night_In_scene_8_bedroom_811ccdb8:
+msgid "[_danny_s_at_player_s_talk_frown_2_s_angry_] Oh screw it."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1039 #-#-# translate crowdin A_Casual_Night_In_scene_9_hallway_5cc9f7cd:
+msgid "[_danny_s_talk_frown_s_at_player_s_neutral_] Yeah, let's just... let's just get this over with."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1046 #-#-# translate crowdin A_Casual_Night_In_scene_9_hallway_4b101e7a:
+msgid "[_danny_s_sad_2_s_frown_grin_s_at_danny_] (I mean, peeping on Mom isn't a first for me, what with tonight's earlier fiasco.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1047 #-#-# translate crowdin A_Casual_Night_In_scene_9_hallway_f467e912:
+msgid "[_danny_s_blank_stare_s_frown_3_s_sad_] (If I just make sure not to actually go in, I think it'll be fine... just stick your dumb head inside and... look. Just look.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1048 #-#-# translate crowdin A_Casual_Night_In_scene_9_hallway_f4e71d85:
+msgid "[_danny_s_wondering_s_towards_s_frown_3_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1066 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_b88d642d:
+msgid "[_danny_] ..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1072 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_04490075:
+msgid "[_danny_] (Woah... there she is...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1073 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_b04ad38a:
+msgid "[_danny_] (My own mother, totally naked once again... just getting herself all clean...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1074 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_485a7f19:
+msgid "[_danny_] (This is so nuts... she's so incredibly, stupidly hot...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1075 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_cc82156e:
+msgid "[_danny_] (Hopefully she doesn't hear me breathing heavily over the shower faucet...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1076 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_b4081f54:
+msgid "[_danny_] (Man, she's got such a nice backside... those sweet little ass dimples...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1077 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_20e6b598:
+msgid "[_danny_] (You'd almost forget that she has a really nice butt too, if you only ever focused on her big tits...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1078 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_14a8278c:
+msgid "[_danny_] (Jesus... I could just stare at her forever honestly... she moves with such a sexy grace... it's crazy... I...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1079 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_98fe850b:
+msgid "[_danny_] (Okay, seriously, that's enough. I've had my fun, we don't need to pry any further...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1080 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_3ddf85c0:
+msgid "[_danny_] (I'll just dip out and try to get this out of my mind...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1081 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_b2019071:
+msgid "[_danny_] (...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1082 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_e23afc25:
+msgid "[_danny_] (...or at least try to.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1096 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_62cc3010:
+msgid "[_danny_s_talk_frown_s_wondering_s_towards_] {i}*Ahem*{/i} Well, that was pretty much what I {b}expected{/b} to see."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1101 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_98be95ed:
+msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_2_] How am I supposed to pretend this is even {i}slightly{/i} okay...?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1104 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_d65b2c76:
+msgid "[_danny_s_at_player_s_rise_one_s_talk_frown_] Then again, I guess it could be said that I just enjoy... peeping of all sorts! I'm not a sick weirdo, I'm just..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1105 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_dca24ef5:
+msgid "[_danny_s_towards_wide_s_sad_2_s_talk_happy_] ...{i}perverted in {b}general{/b}{/i}! Yeah, that's it!! That must be all it is!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1106 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_4181dd36:
+msgid "[_danny_s_blank_stare_s_talk_happy_2_s_neutral_] {i}Phew{/i}!! Thank goodness! For a second there, I thought I was like, actually deranged in the head or something!"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1107 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_6c91bea4:
+msgid "[_danny_s_closed_s_talk_happy_s_sad_] Okay, now that I feel a lot better about the whole situation, I can sleep soundly, knowing there's completely nothing wrong with me."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1113 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_974da72d:
+msgid "[_morahzamora_] (Oh, the poor bastard, he has no idea what's in store for him yet.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1114 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_36723eef:
+msgid "[_gzone__] (Ja', he definitely won't like what's coming up next, 'eizher...)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1115 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_8df55371:
+msgid "[_clockwork_] (Gentleman, I must say, in the entire span of existence I've experienced both forwards and backwards, you two are truly a pair of the most {i}twisted{/i} individuals I've ever come across.)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1116 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_6448a3c0:
+msgid "[_gzone__] (No, no, I like to 'zhink of uz' as just... making Danny'z life more, uhh... how do you say... \"interesting\"?)"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1117 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_2eea3f24:
+msgid "[_morahzamora_] (I just find it funny making him wanna bone his mom internally. {i}*Chuckles*{/i})"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:1118 #-#-# translate crowdin A_Casual_Night_In_maddie_shower_scene_4f318488:
+msgid "[_clockwork_] ({i}*Sigh*{/i}... the poor bastard indeed...)"
+msgstr ""
+
+msgid "Who do you think you like, kiddo?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:652
+msgid "Honestly, I've always liked Paulina."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:652
+msgid "Sam's definitely an interesting choice..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:652
+msgid "I'd prefer someone like you, Mom."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:801
+msgid "Do you hug your mom knowing she's currently cream pied?"
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:801
+msgid "Honestly, I'd prefer not to..."
+msgstr ""
+
+# game/code/episodes/episode_5/episode_5_casual_night.rpy:801
+msgid "Bring it in, Mom!"
+msgstr ""
+
