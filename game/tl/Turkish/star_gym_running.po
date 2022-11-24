@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/character_events/star/star_gym_running.po\n"
+"X-Crowdin-File-ID: 4310\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2022-11-24 09:03\n"
+
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/star/star_gym_running.rpy:17 #-#-# translate crowdin gym_monday_star_running_repeat_4f533b71:
+msgid "[_danny_s_gym_s_towards_s_wondering_s_smile_] (Doesn't look like anybody's really taking advantage of the gym this early today.)"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:19 #-#-# translate crowdin gym_monday_star_running_repeat_7b991684:
+msgid "[_danny_s_gym_s_at_player_s_rise_s_smile_] (Oh, except for Star, she's here, jogging the track.)"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:24 #-#-# translate crowdin gym_monday_star_running_repeat_030a4355:
+msgid "[_danny_] (Man, look at her go.)"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:26 #-#-# translate crowdin gym_monday_star_running_repeat_27dccb91:
+msgid "[_danny_] (She's always doing some type of cardio work it feels like...)"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:29 #-#-# translate crowdin gym_monday_star_running_repeat_ceba2108:
+msgid "[_danny_] (Dang... she's got it going on back there too...)"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:31 #-#-# translate crowdin gym_monday_star_running_repeat_aa20ad40:
+msgid "[_danny_] (Just one of those forbidden fruits, sadly...)"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:71 #-#-# translate crowdin gym_monday_star_running_competition_308c52ad:
+msgid "[_star_s_gym_s_towards_s_angry_s_talk_displeased_] {i}Urgh!{/i} Are you just gonna stand there and zoom in on my ass all day, dude?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:74 #-#-# translate crowdin gym_monday_star_running_competition_1af00391:
+msgid "[_danny_s_towards_wide_s_sad_s_talk_consternation_] W-what?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:77 #-#-# translate crowdin gym_monday_star_running_competition_56211619:
+msgid "[_star_s_towards_s_rise_s_talk_displeased_] You're so obvious, nerd."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:80 #-#-# translate crowdin gym_monday_star_running_competition_33e83fc6:
+msgid "[_danny_s_gym_s_down_s_sad_s_talk_displeased_] I mean-"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:83 #-#-# translate crowdin gym_monday_star_running_competition_bd57b569:
+msgid "[_star_s_gym_s_towards_s_angry_s_talk_consternation_] Get out of here, creep!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:86 #-#-# translate crowdin gym_monday_star_running_competition_7dd9d765:
+msgid "[_danny_s_gym_s_towards_wide_s_unhappy_] Okay, alright! I'm going."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:89 #-#-# translate crowdin gym_monday_star_running_competition_d7ec02a6:
+msgid "[_star_s_gym_s_towards_s_rise_s_talk_consternation_] Actually... w-wait a minute!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:92 #-#-# translate crowdin gym_monday_star_running_competition_fe539615:
+msgid "[_danny_s_gym_s_towards_s_rise_s_talk_distraught_] H-huh? What, why, I didn't do anything!?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:95 #-#-# translate crowdin gym_monday_star_running_competition_deb57ba8:
+msgid "[_star_s_gym_s_towards_s_rise_s_talk_happy_] Do me a favor, will yah?{p}Take a photo of my butt while I'm running like that again, okay?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:98 #-#-# translate crowdin gym_monday_star_running_competition_4d776eb3:
+msgid "[_danny_s_gym_s_towards_wide_s_sad_s_talk_displeased_] W-what?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:101 #-#-# translate crowdin gym_monday_star_running_competition_d75a4e64:
+msgid "[_star_s_gym_s_towards_s_idle_s_talk_displeased_] To send it to Billy, duh! Just like, {i}pretend{/i} you sneaked the photo for him or something!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:104 #-#-# translate crowdin gym_monday_star_running_competition_19138d4b:
+msgid "[_star_s_gym_s_towards_s_angry_s_talk_displeased_] {i}Tsch!{/i} What, did you think the photo was gonna be for you or something? No, you've gotta delete it after that!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:108 #-#-# translate crowdin gym_monday_star_running_competition_ed0ca66a:
+msgid "[_paulina_s_gym_s_offscreen_s_towards_s_rise_s_talk_displeased_] What photo?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:124 #-#-# translate crowdin gym_monday_star_running_competition_8f50762e:
+msgid "[_danny_s_gym_s_towards_s_idle_s_talk_happy_] Oh, hey Paulina!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:128 #-#-# translate crowdin gym_monday_star_running_competition_dca0dd73:
+msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_displeased_] Hey, I guess."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:132 #-#-# translate crowdin gym_monday_star_running_competition_9111c381:
+msgid "[_danny_s_gym_s_towards_s_sad_s_talk_happy_] We were just talking about Star's...{p}...{i}uhhhmm{/i}... her..."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:136 #-#-# translate crowdin gym_monday_star_running_competition_e06ee805:
+msgid "[_star_s_gym_s_towards_s_angry_s_talk_happy_] The photo of my juicy rear-end Danny's going to take and end up sending to Billy!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:140 #-#-# translate crowdin gym_monday_star_running_competition_4146ec32:
+msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_displeased_] ...you're taking photos of your ass...? And sending them to..."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:144 #-#-# translate crowdin gym_monday_star_running_competition_72c72eb3:
+msgid "[_paulina_s_gym_s_towards_s_idle_s_talk_happy_] Hey, now that's not too bad an idea, honestly..."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:148 #-#-# translate crowdin gym_monday_star_running_competition_85b510cc:
+msgid "[_star_s_gym_s_towards_wide_s_sad_s_talk_displeased_] Huh?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:152 #-#-# translate crowdin gym_monday_star_running_competition_e359261b:
+msgid "[_paulina_s_gym_s_towards_s_idle_s_talk_happy_] Danny, if you'd do the same for me as well, I'd greatly appreciate it."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:156 #-#-# translate crowdin gym_monday_star_running_competition_c3694e8c:
+msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_happy_] We really don't want to have our dear Ghost Boy missing out on the {i}real{/i} goods, do we?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:160 #-#-# translate crowdin gym_monday_star_running_competition_16033839:
+msgid "[_star_s_gym_s_towards_s_sad_s_talk_displeased_] W-wait a minute, this is- you can't take over my moment!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:164 #-#-# translate crowdin gym_monday_star_running_competition_cc77ca9e:
+msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_happy_] Why not? Afraid of a little healthy competition, Star?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:168 #-#-# translate crowdin gym_monday_star_running_competition_cdfd2303:
+msgid "[_star_s_gym_s_towards_s_angry_s_talk_consternation_] Oh, {i}psssch!!{/i} A-as if! I don't mind getting measured up against your square butt, trust me!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:172 #-#-# translate crowdin gym_monday_star_running_competition_02b8de2e:
+msgid "[_paulina_s_gym_s_towards_s_angry_s_talk_consternation_] {i}Hmmmph{/i}! Fine then! Let's get started!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:176 #-#-# translate crowdin gym_monday_star_running_competition_2444608e:
+msgid "[_danny_s_gym_s_towards_s_rise_s_talk_happy_] Oh, okay, so you {u}both{/u} want me to take photos of your-"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:181 #-#-# translate crowdin gym_monday_star_running_competition_f0b288df:
+msgid "YES!!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:185 #-#-# translate crowdin gym_monday_star_running_competition_9c0d63dc:
+msgid "[_danny_s_gym_s_towards_wide_s_sad_s_talk_consternation_] Okay, alright, no complaints from me."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:190 #-#-# translate crowdin gym_monday_star_running_competition_39c5de54:
+msgid "[_extend_] {i}Uhhh{/i}, Star, why don't we start with you since this was your idea?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:194 #-#-# translate crowdin gym_monday_star_running_competition_23a0c640:
+msgid "[_star_s_gym_s_towards_s_rise_s_talk_happy_] {i}Hah ha!{/i} Alrighty, let's do it!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:198 #-#-# translate crowdin gym_monday_star_running_competition_ad6bfb5d:
+msgid "[_star_s_gym_s_towards_s_angry_s_talk_happy_] Pay close attention Paulina, it's about how you work what you got, not how much you got lying around back there."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:202 #-#-# translate crowdin gym_monday_star_running_competition_3df0cef3:
+msgid "[_paulina_s_gym_s_closed_s_angry_s_talk_distraught_] {i}*Scoffs*{/i}"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:206 #-#-# translate crowdin gym_monday_star_running_competition_ce5464a7:
+msgid "[_star_s_gym_s_towards_s_rise_s_talk_happy_] Remember Danny, you gotta get the best angle while I'm jogging! Billy's gotta really know what he's missing!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:215 #-#-# translate crowdin gym_monday_star_running_competition_92be04e2:
+msgid "[_danny_] (Man, if only she knew... still, this ain't a bad little comically ironic arrangement to have...)"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:216 #-#-# translate crowdin gym_monday_star_running_competition_ac22c880:
+msgid "[_star_] Did you take the photo yet? Seriously, make sure you're getting the right angle on it!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:217 #-#-# translate crowdin gym_monday_star_running_competition_99b0bed4:
+msgid "[_star_] ...and you better not be staring at it any more than you need to!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:218 #-#-# translate crowdin gym_monday_star_running_competition_c258c96d:
+msgid "[_danny_] No yeah, I got it, I took the photo! I think this will do."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:219 #-#-# translate crowdin gym_monday_star_running_competition_9903edd9:
+msgid "[_star_] Great! Tell me what Billy thinks when he sees it!~"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:234 #-#-# translate crowdin gym_monday_star_running_competition_573a20d2:
+msgid "[_danny_s_gym_s_towards_s_idle_s_talk_happy_] I'm sure he'll be thrilled."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:238 #-#-# translate crowdin gym_monday_star_running_competition_c0dc1cdc:
+msgid "[_star_s_gym_s_towards_s_rise_s_talk_displeased_] {i}Hmmph!{/i} I mean, with an ass like mine, how could he not be?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:242 #-#-# translate crowdin gym_monday_star_running_competition_29f82963:
+msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_displeased_] So like, are we done warming up your photography skills on the junior varsity candidate yet?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:246 #-#-# translate crowdin gym_monday_star_running_competition_b1013c9b:
+msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_happy_] I think it's about time we got down to some serious business with my tushy!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:250 #-#-# translate crowdin gym_monday_star_running_competition_fd692a73:
+msgid "[_danny_s_gym_s_towards_s_idle_s_talk_happy_] Sure Paulina, if you're ready to go!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:254 #-#-# translate crowdin gym_monday_star_running_competition_b0219cf7:
+msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_happy_] Please, I'm {i}always{/i} ready to show off my behind..."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:261 #-#-# translate crowdin gym_monday_star_running_competition_718cab55:
+msgid "[_danny_] (I really can't believe they're choosing {i}this{/i} to fight over Inviso-Bill with...)"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:262 #-#-# translate crowdin gym_monday_star_running_competition_dcd2f01b:
+msgid "[_danny_] (Not like either him or me are gonna be complaining about it.)"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:263 #-#-# translate crowdin gym_monday_star_running_competition_ff3b5e46:
+msgid "[_paulina_] Looking good back there?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:264 #-#-# translate crowdin gym_monday_star_running_competition_67101af7:
+msgid "[_danny_] Y-yeah, you definitely know how to simultaneously jog and pose!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:265 #-#-# translate crowdin gym_monday_star_running_competition_6b8b671e:
+msgid "[_paulina_] {i}Ha hah!{/i} It's pretty much a talent!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:266 #-#-# translate crowdin gym_monday_star_running_competition_fba92e38:
+msgid "[_star_] Danny, just hurry up and take her stupid picture already!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:267 #-#-# translate crowdin gym_monday_star_running_competition_cd24a175:
+msgid "[_danny_] Okay, okay, I think I got it... yeah, that should do it."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:281 #-#-# translate crowdin gym_monday_star_running_competition_09fd5e46:
+msgid "[_paulina_s_gym_s_towards_s_idle_s_talk_happy_] Nothing better than a brisk little run around the track, you know?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:285 #-#-# translate crowdin gym_monday_star_running_competition_0fd254e7:
+msgid "[_star_s_gym_s_closed_s_idle_s_talk_displeased_] {i}*Ughh*{/i}..."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:289 #-#-# translate crowdin gym_monday_star_running_competition_dd3ce2be:
+msgid "[_danny_s_gym_s_towards_s_sad_s_talk_happy_] Alright, I think that about covers it for the both of you."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:293 #-#-# translate crowdin gym_monday_star_running_competition_c141aa80:
+msgid "[_danny_s_gym_s_closed_s_sad_s_talk_happy_] I'll just, y'know, send these to Inviso-Bill so that-"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:303 #-#-# translate crowdin gym_monday_star_running_competition_023f94ae:
+msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_displeased_] Wait, who was better?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:307 #-#-# translate crowdin gym_monday_star_running_competition_218a76eb:
+msgid "[_danny_s_gym_s_towards_wide_s_sad_s_talk_happy_] {i}Huh?{/i}"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:311 #-#-# translate crowdin gym_monday_star_running_competition_613987f4:
+msgid "[_star_s_gym_s_towards_s_rise_s_talk_displeased_] Yeah, who strutted their booty better?! Between the two of us, whose was nicer??"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:315 #-#-# translate crowdin gym_monday_star_running_competition_a29b266d:
+msgid "[_danny_s_gym_s_closed_s_unhappy_s_consternation_] {i}Hmmmm...{/i}"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:319 #-#-# translate crowdin gym_monday_star_running_competition_7ef0ed9f:
+msgid "[_danny_s_gym_s_at_player_s_sad_s_smile_] (How should I respond to that...?)"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:332 #-#-# translate crowdin gym_monday_star_running_competition_paulina_2fcd08f0:
+msgid "[_paulina_s_gym_s_towards_s_idle_s_talk_happy_] Okay, I see you Fenton! At least you're a man of proper taste, I see."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:336 #-#-# translate crowdin gym_monday_star_running_competition_paulina_4ccf0222:
+msgid "[_star_s_gym_s_towards_s_angry_s_talk_distraught_] You take that back! There's no way he'd prefer her-"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:340 #-#-# translate crowdin gym_monday_star_running_competition_paulina_c671db7e:
+msgid "[_danny_s_gym_s_towards_s_rise_s_talk_happy_] What? C'mon Star, she's got a {u}contender{/u} back there! That's a wagon and a half! How could he not see the-"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:344 #-#-# translate crowdin gym_monday_star_running_competition_paulina_106fc186:
+msgid "[_star_s_gym_s_towards_s_angry_s_talk_distraught_] {i}Uch!!{/i} Shut up, Fenton! I don't wanna hear it!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:353 #-#-# translate crowdin gym_monday_star_running_competition_paulina_075f6b4f:
+msgid "[_danny_s_gym_s_towards_s_sad_s_talk_happy_] Guess she's done with her exercise for the morning..."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:356 #-#-# translate crowdin gym_monday_star_running_competition_paulina_0a14ecd3:
+msgid "[_paulina_s_gym_s_towards_s_rise_s_talk_happy_] Oh, just let her get over herself. It's like this all the time with her!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:359 #-#-# translate crowdin gym_monday_star_running_competition_paulina_f6bc4651:
+msgid "[_danny_s_gym_s_down_s_unhappy_s_talk_displeased_] I-I guess so."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:362 #-#-# translate crowdin gym_monday_star_running_competition_paulina_1355b901:
+msgid "[_paulina_s_gym_s_towards_s_idle_s_talk_happy_] Anyway, good shots, well done, send them to Ghost Boy, chop chop."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:365 #-#-# translate crowdin gym_monday_star_running_competition_paulina_f840b160:
+msgid "[_danny_s_gym_s_towards_s_sad_s_talk_happy_] Y-yeah, I'm on it."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:373 #-#-# translate crowdin gym_monday_star_running_competition_paulina_a81b2cb1:
+msgid "[_danny_s_gym_s_at_player_s_rise_s_talk_happy_] ...nice photo..."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:385 #-#-# translate crowdin gym_monday_star_running_competition_star_787e8bc1:
+msgid "[_star_s_gym_s_towards_s_rise_s_talk_happy_] Of course he will! It's the obvious choice!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:389 #-#-# translate crowdin gym_monday_star_running_competition_star_b189536c:
+msgid "[_paulina_s_gym_s_towards_s_angry_s_talk_distraught_] Whatever! You think he's gonna freak out over some pancake cheeks?!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:393 #-#-# translate crowdin gym_monday_star_running_competition_star_b871d2ec:
+msgid "[_danny_s_gym_s_towards_s_sad_s_talk_happy_] I mean... I don't know, it looks pretty plump in this photo, Paulina..."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:397 #-#-# translate crowdin gym_monday_star_running_competition_star_12e7f434:
+msgid "[_paulina_s_gym_s_towards_s_angry_s_talk_distraught_] {i}Ugh!!{/i} The world is going insane!! The Cuban booty {i}never{/i} loses!!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:401 #-#-# translate crowdin gym_monday_star_running_competition_star_0f90c9a7:
+msgid "[_star_s_gym_s_towards_s_rise_s_talk_happy_] Well it did {i}this{/i} time, sweetie! Get used to learning what 2nd place is like!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:405 #-#-# translate crowdin gym_monday_star_running_competition_star_75c9d84e:
+msgid "[_paulina_s_gym_s_closed_s_angry_s_talk_distraught_] I-!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:409 #-#-# translate crowdin gym_monday_star_running_competition_star_97ab4274:
+msgid "[_paulina_s_gym_s_towards_s_angry_s_talk_distraught_] You know what, what the hell ever! I'm getting out of whatever crazy world you two are living in!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:419 #-#-# translate crowdin gym_monday_star_running_competition_star_67e80611:
+msgid "[_star_s_gym_s_towards_s_rise_s_talk_happy_] {i}Hah ha!{/i} Dang, that felt good..."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:422 #-#-# translate crowdin gym_monday_star_running_competition_star_5c3d51ea:
+msgid "[_star_s_gym_s_towards_s_idle_s_talk_happy_] Anyway, send those to Billy right away.{p}And then get out of my space, I still have more laps to run."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:425 #-#-# translate crowdin gym_monday_star_running_competition_star_c28c045a:
+msgid "[_danny_s_gym_s_down_s_idle_s_talk_displeased_] {i}*Muttering*{/i}...right away, your heinie-ness..."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:428 #-#-# translate crowdin gym_monday_star_running_competition_star_f45a73e8:
+msgid "[_star_s_gym_s_towards_s_angry_s_talk_displeased_] Excuse me, what was that...?"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:431 #-#-# translate crowdin gym_monday_star_running_competition_star_305b1c71:
+msgid "[_danny_s_gym_s_towards_wide_s_idle_s_talk_displeased_] N-nothing! Shutting up now!"
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:440 #-#-# translate crowdin gym_monday_star_running_competition_star_dbcd6673:
+msgid "[_star_s_gym_s_towards_s_angry_s_distraught_] {i}...!{/i}"
+msgstr ""
+
+msgid "I think Inviso-Bill's gonna like Paulina's more, personally."
+msgstr ""
+
+# game/code/character_events/star/star_gym_running.rpy:322
+msgid "Inviso-Bill's gonna flip when he sees your photo, Star."
+msgstr ""
+
