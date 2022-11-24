@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: amity-park\n"
+"X-Crowdin-Project-ID: 528084\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/code/character_events/jazz/jazz_yoga.po\n"
+"X-Crowdin-File-ID: 4188\n"
+"Project-Id-Version: amity-park\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2022-11-24 09:03\n"
+
+# TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/jazz/jazz_yoga.rpy:10 #-#-# translate crowdin jazz_wednesday_yoga_ca95bc43:
+msgid "[_mp3_] {i}Breathe in... and breathe out...{p}...let your body be a guiding hand for your inner self's desires and needs...{p}...breathe in... and release..."
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:12 #-#-# translate crowdin jazz_wednesday_yoga_a0743fd2:
+msgid "[_danny_s_towards_s_rise_s_smile_] (Huh? Oh, sounds like Jazz is practicing yoga in her room again...)"
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:14 #-#-# translate crowdin jazz_wednesday_yoga_1a5f2b1b:
+msgid "[_danny_s_at_player_s_idle_s_smile_] (I could never get into it myself, I find my body to be a little too blocky, not quite limber enough for all that...)"
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:16 #-#-# translate crowdin jazz_wednesday_yoga_ab4d50c1:
+msgid "[_danny_s_down_s_idle_s_bite_] (She usually wears that sporty little getup when she's doing it too...)"
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:18 #-#-# translate crowdin jazz_wednesday_yoga_c4616adf:
+msgid "[_danny_s_at_player_s_rise_s_grin_] (Should I take a quick peek?)"
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:40 #-#-# translate crowdin jazz_wednesday_yoga_observe_a49f409b:
+msgid "[_danny_s_f_s_offscreen_s_towards_s_idle_s_bite_] (Yeah, there she is, doing her thing)"
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:41 #-#-# translate crowdin jazz_wednesday_yoga_observe_f595af50:
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_smile_] (Like I said, I wish I could get into it, but it's just not for me..)"
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:72 #-#-# translate crowdin jazz_wednesday_yoga_observe_pass_9ab85ad5:
+msgid "[_danny_s_f_s_offscreen_s_closed_s_idle_s_bite_] . . ."
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:78 #-#-# translate crowdin jazz_wednesday_yoga_observe_pass_20c977ea:
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_sad_s_displeased_] ({i}Hmmmm{/i}... I should probably better get out of here before she notices me.)"
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:80 #-#-# translate crowdin jazz_wednesday_yoga_observe_pass_bdc8485d:
+msgid "[_danny_s_f_s_offscreen_s_at_player_s_rise_s_smile_] (Best to not push my luck, after all.)"
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:123 #-#-# translate crowdin jazz_wednesday_yoga_observe_fail_c8c86e3d:
+msgid "[_jazz_s_yoga_s_towards_s_rise_s_talk_displeased_] Were you watching me?"
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:126 #-#-# translate crowdin jazz_wednesday_yoga_observe_fail_0144101e:
+msgid "[_danny_s_towards_wide_s_sad_s_talk_happy_] N-no, I {i}uhh{/i}, I just came to see if you wanted a soda, or anything."
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:129 #-#-# translate crowdin jazz_wednesday_yoga_observe_fail_f2615b38:
+msgid "[_jazz_s_yoga_s_towards_s_idle_s_talk_displeased_] I'm fine thank you, now just let me finish up."
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:132 #-#-# translate crowdin jazz_wednesday_yoga_observe_fail_423dc42e:
+msgid "[_jazz_s_yoga_s_towards_s_rise_s_talk_displeased_] Y'know, in {u}private{/u}?"
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:135 #-#-# translate crowdin jazz_wednesday_yoga_observe_fail_be865036:
+msgid "[_danny_s_down_s_unhappy_s_talk_displeased_] R-right."
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:141 #-#-# translate crowdin jazz_wednesday_yoga_observe_fail_74cf04d8:
+msgid "[_danny_s_at_player_s_sad_s_consternation_] (I should be more careful next time.)"
+msgstr ""
+
+msgid "(I gotta make sure she's got the right form!)"
+msgstr ""
+
+# game/code/character_events/jazz/jazz_yoga.rpy:20
+msgid "(No, I'm not gonna intrude.)"
+msgstr ""
+
