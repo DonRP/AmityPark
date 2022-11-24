@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-24 11:40\n"
+"PO-Revision-Date: 2022-11-24 12:35\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -234,51 +234,51 @@ msgstr "[_jack_s_towards_s_sad_s_talk_displeased_] Sí, y yo iba a contarle a Da
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:394 #-#-# translate crowdin intro_breakfast_ff9882b5:
 msgid "[_jazz_s_flip_s_towards_s_idle_s_talk_amused_] {i}Oooh{/i}, darn, that's too bad! We're just running {i}so{/i} short on time today you guys, I'm really sorry!"
-msgstr ""
+msgstr "[_jazz_s_flip_s_towards_s_idle_s_talk_amused_] {i}¡Oh, lo siento! ¡Tenemos prisa porque vamos {i}cortos{/i} de tiempo hoy, ¡lo siento mucho!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:397 #-#-# translate crowdin intro_breakfast_af09a5c9:
 msgid "[_jazz_s_flip_s_towards_s_wondering_s_talk_frown_] Come on Danny, we need to get {i}going{/i}... {u}now{/u}...?"
-msgstr ""
+msgstr "[_jazz_s_flip_s_towards_s_wondering_s_talk_frown_] Vamos Danny, tenemos que {i}ponernos{/i} en marcha... {u}ahora{/u}..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:403 #-#-# translate crowdin intro_breakfast_4c2557b3:
 msgid "[_danny_s_talk_happy_2_s_sad_] Jazz, calm down, I have like a whole hour before the first bell even rings! I can get myself to school on my own, I'm an {b}adult{/b} after all. So please, I wanna eat my waffles first! I won't be late though, promise!"
-msgstr ""
+msgstr "[_danny_s_talk_happy_2_s_sad_] Jazz, cálmate, tengo como una hora entera antes de que suene la campana de mi primer clase. Puedo ir a la escuela por mi cuenta, soy un adulto {b}después{/b} de todo. Así que, por favor, quiero comer mis gofres primero.No llegaré tarde, ¡lo prometo!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:409 #-#-# translate crowdin intro_breakfast_f2840d99:
 msgid "[_jazz_s_flip_s_towards_s_wondering_s_talk_frown_] {i}Ugh{/i}, you {i}better{/i} not be, Danny."
-msgstr ""
+msgstr "[_jazz_s_flip_s_towards_s_wondering_s_talk_frown_] {i}Ugh{/i}, {i}mejor{/i} que no, Danny."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:421 #-#-# translate crowdin intro_breakfast_d3842111:
 msgid "[_danny_s_rise_one_s_talk_happy_] So then, gang...{p}...waffle time?"
-msgstr ""
+msgstr "[_danny_s_rise_one_s_talk_happy_] Entonces, pandilla...{p}...¿tiempo de gófres?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:425 #-#-# translate crowdin intro_breakfast_b5ff3d91:
 msgid "[_maddie_s_suspicious_towards_s_aghast_s_talk_happy_] {u}Waffle time.{/u}"
-msgstr ""
+msgstr "[_maddie_s_suspicious_towards_s_aghast_s_talk_happy_] {u}La hora del gofre{/u}."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:495 #-#-# translate crowdin intro_schoolfront_86da7a59:
 msgid "[_danny_s_towards_s_sad_s_talk_happy_] Hey guys! Boy, am I glad to see you two."
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_s_talk_happy_] ¡Hola chicos! Me alegro de veros."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:498 #-#-# translate crowdin intro_schoolfront_23cd32f3:
 msgid "[_sam_s_co_s_towards_s_neutral_s_talk_happy_] Why? It's only been since Saturday that we all hung out together, dude. It hasn't been too long a wait, has it? {i}*Chuckles*{/i}"
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_neutral_s_talk_happy_] ¿Por qué? Sólo ha sido desde el sábado que salimos todos juntos. No ha sido una espera demasiado larga, ¿verdad? {i}*Chuckles*{/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:501 #-#-# translate crowdin intro_schoolfront_9fa60a5e:
 msgid "[_tucker_s_arms_straps_s_towards_s_wondering_s_talk_happy_] So man, how was the rest of your weekend? You get as many phone numbers as your ol' pal Tucker did?"
-msgstr ""
+msgstr "[_tucker_s_arms_straps_s_towards_s_wondering_s_talk_happy_] Entonces, ¿cómo ha ido el resto de tu fin de semana? ¿Conseguiste tantos números de teléfono como tu viejo amigo Tucker?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:505 #-#-# translate crowdin intro_schoolfront_55962778:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Oh, could've been better. I sorta accidentally broke a machine my folks were working on last night.{p}I mean, it was already broken, but I definitely think I busted it good."
-msgstr ""
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] Podría haber sido mejor. Anoche rompí accidentalmente una máquina en la que trabajaban mis padres.{p}Quiero decir, ya estaba algo rota, y definitivamente creo que la rompí del todo."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:509 #-#-# translate crowdin intro_schoolfront_866f4140:
 msgid "[_danny_s_at_player_s_talk_frown_s_rise_one_] Oh, and I almost died because of it!{p}(...or maybe I {u}did{/u}...?)"
-msgstr ""
+msgstr "[_danny_s_at_player_s_talk_frown_s_rise_one_] Ah, ¡y casi muero por ello! {p} (¿...o quizás lo {u}hice{/u}...?)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:513 #-#-# translate crowdin intro_schoolfront_892fa977:
 msgid "[_tucker_s_arms_straps_s_towards_wide_s_sad_s_talk_displeased_] Jeez dude, that's crazy! Knowing the level of tech they have in that Lab, I'm glad you didn't seriously croak!"
-msgstr ""
+msgstr "[_tucker_s_arms_straps_s_towards_wide_s_sad_s_talk_displeased_] ¡Dios mío, es una locura! Conociendo el nivel de tecnología que tienen en ese laboratorio, ¡me alegro de que no te hayas muerto en serio!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:516 #-#-# translate crowdin intro_schoolfront_53ebcdca:
 msgid "[_sam_s_co_s_towards_wide_s_sad_s_talk_frown_] {i}Woah{/i}, are you okay Danny? What even happened?"
