@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-10 15:44\n"
+"PO-Revision-Date: 2022-11-25 10:48\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
@@ -262,7 +262,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:259 #-#-# translate crowdin a_masterful_speech_classroom_1729c1be:
 msgid "[_bellsound_] {i}*Riiing* *Riiing*{/i}"
-msgstr ""
+msgstr "[_bellsound_] {i}*Riiing* *Riiing*{/i}"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:265 #-#-# translate crowdin a_masterful_speech_classroom_0c61a1a0:
 msgid "[_lancer_s_talk_frown_] Mr. Fenton, we find you arriving late {u}yet{/u} again. Color me {b}not{/b} shocked."
