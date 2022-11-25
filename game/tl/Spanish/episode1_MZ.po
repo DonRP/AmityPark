@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-24 12:35\n"
+"PO-Revision-Date: 2022-11-25 09:48\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -282,75 +282,75 @@ msgstr "[_tucker_s_arms_straps_s_towards_wide_s_sad_s_talk_displeased_] ¡Dios m
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:516 #-#-# translate crowdin intro_schoolfront_53ebcdca:
 msgid "[_sam_s_co_s_towards_wide_s_sad_s_talk_frown_] {i}Woah{/i}, are you okay Danny? What even happened?"
-msgstr ""
+msgstr "[_sam_s_co_s_towards_wide_s_sad_s_talk_frown_] {i}Woah, ¿estás bien Danny? ¿Qué ha pasado?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:519 #-#-# translate crowdin intro_schoolfront_3392137a:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] Yeah, I'm pretty much okay, you guys don't need to worry about me... I should be fine, assuming my body doesn't begin to dissolve into a puddle of green goo in the middle of class."
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] Sí, estoy bastante bien, no tenéis que preocuparos por mí... Debería estar bien, espero que mi cuerpo no comience a disolverse en un charco de sustancia verde en medio de la clase."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:523 #-#-# translate crowdin intro_schoolfront_3d49bafc:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_happy_] Okay, well, I'm just glad you're alright! If it were just me, Tuck, and pile of you in a jar, I don't think we'd last long as a trio! {i}Hah ha!{/i}"
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_happy_] ¡Bueno, me alegro de que estés bien! Si estuviésemos yo, Tuck, y tú en un frasco, ¡no creo que duráramos mucho como trío! {i}¡Ja, ja!{/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:526 #-#-# translate crowdin intro_schoolfront_a7f0f4cc:
 msgid "[_tucker_s_arms_straps_s_towards_s_sad_s_talk_happy_] {i}*Chuckles*{/i} Well, since you haven't gone Wicked Witch of the West just yet, we should probably hurry up before we're late! {b}Mr. Lancer{/b} waves my tardiness track record in my face enough as it is!"
-msgstr ""
+msgstr "[_tucker_s_arms_straps_s_towards_s_sad_s_talk_happy_] {i}*Chuckles*{/i} Bueno, ya que todavía no te has convertido en la Bruja Mala del Oeste, deberíamos darnos prisa antes de llegar tarde. {b}¡El Sr. Lancer{/b} me echará en cara mi historial de retrasos!."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:569 #-#-# translate crowdin intro_schoolhallmain_d9d2320c:
 msgid "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_] Tucker, be cool, Paulina's coming this way!"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_] Tucker, tranquilo, ¡Paulina viene hacia aquí!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:572 #-#-# translate crowdin intro_schoolhallmain_6cf71005:
 msgid "[_tucker_s_flip_s_arms_straps_s_closed_s_sad_s_talk_happy_] Come on, man. I'm {i}always{/i} cool."
-msgstr ""
+msgstr "[_tucker_s_flip_s_arms_straps_s_closed_s_sad_s_talk_happy_] Vamos, hombre. Soy {i}siempre{/i} genial."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:575 #-#-# translate crowdin intro_schoolhallmain_e8bc6330:
 msgid "[_sam_s_co_s_flip_s_towards_s_angry_s_talk_frown_] You know, I don't think I'll ever understand {i}what{/i} in goth's name you two see in her."
-msgstr ""
+msgstr "[_sam_s_co_s_flip_s_towards_s_angry_s_talk_frown_] Sabes, creo que nunca entenderé {i}qué{/i} és lo que veis en ella."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:578 #-#-# translate crowdin intro_schoolhallmain_f1316288:
 msgid "[_danny_s_closed_s_unhappy_s_talk_happy_] C'mon Sam... it's obvious! She's just {i}sooo{/i} pretty..."
-msgstr ""
+msgstr "[_danny_s_closed_s_unhappy_s_talk_happy_] Vamos Sam... ¡es obvio! Ella sólo {i}estaaaaa{/i} buenísima..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:581 #-#-# translate crowdin intro_schoolhallmain_09bbdf02:
 msgid "[_tucker_s_flip_s_arms_straps_s_closed_s_sad_s_talk_happy_] Not just pretty! Paulina's {i}smoking{/i} hot!"
-msgstr ""
+msgstr "[_tucker_s_flip_s_arms_straps_s_closed_s_sad_s_talk_happy_] ¡No sólo está buena! ¡Paulina és {i} muy{/i} sexi!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:585 #-#-# translate crowdin intro_schoolhallmain_eca6413b:
 msgid "[_sam_s_co_s_flip_s_towards_s_rage_s_talk_frown_] Y'know, both of your tastes in women leaves something to be desired, fellas..."
-msgstr ""
+msgstr "[_sam_s_co_s_flip_s_towards_s_rage_s_talk_frown_] Saben, el gusto de ambos por las mujeres deja mucho que desear..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:588 #-#-# translate crowdin intro_schoolhallmain_4d1f82bf:
 msgid "[_tucker_s_flip_s_arms_straps_s_towards_s_wondering_s_talk_happy_] {i}Awwwe,{/i} come on, Sam, how could we NOT be into all {u}that?!{/u}"
-msgstr ""
+msgstr "[_tucker_s_flip_s_arms_straps_s_towards_s_wondering_s_talk_happy_] {i}Awwwe, {/i} vamos, Sam, ¿cómo podríamos NO tener buen {u}gusto? {/u}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:598 #-#-# translate crowdin intro_schoolhallmain_6aa47e45:
 msgid "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] Into all {i}what{/i}, exactly?"
-msgstr ""
+msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] Bueng usto {i}¿qué {/i}, exactamente?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:601 #-#-# translate crowdin intro_schoolhallmain_d31da672:
 msgid "[_tucker_s_talk_frown_] Oh, {i}uhm{/i}, h-hi Paulina! W-w-we were just saying... {i}uhh{/i}..."
-msgstr ""
+msgstr "[_tucker_s_talk_frown_] ¡Oh, {i}uhm{/i}, h-hi Paulina! Estábamos diciendo... {i}uhh{/i}..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:604 #-#-# translate crowdin intro_schoolhallmain_3dbf388a:
 msgid "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] Were you three weirdos talking about me again? Look, not that I don't appreciate the adoration from the freaks and geeks, but all your ogling is kinda creepy!"
-msgstr ""
+msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] ¿Estaban los tres hablando de mí otra vez? Mira, no es que no aprecie la adoración de los frikis, ¡pero vuestra mirada es algo espeluznante!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:607 #-#-# translate crowdin intro_schoolhallmain_f6bdb519:
 msgid "[_sam_s_co_s_flip_s_towards_s_rage_s_talk_happy_] Oh yeah Paulina, I was just mentioning to the guys how good a job I think you'd do as a community pool actually... safe for all ages, nobody could possibly drown!"
-msgstr ""
+msgstr "[_sam_s_co_s_flip_s_towards_s_rage_s_talk_happy_] Oh, sí Paulina, estaba mencionando a los chicos el buen trabajo que estás haciendo en la piscina comunitaria... seguro para todas las edades, ¡nadie podría ahogarse!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:610 #-#-# translate crowdin intro_schoolhallmain_1a621d2e:
 msgid "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] {i}Uhm{/i}, {i}excuse{/i} me? Did you just call me shallow??"
-msgstr ""
+msgstr "[_paulina_s_normal_s_towards_s_rise_s_talk_displeased_] {i}Uhm, ¿me {i}disculpas{/i}? ¿¿Acabas de llamarme superficial??"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:613 #-#-# translate crowdin intro_schoolhallmain_1629a8b6:
 msgid "[_sam_s_co_s_flip_s_towards_s_rage_s_talk_happy_] Oh wow, congrats on picking up on that slam! I guess you're not a {u}complete{/u} superficial airhead after all... maybe only {i}ninety-five{/i} percent air."
-msgstr ""
+msgstr "[_sam_s_co_s_flip_s_towards_s_rage_s_talk_happy_] ¡Vaya! ¡Felicidades por haber captado la indirecta! Supongo que después de todo no eres una {u}completa{/u} cabeza hueca y superficial... quizás sólo el {i}noventa y cinco{/i} por ciento dentro de tu cabeza es aire."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:626 #-#-# translate crowdin intro_schoolhallmain_b3d24c5f:
 msgid "[_dash_s_towards_s_upset_s_talk_distraught_] Hey, what'd you just say about Paulina, goth geek?"
-msgstr ""
+msgstr "[_dash_s_towards_s_upset_s_talk_distraught_] Oye, ¿qué acabas de decir de Paulina, friki gótica?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:630 #-#-# translate crowdin intro_schoolhallmain_97460f24:
 msgid "[_sam_s_angry_s_talk_frown_] I {i}said{/i}, nutbucket, that your pseudo girlfriend is as shallow as a kiddie pool for toddlers. That she's got a near limitless helium supply inside of her skullcap! Is that clear enough for you, yah' jock itch smelling piece of-"
