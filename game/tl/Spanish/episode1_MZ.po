@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-25 10:48\n"
+"PO-Revision-Date: 2022-11-28 11:12\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -482,31 +482,31 @@ msgstr "[_danny_s_down_s_angry_s_talk_consternation_] Increíble... este día se
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:856 #-#-# translate crowdin intro_classroom_ee0f5574:
 msgid "[_tucker_] So, what happened last night with your near death experience?"
-msgstr ""
+msgstr "[_tucker_] ¿Qué pasó anoche en tu experiencia cercana a la muerte?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:863 #-#-# translate crowdin intro_classroom_e438ce6f:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Well, my parents have this new Ghost Portal thingy they were working on, and basically I had-"
-msgstr ""
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] Bueno, mis padres estaban trabajando en un nuevo portal fantasma y básicamente yo"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:868 #-#-# translate crowdin intro_classroom_5f4248e2:
 msgid "[_sam_] \"Ghost Portal thingy\"?"
-msgstr ""
+msgstr "[_sam_] ¿\"Portal fantasma\"?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:873 #-#-# translate crowdin intro_classroom_53c72a26:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Well yeah, it's supposed to open up to some sort of new astral realm... a kind've... \"afterlife\" dimension."
-msgstr ""
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] Bueno, sí, se supone que se abre a una especie de nuevo reino astral... una especie de...... dimensión de la \"otra vida\"."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:878 #-#-# translate crowdin intro_classroom_630c9586:
 msgid "[_tucker_] Wild! Does it work? Can I use it to see my great GamGam again?"
-msgstr ""
+msgstr "[_tucker_] ¡Salvaje! ¿Funciona? ¿Puedo utilizarlo para volver a ver mi gran GamGam?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:883 #-#-# translate crowdin intro_classroom_11558d68:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] Well, it didn't seem to work, but trust me, I nearly ended up in the afterlife myself when it shocked a couple hundred volts into my body!"
-msgstr ""
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] Bueno, parece que no funcionó, pero créeme, ¡yo mismo estuve a punto de acabar en el más allá cuando me metió un par de cientos de voltios en el cuerpo!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:888 #-#-# translate crowdin intro_classroom_5411e035:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_frown_] What were you doing messing around inside the portal anyway?"
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_frown_] De todas formas, ¿qué hacías metido en el portal?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:893 #-#-# translate crowdin intro_classroom_7b5a0762:
 msgid "[_danny_] My parents said it was busted when they first tested it. So I slipped on an ecto-suit, and went in just to check it out. Dad forgot he built the 'on' switch on the inside, and I guess I accidentally pressed it... still didn't work though."
