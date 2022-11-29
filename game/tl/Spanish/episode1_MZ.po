@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-28 12:25\n"
+"PO-Revision-Date: 2022-11-29 12:42\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -646,19 +646,19 @@ msgstr "[_newscaster_s_9_] ¡Noticia de última hora! Canal 4 ha recibido múlti
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1185 #-#-# translate crowdin intro_dinner_0dd34039:
 msgid "[_jazz_] No.{p}Freaking.{p}Way."
-msgstr ""
+msgstr "[_jazz_] No.Es otra {p}estafa{p/}."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1190 #-#-# translate crowdin intro_dinner_7749f032:
 msgid "[_maddie_] Jack! Oh my gosh, Jack!! This is it! The validation of our {u}entire{/u} life's work!"
-msgstr ""
+msgstr "[_maddie_] ¡Jack! Oh, Dios mío, ¡¡Jack!! ¡Esto es! ¡La prueba del trabajo de {u}toda{u/} nuestra vida!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1195 #-#-# translate crowdin intro_dinner_e85d6cf4:
 msgid "[_jack_] {i}YEEESS!!{/i} Oh yeah, they laughed at ol' Jack Fenton, calling me a crazy failure! Well guess who's laughing {i}and{/i} crazy now, baby?!"
-msgstr ""
+msgstr "[_jack_] {i}¡SIIIIIII! Oh sí, se rieron del viejo Jack Fenton llamándole ¡loco fracasado!. ¡¿Adivina nena quién se ríe ahora {i}y{i/} quiénes no?!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1198 #-#-# translate crowdin intro_dinner_630209af:
 msgid "[_newscaster_s_1_] -fficial word we are receiving is that due to the apparent appearance of these seemingly {i}supernatural{/i} and remarkable occurences, {b}Mayor Montez{/b} is currently seeking the aid of famed paranormal expert..."
-msgstr ""
+msgstr "[_newscaster_s_1_] -Las noticias que recibimos nos dicen que tras la aparente aparición de estos {i}sucesos sobrenaturales{/i} y notables, {b}El alcalde Montez{/b} está buscando la ayuda del famoso experto paranormal..."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1202 #-#-# translate crowdin intro_dinner_910391ca:
 msgid "[_jack_] Yes..."
