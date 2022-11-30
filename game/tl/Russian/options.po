@@ -10,8 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-07-23 10:06\n"
+"PO-Revision-Date: 2022-11-30 13:02\n"
 
 msgid "Amity Park"
-msgstr ""
+msgstr "Парк Эмити"
 
