@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-29 13:41\n"
+"PO-Revision-Date: 2022-11-30 20:43\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -814,7 +814,7 @@ msgstr "[_valerie_] ¡Oh, ¡cierra la boca Star! ¡No voy a escuchar tu mierda h
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1429 #-#-# translate crowdin redux_valerie_intro_adab2d5b:
 msgid "[_valerie_] I mean really, one little news report shows up about a ghost sighting, and we're all supposed to believe it?"
-msgstr ""
+msgstr "[_valerie_] Quiero decir, un pequeño informe de noticias sobre un avistamiento de fantasmas, ¿y se supone que todos debemos creerlo?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1433 #-#-# translate crowdin redux_valerie_intro_fc314988:
 msgid "[_kwan_s_towards_s_sad_s_talk_displeased_] The news wouldn't lie, Valerie, c'mon..."
