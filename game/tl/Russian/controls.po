@@ -10,28 +10,28 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-07-23 16:08\n"
+"PO-Revision-Date: 2022-11-30 13:02\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/base/controls.rpy:177 #-#-# translate crowdin no_return_06e302cb:
 msgid "So be it. There's no turning back now."
-msgstr ""
+msgstr "Да будет так. Теперь назад дороги нет."
 
 # game/code/base/controls.rpy:191 #-#-# translate crowdin menu_Ghost_Choice_fceed870:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_smile_] I should give the guitar to Ember in the morning."
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_smile_] Утром я должен отдать гитару Эмбер."
 
 # game/code/base/controls.rpy:194 #-#-# translate crowdin menu_Ghost_Choice_e132bb66:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] I should get the guitar before I talk to Ember again."
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] Утром я должен отдать гитару Эмбер."
 
 # game/code/base/controls.rpy:199 #-#-# translate crowdin menu_Ghost_Choice_c9cefaf3:
 msgid "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] I better leave Ember alone for now."
-msgstr ""
+msgstr "[_danny_s_f_s_offscreen_s_at_player_s_wondering_s_distraught_] Мне лучше пока оставить Эмбер в покое."
 
 msgid "Desiree"
-msgstr ""
+msgstr "Дезире"
 
 # game/code/base/controls.rpy:182
 msgid "Ember"
-msgstr ""
+msgstr "Эмбер"
 
