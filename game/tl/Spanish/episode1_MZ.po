@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-12-01 10:25\n"
+"PO-Revision-Date: 2022-12-01 12:04\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -1454,29 +1454,29 @@ msgstr "[_danny_s_towards_wide_s_wondering_s_talk_happy_] S-sí... {i}hah ha{/i}
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2147 #-#-# translate crowdin invisobill_introduction_0c187450:
 msgid "[_jack_s_stare_s_angry_s_talk_happy_] Come on Maddie, we need to get back out there! That disgusting ghoul might try to attack another poor victim like Jazz next! We need to catch him before he strikes again!"
-msgstr ""
+msgstr "[_jack_s_stare_s_angry_s_talk_happy_] ¡Vamos Maddie!, ¡tenemos que volver a salir! ¡Ese asqueroso demonio podría intentar atacar a otra pobre víctima como Jazz! ¡Tenemos que atraparlo antes de que ataque de nuevo!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2164 #-#-# translate crowdin invisobill_introduction_5f57c9af:
 msgid "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_] ...good luck guys!! Don't stay out too late!! I somehow doubt that this weird ghost kid is gonna be roaming the streets tonight!!"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_] ¡¡...buena suerte!! No se queden hasta muy tarde. ¡¡Dudo que este extraño niño fantasma vaya a vagar por las calles esta noche!!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2170 #-#-# translate crowdin invisobill_introduction_fe505b31:
 msgid "[_danny_] (After that fight today, I'm a little too tired to go just about anywhere, honestly. I should probably just head to bed and get some rest.)"
-msgstr ""
+msgstr "[_danny_] (Después de la pelea de hoy estoy demasiado cansado para ir a cualquier sitio, sinceramente. Probablemente debería ir a la cama y descansar un poco)"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2210 #-#-# translate crowdin go_to_class_e3c22616:
 msgid "[_danny_] Not right now, I need to go to class, quickly!"
-msgstr ""
+msgstr "[_danny_] Ahora no, tengo que ir a clase, ¡rápido!"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2231 #-#-# translate crowdin go_home_1723e549:
 msgid "[_danny_] Nurse Kate said I'm gonna need some rest after passing out in class, so I should try to head home."
-msgstr ""
+msgstr "[_danny_] La enfermera Kate ha dicho que necesito descansar después de desmayarme en clase, así que debería intentar ir a casa."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2256 #-#-# translate crowdin go_to_park_bc91068f:
 msgid "[_danny_] I told Paulina I would meet her at the park in the afternoon."
-msgstr ""
+msgstr "[_danny_] Le dije a Paulina que me reuniría con ella en el parque por la tarde."
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:2280 #-#-# translate crowdin go_to_bed_05ea9edc:
 msgid "[_danny_] No way, I need to get to sleep. Rest is important for a growing ghost boy."
-msgstr ""
+msgstr "[_danny_] De ninguna manera, necesito ir a dormir. El descanso es importante para un niño fantasma en crecimiento."
 
