@@ -10,75 +10,75 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:04\n"
+"PO-Revision-Date: 2022-12-01 12:04\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:18 #-#-# translate crowdin paulina_default_28b9116c:
 msgid "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] Ugh, get away from me, weirdo."
-msgstr ""
+msgstr "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] Ugh, aléjate de mí, bicho raro."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:49 #-#-# translate crowdin park_quest_start_b2fc9315:
 msgid "[_sam_s_talk_frown_] Oh boy, here comes {i}Miss Pretty{/i} again..."
-msgstr ""
+msgstr "[_sam_s_talk_frown_] Oh, chico, aquí viene {i}Miss belleza{/i} de nuevo..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:55 #-#-# translate crowdin park_quest_start_87c31bb8:
 msgid "[_tucker_s_flip_s_arms_straps_s_towards_s_wondering_s_talk_happy_] Come on Sam, even {i}you{/i} gotta admit: Paulina is a total {i}hawtie!{/i}{p}With a capital \"W\"!"
-msgstr ""
+msgstr "[_tucker_s_flip_s_arms_straps_s_towards_s_wondering_s_talk_happy_] Vamos Sam, incluso {i}tú{i/} tienes que admitir que: ¡Paulina es una total {i}espina!{/i}{p}¡Con una \"E\" mayúscula!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:59 #-#-# translate crowdin park_quest_start_e95377ff:
 msgid "[_danny_] She's not just hot... she's like a fallen angel bathed head to toe in an orange, heavenly glow of light..."
-msgstr ""
+msgstr "[_danny_] No sólo está caliente... és como un ángel caído, bañado de pies a cabeza en un resplandor anaranjado y celestial de luz..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:63 #-#-# translate crowdin park_quest_start_1a6aa5f7:
 msgid "[_sam_] You know, it honestly baffles me how you two seem to worship the ground she walks on when all she does is end up stepping all over you guys!!"
-msgstr ""
+msgstr "[_sam_] Saben, ¡¡honestamente me desconcierta cómo ustedes dos parecen adorar el suelo que ella pisa cuando todo lo que hace es terminar pisando todo sobre ustedes!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:69 #-#-# translate crowdin park_quest_start_ed002370:
 msgid "[_paulina_] Hey Loser brigade, why are you all just standing there? Some of us have hallways to sassily strut through!"
-msgstr ""
+msgstr "[_paulina_] hei, brigada de perdedores, ¿por qué estáis ahí parados? Algunas de nosotras tenemos todos los pasillos para ¡presumir!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:74 #-#-# translate crowdin park_quest_start_cf40c4c6:
 msgid "[_sam_] Sorry Paulina, we were just thinking of ways to {i}avoid{/i} becoming desparately dependent on our physical apperance for {u}literally{/u} everything. You know, like learning to read!"
-msgstr ""
+msgstr "[_sam_] Lo siento Paulina, sólo estábamos pensando en formas de {i}evitar{/i} volvernos desesperadamente dependientes de la apariencia física para {u}literalmente{/u} todo. Ya sabes, ¡como aprender a leer!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:78 #-#-# translate crowdin park_quest_start_8b8ed7c2:
 msgid "[_danny_] (Uh oh... not these two going at each other again...)"
-msgstr ""
+msgstr "[_danny_] (Uh oh... no estos dos van a ir a por otro problema de nuevo...)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:83 #-#-# translate crowdin park_quest_start_c1be0ea6:
 msgid "[_paulina_] Well, I guess that makes sense, you know? I guess not all of us are lucky enough to have at least {u}some{/u} looks to get by on! Guess I won't ever know what it's like to be a \"Gothy Goblin\" like you!"
-msgstr ""
+msgstr "[_paulina_] Bueno, supongo que tiene sentido, ¿sabes? ¡Supongo que no todos tenemos la suerte de tener al menos {u}algo{/u} de belleza para lucir! ¡Supongo que nunca sabré lo que es ser un \"duende gótico\" como tú!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:87 #-#-# translate crowdin park_quest_start_a279a37f:
 msgid "[_sam_] Why you smug, perky little sack of-!"
-msgstr ""
+msgstr "[_sam_] qué, pequeño saco presumido de!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:91 #-#-# translate crowdin park_quest_start_483af9da:
 msgid "[_danny_] Alright now, cease fire ladies! Hey, why don't we all just calm down a bit, huh? Tucker, why don't you take Sam to class and I'll help Paulina to do her strut thing, or whatever it is she'd like me to help out with..."
-msgstr ""
+msgstr "[_danny_] Muy bien, ¡cesen el fuego, señoritas! Oye, ¿por qué no nos calmamos un poco, eh? Tucker, por qué no llevas a Sam a clase y yo ayudaré a Paulina a hacer sus deberes, o lo que sea que le guste en que le ayude..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:96 #-#-# translate crowdin park_quest_start_4d19c4d8:
 msgid "[_sam_] Wait, come on Danny, I-"
-msgstr ""
+msgstr "[_sam_] Espera, vamos Danny, yo"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:100 #-#-# translate crowdin park_quest_start_5ecc6712:
 msgid "[_tucker_] Oh no, you're coming with me, Missy. Be a good wing man on this one Sam."
-msgstr ""
+msgstr "[_tucker_] Oh no, tú vienes conmigo, Missy. Sé un buen hombre de confianza con Sam."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:104 #-#-# translate crowdin park_quest_start_6fb8585c:
 msgid "[_sam_] Bu-but, I was-"
-msgstr ""
+msgstr "[_sam_] Pero, yo estaba"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:113 #-#-# translate crowdin park_quest_start_e2d40b35:
 msgid "[_danny_] So, my dearest Paulina, what could I humbly do for you this fine morning?"
-msgstr ""
+msgstr "[_danny_] Así que, mi queridísima Paulina, ¿qué podría hacer humildemente por ti esta bonita mañana?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:117 #-#-# translate crowdin park_quest_start_79842400:
 msgid "[_paulina_] Okay, first of all, {u}back up{/u}, you're clearly {i}way{/i} too up in my personal space right now."
-msgstr ""
+msgstr "[_paulina_] Bueno, en primer lugar, {u}retroceder{/u}, tú estás claramente cogiendo {i}camino{/i} hacia mi espacio personal."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:123 #-#-# translate crowdin park_quest_start_13746f73:
 msgid "[_paulina_s_normal_s_towards_s_idle_s_talk_happy_] Secondly, what would I need help with from such a geek like {i}you{/i}? Trick question: I {u}wouldn't!{/u} {i}*Giggle*{/i}"
-msgstr ""
+msgstr "[_paulina_s_normal_s_towards_s_idle_s_talk_happy_] En segundo lugar, ¿para qué necesitaría la ayuda de un friki como {i}tú{/i}? Pregunta con trampa: Yo {u}no lo haría!{i/} {i}*Risilla*{/i}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:127 #-#-# translate crowdin park_quest_start_fb9157b5:
 msgid "[_paulina_] ({i}Hmm{/i}… but then again... he could be useful for carrying the other boxes... and he'd like, totally do it for free too!)"
