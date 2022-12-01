@@ -10,35 +10,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:05\n"
+"PO-Revision-Date: 2022-12-01 12:04\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/Maddie_Dialogue_1_MZ.rpy:14 #-#-# translate crowdin maddie_convo_6e093421:
 msgid "[_maddie_s_towards_s_neutral_s_talk_happy_] Sorry Danny, I'm a little busy right now. I'll talk to you later, 'kay?"
-msgstr ""
+msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_] Lo siento Danny, estoy un poco ocupada ahora mismo. Hablaré contigo más tarde, ¿vale?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:27 #-#-# translate crowdin maddie_convo_e2_start_133479cf:
 msgid "[_maddie_s_towards_s_neutral_s_talk_happy_] Hey Danny, you doing okay?"
-msgstr ""
+msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_] Hey Danny, ¿estás bien?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:29 #-#-# translate crowdin maddie_convo_e2_start_f9944185:
 msgid "[_danny_s_talk_happy_2_s_sad_] Yeah, I'm alright. Hey, do you mind if I ask you something?"
-msgstr ""
+msgstr "[_danny_s_talk_happy_2_s_sad_] Sí, estoy bien. Oye, ¿te importa si te pregunto algo?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:31 #-#-# translate crowdin maddie_convo_e2_start_d9dee1a2:
 msgid "[_maddie_s_towards_s_neutral_s_talk_happy_] Of course sweetie, what's up?"
-msgstr ""
+msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_] Por supuesto, cariño, ¿qué pasa?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:37 #-#-# translate crowdin maddie_convo_e2_menu_2333da70:
 msgid "[_danny_] (What do I wanna talk to Mom about?) [nointeract]"
-msgstr ""
+msgstr "[_danny_] (¿De qué quiero hablar con mamá?) [nointeract]"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:52 #-#-# translate crowdin maddie_convo_vlad_5ff4ada9:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] Who exactly is this Vlad guy, anyway?"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] ¿Quién es exactamente ese tal Vlad?"
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:54 #-#-# translate crowdin maddie_convo_vlad_1911bb4b:
 msgid "[_maddie_s_towards_s_neutral_s_talk_happy_] Oh Vlad? Well your father and I went to college with him in Wisconsin back in the day. To be honest with you... we even sorta dated briefly."
-msgstr ""
+msgstr "[_maddie_s_towards_s_neutral_s_talk_happy_] Oh, ¿Vlad? Bueno, tu padre y yo fuimos a la universidad con él en Wisconsin en su día. Para ser honesto contigo... incluso salimos brevemente."
 
 # game/code/misc/Maddie_Dialogue_1_MZ.rpy:56 #-#-# translate crowdin maddie_convo_vlad_8ecfc468:
 msgid "[_danny_s_towards_wide_s_unhappy_s_talk_consternation_] Woah, Mom, you dated a billionaire?!"
