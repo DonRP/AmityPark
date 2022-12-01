@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-30 21:44\n"
+"PO-Revision-Date: 2022-12-01 09:17\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode1_MZ.rpy:39 #-#-# translate crowdin intro_284eba74:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_frown_] {i}Wuhh{/i}... what the...?{p}What was I laying on the floor for...?"
@@ -1022,19 +1022,19 @@ msgstr "[_classcrowd_] {i}*Muttering * *Chuckles * *Whispering * {/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1713 #-#-# translate crowdin redux_ishiyama_intro_94181d35:
 msgid "[_ishiyama_s_speech_s_face_front_s_at_right_s_idle_s_talk_happy_s_microphone_s_point_] {i}*Clears Throat*{/i} Excuse me, everyone? Can everyone hear me?"
-msgstr ""
+msgstr "[_ishiyama_s_speech_s_face_front_s_at_right_s_idle_s_talk_happy_s_microphone_s_point_] {i}*Clears Throat*{i/} Perdón, ¿todos? ¿Pueden todos oírme?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1716 #-#-# translate crowdin redux_ishiyama_intro_746937bf:
 msgid "[_classcrowd_] {i}*Snickering* *Squealing* *Goofing*{/i}"
-msgstr ""
+msgstr "[_classcrowd_] {i}*Snickering* *Squealing* *Goofing*{/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1718 #-#-# translate crowdin redux_ishiyama_intro_972e9933:
 msgid "[_ishiyama_s_speech_s_face_right_s_at_left_s_sad_s_talk_displeased_s_microphone_] {i}*Ahem*{/i} Students? Can we simply- I'd like your attention, if you would?"
-msgstr ""
+msgstr "[_ishiyama_s_speech_s_face_right_s_at_left_s_sad_s_talk_displeased_s_microphone_] {i}*Ahem*{/i} ¿Estudiantes? ¿Podemos simplemente...? ¿Me gustaría tener su atención si és posible?"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1721 #-#-# translate crowdin redux_ishiyama_intro_a6b4266f:
 msgid "[_classcrowd_] {i}*Laughing* *Gossiping* *Chattering*{/i}"
-msgstr ""
+msgstr "[_classcrowd_] {i}*Laughing* *Gossiping* *Chattering*{/i}"
 
 # game/code/episodes/episode_1/episode1_MZ.rpy:1724 #-#-# translate crowdin redux_ishiyama_intro_3995ec9f:
 msgid "[_lancer_s_offscreen_s_towards_s_angry_s_talk_displeased_] {i}AS I LAY DYING!!{/i}{p}WOULD IT POSSIBLY KILL YOU NASTY, SQUABBLING CHILDREN TO LISTEN TO YOUR PRINCIPAL FOR JUST ONE MOMENT?!?"
