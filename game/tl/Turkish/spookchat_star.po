@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-24 09:04\n"
+"PO-Revision-Date: 2022-12-02 15:17\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/misc/spookchat_star.rpy:34 #-#-# translate crowdin star_chat_1_76b2fe88:
 msgid "[nvl_clear]"
@@ -330,36 +330,36 @@ msgstr ""
 
 # game/code/misc/spookchat_star.rpy:282 #-#-# translate crowdin first_chat_star_c8b1751a:
 msgid "[_danny_s_phantom_s_towards_s_frown_grin_3_s_wondering_] (Okay, my first real big interaction with somebody as \"Inviso-Bill\". Shouldn't be too difficult, right?)"
-msgstr ""
+msgstr "[_danny_s_phantom_s_towards_s_frown_grin_3_s_wondering_] (Tamam, \"Inviso-Bill\" olarak biriyle ilk büyük etkileşimim. Çok zor olmamalı, değil mi?)"
 
 msgid "Message Star."
-msgstr ""
+msgstr "Mesaj Star."
 
 # game/code/misc/spookchat_star.rpy:49
 msgid "What do I wanna message Star about?"
-msgstr ""
+msgstr "Star'a ne hakkında mesaj atmak istiyorum?"
 
 # game/code/misc/spookchat_star.rpy:49
 msgid "Would you like to go to the Casper Chill Formal with me? (Dance route)"
-msgstr ""
+msgstr "Benimle Casper Chill Formal'e gelmek ister misin? (Dans rotası)"
 
 # game/code/misc/spookchat_star.rpy:49
 msgid "What's it like being popular?"
-msgstr ""
+msgstr "Popüler olmak nasıl bir şey?"
 
 # game/code/misc/spookchat_star.rpy:49
 msgid "Had any more trouble with ghosts lately?"
-msgstr ""
+msgstr "Son zamanlarda hayaletlerle başın derde girdi mi?"
 
 # game/code/misc/spookchat_star.rpy:49
 msgid "Has Paulina mentioned me lately?"
-msgstr ""
+msgstr "Paulina son zamanlarda benden bahsetti mi?"
 
 # game/code/misc/spookchat_star.rpy:49
 msgid "What do you know about Danny Fenton?"
-msgstr ""
+msgstr "Danny Fenton hakkında ne biliyorsun?"
 
 # game/code/misc/spookchat_star.rpy:49
 msgid "I'll talk to you later, Star."
-msgstr ""
+msgstr "Sonra konuşuruz, Star."
 
