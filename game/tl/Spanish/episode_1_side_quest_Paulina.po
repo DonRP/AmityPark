@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-12-02 09:37\n"
+"PO-Revision-Date: 2022-12-02 10:37\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:18 #-#-# translate crowdin paulina_default_28b9116c:
 msgid "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] Ugh, get away from me, weirdo."
@@ -94,191 +94,191 @@ msgstr "[_danny_] No, sí, ¡te entiendo!. ¡Claro Paulina!, ¡allí estaré! Me
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:182 #-#-# translate crowdin park_quest_prefight_a7a9bbc9:
 msgid "[_danny_] Alright, I'm on time to meet up with Paulina. It'll be nice to finally get a chance to spend a little one-on-one quality time with her."
-msgstr ""
+msgstr "[_danny_] Muy bien, voy a reunirme con Paulina. Será agradable tener por fin la oportunidad de pasar un poco de tiempo a solas con ella."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:185 #-#-# translate crowdin park_quest_prefight_3f4ceb46:
 msgid "[_danny_] {i}Hmmm{/i}... but I don't see her anywhere..."
-msgstr ""
+msgstr "[_danny_] {i}Hmmm{/i}... pero no la veo por ningún lado..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:188 #-#-# translate crowdin park_quest_prefight_54682e3a:
 msgid "[_danny_] She said she'd be coming to the Park right... she just didn't say {i}where{/i} in the Park exactly. Kind of an important detail you shouldn't forget to ask, Fenton."
-msgstr ""
+msgstr "[_danny_] Dijo que vendría al Parque... sólo que no dijo {i}en qué parte {i/} del parque exactamente. Un detalle importante que no deberías olvidar preguntar, Fenton."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:191 #-#-# translate crowdin park_quest_prefight_2982a22d:
 msgid "[_danny_] {i}Ugh{/i}, if I had just asked for her number, this wouldn't have even been an issue."
-msgstr ""
+msgstr "[_danny_] {i}Ugh{/i}, Si le hubiera pedido su número, esto no habría sido un problema."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:194 #-#-# translate crowdin park_quest_prefight_a75b34f3:
 msgid "[_danny_] Then again, I don't exactly have a working phone anymore thanks to my dad's experiment to give the Fenton Toaster bluetooth capabilities... really glad my cellphone could spare the parts... {i}*Sigh*{/i}"
-msgstr ""
+msgstr "[_danny_] Por otra parte, no tengo exactamente un teléfono mobil completo por el experimento de mi padre de ponerle bluetooth a la Tostadora Fenton... realmente me alegro de que mi móvil pueda prescindir de las piezas... {i}*Suspiro*{/i}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:197 #-#-# translate crowdin park_quest_prefight_0c36cc3f:
 msgid "[_danny_] And even if I had asked her, I doubt she'd have ever given out her digits to a total loser like me..."
-msgstr ""
+msgstr "[_danny_] Y aunque se lo hubiera pedido, dudo que le hubiera dado su número a un total perdedor como yo..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:200 #-#-# translate crowdin park_quest_prefight_5791f536:
 msgid "[_danny_] {i}*Sigh*{/i} Jeez, how long am I supposed to sulk here in my own pile of self pity? Did she {i}actually{/i} forget we were meeting here tonight?!"
-msgstr ""
+msgstr "[_danny_] {i}*Suspiro*{/i} Cielos, ¿cuánto tiempo se supone que debo enfurruñarme aquí en mi propia reflexión de autocompasión? ¡¿Ha olvidado que nos reuníamos aquí esta noche?!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:203 #-#-# translate crowdin park_quest_prefight_6d97726d:
 msgid "[_paulina_] Hey Danny! Right over here! I have the box for you to carry!!"
-msgstr ""
+msgstr "[_paulina_] ¡Hey Danny! ¡Por aquí! ¡¡Tengo la caja para que la lleves!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:206 #-#-# translate crowdin park_quest_prefight_7400bc1b:
 msgid "[_danny_] {i}Oh!{/i} Well hey, that wasn't too long a wait I guess. You know, I should have more faith in people."
-msgstr ""
+msgstr "[_danny_] {i}¡Oh!{/i} Bueno,, supongo que no fue una espera demasiado larga. Sabes, debería tener más fe en la gente."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:224 #-#-# translate crowdin park_quest_prefight_61cd08bd:
 msgid "[_paulina_] Thanks for coming, Danny. Here, you can carry this for me."
-msgstr ""
+msgstr "[_paulina_] Gracias por venir, Danny. Toma, puedes llevar esto por mí."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:238 #-#-# translate crowdin park_quest_prefight_d0543448:
 msgid "[_danny_] {i}Woah{/i}, jeez Paulina, this is {i}really{/i} heavy!! H-how much makeup is in this box anyway?? Do you powder your nose with bricks or something?!"
-msgstr ""
+msgstr "[_danny_] {i}Woah{i/}, cielos Paulina, ¡¡esto es {i}realmente{i/} pesado!! ¿Cuánto maquillaje hay en esta caja? ¡¿Te empolvas la nariz con ladrillos o algo así?!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:245 #-#-# translate crowdin park_quest_prefight_a21c1eb0:
 msgid "[_paulina_] Oh {i}puh-leeze{/i}, Danny! It's really not {i}that{/i} much... just a couple of new brushes, twenty-five pounds of cleansers, a few dozen different lipsticks, a couple bottles of deep skin cleansers, about thirty-"
-msgstr ""
+msgstr "[_paulina_] ¡Oh {i}puh-leeze{/i}, Danny! Realmente no és {i}tanto{i/}... sólo un par de cepillos nuevos, veinticinco kilos de limpiadores, unas docenas de barras de labios diferentes, un par de botellas de limpiadores de piel profunda, unos treinta"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:255 #-#-# translate crowdin park_quest_prefight_2a22c38e:
 msgid "[_danny_] Okay, okay, I think I get the point! But, you know, even I know makeup's not inexpensive. How're you able to afford all this?"
-msgstr ""
+msgstr "[_danny_] Vale, vale, ¡creo que entiendo el tema! Pero, ya sabes, incluso yo sé que el maquillaje no es barato. ¿Cómo puedes permitirte todo esto?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:259 #-#-# translate crowdin park_quest_prefight_90782caa:
 msgid "[_paulina_] T-that's none of your business, Danny! I have some spare cash lying around, so what?! What are you, like, the allowance commissioner or something?"
-msgstr ""
+msgstr "[_paulina_] ¡Eso no es asunto tuyo, Danny! Tengo algo de dinero de sobra por ahí, ¡¿y qué?! ¿Qué eres, como, el comisionado de subsidios o algo así?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:263 #-#-# translate crowdin park_quest_prefight_38c7401a:
 msgid "[_danny_] ({i}Hmm{/i}… gee, what's got her goat? Why would she spazz out from just a simple question like that? What, is she embarrassed to be pretty well off or something?)"
-msgstr ""
+msgstr "[_danny_] ({i}Hmm{/i}… caramba, ¿qué respuesta más extraña? ¿Por qué se pondría nerviosa por una simple pregunta como esa? ¿se avergüenza de vivir bastante bien o algo así?)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:268 #-#-# translate crowdin park_quest_prefight_5b5af5ea:
 msgid "[_danny_] Alright, so, back to your place then, right? To drop this stuff off?"
-msgstr ""
+msgstr "[_danny_] De acuerdo, entonces, ¿volvemos a tu casa? ¿Para dejar estas cosas?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:274 #-#-# translate crowdin park_quest_prefight_43825780:
 msgid "[_paulina_] No, we're going to wait here to pick up a special tank-top from one of the other delivery boys I hired, then we'll take it {i}all{/i} back to my house."
-msgstr ""
+msgstr "[_paulina_] No, vamos a esperar aquí para recoger una camiseta especial de uno de los repartidores que contraté, y luego la llevaremos {i}todo{i/} a mi casa."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:282 #-#-# translate crowdin park_quest_prefight_f583dfb2:
 msgid "[_danny_] Wait... {i}other{/i} delivery boys? W-who else did you ask to help you out...?"
-msgstr ""
+msgstr "[_danny_] Espera... {i}¿otro repartidor? ¿A quién más le pediste que te ayudara...?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:290 #-#-# translate crowdin park_quest_prefight_4c0cf724:
 msgid "[_paulina_] I got Dash and Kwan to help me out, duh! They're big and strong and can actually hold up heavy boxes!"
-msgstr ""
+msgstr "[_paulina_] Tengo a Dash y a Kwan para que me ayuden. ¡Son grandes y fuertes y pueden sostener cajas pesadas!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:298 #-#-# translate crowdin park_quest_prefight_4120de57:
 msgid "[_danny_] ({i}Great{/i}. I really hope and pray that Dash isn't the one dropping off the last box. It would be {i}extremely{/i} humiliating to see him watch me struggle like this. At least Kwan wouldn't rag on me too harshly, he's not really like-)"
-msgstr ""
+msgstr "[_danny_] ({i}Genial{/i}. Realmente espero y rezo que Dash no sea el que coja la última caja. Sería {i}extremadamente{/i} humillante que me viera así. Al menos Kwan no me regañaría con demasiada dureza, él no és como-)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:306 #-#-# translate crowdin park_quest_prefight_01276cf9:
 msgid "[_paulina_] Oh good, he's finally here!"
-msgstr ""
+msgstr "[_paulina_] Oh, bien, ¡por fin está aquí!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:320 #-#-# translate crowdin park_quest_prefight_7ba65ab1:
 msgid "[_dash_] Gee Fenton, I didn't know you applied to be Paulina's little helper elf! Where's your little green elf hat? {i}Ahah hah!!{/i}"
-msgstr ""
+msgstr "[_dash_] Vaya, Fenton, no sabía que habías solicitado ser el pequeño elfo ayudante de Paulina. ¿Dónde está tu pequeño sombrero verde de elfo? {i}¡Ahah hah!{i/}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:328 #-#-# translate crowdin park_quest_prefight_8a400a51:
 msgid "[_danny_] (Oh brother. I'm {i}really{/i} bad at asking for hopes and prayers properly.)"
-msgstr ""
+msgstr "[_danny_] (Oh. Soy {i}realmente{/i} malo para pedir deseos y rezar.)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:334 #-#-# translate crowdin park_quest_prefight_a52de28d:
 msgid "[_danny_] ...I'm not an elf, Dash, I'm just helping Paulina out with her-"
-msgstr ""
+msgstr "[_danny_] ...no soy un elfo, Dash, sólo estoy ayudando a Paulina con su-"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:338 #-#-# translate crowdin park_quest_prefight_3fd3c846:
 msgid "[_dash_] I'm gonna stop you right there, Fenturd: you and I are {u}not{/u} peers, especially social status wise. I have more important things to do than get all Chatty Cathy with you, alright? Cool."
-msgstr ""
+msgstr "[_dash_] Detente ahí, Fenturd: tú y yo {u}no{/u} somos iguales, especialmente, en cuanto a estatus social. Tengo cosas más importantes que hacer que ponerme en plan Chatty Cathy contigo, ¿vale? Genial."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:344 #-#-# translate crowdin park_quest_prefight_09e6fe75:
 msgid "[_danny_] (Yeah, like being Paulina's little deliver boy and carrying her stuff around for her...)"
-msgstr ""
+msgstr "[_danny_] (Sí, como ser el pequeño repartidor de Paulina y llevar sus cosas...)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:347 #-#-# translate crowdin park_quest_prefight_8640bf7c:
 msgid "[_danny_] (...then again, what am {i}I{/i} doing? At least Dash is getting {u}paid{/u} for this.)"
-msgstr ""
+msgstr "[_danny_] (...entonces, ¿qué estoy haciendo {i}yo{/i}? Dash está recibiendo {u}dinero{/u} por esto)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:352 #-#-# translate crowdin park_quest_prefight_cf1c2b67:
 msgid "[_paulina_] So Dash, did you get what I asked you to pick up specifically?"
-msgstr ""
+msgstr "[_paulina_] Así que Dash, ¿conseguiste lo que te pedí específicamente?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:370 #-#-# translate crowdin park_quest_prefight_d53be9b9:
 msgid "[_dash_] Sure did, Paulina! Came in this small little box. The guy with glowing red eyes who sold it to me said it'd look great on an extra pretty girl! So here you go!"
-msgstr ""
+msgstr "[_dash_] ¡Claro que sí, Paulina! Venía en esta pequeña caja. ¡El tipo con ojos rojos brillantes que me lo vendió dijo que se vería muy bien en una chica extra bonita!. ¡Así que aquí tienes!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:385 #-#-# translate crowdin park_quest_prefight_a926a1a2:
 msgid "[_paulina_] {i}Ooooh!{/i} How lovely~! I can't wait to try it on!{p}I'm gonna open it up right now!"
-msgstr ""
+msgstr "[_paulina_] {i}¡Ooooh!{/i}¡Qué romántico~! ¡No puedo esperar a probármelo!{p}¡Voy a abrirlo ahora mismo!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:392 #-#-# translate crowdin park_quest_prefight_e6db5aec:
 msgid "[_danny_] ({i}Hmm...?{/i} Why does it feel so... {b}cold{/b} all of a sudden?)"
-msgstr ""
+msgstr "[_danny_] ({i}¿Hmm...?{/i} ¿Por qué siento tanto... {b}frío{/b} de repente?)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:408 #-#-# translate crowdin park_quest_prefight_b9ca14be:
 msgid "[_danny_] (Man, what the heck is with this weird chill that's been coming out of my mouth lately? It happened right before I passed out too... wait, {b}glowing red eyes{/b}?)"
-msgstr ""
+msgstr "[_danny_] (Tío, ¿qué demonios pasa con este extraño aliento frío que sale de mi boca últimamente? También ocurrió justo antes de desmayarme... espera, ¿{b}ojos rojos brillantes{/b}?)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:414 #-#-# translate crowdin park_quest_prefight_46fd455e:
 msgid "[_danny_] {i}Err{/i}, wait Paulina, I don't think it's such a good idea to open-"
-msgstr ""
+msgstr "[_danny_] {i}Err{/i}, espera Paulina, no creo que sea una buena idea abrir-"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:435 #-#-# translate crowdin park_quest_prefight_21c58766:
 msgid "[_paulina_] {i}Ahhgh!!{/i} What the heck is {i}this{/i} nasty thing?!"
-msgstr ""
+msgstr "[_paulina_] {i}¡Ahgh! ¡¿Qué diablos es {i}esta{i/} cosa desagradable?!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:444 #-#-# translate crowdin park_quest_prefight_6193a6d7:
 msgid "[_dash_] Oh man!! I-it's a real ghost!!{p}Just like the news said!"
-msgstr ""
+msgstr "[_dash_] ¡Oh, joder! ¡¡Es un verdadero fantasma!!{p}¡Como dijeron las noticias!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:461 #-#-# translate crowdin park_quest_prefight_8127a7ab:
 msgid "[_ectopuss_] Alright, get lost, macho man!!"
-msgstr ""
+msgstr "[_ectopuss_] Muy bien, ¡¡piérdete, macho!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:468 #-#-# translate crowdin park_quest_prefight_59eab865:
 msgid "[_ectopuss_] Now, with nobody here to stop me... how 'bout you and I have a little {u}fun{/u} together, aye sweetie?!"
-msgstr ""
+msgstr "[_ectopuss_] Ahora, que nada me detiene... ¡¿qué te parece si tú y yo nos {u}divertimos{u/} un poco delicia?!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:477 #-#-# translate crowdin park_quest_prefight_06e6ea82:
 msgid "[_paulina_] {size=24}{i}Ahh!!{/i} Put me down, you monster!!{/size}"
-msgstr ""
+msgstr "[_paulina_] {size=24} {i}¡Ah!{i/}, ¡Bájame, monstruo! {/size}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:481 #-#-# translate crowdin park_quest_prefight_fbb0c5a9:
 msgid "[_ectopuss_] No way, baby! I may have died a virgin, but I ain't looking to {u}stay{/u} that way!! {i}Aheh hah heh!!{/i}"
-msgstr ""
+msgstr "[_ectopuss_] ¡De ninguna manera, nena! Puede que haya muerto virgen, pero ¡¡no quiero {u}seguir{/u} siéndolo!! {i}¡Aheh hah heh!{i/}¡"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:483 #-#-# translate crowdin park_quest_prefight_4e4884a6:
 msgid "[_paulina_] {size=+12}Someone!!! Help me!!!!{/size}"
-msgstr ""
+msgstr "[_paulina_] {size=+12} ¡¡¡que alguien me ayude!!! ¡¡¡¡Ayuda!!!! {/size}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:491 #-#-# translate crowdin park_quest_prefight_264b094b:
 msgid "[_danny_] Oh no, Paulina's in trouble! With a {i}real{/i} ghost!! I need to help somehow!"
-msgstr ""
+msgstr "[_danny_] ¡Oh no, ¡Paulina está en problemas! ¡¡Con un fantasma {i}real{i/}!! ¡Necesito ayudarla de alguna manera!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:504 #-#-# translate crowdin park_quest_prefight_52e13e25:
 msgid "[_danny_] (I need to find a place to try and... transform, I guess?)"
-msgstr ""
+msgstr "[_danny_] (Tengo que encontrar un lugar para intentar... transformarme, ¿creo?)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:515 #-#-# translate crowdin park_quest_prefight_1e777a72:
 msgid "[_danny_s_rise_one_s_frown_grin_] (Well... here goes nothing!)"
-msgstr ""
+msgstr "[_danny_s_rise_one_s_frown_grin_] (Bueno... ¡aquí no hay nadie!)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:521 #-#-# translate crowdin park_quest_prefight_3248c543:
 msgid "[_danny_] I'm... I'm going ghost!"
-msgstr ""
+msgstr "[_danny_] Yo... ¡Voy a ser un fantasma!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:538 #-#-# translate crowdin park_quest_prefight_8cbdf6f3:
 msgid "[_danny_] {i}Ugh{/i}, no, I don't need a tail right now! I need something more sturdy, less whispy... something with a bit more..."
-msgstr ""
+msgstr "[_danny_] {i}Ugh{/i}, no, ¡no necesito pequeñeces ahora mismo! Necesito algo más robusto, menos susurrante... algo con un poco más de..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:550 #-#-# translate crowdin park_quest_prefight_01ca0fcb:
 msgid "[_danny_] ...{i}legs{/i}!"
-msgstr ""
+msgstr "[_danny_] ...{i}piernas{/i}!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:552 #-#-# translate crowdin park_quest_prefight_4bf07022:
 msgid "[_danny_s_at_danny_s_rise_one_s_talk_happy_2_] Okay, now {i}this{/i} is better!"
-msgstr ""
+msgstr "[_danny_s_at_danny_s_rise_one_s_talk_happy_2_] ¡Bien, ahora ¡{i}esto{/i} és mejor!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:554 #-#-# translate crowdin park_quest_prefight_406a64bb:
 msgid "[_danny_s_towards_s_angry_s_talk_happy_] Alright, so now it's time to get in there and kick some ghostly-"
@@ -494,23 +494,23 @@ msgstr ""
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:970 #-#-# translate crowdin park_quest_unmolested_0a05cfae:
 msgid "[_paulina_] Cool. Here's my number. Give it to him so we-"
-msgstr ""
+msgstr "[_paulina_] Genial. Aquí está mi número. Dáselo para que"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:976 #-#-# translate crowdin park_quest_unmolested_51c7a372:
 msgid "[_danny_] Digits? Alright, score!!"
-msgstr ""
+msgstr "[_danny_] ¿número? Muy bien, ¡¡puntos a mi favor!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:982 #-#-# translate crowdin park_quest_unmolested_ecfa1687:
 msgid "[_paulina_] I said to give it to {i}him{/i}. I don't want any late night calls from someone as low on the popularity totem pole as you."
-msgstr ""
+msgstr "[_paulina_] Dije que se lo dieras a {i}él{i/}. No quiero ninguna llamada nocturna de alguien de tan baja popularidad como tú."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:988 #-#-# translate crowdin park_quest_unmolested_03d246cd:
 msgid "[_danny_] Sure, I understand. I'll just go give it to the dead guy instead."
-msgstr ""
+msgstr "[_danny_] Claro, lo entiendo. Iré a dárselo al chico muerto en lugar de a mí."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:993 #-#-# translate crowdin park_quest_unmolested_4271c1cb:
 msgid "[_danny_] (Oh, the sweet irony of this all.)"
-msgstr ""
+msgstr "[_danny_] (Oh, la dulce ironía de todo esto)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:998 #-#-# translate crowdin park_quest_unmolested_98a7c6fd:
 msgid "[_paulina_] Now come on, pick up my stuff and let's get a move on! I live on the third floor, so you'll need to carry that up two flights of steps!"
@@ -598,23 +598,23 @@ msgstr ""
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:1161 #-#-# translate crowdin park_quest_molested_0a05cfae:
 msgid "[_paulina_] Cool. Here's my number. Give it to him so we-"
-msgstr ""
+msgstr "[_paulina_] Genial. Aquí está mi número. Dáselo para que"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:1167 #-#-# translate crowdin park_quest_molested_51c7a372:
 msgid "[_danny_] Digits? Alright, score!!"
-msgstr ""
+msgstr "[_danny_] ¿número? Muy bien, ¡¡puntos a mi favor!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:1172 #-#-# translate crowdin park_quest_molested_ecfa1687:
 msgid "[_paulina_] I said to give it to {i}him{/i}. I don't want any late night calls from someone as low on the popularity totem pole as you."
-msgstr ""
+msgstr "[_paulina_] Dije que se lo dieras a {i}él{i/}. No quiero ninguna llamada nocturna de alguien de tan baja popularidad como tú."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:1176 #-#-# translate crowdin park_quest_molested_03d246cd:
 msgid "[_danny_] Sure, I understand. I'll just go give it to the dead guy instead."
-msgstr ""
+msgstr "[_danny_] Claro, lo entiendo. Iré a dárselo al chico muerto en lugar de a mí."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:1181 #-#-# translate crowdin park_quest_molested_4271c1cb:
 msgid "[_danny_] (Oh, the sweet irony of this all.)"
-msgstr ""
+msgstr "[_danny_] (Oh, la dulce ironía de todo esto)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:1188 #-#-# translate crowdin park_quest_molested_98a7c6fd:
 msgid "[_paulina_] Now come on, pick up my stuff and let's get a move on! I live on the third floor, so you'll need to carry that up two flights of steps!"
