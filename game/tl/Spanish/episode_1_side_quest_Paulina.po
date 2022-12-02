@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-12-01 12:04\n"
+"PO-Revision-Date: 2022-12-02 09:37\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:18 #-#-# translate crowdin paulina_default_28b9116c:
 msgid "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] Ugh, get away from me, weirdo."
@@ -82,15 +82,15 @@ msgstr "[_paulina_s_normal_s_towards_s_idle_s_talk_happy_] En segundo lugar, ¿p
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:127 #-#-# translate crowdin park_quest_start_fb9157b5:
 msgid "[_paulina_] ({i}Hmm{/i}… but then again... he could be useful for carrying the other boxes... and he'd like, totally do it for free too!)"
-msgstr ""
+msgstr "[_paulina_] ({i}Hmm{/i}… pero bien pensado... podría ser útil para llevar las otras cajas... ¡y le gustaría hacerlo totalmente gratis también!)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:132 #-#-# translate crowdin park_quest_start_8ae4b689:
 msgid "[_paulina_] Okay, fine. Come to the {b}Public Park{/b} later tonight. I need help carrying some new makeup I bought in bulk. I live across the road, but I don't really {i}lift{/i} heavy boxes myself, you know?"
-msgstr ""
+msgstr "[_paulina_] Bien, de acuerdo. Ven al {b}parque público{b/} más tarde esta noche. Necesito ayuda para llevar algo de maquillaje que compré al por mayor. Vivo al otro lado de la carretera, pero no puedo {i}levantar{i/} cajas pesadas, ¿sabes?"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:137 #-#-# translate crowdin park_quest_start_d8236cab:
 msgid "[_danny_] No yeah, I getcha! Sure Paulina, I'll be there! I'd love to help out however I can! I'll see you after school then!"
-msgstr ""
+msgstr "[_danny_] No, sí, ¡te entiendo!. ¡Claro Paulina!, ¡allí estaré! Me encantará ayudarte en lo que pueda. ¡Te veré después de la escuela!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:182 #-#-# translate crowdin park_quest_prefight_a7a9bbc9:
 msgid "[_danny_] Alright, I'm on time to meet up with Paulina. It'll be nice to finally get a chance to spend a little one-on-one quality time with her."
