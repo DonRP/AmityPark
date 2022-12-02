@@ -10,75 +10,75 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2022-11-24 09:03\n"
+"PO-Revision-Date: 2022-12-02 15:17\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/character_events/lily/lily_introduction.rpy:13 #-#-# translate crowdin lily_introduction_bf7b03eb:
 msgid "[_danny_s_towards_s_rise_s_smile_] ({i}Hmmm...{/i} help wanted, huh? For fifty bucks a shift? I could always use the spare change lying around.)"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_smile_] ({i}Hmmm...{/i} yardım aranıyor, ha? Vardiya başına 50 dolara mı? Etraftaki bozuk paraları her zaman kullanabilirim.)"
 
 # game/code/character_events/lily/lily_introduction.rpy:16 #-#-# translate crowdin lily_introduction_1ddc6fa3:
 msgid "[_lily_s_towards_s_idle_s_talk_happy_] Welcome to Nasty Burger, home of the Nasty Burger, can I take your order?"
-msgstr ""
+msgstr "[_lily_s_towards_s_idle_s_talk_happy_] Nasty Burger'in evi Nasty Burger'e hoş geldiniz, siparişinizi alabilir miyim?"
 
 # game/code/character_events/lily/lily_introduction.rpy:19 #-#-# translate crowdin lily_introduction_137d8bbb:
 msgid "[_danny_s_towards_s_idle_s_talk_happy_] Well, actually, I noticed your sign on the side here."
-msgstr ""
+msgstr "[_danny_s_towards_s_idle_s_talk_happy_] Aslında, yan taraftaki tabelanızı fark ettim."
 
 # game/code/character_events/lily/lily_introduction.rpy:22 #-#-# translate crowdin lily_introduction_11cec765:
 msgid "[_lily_s_towards_s_idle_s_talk_displeased_] Huh? Oh yeah, the open positions. Yeah, our shift manager {b}Irving{/b} cut a bunch of the staff we had on hand."
-msgstr ""
+msgstr "[_lily_s_towards_s_idle_s_talk_displeased_] Ha? Evet, açık pozisyonlar. Evet, vardiya müdürümüz {b}Irving{/b} elimizdeki personelin bir kısmını işten çıkardı."
 
 # game/code/character_events/lily/lily_introduction.rpy:25 #-#-# translate crowdin lily_introduction_a079dea7:
 msgid "[_danny_s_towards_s_rise_s_talk_displeased_] Was it because of the rats they found?"
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_displeased_] Buldukları fareler yüzünden miydi?"
 
 # game/code/character_events/lily/lily_introduction.rpy:28 #-#-# translate crowdin lily_introduction_bb618734:
 msgid "[_lily_s_towards_s_angry_s_talk_displeased_] No, the rats were all let in when Irving opened the back door to air the place out!"
-msgstr ""
+msgstr "[_lily_s_towards_s_angry_s_talk_displeased_] Hayır, Irving burayı havalandırmak için arka kapıyı açtığında farelerin hepsi içeri girdi!"
 
 # game/code/character_events/lily/lily_introduction.rpy:31 #-#-# translate crowdin lily_introduction_c63590ab:
 msgid "[_lily_s_towards_s_sad_s_talk_displeased_] So of course he didn't get the boot, go figure."
-msgstr ""
+msgstr "[_lily_s_towards_s_sad_s_talk_displeased_] Yani tabii ki kovulmadı."
 
 # game/code/character_events/lily/lily_introduction.rpy:34 #-#-# translate crowdin lily_introduction_dddbd884:
 msgid "[_lily_s_towards_s_rise_s_talk_displeased_] Now, everybody else got let go because of the high demands and expectations he started setting after his mistake!"
-msgstr ""
+msgstr "[_lily_s_towards_s_rise_s_talk_displeased_] Şimdi, yaptığı hatadan sonra ortaya koymaya başladığı yüksek talepler ve beklentiler nedeniyle herkes işten çıkarıldı!"
 
 # game/code/character_events/lily/lily_introduction.rpy:37 #-#-# translate crowdin lily_introduction_89de0309:
 msgid "[_lily_s_towards_s_angry_s_talk_displeased_] Like, what a douche. Not everybody can work holidays or during family funerals, y'know?"
-msgstr ""
+msgstr "[_lily_s_towards_s_angry_s_talk_displeased_] Ne dangalak ama. Herkes tatillerde ya da aile cenazelerinde çalışamaz, biliyorsun değil mi?"
 
 # game/code/character_events/lily/lily_introduction.rpy:40 #-#-# translate crowdin lily_introduction_5541e306:
 msgid "[_danny_s_towards_s_angry_s_talk_consternation_] Jeez, guy sounds like a real piece of work."
-msgstr ""
+msgstr "[_danny_s_towards_s_angry_s_talk_consternation_] Tanrım, adam gerçek bir iş parçası gibi görünüyor."
 
 # game/code/character_events/lily/lily_introduction.rpy:43 #-#-# translate crowdin lily_introduction_0bc2a582:
 msgid "[_lily_s_towards_s_sad_s_talk_displeased_] Yeah, he sucks, but you should be fine. The sign's just offering some part time shifts, not a full time gig."
-msgstr ""
+msgstr "[_lily_s_towards_s_sad_s_talk_displeased_] Evet, berbat biri ama sana bir şey olmaz. Tabela sadece bazı yarı zamanlı vardiyalar öneriyor, tam zamanlı bir iş değil."
 
 # game/code/character_events/lily/lily_introduction.rpy:46 #-#-# translate crowdin lily_introduction_5456c88e:
 msgid "[_lily_s_towards_s_idle_s_talk_displeased_] We're always in need of help now because of that, but it's not like you'd really have to deal with him much."
-msgstr ""
+msgstr "[_lily_s_towards_s_idle_s_talk_displeased_] Bu yüzden her zaman yardıma ihtiyacımız var, ama onunla çok fazla uğraşmak zorunda değilsiniz."
 
 # game/code/character_events/lily/lily_introduction.rpy:49 #-#-# translate crowdin lily_introduction_fd98a1bb:
 msgid "[_lily_s_towards_s_rise_s_talk_happy_] ...in fact, I can pretty much hire you on my own if I wanted to."
-msgstr ""
+msgstr "[_lily_s_towards_s_rise_s_talk_happy_] ...aslında istesem sizi tek başıma da tutabilirim."
 
 # game/code/character_events/lily/lily_introduction.rpy:52 #-#-# translate crowdin lily_introduction_2c4c3c15:
 msgid "[_danny_s_towards_s_wondering_s_talk_happy_] Oh, seriously? That's awesome, I could definitely use the extra money."
-msgstr ""
+msgstr "[_danny_s_towards_s_wondering_s_talk_happy_] Ciddi misin? Bu harika, kesinlikle ekstra para kullanabilirim."
 
 # game/code/character_events/lily/lily_introduction.rpy:55 #-#-# translate crowdin lily_introduction_72bd1763:
 msgid "[_lily_s_away_s_idle_s_talk_happy_] I mean like, if I wanted to, that is.{p}That has yet to be decided."
-msgstr ""
+msgstr "[_lily_s_away_s_idle_s_talk_happy_] Yani, eğer istersem, yani.{p}Buna henüz karar verilmedi."
 
 # game/code/character_events/lily/lily_introduction.rpy:58 #-#-# translate crowdin lily_introduction_3ee3558f:
 msgid "[_danny_s_towards_s_sad_s_talk_displeased_] O-oh, okay then."
-msgstr ""
+msgstr "[_danny_s_towards_s_sad_s_talk_displeased_] O-oh, tamam o zaman."
 
 # game/code/character_events/lily/lily_introduction.rpy:61 #-#-# translate crowdin lily_introduction_44c70db4:
 msgid "[_lily_s_towards_s_rise_s_talk_happy_] Well first off, you'll have to go through my personal hiring process interview."
-msgstr ""
+msgstr "[_lily_s_towards_s_rise_s_talk_happy_] Öncelikle, benim kişisel işe alım süreci mülakatımdan geçmeniz gerekecek."
 
 # game/code/character_events/lily/lily_introduction.rpy:64 #-#-# translate crowdin lily_introduction_9c77f886:
 msgid "[_danny_s_towards_s_idle_s_talk_happy_] Sure, I'm down for that."
