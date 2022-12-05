@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-12-05 11:43\n"
+"PO-Revision-Date: 2022-12-05 15:17\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:18 #-#-# translate crowdin paulina_default_28b9116c:
 msgid "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] Ugh, get away from me, weirdo."
@@ -314,123 +314,123 @@ msgstr "[_danny_s_p_p_5_] (No, no, debo de esperar y actuar cuando el momento se
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:636 #-#-# translate crowdin paulinapuss_683b59e7:
 msgid "[_danny_s_p_p_9_] (If I accidentally use some sorta dangerous ghost powers I can't control, I could end up doing more harm than good.)"
-msgstr ""
+msgstr "[_danny_s_p_p_9_] (Si uso algunos poderes fantasma peligrosos que no puedo controlar, accidentalmente podría terminar haciendo más daño que bien.)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:640 #-#-# translate crowdin paulinapuss_3f3f17c9:
 msgid "[_paulina_] {size=+10}Help, a monster is attacking me!!!{/size}"
-msgstr ""
+msgstr "[_paulina_] {size= + 10} ¡¡¡Ayuda, un monstruo me está atacando!!! {/size}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:643 #-#-# translate crowdin paulinapuss_97d9a54b:
 msgid "[_ectopuss_] No one's coming to your aid, you little slut! You're all mine!!"
-msgstr ""
+msgstr "[_ectopuss_] ¡Nadie viene a tu ayuda, ¡pequeña puta! ¡¡Eres toda mía!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:653 #-#-# translate crowdin paulinapuss_8c7f0f33:
 msgid "[_paulina_] {size=+10}No!! Get your filthy tentacles {i}away{/i} from me!!{/size}"
-msgstr ""
+msgstr "[_paulina_] {size= + 10} ¡¡No!! ¡¡Ten tus sucios tentáculos {i}lejos {/i} de mí!! {/size}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:657 #-#-# translate crowdin paulinapuss_7716b2c5:
 msgid "[_paulina_] {size=+10}And who are you calling a {i}slut{/i} you disgusting, nasty {i}monster!{/i} {/size}"
-msgstr ""
+msgstr "[_paulina_] {size= + 10} ¡Y a quién llamas {i}puta{/i} asqueroso, desagradable {i}monstruo! {/i} {/size}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:661 #-#-# translate crowdin paulinapuss_0c140fbc:
 msgid "[_ectopuss_] Oh, don't worry! You'll just {u}love{/u} them... when they're all up inside you!!"
-msgstr ""
+msgstr "[_ectopuss_] ¡Oh, no te preocupes! ¡¡Tú sólo {u}los amarás {/u}... cuando estén todos dentro de ti!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:666 #-#-# translate crowdin paulinapuss_55e08448:
 msgid "[_ectopuss_] But, first..."
-msgstr ""
+msgstr "[_ectopuss_] Pero, primero..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:678 #-#-# translate crowdin paulinapuss_5ceec4d5:
 msgid "[_ectopuss_] Would you look at this. No, bra!{p}I {i}knew{/i} I smelled slut on you!"
-msgstr ""
+msgstr "[_ectopuss_] Te gustaría ver esto. ¡No, bra!{p}yo {i}supe {/i} que olí a puta en ti!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:682 #-#-# translate crowdin paulinapuss_c4217aad:
 msgid "[_ectopuss_] Not too bad a size either... but they're not as big as I was hoping, at least for my first time... {i}Heh heh he...{/i}"
-msgstr ""
+msgstr "[_ectopuss_] Ni tienen un tamaño demasiado malo ... pero no són tan grandes como yo esperaba, al menos para mi primera vez ... {i}Heh heh he ... {/i}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:686 #-#-# translate crowdin paulinapuss_45bd30bf:
 msgid "[_paulina_] {size=+10}M-my clothes..!! Stop...!! Why are you doing this to me!{/size}"
-msgstr ""
+msgstr "[_paulina_] {size=+10} ¡¡M-mi ropa..!! Para...!! ¡¿Por qué me haces esto!?{/size}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:690 #-#-# translate crowdin paulinapuss_f9cde3d1:
 msgid "[_ectopuss_] {i}Hahaha!!{/i} Yes, how perfect... just look at that lewd, sexy body! It's practically {i}pleading{/i} for some of my special tentacle affection! {i}Muah hahh ahhh...{/i}"
-msgstr ""
+msgstr "[_ectopuss_] {i}¡¡Hahaha!! {/i} Sí, que perfecto cuerpo... mira este cuerpo lascivo, sexy! ¡Está prácticamente {i}suplicando {/i} el afecto de algunos de mis tentáculos! {i}Muah hahh ahhh... {/i}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:694 #-#-# translate crowdin paulinapuss_e0538654:
 msgid "[_paulina_] No it isn't!! Let me go, you nasty creep!!"
-msgstr ""
+msgstr "[_paulina_] ¡No és cierto!! ¡¡Déjame ir desagradable gusano!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:700 #-#-# translate crowdin paulinapuss_5f41afa5:
 msgid "[_paulina_] Someone help!! I'm being molested by a gross squid monster!!"
-msgstr ""
+msgstr "[_paulina_] ¡¡que alguien me ayude!! ¡¡Estoy siendo molestada por un grosero monstruoso calamar!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:702 #-#-# translate crowdin paulinapuss_05a2ce50:
 msgid "[_ectopuss_] Jeez, would you stop screaming already! Nobody's coming to help!{p}Somebody better close your big mouth {i}shut!!{/i}"
-msgstr ""
+msgstr "[_ectopuss_] Jeez, ¡podrías dejar de gritar ya! ¡No va a venir nadie a ayudarte!{p} Mejor cierra tu gran boca, {i}¡¡cállate!! {/i}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:718 #-#-# translate crowdin paulinapuss_bb525563:
 msgid "[_ectopuss_] There much better, don't you agree? {i}Hehh heh heh...{/i}"
-msgstr ""
+msgstr "[_ectopuss_] Mucho mejor, ¿no estás de acuerdo? {i}Hehh heh heh... {/i}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:722 #-#-# translate crowdin paulinapuss_2a56e209:
 msgid "[_paulina_] {i}*Gahhhck* *Grrrlk* *Awhhbb* *Schlaarp*{/i}"
-msgstr ""
+msgstr "[_paulina_] {i}*Gahhhck * *Grrrlk * *Awhhbb * *Schlaarp * {/i}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:723 #-#-# translate crowdin paulinapuss_21f1cb98:
 msgid "[_paulina_] (Help me!! Someone, please!!!)"
-msgstr ""
+msgstr "[_paulina_] (¡¡Ayuda!! ¡¡¡Alguien por favor!!!)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:743 #-#-# translate crowdin paulinapuss_a0f300ba:
 msgid "[_paulina_] (Oh God, he's actually going to... to... {i}*Sobb*){/i}"
-msgstr ""
+msgstr "[_paulina_] (Oh Dios, él realmente va a... {i}*Sobb *) {/i}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:747 #-#-# translate crowdin paulinapuss_3d498c2d:
 msgid "[_ectopuss_] Arighty!! Here we go!! I'm gonna fuck you so good that you'll be begging me for more! For all eternity!!"
-msgstr ""
+msgstr "[_ectopuss_] ¡¡bien!! ¡Aquí voy!! ¡Te voy a joder tan bien que me estarás rogando por más! ¡¡Por toda la eternidad!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:753 #-#-# translate crowdin paulinapuss_3f93b903:
 msgid "[_danny_s_p_p_7_] (God, what am I waiting for?? Backup from Bill Murray or something?! I've gotta help her, right now!!)"
-msgstr ""
+msgstr "[_danny_s_p_p_7_] (Dios, ¿¿a qué estoy esperando?? ¡¿El respaldo de Bill Murray o algo?! ¡¡Tengo que ayudarla ahora mismo!!)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:757 #-#-# translate crowdin paulinapuss_37e978f7:
 msgid "[_danny_s_p_p_8_] {size=+10}Leave her alone, ghost! Just put her down, or I'll have to turn you into spectral-sushi!!{/size}"
-msgstr ""
+msgstr "[_danny_s_p_p_8_] {size= + 10} ¡Déjala sola, fantasma! ¡¡Bájala al suelo, o tendré que convertirte en sushi espectral!! {/size}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:762 #-#-# translate crowdin paulinapuss_29794964:
 msgid "[_ectopuss_] {i}Grrrrr...{/i} fine! If you wanna try to play hero, kid, then we can always do things the hard way! Prepare to become a ghost just like me!! {i}Ah hahah hehah!!{/i}"
-msgstr ""
+msgstr "[_ectopuss_] {i}Grrrrr ... {/i} ¡bien! Si tú quieres jugar a héroe, niño, entonces podemos hacer las cosas de la manera difícil! ¡Prepárate para convertirte en un fantasma como yo!! {i}¡Ah jajaja!! {/i}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:766 #-#-# translate crowdin paulinapuss_84eb2ec7:
 msgid "[_danny_s_p_p_10_] {i}Hah!{/i} Jokes on you, freak! I'm {i}already{/i} a ghost! Now get ready to face my undertrained fists of fury!!"
-msgstr ""
+msgstr "[_danny_s_p_p_10_] {i}¡Hah!{/i} ¡Chistea contigo, friki! ¡¡Ya {i}soy{/i} un fantasma!! ¡¡Ahora prepárate para encararte a mis poco entrenados puños de furia!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:796 #-#-# translate crowdin ep1_save_paulina_603e8fff:
 msgid "[_danny_] (What am I waiting for exactly?)"
-msgstr ""
+msgstr "[_danny_] (¿Qué estoy esperando exactamente?)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:798 #-#-# translate crowdin ep1_save_paulina_40d3070d:
 msgid "[_danny_] (Paulina called for my help and that ghost needs a beating! Let's see what this ghost form can do!)"
-msgstr ""
+msgstr "[_danny_] (¡Paulina pidió mi ayuda y ese fantasma necesita una paliza! ¡Vamos a ver qué puede hacer esta forma fantasma!)"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:800 #-#-# translate crowdin ep1_save_paulina_37e978f7:
 msgid "[_danny_s_p_p_8_] {size=+10}Leave her alone, ghost! Just put her down, or I'll have to turn you into spectral-sushi!!{/size}"
-msgstr ""
+msgstr "[_danny_s_p_p_8_] {size= + 10} ¡Déjala sola, fantasma! ¡¡Bájala al suelo, o tendré que convertirte en sushi espectral!! {/size}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:804 #-#-# translate crowdin ep1_save_paulina_29794964:
 msgid "[_ectopuss_] {i}Grrrrr...{/i} fine! If you wanna try to play hero, kid, then we can always do things the hard way! Prepare to become a ghost just like me!! {i}Ah hahah hehah!!{/i}"
-msgstr ""
+msgstr "[_ectopuss_] {i}Grrrrr ... {/i} ¡bien! Si tú quieres jugar a héroe, niño, entonces podemos hacer las cosas de la manera difícil! ¡Prepárate para convertirte en un fantasma como yo!! {i}¡Ah jajaja!! {/i}"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:808 #-#-# translate crowdin ep1_save_paulina_84eb2ec7:
 msgid "[_danny_s_p_p_10_] {i}Hah!{/i} Jokes on you, freak! I'm {i}already{/i} a ghost! Now get ready to face my undertrained fists of fury!!"
-msgstr ""
+msgstr "[_danny_s_p_p_10_] {i}¡Hah!{/i} ¡Chistea contigo, friki! ¡¡Ya {i}soy{/i} un fantasma!! ¡¡Ahora prepárate para encararte a mis poco entrenados puños de furia!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:858 #-#-# translate crowdin park_quest_unmolested_8b750bbb:
 msgid "[_paulina_] Oh, thank you so, {i}so{/i} much! He almost got his nasty tentacles to expose me out in the open! You're my {u}hero{/u}!!"
-msgstr ""
+msgstr "[_paulina_] Oh, gracias, {i}muchas{/i}muchas gracias.!Él casi tiene sus tentáculos desagradables enseñando mi coño! Eres mi {u}héroe{/u}!!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:865 #-#-# translate crowdin park_quest_unmolested_e951197c:
 msgid "[_paulina_] If it wasn't for you, I could've ended up in one of those weird Japanese cartoons!"
-msgstr ""
+msgstr "[_paulina_] Si no fuera por ti, ¡podría haber terminado en uno de esos extraños comics japoneses!"
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:872 #-#-# translate crowdin park_quest_unmolested_89fa0436:
 msgid "[_danny_] No problem, miss. Just doing what anyone else would do..."
