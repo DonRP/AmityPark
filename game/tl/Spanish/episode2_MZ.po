@@ -10,51 +10,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-12-09 19:28\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode2_MZ.rpy:12 #-#-# translate crowdin ectopuss_fishing_intro_95fac4b9:
 msgid "[_danny_] Man... yesterday was seriously {i}crazy{/i}! Ghosts are actually real, and I'm somehow {u}part{/u} one now!!"
-msgstr ""
+msgstr "[_danny_] tio... ayer fue una seria {i}locura{/i}! Los fantasmas son realmente reales!, ¡¡y yo soy de alguna manera {u}parte {/u} de uno ahora!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:15 #-#-# translate crowdin ectopuss_fishing_intro_5adf84f3:
 msgid "[_danny_s_towards_wide_s_talk_frown_2_] I can't believe that ghost did that to Paulina!"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_talk_frown_2_] ¡No puedo creer lo que el fantasma hizo a Paulina!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:16 #-#-# translate crowdin ectopuss_fishing_intro_86caec4f:
 msgid "[_danny_s_sad_s_towards_s_talk_happy_] ...I can't believe I got to see her kinda {u}naked{/u} either!"
-msgstr ""
+msgstr "[_danny_s_sad_s_towards_s_talk_happy_] ...¡No puedo creer que llegué a ver su piel {u}desnuda {/u} además!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:17 #-#-# translate crowdin ectopuss_fishing_intro_f7cfefe7:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] {i}Ugh{/i}, gross Fenton, don't be such a creep!"
-msgstr ""
+msgstr "[_danny_s_at_self_s_neutral_s_talk_consternation_] {i}Ugh {/i}, Gross Fenton, ¡no seas como un gusano!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:20 #-#-# translate crowdin ectopuss_fishing_intro_3951965f:
 msgid "[_danny_s_ahegao_s_sad_s_talk_amused_] ...I also can't believe Paulina actually kissed me!"
-msgstr ""
+msgstr "[_danny_s_ahegao_s_sad_s_talk_amused_] ...¡Tampoco puedo creer que Paulina me besara!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:21 #-#-# translate crowdin ectopuss_fishing_intro_05fb40d8:
 msgid "[_danny_s_down_s_wondering_s_talk_consternation_] Well, it wasn't really {i}me{/i} she was kissing... in which case... does that make it in any way creepy at all?"
-msgstr ""
+msgstr "[_danny_s_down_s_wondering_s_talk_consternation_] Bueno, no era realmente {i}yo {/i} a quien ella estaba besando... en cuyo caso... ¿lo hace de alguna manera espeluznante?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:22 #-#-# translate crowdin ectopuss_fishing_intro_c1cb6f3c:
 msgid "[_danny_s_at_player_s_rise_s_talk_happy_] Oh who cares, she kissed me! I mean, I was a hero after all! {i}Heh{/i}, no big deal or anything..."
-msgstr ""
+msgstr "[_danny_s_at_player_s_rise_s_talk_happy_] ¡Oh!, ¡a quien le importa!, ¡me besó! Quiero decir, ¡yo fui un héroe después de todo! {i}Heh {/i}, sin una gran recompensa o algo..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:24 #-#-# translate crowdin ectopuss_fishing_intro_a146a06e:
 msgid "[_danny_s_at_player_s_sad_s_talk_consternation_] That freaky tentacle thing is still on the loose though, and those dorks at Channel 4 News are wasting their time by saying that {i}I'm{/i} one of the bad ghosts as well!"
-msgstr ""
+msgstr "[_danny_s_at_player_s_sad_s_talk_consternation_] ¡ese friky de tentáculos todavía está suelto, y esos idiotas en el Canal 4 Noticias están desperdiciando su tiempo diciendo que {i}yo soy {/i} también uno de los fantasmas malos!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:25 #-#-# translate crowdin ectopuss_fishing_intro_cf98b901:
 msgid "[_danny_s_down_s_wondering_s_talk_consternation_] You know... Paulina sure was a lot more interested in me as the ghost hero than she's ever been in Danny Fenton..."
-msgstr ""
+msgstr "[_danny_s_down_s_wondering_s_talk_consternation_] ya sabes... Paulina seguro estaba mucho más interesada en mí como el héroe que como Danny Fenton..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:26 #-#-# translate crowdin ectopuss_fishing_intro_05cbba5f:
 msgid "[_danny_s_at_player_s_rise_s_talk_happy_] Maybe I should try to track down that ghost myself...? I really ought to do something helpful with these powers, after all..."
-msgstr ""
+msgstr "[_danny_s_at_player_s_rise_s_talk_happy_] ¿Tal vez debería tratar de rastrear ese fantasma yo mismo...? después de todo, realmente debería hacer algo útil con estos poderes..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:27 #-#-# translate crowdin ectopuss_fishing_intro_9dd3ed52:
 msgid "[_danny_s_rise_one_s_towards_s_talk_happy_2_] Say... yeah! I can clear my name, get hailed as a hero... and maybe even Paulina would want to give me an especially nice \"reward\" for being such a cool dead dude..."
-msgstr ""
+msgstr "[_danny_s_rise_one_s_towards_s_talk_happy_2_] Decir... ¡sí! Puedo limpiar mi nombre, ser aclamado como un héroe... y tal vez incluso Paulina querría darme una \"recompensa\" especialmente agradable por ser un tipo guay muerto..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:28 #-#-# translate crowdin ectopuss_fishing_intro_db581c6d:
 msgid "[_danny_s_at_player_s_angry_s_talk_happy_] Well that settles it! From here on out, I'm a ghost hunter!! And I'm gonna catch em' all, cause I'm..."
