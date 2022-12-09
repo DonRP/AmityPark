@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-12-05 15:17\n"
+"PO-Revision-Date: 2022-12-09 16:39\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:18 #-#-# translate crowdin paulina_default_28b9116c:
 msgid "[_paulina_s_normal_s_towards_s_confused_s_talk_displeased_] Ugh, get away from me, weirdo."
@@ -434,7 +434,7 @@ msgstr "[_paulina_] Si no fuera por ti, ¡podría haber terminado en uno de esos
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:872 #-#-# translate crowdin park_quest_unmolested_89fa0436:
 msgid "[_danny_] No problem, miss. Just doing what anyone else would do..."
-msgstr ""
+msgstr "[_danny_] No és un problema, linda. Sólo hago lo que cualquier otra persona haría..."
 
 # game/code/episodes/episode_1/episode_1_side_quest_Paulina.rpy:879 #-#-# translate crowdin park_quest_unmolested_1331e674:
 msgid "[_paulina_] Well here then, allow me to thank my hero {i}properly{/i}..."
