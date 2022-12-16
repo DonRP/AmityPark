@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-12-09 19:28\n"
+"PO-Revision-Date: 2022-12-16 15:16\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode2_MZ.rpy:12 #-#-# translate crowdin ectopuss_fishing_intro_95fac4b9:
 msgid "[_danny_] Man... yesterday was seriously {i}crazy{/i}! Ghosts are actually real, and I'm somehow {u}part{/u} one now!!"
@@ -58,23 +58,23 @@ msgstr "[_danny_s_rise_one_s_towards_s_talk_happy_2_] Decir... ¡sí! Puedo limp
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:28 #-#-# translate crowdin ectopuss_fishing_intro_db581c6d:
 msgid "[_danny_s_at_player_s_angry_s_talk_happy_] Well that settles it! From here on out, I'm a ghost hunter!! And I'm gonna catch em' all, cause I'm..."
-msgstr ""
+msgstr "[_danny_s_at_player_s_angry_s_talk_happy_] ¡Bueno, eso es todo! ¡De ahora en adelante, soy un cazafantasmas! Y voy a atraparlos a todos, porque soy..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:29 #-#-# translate crowdin ectopuss_fishing_intro_c703ccff:
 msgid "[_danny_s_sad_s_talk_frown_] ...Inviso... Bill..."
-msgstr ""
+msgstr "[_danny_s_sad_s_talk_frown_] ...Inviso... Bill..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:30 #-#-# translate crowdin ectopuss_fishing_intro_01623e5d:
 msgid "[_danny_s_wondering_s_towards_s_frown_2_s_wondering_] (Okay, {i}definitely{/i} gotta work on a better alter-ego name in the future...)"
-msgstr ""
+msgstr "[_danny_s_wondering_s_towards_s_frown_2_s_wondering_] (Vale, {i}definitivamente{/i} tengo que trabajar en un mejor nombre de alter-ego en el futuro...)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:31 #-#-# translate crowdin ectopuss_fishing_intro_635a20ec:
 msgid "[_danny_s_down_s_wondering_s_talk_consternation_] I'm sure Mom and Dad would be proud... that is, if I could even {i}tell{/i} them about any of this stuff.{p}Fat chance though... they'd just build some gadget to keep me caged up in until I graduated school..."
-msgstr ""
+msgstr "[_danny_s_down_s_wondering_s_talk_consternation_] Estoy seguro de que mamá y papá estarían orgullosos... es decir, si tan siquiera pudiera {i}contarles{/i} todo esto.{p} Mala idea... construirían algún artilugio para mantenerme enjaulado hasta que me graduara..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:57 #-#-# translate crowdin danny_we_need_to_talk_intro_90a841bd:
 msgid "[_sam_s_co_s_towards_s_sad_s_talk_frown_] Hey, Danny... can I, {i}uh{/i}... can I talk to you?"
-msgstr ""
+msgstr "[_sam_s_co_s_towards_s_sad_s_talk_frown_] Hey, Danny... puedo, {i}uh{i/}... ¿puedo hablar contigo?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:59 #-#-# translate crowdin danny_we_need_to_talk_intro_c00f36ea:
 msgid "[_danny_s_talk_happy_2_] I don't know, {i}can{/i} you? You seem to be doing good so far, I'll give you that."
