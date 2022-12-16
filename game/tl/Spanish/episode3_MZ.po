@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-11-25 10:48\n"
+"PO-Revision-Date: 2022-12-16 18:09\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_3/episode3_MZ.rpy:22 #-#-# translate crowdin a_masterful_speech_intro_455f5b23:
 msgid "[_danny_s_at_self_s_neutral_s_talk_consternation_] After last night, I have a feeling that Ectopus creep won't be the {b}last{/b} evil ghost that I'll have to face from here on out."
@@ -230,7 +230,7 @@ msgstr ""
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:218 #-#-# translate crowdin a_masterful_speech_school_964d8051:
 msgid "[_danny_s_towards_s_unhappy_s_talk_consternation_] What do you mean?"
-msgstr ""
+msgstr "[_danny_s_towards_s_unhappy_s_talk_consternation_] ¿Qué quieres decir?"
 
 # game/code/episodes/episode_3/episode3_MZ.rpy:220 #-#-# translate crowdin a_masterful_speech_school_7a643dfb:
 msgid "[_sam_s_talk_happy_2_s_angry_] Aren't they the {b}coolest{/b}?! I don't think even Dash ditches class. Plus, Johnny even has his own motorcycle!"
