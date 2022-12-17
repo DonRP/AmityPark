@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-12-16 18:09\n"
+"PO-Revision-Date: 2022-12-17 10:10\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode2_MZ.rpy:12 #-#-# translate crowdin ectopuss_fishing_intro_95fac4b9:
 msgid "[_danny_] Man... yesterday was seriously {i}crazy{/i}! Ghosts are actually real, and I'm somehow {u}part{/u} one now!!"
@@ -322,55 +322,55 @@ msgstr "[_danny_s_flip_s_towards_wide_s_angry_s_talk_consternation_] Sam, ¿sabe
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:278 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_3ed3ace5:
 msgid "[_sam_s_co_s_flip_s_closed_s_angry_s_talk_bite_] Yeah, no, you're right of course, I won't... it's just... {i}ughhh{/i}, this is just so cool!"
-msgstr ""
+msgstr "[_sam_s_co_s_flip_s_closed_s_angry_s_talk_bite_] Sí, no, tienes razón por supuesto, no lo haré... es que esto és... {i}ughhh{/i}, ¡esto és genial!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:280 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_8e090321:
 msgid "[_danny_s_flip_s_closed_s_unhappy_s_talk_happy_] {i}Heh{/i}... I think you mean... so {i}ghoul{/i}?"
-msgstr ""
+msgstr "[_danny_s_flip_s_closed_s_unhappy_s_talk_happy_] {i}Eh{/i}... Creo que quieres decir... ¿muy {i}demoníaco{/i}?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:282 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_8c7ef51c:
 msgid "[_sam_s_co_s_flip_s_towards_s_rage_s_talk_frown_] {i}Uhm{/i}, wow, {u}rude{/u}. Way to kill my goth boner, dude."
-msgstr ""
+msgstr "[_sam_s_co_s_flip_s_towards_s_rage_s_talk_frown_] {i}Uhm{/i}, wow, {u}grosero{/u}. Valla manera de pisar mi fantasía gótica, amigo."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:284 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_41fd5e72:
 msgid "[_danny_s_flip_s_down_s_wondering_s_talk_consternation_] What? Ah, c'mon, I thought it was funny..."
-msgstr ""
+msgstr "[_danny_s_flip_s_down_s_wondering_s_talk_consternation_] ¿Qué? Ah, vamos, pensé que era gracioso..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:286 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_64dc3551:
 msgid "[_sam_s_co_s_flip_s_towards_s_confused_s_talk_frown_] Right, whatever. Listen, I need to get home before that thing shows back up again to get a good look at what I've got underneath my skirt. We'll talk later though, promise."
-msgstr ""
+msgstr "[_sam_s_co_s_flip_s_towards_s_confused_s_talk_frown_] Bien, lo que sea. Escucha, necesito llegar a casa antes de que esa cosa vuelva a aparecer para ver lo que tengo debajo de la falda. Hablaremos más tarde, lo prometo."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:288 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_4bb799ed:
 msgid "[_danny_s_flip_s_towards_wide_s_unhappy_s_talk_amused_] Sure thing, sounds good."
-msgstr ""
+msgstr "[_danny_s_flip_s_towards_wide_s_unhappy_s_talk_amused_] Claro, suena bien."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:290 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_608aec69:
 msgid "[_sam_s_co_s_flip_s_towards_s_neutral_s_talk_happy_] And Danny...?"
-msgstr ""
+msgstr "[_sam_s_co_s_flip_s_towards_s_neutral_s_talk_happy_] ¿Y Danny...?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:292 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_d6d01095:
 msgid "[_danny_s_flip_s_towards_s_rise_s_talk_consternation_] No Sam, I'm not gonna appear at any of your weird goth séances."
-msgstr ""
+msgstr "[_danny_s_flip_s_towards_s_rise_s_talk_consternation_] No Sam, no voy a aparecer en ninguna de tus extrañas sesiones góticas."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:294 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_3ed77431:
 msgid "[_sam_s_co_s_flip_s_towards_s_sad_s_talk_frown_] No dork, just... stay safe, okay?"
-msgstr ""
+msgstr "[_sam_s_co_s_flip_s_towards_s_sad_s_talk_frown_] No idiota, sólo... mantente a salvo, ¿de acuerdo?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:298 #-#-# translate crowdin danny_we_need_to_talk_afterpostfight_9eb79c95:
 msgid "[_danny_s_flip_s_towards_wide_s_wondering_s_talk_happy_] Yeah, I will. You too."
-msgstr ""
+msgstr "[_danny_s_flip_s_towards_wide_s_wondering_s_talk_happy_] Sí, lo haré. Tú también."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:333 #-#-# translate crowdin in_hot_water_intro_465c2e0f:
 msgid "[_danny_] (Oh great. Sounds like Jazz is taking her sweet time in the bathtub again. It's not fair! She takes forever, uses up all the hot water, and I'm left with nothing but a cold shower!)"
-msgstr ""
+msgstr "[_danny_] (Valla. Parece que Jazz se está tomando su tiempo en la bañera otra vez. No es justo. Tarda una eternidad, gasta toda el agua caliente y yo me tengo que duchar con agua fría)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:340 #-#-# translate crowdin in_hot_water_intro_3ac6fcd1:
 msgid "[_danny_] (Well you know what? Jazz's reign of hygienic tyranny comes to an end! One way or another!)"
-msgstr ""
+msgstr "[_danny_] (¿Sabes qué? ¡El reinado de tiranía higiénica de Jazz llegará a su fin! ¡De una forma u otra!)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:359 #-#-# translate crowdin in_hot_water_altintro_855a6c21:
 msgid "[_jazz_s_towel_s_towards_s_sad_s_talk_distraught_] Hey Danny, sorry but you're gonna need to go now."
-msgstr ""
+msgstr "[_jazz_s_towel_s_towards_s_sad_s_talk_distraught_] Hey Danny, lo siento pero vas a tener que irte ahora."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:361 #-#-# translate crowdin in_hot_water_altintro_54fb7647:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] What? Why do I need to leave? I was in here {u}first{/u} ya know."
