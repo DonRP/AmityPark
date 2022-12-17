@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-12-17 11:14\n"
+"PO-Revision-Date: 2022-12-17 12:36\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode2_MZ.rpy:12 #-#-# translate crowdin ectopuss_fishing_intro_95fac4b9:
 msgid "[_danny_] Man... yesterday was seriously {i}crazy{/i}! Ghosts are actually real, and I'm somehow {u}part{/u} one now!!"
@@ -494,27 +494,27 @@ msgstr "[_danny_] (¿Cómo debo afrontar a Jazz en el uso excesivo de agua calie
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:564 #-#-# translate crowdin in_hot_water_peek_3c237cde:
 msgid "[_danny_] Well... maybe I'll just have a peek first... see what she's up to... maybe she hasn't even started yet, so it wouldn't be too bad if I just took a little look-see, right...?"
-msgstr ""
+msgstr "[_danny_] Bueno... tal vez echaré un vistazo primero... a ver qué se trae entre manos... puede que ni siquiera haya empezado todavía, así que no estaría mal que echar un pequeño vistazo, ¿no...?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:573 #-#-# translate crowdin in_hot_water_peek_b2019071:
 msgid "[_danny_] (...)"
-msgstr ""
+msgstr "[_danny_] (...)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:575 #-#-# translate crowdin in_hot_water_peek_ea25a52c:
 msgid "[_danny_] (Oh man, this is so weird, I shouldn't be looking at this!! She's my sister after all, and... wait, what's that sound...?)"
-msgstr ""
+msgstr "[_danny_] (Oh tío, esto es muy extraño, ¡¡no debería estar mirando!! Es mi hermana después de todo, y... espera, ¿qué es ese sonido...?)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:592 #-#-# translate crowdin in_hot_water_peek_22f7d940:
 msgid "[_ectopuss_] {i}*Kersplash*{/i} Hey baby, don't you know it's pretty dangerous to be lounging in the water all alone when there's nasty {b}Etopus{/i} like me swimming around?!"
-msgstr ""
+msgstr "[_ectopuss_] {i}*Kersplash * {/i} Oye nena, ¿no sabes que es bastante peligroso estar descansando en el agua sola cuando hay un desagradable {b}Pulpo{/b} como yo nadando alrededor?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:596 #-#-# translate crowdin in_hot_water_peek_b22ac48d:
 msgid "[_jazz_s_towel_s_towards_s_sad_s_talk_distraught_] {size=+12}WHAT THE-?! HE-HELP!! S-SOMEBODY!!! HELP ME!!!{/size}"
-msgstr ""
+msgstr "[_jazz_s_towel_s_towards_s_sad_s_talk_distraught_] {size= + 12} ¡¿QUÉ CO-?! ¡¡SO-SOCORRO!! ¡¡¡Q-QUE A-ALGUIEN ME AYUDE!!! {/size}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:599 #-#-# translate crowdin in_hot_water_peek_daac31ac:
 msgid "[_danny_] (Oh man! He's just attacking houses now?! I better get in there! I'm going Ghost!)"
-msgstr ""
+msgstr "[_danny_] (¡jo tio! ¡¿Ahora está atacando casas?! ¡Será mejor que entre ahí! ¡Me convertiré en Fantasma!)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:615 #-#-# translate crowdin in_hot_water_barge_in_eb7d2b75:
 msgid "[_danny_] No time to play coy here, Fenton! The longer I wait, the less water there's going to be for anybody else!"
