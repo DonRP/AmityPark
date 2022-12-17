@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 16:07\n"
+"PO-Revision-Date: 2022-12-17 12:36\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_4/episode_4_p_phantom.rpy:22 #-#-# translate crowdin Peeping_Phan_Tom_scene_1_bedroom_5051d8d5:
 msgid "[_danny_s_talk_frown_2_s_sad_2_] {i}*Yaaaawn*{/i} Man oh man, I think my stomach shrank in my sleep or something!"
@@ -586,7 +586,7 @@ msgstr ""
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:424 #-#-# translate crowdin Home_Sisters_Room_Event01_b2019071:
 msgid "[_danny_] (...)"
-msgstr ""
+msgstr "[_danny_] (...)"
 
 # game/code/episodes/episode_4/episode_4_p_phantom.rpy:426 #-#-# translate crowdin Home_Sisters_Room_Event01_e696a007:
 msgid "[_danny_] (I really don't know how I feel about this honestly... this was just supposed to be a funny prank...)"
