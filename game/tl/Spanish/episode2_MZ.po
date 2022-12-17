@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-12-17 10:10\n"
+"PO-Revision-Date: 2022-12-17 11:14\n"
 
 # TODO: Translation updated at 2022-07-19 21:03 #|#|# # game/code/episodes/episode_2/episode2_MZ.rpy:12 #-#-# translate crowdin ectopuss_fishing_intro_95fac4b9:
 msgid "[_danny_] Man... yesterday was seriously {i}crazy{/i}! Ghosts are actually real, and I'm somehow {u}part{/u} one now!!"
@@ -374,123 +374,123 @@ msgstr "[_jazz_s_towel_s_towards_s_sad_s_talk_distraught_] Hey Danny, lo siento 
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:361 #-#-# translate crowdin in_hot_water_altintro_54fb7647:
 msgid "[_danny_s_towards_s_rise_s_talk_consternation_] What? Why do I need to leave? I was in here {u}first{/u} ya know."
-msgstr ""
+msgstr "[_danny_s_towards_s_rise_s_talk_consternation_] ¿Por qué? ¿Por qué tengo que irme? Yo estaba aquí {u}primero{/u}, y tú lo sabes."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:363 #-#-# translate crowdin in_hot_water_altintro_658b35f0:
 msgid "[_jazz_s_towel_s_towards_s_angry_s_talk_distraught_] Because? I'm {i}only{/i} wearing a towl here? I don't care if you were first or not, I need to take a bath right now, so get out."
-msgstr ""
+msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_distraught_] ¿Por qué? ¿porque {i}sólo{/i} estoy usando una toalla aquí? No me importa si fuiste el primero o no, necesito tomar un baño ahora mismo, así que vete."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:365 #-#-# translate crowdin in_hot_water_altintro_06a9a388:
 msgid "[_danny_s_towards_wide_s_angry_s_talk_consternation_] What?? No way! Every time you take a bath, you use up {i}all{/i} the hot water in the house! My showers are freezing at night!"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_angry_s_talk_consternation_] ¿¡Qué!? ¡Ni hablar! ¡Cada vez que te bañas, gastas {i}toda{/i} el agua caliente de la casa! ¡Mis duchas están heladas por la noche!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:367 #-#-# translate crowdin in_hot_water_altintro_48b0c8e3:
 msgid "[_jazz_s_towel_s_towards_s_angry_s_talk_consternation_] Well, maybe you should just try taking your showers early in the morning then??{p}Now get {i}out{/i} already!!"
-msgstr ""
+msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_consternation_] Bueno, ¿podrías quizá ducharte temprano por la mañana. ¡¡{p}Ahora vete {i}fuera{/i} ya!!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:374 #-#-# translate crowdin in_hot_water_altintro_8511c5d0:
 msgid "[_danny_] (That's it, she's gone {i}too{/i} far this time!)"
-msgstr ""
+msgstr "[_danny_] (¡Esto, esto ha ido {i}demasiado{/i} lejos esta vez!)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:376 #-#-# translate crowdin in_hot_water_altintro_d4d1d8d2:
 msgid "[_danny_] (I'm going to get in there and kick her freckled butt out, one way or another!)"
-msgstr ""
+msgstr "[_danny_] (¡Voy a entrar ahí y patear su pecoso trasero, de una forma u otra!)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:395 #-#-# translate crowdin in_hot_water_lay_in_wait_e2cf7fb5:
 msgid "[_danny_] {i}Hah!{/i} You're a genius, Fenton! If you just wait here {u}before{/u} the afternoon, you don't {u}need{/u} to find a way in!! She can't just kick me out of the bathroom I'm currently using, right?!"
-msgstr ""
+msgstr "[_danny_] {i}¡Ja!{/i} ¡Eres un genio, Fenton! Si esperas aquí {u}antes{/u} de la tarde, ¡¡no {u}necesitarás{/u} encontrar una manera de entrar!! No puede echarme del baño que estoy usando, ¡¿verdad?!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:397 #-#-# translate crowdin in_hot_water_lay_in_wait_88f07eef:
 msgid "[_danny_] Sometimes I impress even myself."
-msgstr ""
+msgstr "[_danny_] A veces me impresiono incluso a mí mismo."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:406 #-#-# translate crowdin in_hot_water_lay_in_wait_6263d1ad:
 msgid "[_danny_] (Man, this was a longer wait than I expected it to be...)"
-msgstr ""
+msgstr "[_danny_] (Tío, la espera ha sido más larga de lo que esperaba...)"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:409 #-#-# translate crowdin in_hot_water_lay_in_wait_894ca430:
 msgid "[_jazz_s_towel_s_towards_s_angry_s_talk_distraught_] ...Danny, what are you doing in here?"
-msgstr ""
+msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_distraught_] ...Danny, ¿qué haces aquí?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:411 #-#-# translate crowdin in_hot_water_lay_in_wait_a9e5872a:
 msgid "[_danny_s_towards_wide_s_angry_s_talk_consternation_] You {u}know{/u} why I'm here, Jazz! I'm here to stop you from using all the hot water!"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_angry_s_talk_consternation_] ¡Tú ya {u}sabes{/u} por qué estoy aquí, Jazz! ¡Estoy aquí para evitar que uses toda el agua caliente!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:413 #-#-# translate crowdin in_hot_water_lay_in_wait_9ec3e7e9:
 msgid "[_jazz_s_towel_s_towards_s_angry_s_talk_distraught_] What are you {u}talking{/u} about? I don't use that much hot water! Now get out!"
-msgstr ""
+msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_distraught_] ¿De qué estás {u}hablando{/u}? ¡Yo no uso tanta agua caliente! ¡Ahora vete!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:415 #-#-# translate crowdin in_hot_water_lay_in_wait_a5e79bd7:
 msgid "[_danny_s_towards_wide_s_angry_s_talk_consternation_] What? No! You're clearly the one wasting it all, and leaving me with nothing but the freezing ice water, that ends up shriveling my-"
-msgstr ""
+msgstr "[_danny_s_towards_wide_s_angry_s_talk_consternation_] ¿Cómo? ¡No! Claramente eres tú la que la malgasta toda, y no me dejas nada más que el agua helada que acaba marchitando mi-"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:417 #-#-# translate crowdin in_hot_water_lay_in_wait_9bb2cdd4:
 msgid "[_jazz_s_towel_s_towards_s_angry_s_talk_distraught_] {size=+12}GET OUT ALREADY!!!{/size}"
-msgstr ""
+msgstr "[_jazz_s_towel_s_towards_s_angry_s_talk_distraught_] {size=+12}¡¡¡VETE YA DE AQUÍ!!!{/size}"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:422 #-#-# translate crowdin in_hot_water_lay_in_wait_6775804e:
 msgid "[_danny_] Darn, I really thought that was going to work...{p}I didn't even bring a single magazine to read... three hours wasted!"
-msgstr ""
+msgstr "[_danny_] Maldición, realmente pensé que iba a funcionar...{p}Ni siquiera traje una revista para leer... ¡tres horas perdidas!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:436 #-#-# translate crowdin in_hot_water_lay_in_wait_2_dea03724:
 msgid "[_danny_] No, I already tried the waiting tactic. She'll just kick me out again."
-msgstr ""
+msgstr "[_danny_] No, ya intenté la táctica de esperar. Me echará otra vez."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:441 #-#-# translate crowdin in_hot_water_lay_in_wait_2_b7ee318b:
 msgid "[_morahzamora_] You're persistent, aren't you? You could've just gone straight ahead with the mission, but you just kept on pushing. Bravo, player, bravo."
-msgstr ""
+msgstr "[_morahzamora_] Eres persistente, ¿verdad? Podrías haber seguido adelante con la misión, pero has seguido insistiendo. Bravo, jugador, bravo."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:442 #-#-# translate crowdin in_hot_water_lay_in_wait_2_5ed7c5d5:
 msgid "[_morahzamora_] These things might just earn you a little something special in the future, so keep it up, you little snooping perv."
-msgstr ""
+msgstr "[_morahzamora_] Estas cosas podrían hacerte ganar algo especial en el futuro, así que sigue así, pequeño pervertido fisgón."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:460 #-#-# translate crowdin in_hot_water_jazzroom_1beec736:
 msgid "[_danny_] Alright, now I know Jazz keeps a spare key to the bathroom, just in case she feels like barging in to grab something of hers.{p}Only question is where she might have hid it in here?"
-msgstr ""
+msgstr "[_danny_] Muy bien. Ahora sé que Jazz guarda una llave de repuesto del baño, por si le apetece irrumpir cuando el baño está ocupado y coger algo suyo.{p}La única pregunta es ¿dónde puede haberla escondido?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:463 #-#-# translate crowdin in_hot_water_jazzroom_349bf3ee:
 msgid "[_danny_] Hey, while I'm here, I could also maybe grab those panties for Dash...? Then again, would I really wanna do that to her?"
-msgstr ""
+msgstr "[_danny_] Oye, ya que estoy aquí, ¿también podría coger esas bragas para Dash...? Pero, ¿realmente querría hacerle eso?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:477 #-#-# translate crowdin in_hot_water_wrong_54de51f0:
 msgid "[_danny_] No, not here..."
-msgstr ""
+msgstr "[_danny_] No, aquí no..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:492 #-#-# translate crowdin in_hot_water_right_173fd984:
 msgid "[_danny_] Alright! This must be the key! I should go and give little miss water waster a visit! Nobody's preventing me from taking {i}my{/i} afternoon hot shower!"
-msgstr ""
+msgstr "[_danny_] ¡Muy bien! ¡Esta debe ser la llave! ¡Debería ir a visitar a la señorita desperdiciadora de agua! ¡Nadie me va a impedir tomar {i}mi{/i} ducha caliente de la tarde!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:496 #-#-# translate crowdin in_hot_water_right_dc500eb0:
 msgid "[_danny_] It makes me wonder what she even does in there that takes so dang long? It should be a couple of scrubs behind the ears, yah' shampoo what you need to shampoo, and {i}boom{/i}, you're done!"
-msgstr ""
+msgstr "[_danny_] Me pregunto qué hace ahí dentro que le lleva tanto tiempo. Debería ser un par de friegas detrás de las orejas, yah' champú y lo que necesitas con champú, y {i}boom{/i}, ¡y ya está!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:499 #-#-# translate crowdin in_hot_water_right_b9dd232f:
 msgid "[_danny_] Well, only one way to find out I guess...{p}Jazz, your days of controlling the flow of hot water are at an end!"
-msgstr ""
+msgstr "[_danny_] Bueno, supongo que sólo hay una manera de averiguarlo...{p}¡Jazz, tus días de controlar el flujo de agua caliente han llegado a su fin!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:517 #-#-# translate crowdin in_hot_water_key_choice_85f673cc:
 msgid "[_danny_] There we go, it's unlocked. Now, how do I want to handle this?{p}I mean, Jazz is probably in the bath still... naked... so..."
-msgstr ""
+msgstr "[_danny_] Ya está, está abierta. Ahora, ¿cómo quiero manejar esto?{p}Quiero decir, Jazz probablemente está todavía... desnuda... así que..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:525 #-#-# translate crowdin in_hot_water_phase_choice_deb94cfa:
 msgid "[_danny_] Alright, let's see if I can actually do this..."
-msgstr ""
+msgstr "[_danny_] Bien, veamos si puedo hacer esto..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:528 #-#-# translate crowdin in_hot_water_phase_choice_a46a1547:
 msgid "[_danny_] Oh woah, this is so freaky!"
-msgstr ""
+msgstr "[_danny_] ¡Oh woah¡, ¡esto és tan raro!"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:529 #-#-# translate crowdin in_hot_water_phase_choice_912be45b:
 msgid "[_danny_] I think I've got it? Man, it'll take some time to get used to this Jell-O feeling..."
-msgstr ""
+msgstr "[_danny_] ¿Creo que lo controlo? Tío, tardaré algún tiempo en acostumbrarme a esta sensación de gelatina..."
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:532 #-#-# translate crowdin in_hot_water_phase_choice_fcff7458:
 msgid "[_danny_] Alright, now how do I want to handle this?"
-msgstr ""
+msgstr "[_danny_] Muy bien, ¿ahora cómo quiero manejar esto?"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:543 #-#-# translate crowdin in_hot_water_door_menu_af3947db:
 msgid "[_danny_] (How should I confront Jazz's excessive hot water usage?) [nointeract]"
-msgstr ""
+msgstr "[_danny_] (¿Cómo debo afrontar a Jazz en el uso excesivo de agua caliente?) [nointeract]"
 
 # game/code/episodes/episode_2/episode2_MZ.rpy:564 #-#-# translate crowdin in_hot_water_peek_3c237cde:
 msgid "[_danny_] Well... maybe I'll just have a peek first... see what she's up to... maybe she hasn't even started yet, so it wouldn't be too bad if I just took a little look-see, right...?"
